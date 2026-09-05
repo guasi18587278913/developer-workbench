@@ -1,0 +1,43 @@
+{
+  "id": "28e2a619-ea11-4143-b8a7-8aef4e4de740",
+  "title": "AI Workflow Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "28e2a619-ea11-4143-b8a7-8aef4e4de740",
+    "page_at_capture": 9,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/ai-workflow/poster/media-pipeline-v1/c3d73d228d6c08968e74d71b35417d18f2ff29822a2b858b1ed74ef1b27d92c7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:05.151858+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e42fd7caf02036199ffc1ba10228e93524afa28a617321229b3a00aaffee51c1",
+  "displayed_prompt_chars": 16580,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bdf8f1b6f69757d8549a09b5326c5eba3b76113f67695d2ca6598036105251f2",
+    "original_bytes": 79068,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 46148
+  },
+  "preview_sha256": "ac35f82c212b4018e7db749649952b2ba0b9662c3087e52591bde5d748834495"
+}

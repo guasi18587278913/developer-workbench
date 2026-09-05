@@ -1,0 +1,43 @@
+{
+  "id": "1246a299-6aef-4e0a-806b-b4776bcab59f",
+  "title": "Nietzsche sustainibilty",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer",
+    "item_id": "1246a299-6aef-4e0a-806b-b4776bcab59f",
+    "page_at_capture": 1,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sections/nietzsche-sustainibilty/poster/media-pipeline-v1/ae6333563a19cfa227260d485206bf44d18fe09bffa6275da400f20a9af79d29"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:11.417999+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b8b7cbd8a67b714927b0ce812a266dc27c71d28f4ac470747bdcb2c066eccc0f",
+  "displayed_prompt_chars": 23302,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b4faac7f73d14d43ea3c9e20c58343c22e156a09154a92947772c34eb4c535b8",
+    "original_bytes": 106080,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 59340
+  },
+  "preview_sha256": "0a222f1a9ddd5d66dbecb5dd2894b22e83767b8cd6ee4f79aa852dbfdb28ecd1"
+}

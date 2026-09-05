@@ -1,0 +1,43 @@
+{
+  "id": "0157c334-0f99-43f9-a616-0049308d6026",
+  "title": "Lumina",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer Section",
+    "item_id": "0157c334-0f99-43f9-a616-0049308d6026",
+    "page_at_capture": 1,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sections/lumina-footer/poster/media-pipeline-v1/be73a95aa3238cb2b80dc40dca19633ca101d67269cbbfeb73b720430b660374"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:41.875956+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1f3e869d6a286531d480e298d4ca98e24877ec1d50b315ef341944502a9b5177",
+  "displayed_prompt_chars": 5113,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "fb4de17e6a51e05cd28e075fa3909f365c3f08bc2f84fe83c4bf70e24d8fed97",
+    "original_bytes": 686176,
+    "original_dimensions": [
+      1870,
+      1374
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 49440
+  },
+  "preview_sha256": "8a9f407456569da877e9559d53f1f74de7a4d645b6ef25c17c846a307fc75aa4"
+}

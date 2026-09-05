@@ -1,0 +1,43 @@
+{
+  "id": "a68702dd-a4e1-4fdc-b011-1540872534a9",
+  "title": "HAUL!",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer Section",
+    "item_id": "a68702dd-a4e1-4fdc-b011-1540872534a9",
+    "page_at_capture": 1,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sections/haul-footer/poster/media-pipeline-v1/cbc4a642276f95413d6c169897f7053b1ef46914765d38f8eca836a5ece4c2e7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:58.820903+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "beb34a74f829f70f04c9cf562fcc0f9d3950bb3988e980ec1bba2bd1621ae33a",
+  "displayed_prompt_chars": 4329,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "10b4615bc280c8066a7e95f97d1c869fe43392fbe3a0623af9db4d094a48695d",
+    "original_bytes": 685627,
+    "original_dimensions": [
+      1832,
+      1354
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 44778
+  },
+  "preview_sha256": "2052001e27ddc42d8649ebb707f19673456db0abac2713ba96bed03999753679"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bg-8c19c6305f153235ac24",
+  "title": "Background 8c19c630",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "backgrounds",
+    "category": null,
+    "item_id": null,
+    "page_at_capture": 2,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/backgrounds/aa349658-d1cf-4935-a897-b5f0cc9f2676/poster/first-frame-v1/05b2bd7d6bc2eed8d98310d73f072d8bf2c4778c2bfd8abb7122d8766f2b630c"
+  },
+  "delivery_type": "background-link",
+  "original_url": "https://stream.mux.com/3gErUdcrPfibrZ00ysHSLAupEL01PeX4PpAwgcGpGvbAM.m3u8",
+  "captured_at": "2026-09-05T05:49:44.588707+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8c19c6305f153235ac242356d1ebefc5055ce0d136f7d6c984bbdab6530c4b56",
+  "displayed_prompt_chars": null,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "05b2bd7d6bc2eed8d98310d73f072d8bf2c4778c2bfd8abb7122d8766f2b630c",
+    "original_bytes": 16612,
+    "original_dimensions": [
+      1280,
+      838
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      629
+    ],
+    "bytes": 11284
+  },
+  "preview_sha256": "5dc24fe371902694c0e7a44bcf6d18d9d2f74b32de163759c278285a0a7cc77e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0f8cffb7-98f8-4074-8df8-1737c42cc14d",
+  "title": "Finance Assistant",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Fintech",
+    "item_id": "0f8cffb7-98f8-4074-8df8-1737c42cc14d",
+    "page_at_capture": 2,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/apps/finance-assistant/poster/media-pipeline-v1/f20be5d0d59e7ad7110d84fb2ec813e44a0f8352d21c270112a3767bf060315c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:18.300697+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fa9f7d1f9810268b02e8c40b8266eee64dbf6a61b9965256dad211ff862f8620",
+  "displayed_prompt_chars": 7507,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d903b7e24681853fb750b1a3b2d9b21440d3f3e27421d0d1ae1447f8a0845330",
+    "original_bytes": 83348,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 49034
+  },
+  "preview_sha256": "fc2ca33393c048e8319d52812c319690f2546d58075469935c2872e2847ffc21"
+}

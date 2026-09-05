@@ -1,0 +1,43 @@
+{
+  "id": "9e852e08-1485-4ae9-8aa1-1c85077448b4",
+  "title": "Spatial Mapping Platform",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Data",
+    "item_id": "9e852e08-1485-4ae9-8aa1-1c85077448b4",
+    "page_at_capture": 12,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/spatial-mapping-platform/poster/media-pipeline-v1/f2d1cd1f15e879a153e5131584de3c3875281fbb37259cbba3403cf63d9e2c12"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:48.784142+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1b28adb9fcfd9aadafde945cd239a5b577eba3079a9152f38b7fb0d15564b227",
+  "displayed_prompt_chars": 8844,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "27711bd0c56608344a7b16f28bd402fdcc5127d1a7913e67334c188f436afe31",
+    "original_bytes": 71336,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 43818
+  },
+  "preview_sha256": "a6c11995cc64698c476f19cadf20dfa6b512287f47f4f2b3cf06f4588d643a9d"
+}

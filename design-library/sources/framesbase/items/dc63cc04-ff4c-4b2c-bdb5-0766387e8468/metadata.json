@@ -1,0 +1,43 @@
+{
+  "id": "dc63cc04-ff4c-4b2c-bdb5-0766387e8468",
+  "title": "Datacore Booking",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "dc63cc04-ff4c-4b2c-bdb5-0766387e8468",
+    "page_at_capture": 4,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/datacore-booking-hero/poster/media-pipeline-v1/63973c6bed16204732182c7b5eed4fee3e862c78c8f8a1b62498b515cc2e01aa"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:36.063110+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3e6ecfa439ad3dd2e86ea3294f8bd2454593c659a1922379237241ac42fd0aa8",
+  "displayed_prompt_chars": 2826,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6219d93b04a383ac7e78c52d937b640b7ed523f605f3b2d276d956caf856462c",
+    "original_bytes": 2130833,
+    "original_dimensions": [
+      1920,
+      1396
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      698
+    ],
+    "bytes": 38694
+  },
+  "preview_sha256": "0cfd9a95b3e7ff06c38c9a7453e8b843b8520b2e952d223e91aa6ede4e9570a3"
+}

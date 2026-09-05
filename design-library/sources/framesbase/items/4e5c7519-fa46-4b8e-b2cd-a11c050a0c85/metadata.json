@@ -1,0 +1,43 @@
+{
+  "id": "4e5c7519-fa46-4b8e-b2cd-a11c050a0c85",
+  "title": "Album App",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Music",
+    "item_id": "4e5c7519-fa46-4b8e-b2cd-a11c050a0c85",
+    "page_at_capture": 2,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/apps/album-release/poster/media-pipeline-v1/c4b6fd601d8b9ffcb43b6989de6480ba490ae274a8cf0d6cfde7754a520ad01d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:07.150184+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8d05337c0fbf51c457ea7c653ad23d03dc044500774a48e2b179a5dcbe8aa30f",
+  "displayed_prompt_chars": 12357,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c695e66275eb5ba2a46c9ff9564f04be770be910176de300191bac7139d11ff7",
+    "original_bytes": 44788,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 24384
+  },
+  "preview_sha256": "fe99a8559ddb04eb02351ea9882fbd41676020d42acc01884a8eb20f985fe686"
+}

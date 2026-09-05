@@ -1,0 +1,43 @@
+{
+  "id": "4e489328-cb73-462a-9950-becca04bc807",
+  "title": "Cyberpunk Reveal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "4e489328-cb73-462a-9950-becca04bc807",
+    "page_at_capture": 10,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/cyberpunk-reveal/preview/media-pipeline-v1/25122989dfce1e3553fde10f2afd0b93562e92a8725de5c90cab859e857bbd34"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:54.700445+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2ef94ff0248588d46eb2f21e03a26f446a66fa831570e3a7f889c9b6b1a19922",
+  "displayed_prompt_chars": 7086,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "73005806af46a84d5a126ca4aa3be9ffbbeba199b65b821ae16eaff787cba6bd",
+    "original_bytes": 1050620,
+    "original_dimensions": [
+      640,
+      476
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      476
+    ],
+    "bytes": 25260
+  },
+  "preview_sha256": "89a7aa3b285761d38a5d8d5060479aeda23c8373dcc6349278dccedf92383abd"
+}

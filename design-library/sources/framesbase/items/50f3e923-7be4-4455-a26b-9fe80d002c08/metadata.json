@@ -1,0 +1,43 @@
+{
+  "id": "50f3e923-7be4-4455-a26b-9fe80d002c08",
+  "title": "Fun 404 Page",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Education Website",
+    "item_id": "50f3e923-7be4-4455-a26b-9fe80d002c08",
+    "page_at_capture": 14,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/fun-404-page/poster/media-pipeline-v1/3cd4205b5171fb90ee7e4baf904b3d0a9ab47617e6e7348748e00ae91faa1271"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:47.925040+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "65f0d73f34521a6a5c96a14d55ef88b60aeda0a67661aa1bd876ca7c33810470",
+  "displayed_prompt_chars": 6085,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "aa5cdf20b78be430b7b849a6e0e556ee126071275fd8cf13c6197f796a74b02e",
+    "original_bytes": 127812,
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      640
+    ],
+    "bytes": 33660
+  },
+  "preview_sha256": "3d924b83636d22739696c0f3bdcc12080470d69c4c5336903742f760542e8539"
+}

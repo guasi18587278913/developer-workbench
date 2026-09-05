@@ -1,0 +1,43 @@
+{
+  "id": "f1884c37-7042-47bd-99df-91a6252ff777",
+  "title": "Interior Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "f1884c37-7042-47bd-99df-91a6252ff777",
+    "page_at_capture": 4,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sections/interior-features/preview/media-pipeline-v1/c91d971da208ee24db29b7d8d9c3f5d9387a19dde3792f126bf87d7e58c2839b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:22.118191+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f29fb585544b8f568dde49319065b23b127014db4470b921bd2d7ba349c6b67e",
+  "displayed_prompt_chars": 4752,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e1be01f26d48511045b342739d33dc7fc01c5205b62e30d37b5cdf350174dc8b",
+    "original_bytes": 1573714,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 19454
+  },
+  "preview_sha256": "e1091e9ee435ea6fc92d0a3958ef672aa0b1ea549555bef63c1f7a5b1119bd9d"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "63d6a802-45d5-4889-bdd4-1c28fb528d69",
+  "title": "Orbis Hello",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "63d6a802-45d5-4889-bdd4-1c28fb528d69",
+    "page_at_capture": 2,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sections/orbis-hello/preview/media-pipeline-v1/e68ce947cc3672ec0286b24ef277e54d0f3aca7799dfaa67db7e79e00e800faa"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:22.148268+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5f5b6460ee2e106b8fed2a060b3b3facd125a795993f39d103749b1cec6a86ed",
+  "displayed_prompt_chars": 5232,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8ed44f6ae3b109c35a5d73bf4233558226f731a41bacb8aa2b7ae524fe7a905e",
+    "original_bytes": 1478944,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 28178
+  },
+  "preview_sha256": "beb8f2694096e6b20b79d04241a0b3a8382e0760c3bb427d91bd599cbbaa7a11"
+}

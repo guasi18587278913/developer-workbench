@@ -1,0 +1,43 @@
+{
+  "id": "c4d07181-47a9-4fc5-b9be-43af6edd4aeb",
+  "title": "Sweet Question",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Events",
+    "item_id": "c4d07181-47a9-4fc5-b9be-43af6edd4aeb",
+    "page_at_capture": 2,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/apps/sweet-question/poster/media-pipeline-v1/7256b4eeab6dd455a1d5f324f2918d5c7c7519b5ea21152d1d456bb4f54cfd04"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:08.240440+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ee247b23051803ce4272a194efa9a47de2b39b7b0408f60d45b5ae7de48954e4",
+  "displayed_prompt_chars": 15781,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d7240fa3b7117872e21540ad02311f8b5ff606db9401aa36ad776b101f015139",
+    "original_bytes": 66748,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 21080
+  },
+  "preview_sha256": "08a9e17b2c16d6b4022a2871c9cc4b4d6fb1d4c2fe64c63991b35f02e3ea189c"
+}

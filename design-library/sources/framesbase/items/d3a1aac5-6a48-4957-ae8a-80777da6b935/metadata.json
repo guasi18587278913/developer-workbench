@@ -1,0 +1,43 @@
+{
+  "id": "d3a1aac5-6a48-4957-ae8a-80777da6b935",
+  "title": "Performance Eyewear",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "d3a1aac5-6a48-4957-ae8a-80777da6b935",
+    "page_at_capture": 11,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/performance-eyewear/poster/media-pipeline-v1/8de20408dfc0d37a302bde1ba2b1da8640c936e7dfb533a9ba4c9330dee7cdee"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:36.035542+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3b798400b10d24117de339e05ad00afa114e56b26f7c7b6c41a20e1a06694967",
+  "displayed_prompt_chars": 8385,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2b2f4a1f5dece69012fc1bd05adcb34705aaeed595b44ff3fd01716f3251d5ab",
+    "original_bytes": 95396,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 51610
+  },
+  "preview_sha256": "15f891a4c4191aa01598696e1c9ee41e5f05210cd6308d85e74794b82a839c26"
+}

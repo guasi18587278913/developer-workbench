@@ -1,0 +1,43 @@
+{
+  "id": "b8c67ef1-42d8-4e4e-9b72-a1955913ffe1",
+  "title": "AI Workflow Agents",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "b8c67ef1-42d8-4e4e-9b72-a1955913ffe1",
+    "page_at_capture": 12,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/ai-workflow-agents/poster/media-pipeline-v1/627c46e1c45265ef9727f786c044b142eb73e90921c6b5cd89cec27ceda73b92"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:33.863648+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "05ca5c8d3d49c544bfdf12a301863b23e800bc1780031b01daf8c9bf299c29e3",
+  "displayed_prompt_chars": 3215,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1cfe448374642705534256bd33550cd13093a68460eca6cf49762d4689431b8f",
+    "original_bytes": 152594,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 77610
+  },
+  "preview_sha256": "d37111f11cd2f630cca72cbe45adef7155ff35b790c43fcb77fcd87f1179f007"
+}

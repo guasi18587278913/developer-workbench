@@ -1,0 +1,43 @@
+{
+  "id": "b371f550-9988-4908-8013-9fc5b4ee1c17",
+  "title": "Yoga Coach",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b371f550-9988-4908-8013-9fc5b4ee1c17",
+    "page_at_capture": 7,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/yoga-coach/preview/media-pipeline-v1/995630113fc476ea38a0ee74b5dd08b253e77a48cabf7bee17da9bc4d535dbd7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:45.992018+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cfc38dddc4cfc99d91cac2eb5c20f2ffe42e495d5f807c2b47ae27e284ac71a8",
+  "displayed_prompt_chars": 10255,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ee997541ee1a8d5f3ce898e0dd9fa93a3878ecb16c101795d75c77466b7acfbf",
+    "original_bytes": 2793310,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 58458
+  },
+  "preview_sha256": "ecbe7c6654aa55befc54ccb0887f1a65be72c3bd1fa90b5f01139115c2db1a15"
+}

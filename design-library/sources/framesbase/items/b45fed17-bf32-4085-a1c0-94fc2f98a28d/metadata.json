@@ -1,0 +1,43 @@
+{
+  "id": "b45fed17-bf32-4085-a1c0-94fc2f98a28d",
+  "title": "Synthesis",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b45fed17-bf32-4085-a1c0-94fc2f98a28d",
+    "page_at_capture": 10,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/synthesis/preview/media-pipeline-v1/c6a9a4351e1e164d1d37cc8548508b79109d1d90f1380febba745717528045a0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:09.932731+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1689832b722682c7858e3283576a7bd99f9923e87b5fd4375975c38326ee9138",
+  "displayed_prompt_chars": 5459,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d31348fd60c80358a2c9251df7983da512cd869e3bd39568d68b275235939d8a",
+    "original_bytes": 1028236,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 12548
+  },
+  "preview_sha256": "0da0c74d34a6ee882886329eda7cee76b34acd6a86635e5d063b4b63a235efca"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e7078def-f612-45c4-be23-fd06692b6666",
+  "title": "NexaCore",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "e7078def-f612-45c4-be23-fd06692b6666",
+    "page_at_capture": 5,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/nexacore-hero/poster/media-pipeline-v1/e71bf62fd93629a47d1e97ec5acf6450f608a4c19f63a1cd4af9197a40a7be02"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:57.162912+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "db1070a1e6a665cfa23bd0a82b09327797d9d575840adcf98f51e7266d7aba01",
+  "displayed_prompt_chars": 13556,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "14067d6a7d1d9d4cc9b8a31e67ffbf0cd0254510094ea0cf05124dd397c5c4a0",
+    "original_bytes": 221668,
+    "original_dimensions": [
+      1808,
+      1288
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      684
+    ],
+    "bytes": 20850
+  },
+  "preview_sha256": "73831c09af74066f9d00ec33ddeec9aafdab26fefe01a3321bb9c200b411e98c"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9e8ed655-6ab9-479b-9499-4cf1676a7cc2",
+  "title": "Portfolio Cosmic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "9e8ed655-6ab9-479b-9499-4cf1676a7cc2",
+    "page_at_capture": 4,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/portfolio-cosmic-hero/poster/media-pipeline-v1/57f03fa72f7ac8f2abc142af79727b920767577f2f1732c1fbf0ba2e5028fc12"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:05.085821+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4f53cb27436233bf7799ac3a425d39b808f46a6da6928b099b11f9d3ad31d8e3",
+  "displayed_prompt_chars": 8253,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8eacb6cae9a7c54059e5328173e125be7d11e81b01f80b7af276f1dcf1e6ef1a",
+    "original_bytes": 471626,
+    "original_dimensions": [
+      1786,
+      1270
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      683
+    ],
+    "bytes": 39792
+  },
+  "preview_sha256": "909c07cfb804a9f55833b3424480f42b7452801a4e180ef1f9bd8a1a3ab1f659"
+}

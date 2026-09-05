@@ -1,0 +1,43 @@
+{
+  "id": "e299a6a2-6e8e-4b24-a2db-e9be3e2ee136",
+  "title": "Cognitra Offer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Cards",
+    "item_id": "e299a6a2-6e8e-4b24-a2db-e9be3e2ee136",
+    "page_at_capture": 3,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sections/cognitra-offer/preview/media-pipeline-v1/eceee1eb0e3a8564a941b0a5dab0423488e3a9eca140e8ccfdeb5cace25d07b9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:32.470235+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a615874f1347c74ee6ffda059539eeca81c12e575c23723f1fab857b24f1cbd0",
+  "displayed_prompt_chars": 4290,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6922aa7d62152d1987e9edbd4b517002a47a262689a677e0636008714eb3c1f4",
+    "original_bytes": 261566,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 9720
+  },
+  "preview_sha256": "73a6fe9302295a36e63a8c60c9956bc94896acf80a6dd416da57e5de2982ebd5"
+}

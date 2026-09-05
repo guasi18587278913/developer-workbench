@@ -1,0 +1,43 @@
+{
+  "id": "675a7ff7-fab9-4645-8c2c-bcc450124094",
+  "title": "Wellbeing OS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "675a7ff7-fab9-4645-8c2c-bcc450124094",
+    "page_at_capture": 10,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/wellbeing-os/poster/first-frame-v1/8710b7d357575c386a307d865228631423043b495a24788facf5ad3bb6bc829b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:48.289398+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6883361e5addea9ca09740bb047d4050683b32312c5b97dbc43811c530f95662",
+  "displayed_prompt_chars": 5051,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8710b7d357575c386a307d865228631423043b495a24788facf5ad3bb6bc829b",
+    "original_bytes": 88336,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 64300
+  },
+  "preview_sha256": "b7eb632c7c206da17fe511a428c8cf353cea13d4c54207ff7f1173bb2a1a47f9"
+}

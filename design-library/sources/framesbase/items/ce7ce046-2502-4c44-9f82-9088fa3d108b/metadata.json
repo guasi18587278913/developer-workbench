@@ -1,0 +1,43 @@
+{
+  "id": "ce7ce046-2502-4c44-9f82-9088fa3d108b",
+  "title": "Pet Diagnostics",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Healthcare",
+    "item_id": "ce7ce046-2502-4c44-9f82-9088fa3d108b",
+    "page_at_capture": 4,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sections/pet-diagnostics/poster/media-pipeline-v1/81ca4f0eb32040578815f26222fc928c46350a02dc73b3fc6c84b9b0729b0af9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:28.775738+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "40ff2980db7561c75f3525a016d7129780de42d50ffcc4451f5f42860751eba0",
+  "displayed_prompt_chars": 18711,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "99db615ba718b452f238a3f3fd5548afd0e03a436d07a6d44ec87cfab78e87fc",
+    "original_bytes": 78616,
+    "original_dimensions": [
+      1280,
+      543
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      407
+    ],
+    "bytes": 42518
+  },
+  "preview_sha256": "8234d58b8244d5a72e6ed1db38730e93a04bfd5d027d6884f3bed415bc41171d"
+}

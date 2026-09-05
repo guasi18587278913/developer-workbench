@@ -1,0 +1,43 @@
+{
+  "id": "bdd48d4b-142a-4742-8e98-9f6d7e3257ba",
+  "title": "Naturecore SaaS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "bdd48d4b-142a-4742-8e98-9f6d7e3257ba",
+    "page_at_capture": 6,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/naturecore-saas/preview/media-pipeline-v1/d9937ee6f68cd6c714622961f90f15638c82ca2a85224f8f55d87c11d52d473c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:39.830695+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5effe58f987ca6d90773158b6aa7d45d3d96308039a82f65f218de5ece906b14",
+  "displayed_prompt_chars": 8070,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "feb6f6dc1fd85e5ecf105e2c7b03547925afb5ceebc0a2ab09a3c25ae887fbc7",
+    "original_bytes": 2752864,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 72,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 39014
+  },
+  "preview_sha256": "b46cb1bee09ab45bae3ce21269d4e82ab76fc5942ecf9b5362ba88a48f14e7b8"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "8521e3b9-cf62-436b-92d8-99d657c246eb",
+  "title": "Fine Jewelry Shop",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Ecommerce",
+    "item_id": "8521e3b9-cf62-436b-92d8-99d657c246eb",
+    "page_at_capture": 1,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/apps/fine-jewelry-shop/preview/media-pipeline-v1/84015090afb34c7066a810e8e483eb11f8fc943a64ccd78e5c6667cf7b106bac"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:45.185052+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a40d355738cba7478c12a85733b44d3d9c090f1280bbbd965c77b2136529db5d",
+  "displayed_prompt_chars": 6114,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "10a068639ba16d5d4f217b6702f45dd50b234a08c02481a60728ea2734b8b620",
+    "original_bytes": 482317,
+    "original_dimensions": [
+      1574,
+      1155
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      704
+    ],
+    "bytes": 15442
+  },
+  "preview_sha256": "33b0175dc163a4eae68e21f6f6bab55be18fcf25f5a81e18495e408f85a5b28d"
+}

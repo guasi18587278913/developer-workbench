@@ -1,0 +1,43 @@
+{
+  "id": "907fc85e-ba83-4e66-ac1e-d632af12e053",
+  "title": "Innovation Summit",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Mobile App",
+    "item_id": "907fc85e-ba83-4e66-ac1e-d632af12e053",
+    "page_at_capture": 2,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/apps/innovation-summit/poster/first-frame-v1/9460a0105b77052f7475568fbd29f40062f1f29d8b9d780981a63e3d49395308"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:55.355847+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "df4600f412f9f2cf20d3afd32724b09037f125464af0de471a8b34be2824f698",
+  "displayed_prompt_chars": 6730,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9460a0105b77052f7475568fbd29f40062f1f29d8b9d780981a63e3d49395308",
+    "original_bytes": 33284,
+    "original_dimensions": [
+      1280,
+      936
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      702
+    ],
+    "bytes": 24818
+  },
+  "preview_sha256": "cc8b898ad5c00427bd1ef53b78330c8054e810d4b4ed2b742fde5d078f700bb5"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1c65a19b-c091-4f80-8d2a-7700573f1b9b",
+  "title": "Build With Us",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Contact us",
+    "item_id": "1c65a19b-c091-4f80-8d2a-7700573f1b9b",
+    "page_at_capture": 8,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/build-with-us/preview/media-pipeline-v1/166030b8fe23f4cb21fd34ae04886ac700a6b080b78a25bf5d8032eb41693277"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:16.453508+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "41b8f5989fa746155e0d44c72cc4378eb0ec03411a87495fc25524d61c1e167d",
+  "displayed_prompt_chars": 6253,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6f8e23516fc6ed7b1c620a083e69749d6c7c9e7c529de96c5602dff3f451c6c0",
+    "original_bytes": 3843312,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 52862
+  },
+  "preview_sha256": "9ae0c7fb6d8f21cb787535bb5f3c4416a3f9cf9bc286c41132488616424d667b"
+}

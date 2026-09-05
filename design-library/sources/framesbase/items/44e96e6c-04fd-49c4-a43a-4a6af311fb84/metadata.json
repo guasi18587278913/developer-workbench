@@ -1,0 +1,43 @@
+{
+  "id": "44e96e6c-04fd-49c4-a43a-4a6af311fb84",
+  "title": "Layered Depth",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "44e96e6c-04fd-49c4-a43a-4a6af311fb84",
+    "page_at_capture": 9,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/layered-depth/preview/media-pipeline-v1/a6fb18521ad67729dc5077554c613cfc7e33651bb6bc277de67bb33eaa7a0b7d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:20.831417+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f4162d4cfb55105a92cbdef62a71dcf3aa4bd1f45fe5fc5d79dc39dc1f063a94",
+  "displayed_prompt_chars": 12174,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f9034292865298dc819cce92a83632e0708384180df31fa2e9aea2c4159486a0",
+    "original_bytes": 2487600,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 49290
+  },
+  "preview_sha256": "5fc2bf60f608620c38efdb54d1f26955b507403dc58c668da47ea78d717136ac"
+}

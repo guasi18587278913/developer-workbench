@@ -1,0 +1,43 @@
+{
+  "id": "b68ca730-81b8-4407-85c5-a79dc1dc2949",
+  "title": "Email Marketing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Email Marketing",
+    "item_id": "b68ca730-81b8-4407-85c5-a79dc1dc2949",
+    "page_at_capture": 6,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/design-rocket-email-hero/poster/media-pipeline-v1/012edf79819104486da06b81df5c205daaac619dd8713cb767438c001a9ffbf8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:22.376806+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4f0a14eaff1d21a3e4e703371e0afa825c1e0924f569fee01426c65746bf0cf6",
+  "displayed_prompt_chars": 7972,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b03413f285f03fc977e9279f2b55696ba367a731b835925bfce54ea8145c4e29",
+    "original_bytes": 601290,
+    "original_dimensions": [
+      1698,
+      1482
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      838
+    ],
+    "bytes": 50310
+  },
+  "preview_sha256": "a5f76672fcfdb938d79bb54dec0ac3d40df06fe709432d4f3c2742655cca4a21"
+}

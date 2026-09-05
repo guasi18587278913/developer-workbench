@@ -1,0 +1,43 @@
+{
+  "id": "f76dd7d0-10ed-46c8-926c-03924abef4b7",
+  "title": "Nexa Talent",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Recruitment",
+    "item_id": "f76dd7d0-10ed-46c8-926c-03924abef4b7",
+    "page_at_capture": 2,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/nexa-talent/poster/media-pipeline-v1/a83b057f2e3424500065ceb5008711ca302b79643662ee7a111150c04f37e3d5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:45.976580+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "045b27f808abbecd8c75ed63a0e2d3aa8260efccb760fc0adfdf1b42f1a567c2",
+  "displayed_prompt_chars": 4688,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "43171888a8df3a12912ac3cd61c12a196b4a2bfee602e35f2bef2c1aea7fbeb1",
+    "original_bytes": 59382,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 18478
+  },
+  "preview_sha256": "5520156bb3ff5be8c59b41cea8ca70d1fcd7af84a3bfe41bdfb13d03c2f68f8f"
+}

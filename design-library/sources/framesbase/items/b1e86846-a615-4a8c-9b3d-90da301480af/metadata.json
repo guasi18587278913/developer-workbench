@@ -1,0 +1,43 @@
+{
+  "id": "b1e86846-a615-4a8c-9b3d-90da301480af",
+  "title": "Orbis CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "b1e86846-a615-4a8c-9b3d-90da301480af",
+    "page_at_capture": 4,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sections/orbis-cta/preview/media-pipeline-v1/7f10473739db4aff60ac6be4bb4061f1aa2ddc88e4df53d07febfe2f2923331d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:01.387005+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f11ba249e5fc57eaf9fab7f19e555e34dd439bc72b490846a4a2f2e67e373021",
+  "displayed_prompt_chars": 7573,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e072fecf97c44df155693c93eb496ce5e3494d3d70df57bb860d3df78a342a3d",
+    "original_bytes": 1734954,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 33826
+  },
+  "preview_sha256": "4fd2cad68556edd80498c1ebba56b9833d697ef2d4ddcc162e680de995785087"
+}

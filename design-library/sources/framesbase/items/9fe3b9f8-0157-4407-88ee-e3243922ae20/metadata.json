@@ -1,0 +1,43 @@
+{
+  "id": "9fe3b9f8-0157-4407-88ee-e3243922ae20",
+  "title": "Guardnet",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "9fe3b9f8-0157-4407-88ee-e3243922ae20",
+    "page_at_capture": 6,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/guardnet-landing/poster/media-pipeline-v1/7697b76d66a0e54a3f0debc36dcf373bdab5d239f1eff6d74d725d43a883cbc9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:33.254287+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "42327e265378dae4dc1459013f82e3cb8733b81b6811a88a0b343b2a103aca8a",
+  "displayed_prompt_chars": 9456,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "faca83616de7c19cf33ed971a68bfc7526425a85c01ca486db4a1a97a453e4c5",
+    "original_bytes": 123500,
+    "original_dimensions": [
+      826,
+      1432
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      554,
+      960
+    ],
+    "bytes": 31006
+  },
+  "preview_sha256": "a6ec98cef8cb210251760a7530e1e78a3a2b3145c1eac2be32fcda7abf5b34c2"
+}

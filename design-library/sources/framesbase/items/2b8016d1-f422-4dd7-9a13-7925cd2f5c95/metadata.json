@@ -1,0 +1,43 @@
+{
+  "id": "2b8016d1-f422-4dd7-9a13-7925cd2f5c95",
+  "title": "Halo Use Case",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Use Case",
+    "item_id": "2b8016d1-f422-4dd7-9a13-7925cd2f5c95",
+    "page_at_capture": 2,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sections/halo-use-case/preview/media-pipeline-v1/f66e4cb5cceb6b427457a6047f51002f6b3ac790e34df5c2425e9f1849a52fb3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:00.052084+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "07501efb66a05464f3a9ed7d03879d209eca047fefbfdecdf1d423ef1a535c33",
+  "displayed_prompt_chars": 7044,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8dd3ed016ba0ab6e3c3383a953babce6e21b0a8f845a7f1cafe70dfe02f7d2d5",
+    "original_bytes": 624212,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 13206
+  },
+  "preview_sha256": "84bc94a9ea56a46d685d897ed5268f5f84cb02e5aef8d0bf3d430779d880dc5d"
+}

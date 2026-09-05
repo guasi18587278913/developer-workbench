@@ -1,0 +1,43 @@
+{
+  "id": "5ba0755e-daa5-48aa-98d7-1c2e466006cf",
+  "title": "Orbis NFT",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "5ba0755e-daa5-48aa-98d7-1c2e466006cf",
+    "page_at_capture": 5,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/orbis-nft-landing/poster/media-pipeline-v1/5509db355d36dde87ed335bb2f7aad0e6b210c3d906fe390a54de2b934995499"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:31.396868+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "014b9381a9779a6acdf1e8f1c03acbe30689afe2d1ce2c2f0b48f0df87a28acc",
+  "displayed_prompt_chars": 8276,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6514d2236115ce6fd437cdae462dcac3a13d4be0805a10028c58cda995baff46",
+    "original_bytes": 435814,
+    "original_dimensions": [
+      1016,
+      1786
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      546,
+      960
+    ],
+    "bytes": 59170
+  },
+  "preview_sha256": "d08de002d1be0612494013753582fe07af62d1c441afcf2490ac1ace680de89f"
+}

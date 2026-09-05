@@ -1,0 +1,44 @@
+{
+  "id": "627f1087-bbda-453f-80c2-808a89bb5954",
+  "title": "Vintage Care",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "627f1087-bbda-453f-80c2-808a89bb5954",
+    "page_at_capture": 1,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/vintage-care/poster/media-pipeline-v1/e4ef56816c0380333adeaf4f32de2bf26f6547a99035d912b226db3167097429"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:57:44.881487+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "content_quality": "source-placeholder",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "preview_sha256": "ca27e5610b50a1c578dc82db2b24b5f61fadf17875567657b78e255b6e7bea5b",
+  "displayed_prompt_chars": 1,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "437722674e1e6e42f2d4880cac1b14ea7747f6955c6398b7d94e845acfacd2db",
+    "original_bytes": 87806,
+    "original_dimensions": [
+      1920,
+      1142
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      571
+    ],
+    "bytes": 34538
+  }
+}

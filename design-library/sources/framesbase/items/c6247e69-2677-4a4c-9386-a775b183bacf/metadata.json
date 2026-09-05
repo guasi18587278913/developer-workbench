@@ -1,0 +1,43 @@
+{
+  "id": "c6247e69-2677-4a4c-9386-a775b183bacf",
+  "title": "Bio-Digital",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "c6247e69-2677-4a4c-9386-a775b183bacf",
+    "page_at_capture": 9,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/bio-digital/preview/media-pipeline-v1/bca0dbe13df0e085ddba465a5ffb95e7db96d236e23b0ca770df64127c4b20b4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:54.324633+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bf151a295c9972c6fd6f5b488669d6914fd67bc38e7ccad3869a9e554edebeed",
+  "displayed_prompt_chars": 8062,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e7dcac9bee276536e222bf89871ddccbee2b03db3fda60f87a18640f9d583d93",
+    "original_bytes": 413260,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 9990
+  },
+  "preview_sha256": "270b3eeec97b325ac9da237be2ecf39a45117892462c0b8c730a3baa885889e5"
+}

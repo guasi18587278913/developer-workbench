@@ -1,0 +1,43 @@
+{
+  "id": "3a971795-411b-48d2-9c19-0e8cedebcca3",
+  "title": "Social Media Posts",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Social Media",
+    "item_id": "3a971795-411b-48d2-9c19-0e8cedebcca3",
+    "page_at_capture": 1,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sections/social-media-posts-hero/poster/media-pipeline-v1/8bda7d3310c36b34fb56e67fd574d223a0418d47b8c885d500db54629ca48dce"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:39.798541+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0ffe26172c4225cb5d873a1688e50a19387ca5b2a9fcbe64eb5dce71be03501a",
+  "displayed_prompt_chars": 11738,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6c55724662074610155904f149aaf96c826a01579697e686961baae8a3be267e",
+    "original_bytes": 945057,
+    "original_dimensions": [
+      1152,
+      894
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      745
+    ],
+    "bytes": 71146
+  },
+  "preview_sha256": "6b4ae16a28e0882b4f08d91d288f187ee4b95797f2098bca9d1ceb3e8d4d5f2f"
+}

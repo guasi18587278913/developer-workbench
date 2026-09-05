@@ -1,0 +1,43 @@
+{
+  "id": "21c22482-7d12-477a-9413-f4ea767d2de2",
+  "title": "Nimbus Ops",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "21c22482-7d12-477a-9413-f4ea767d2de2",
+    "page_at_capture": 3,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sections/nimbus-ops/preview/media-pipeline-v1/3a319ffcb44d9269b6e3cfdbea635a22792e8b9f18ea9add4f81749b9051eaf9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:04.346780+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f7bf7d2bbdff53bfff30ff2ccd58a06104b9dc026816f1f5943c97e0e56a8183",
+  "displayed_prompt_chars": 16893,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6e96d5b2154d34a8ce2bb0ebfdad2e015e7dde5a98f29e03c1a3baf4d8172831",
+    "original_bytes": 253870,
+    "original_dimensions": [
+      640,
+      462
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      462
+    ],
+    "bytes": 12030
+  },
+  "preview_sha256": "be0f56bd4f239efd499a14abaf01454f0de573daee1b87a93fd9a370ec3f18fa"
+}

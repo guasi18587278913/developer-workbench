@@ -1,0 +1,43 @@
+{
+  "id": "88164436-53da-4069-8795-d6bc420539eb",
+  "title": "Place Saver",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Travel",
+    "item_id": "88164436-53da-4069-8795-d6bc420539eb",
+    "page_at_capture": 1,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/apps/place-saver/poster/first-frame-v1/b692a0b0000d46e1f76281f80bcdf28643272a6adf2db855a262960aa141bcff"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:21.520433+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c3346cc6b31363ea49f423313a6829d0f1a0ffb5ea96f2ba0154122138cdbd03",
+  "displayed_prompt_chars": 8226,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b692a0b0000d46e1f76281f80bcdf28643272a6adf2db855a262960aa141bcff",
+    "original_bytes": 49540,
+    "original_dimensions": [
+      1280,
+      934
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      701
+    ],
+    "bytes": 33852
+  },
+  "preview_sha256": "030ec314b11603d45707aa9b5b05e7a10a4f6bff1f2b7e626a273912bfd27195"
+}

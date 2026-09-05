@@ -1,0 +1,43 @@
+{
+  "id": "92633e8b-87fc-4bae-85a2-46403e60fa8d",
+  "title": "ClubX Investors",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "92633e8b-87fc-4bae-85a2-46403e60fa8d",
+    "page_at_capture": 6,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/clubx-hero/poster/media-pipeline-v1/eff2f6fdc3c067be5c2f26aaa6a584a7eee00394e6e6be4ff64ce61c9e0864aa"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:24.726763+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dfe207bfa3b07e102a18c547d46e99483b1717fa896f85b1366b71dffbee7489",
+  "displayed_prompt_chars": 2861,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "792ed2e8d0723303e69c5d37b4fa3bd19c275444b7816b16736f45dc60ae9b14",
+    "original_bytes": 2073090,
+    "original_dimensions": [
+      1316,
+      1048
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      764
+    ],
+    "bytes": 63044
+  },
+  "preview_sha256": "13285c524251809f8f2e54ce75a2cd3bec5dfe0dae769565f4aa550c3e8f07dd"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b7e26fe4-e086-4dfb-885f-f2d5e8389a1e",
+  "title": "Custom Spaces",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Design",
+    "item_id": "b7e26fe4-e086-4dfb-885f-f2d5e8389a1e",
+    "page_at_capture": 13,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/custom-spaces/poster/media-pipeline-v1/e0f128785261c67bbe2d0ad387d4663183b3a3488034e622c38f1e9ebf6f3821"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:07.751160+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bcb392ae50443cba0ff3d30edb4c87b02093832805d80df0227cea6dd4f7adea",
+  "displayed_prompt_chars": 10956,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4e23aac79a90dc11c32a78089597082858a14dc1c09e742e01422a804e275927",
+    "original_bytes": 115500,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 55464
+  },
+  "preview_sha256": "f25ffb4091f18e0f1dfdd95c4e0a8702c476b42921821e3c0290aa596b88fcba"
+}

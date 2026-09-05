@@ -1,0 +1,43 @@
+{
+  "id": "c1a28e23-4473-4bc4-b201-20359862f5a2",
+  "title": "EVR Ventures",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "c1a28e23-4473-4bc4-b201-20359862f5a2",
+    "page_at_capture": 7,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/evr-ventures-hero/poster/media-pipeline-v1/85e17919967efa01753d3fcfe1bd95bf8aadcb2a1800b240f2051a0f782fb78c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:38.459367+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "63f77ca6604985f231ff784d1133445774197a1dff8cf691254503e18a110d3f",
+  "displayed_prompt_chars": 4265,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "81676e57f2007c92aa3639b0d2f58ec1e29225e8fecc3fcadf8bd00d98751a1b",
+    "original_bytes": 1073579,
+    "original_dimensions": [
+      1920,
+      1505
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      753
+    ],
+    "bytes": 40282
+  },
+  "preview_sha256": "34fe704626f54228f55e42cebfcffe41707880a84eaac3c7847e1abef83a11dc"
+}

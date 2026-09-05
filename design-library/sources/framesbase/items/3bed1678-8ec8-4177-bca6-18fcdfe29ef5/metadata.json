@@ -1,0 +1,43 @@
+{
+  "id": "3bed1678-8ec8-4177-bca6-18fcdfe29ef5",
+  "title": "Modern HR Dashboard",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "HR Management",
+    "item_id": "3bed1678-8ec8-4177-bca6-18fcdfe29ef5",
+    "page_at_capture": 2,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/apps/modern-hr-dashboard/poster/media-pipeline-v1/c73076dbcd06bfc72ae07e7c22ae8428f1691f3b1d35551993964f25966d40ec"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:04.369005+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "156ac144c14bf867e210b7fb40373d9079f06c96f5995ddfd1be19584b51332c",
+  "displayed_prompt_chars": 13276,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "557324d9566e0029fceb5353477d17e294a9de06df97e2418a8fb8ef327ecb89",
+    "original_bytes": 1067016,
+    "original_dimensions": [
+      1956,
+      1438
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      706
+    ],
+    "bytes": 42678
+  },
+  "preview_sha256": "80a77c093244450a17fe249b95dd9b353d92a6ea88f0bece8bcc780c6fb6c83b"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "3958342c-d2b0-45ac-bf03-3ece33eca11b",
+  "title": "Skyflora",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "3958342c-d2b0-45ac-bf03-3ece33eca11b",
+    "page_at_capture": 1,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/skyflora/poster/media-pipeline-v1/c8382dbb9dea7f4bb5b7dcf646a98594d2e732ea543e71b3e0ef74f48b27e487"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:30.417672+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b75d029709e1459450d5e021de79fabf08055c28d22ab8bf445ae2d7128df69d",
+  "displayed_prompt_chars": 13215,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "66cc55190d1269c64b81a4ce19598f52ab9a8c962a0cac9644e539a07b807812",
+    "original_bytes": 159746,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 61668
+  },
+  "preview_sha256": "e531cb1588cd20e70c1c084105c765e1ed791ccb986c2c4694a7a712192d65b5"
+}

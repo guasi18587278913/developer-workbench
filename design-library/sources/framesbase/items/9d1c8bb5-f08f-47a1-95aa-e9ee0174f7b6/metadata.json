@@ -1,0 +1,43 @@
+{
+  "id": "9d1c8bb5-f08f-47a1-95aa-e9ee0174f7b6",
+  "title": "Wellness Balance",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "9d1c8bb5-f08f-47a1-95aa-e9ee0174f7b6",
+    "page_at_capture": 11,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/wellness-balance/preview/media-pipeline-v1/bfed9b207bef3ac372f4674a144b385e2aaef976eea17a159ad154b5bed345e5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:47.937659+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6d5127d809b35cf3d08bba6e739a13327955d222045f809667854c37b6c444a6",
+  "displayed_prompt_chars": 7840,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5f71c8d4c00a4e4ce6766f94b2752a6f548476c5bed63e8c8cc8db034a1cb59f",
+    "original_bytes": 1382660,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 71,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 40844
+  },
+  "preview_sha256": "00ea9859ed530da85d321e5741c6ee6d94e28ace016dd3c30830a956006d3395"
+}

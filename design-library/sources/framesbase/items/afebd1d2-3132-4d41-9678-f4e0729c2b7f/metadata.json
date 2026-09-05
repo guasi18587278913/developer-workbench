@@ -1,0 +1,43 @@
+{
+  "id": "afebd1d2-3132-4d41-9678-f4e0729c2b7f",
+  "title": "Remit Race",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Fintech",
+    "item_id": "afebd1d2-3132-4d41-9678-f4e0729c2b7f",
+    "page_at_capture": 1,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/apps/remit-race/poster/first-frame-v1/eac6e4afe869528ca378f849241db5b03bf33191f6759a7d97d94e5a2a008ac7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:23.329576+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3513d8efd49c591b39773bd1693b46a0ea252792455968c233e6362882615903",
+  "displayed_prompt_chars": 23753,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "eac6e4afe869528ca378f849241db5b03bf33191f6759a7d97d94e5a2a008ac7",
+    "original_bytes": 53378,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 36806
+  },
+  "preview_sha256": "6db7d28c856e7420b16043c01cbbe82ce21d8d03b0cc8643d8d0747dfa92d79f"
+}

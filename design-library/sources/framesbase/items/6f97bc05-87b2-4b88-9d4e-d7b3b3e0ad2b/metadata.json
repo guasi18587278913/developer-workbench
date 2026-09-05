@@ -1,0 +1,43 @@
+{
+  "id": "6f97bc05-87b2-4b88-9d4e-d7b3b3e0ad2b",
+  "title": "Stellar AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "6f97bc05-87b2-4b88-9d4e-d7b3b3e0ad2b",
+    "page_at_capture": 4,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/stellar-ai-hero/poster/media-pipeline-v1/6961803c3365669c8d4cc2edb2dd5da33d0d0e2bda45c2c4fedde0a488ff2579"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:59.339597+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3f87ec9c95f24355d5cfc08626fafb0ccf59f5886e6d7452f02ff53fd0a718ba",
+  "displayed_prompt_chars": 3973,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "189cb610685ca850e43117f78ab8069b11e53b6cf6a28b13f00e9cab14d4291b",
+    "original_bytes": 1415202,
+    "original_dimensions": [
+      1852,
+      1638
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      849
+    ],
+    "bytes": 44712
+  },
+  "preview_sha256": "3eadf281b74d08e19633f089ce8893695f22da87be621f6d6b3bb54eafd982be"
+}

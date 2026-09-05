@@ -1,0 +1,43 @@
+{
+  "id": "07a691b2-5ebf-445e-8283-c8d9bbe390e5",
+  "title": "Creative Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "07a691b2-5ebf-445e-8283-c8d9bbe390e5",
+    "page_at_capture": 9,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/creative-studio/preview/media-pipeline-v1/2483cfbd645709b086b2a3949764576698dbd776b2d6b0dc50a5ff382fa50b7d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:52.137098+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3520f044ab716f4599c9c6e0a7e8558c6bab0d83c0964030b7af41e14ca52f82",
+  "displayed_prompt_chars": 5481,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "165720a4ee9a5d24ed0745351ef1337f969874e03257b4478a64aaa0dd4eb753",
+    "original_bytes": 1293320,
+    "original_dimensions": [
+      640,
+      462
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      462
+    ],
+    "bytes": 27410
+  },
+  "preview_sha256": "f8f19da251855216879c29571290132c6708696be1bdcb82430a817a227a24e3"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "31e620ae-b45c-4254-a5a9-7c163c11f9f5",
+  "title": "Buzzentic Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "31e620ae-b45c-4254-a5a9-7c163c11f9f5",
+    "page_at_capture": 3,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/21/poster/media-pipeline-v1/9497968605e2c1a296507a62370018f0ba8cbb3a418eb32d2c3d26b0f6d7bfd1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:25.671407+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8f6ee3f3139809a13f3d8edd0fb353a0f1dde8cdb008bc291bcc1cbbf4983c3e",
+  "displayed_prompt_chars": 2080,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f0898931275ab613cc2fae96341c8d2d278340c0c188f630b21ca08054c90765",
+    "original_bytes": 600681,
+    "original_dimensions": [
+      1920,
+      1362
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      681
+    ],
+    "bytes": 22572
+  },
+  "preview_sha256": "7de08f50915fd748616b9a75915564d1078f4bc4425c6b60ba2155d2f2b4104f"
+}

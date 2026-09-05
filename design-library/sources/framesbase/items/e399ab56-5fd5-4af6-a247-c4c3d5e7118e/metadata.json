@@ -1,0 +1,51 @@
+{
+  "id": "e399ab56-5fd5-4af6-a247-c4c3d5e7118e",
+  "title": "Glass Orb",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Threejs",
+    "item_id": "e399ab56-5fd5-4af6-a247-c4c3d5e7118e",
+    "page_at_capture": 2,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/glass-orb/poster/media-pipeline-v1/fa6085f16dc6d8f458384464aff80f541b195783f175a0f1a21a2b3974aadc46"
+  },
+  "delivery_type": "source-link",
+  "original_url": "https://github.com/vikod3/Planetary-Pulsewebgpu",
+  "captured_at": "2026-09-05T05:35:13.819780+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp",
+    "source_receipt": "source-receipt.json"
+  },
+  "content_sha256": "f3bed6961aedd5525c354400662f31d7efba2da90769cc805784262e1fe7ecb1",
+  "displayed_prompt_chars": null,
+  "source_archive": {
+    "directory": "source",
+    "commit": "ba749761ab46ce9db9eabce512bbec892256bd4a",
+    "status": "complete",
+    "license_status": "not-found",
+    "verified_runtime": false
+  },
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2b004a046e7f6bd1e940560b4ba9bdb7f7cad1c32d64375ea970f9d2e409e03f",
+    "original_bytes": 48478,
+    "original_dimensions": [
+      1280,
+      714
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      536
+    ],
+    "bytes": 26504
+  },
+  "preview_sha256": "47a52f57e5f67ffaef40a8189b644e2f4d2810b45199ee6ef2a2cbf87a881f05"
+}

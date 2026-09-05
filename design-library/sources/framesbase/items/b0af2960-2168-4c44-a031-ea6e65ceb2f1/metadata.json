@@ -1,0 +1,43 @@
+{
+  "id": "b0af2960-2168-4c44-a031-ea6e65ceb2f1",
+  "title": "Veloce Finance",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b0af2960-2168-4c44-a031-ea6e65ceb2f1",
+    "page_at_capture": 5,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/veloce-finance-landing/poster/media-pipeline-v1/e7b3221d5c28e33e61fbc8152bccb0bdb8456f00a3aa27324734d7ebeda87bd2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:59.399239+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "81dda48fd8a35b446b5e53641917ed0cdfa0debbaf203db3db91966ce772afd8",
+  "displayed_prompt_chars": 8465,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0b1ed9c5f1c462b0570aeed2819283c4bed70fe3c869e6c70efa463ee915173b",
+    "original_bytes": 132272,
+    "original_dimensions": [
+      872,
+      1810
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      462,
+      960
+    ],
+    "bytes": 24500
+  },
+  "preview_sha256": "0045985a4ce884922296631b906c0caaa22388e704509bb2354f0cdc8fddd03b"
+}

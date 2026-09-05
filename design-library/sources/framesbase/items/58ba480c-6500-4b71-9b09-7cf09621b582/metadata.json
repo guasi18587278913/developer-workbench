@@ -1,0 +1,43 @@
+{
+  "id": "58ba480c-6500-4b71-9b09-7cf09621b582",
+  "title": "VaultShield",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "58ba480c-6500-4b71-9b09-7cf09621b582",
+    "page_at_capture": 9,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/vaultshield/preview/media-pipeline-v1/fc67a93fa506acab3906f2808e319c187c4d68098e524676d646569560a6a19b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:49.979422+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bc0dee85e1848eacd91af9b38024b8853e27b23572e86326ccab396d75b7b5ff",
+  "displayed_prompt_chars": 4734,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "52cf0cd81d3d55b2ac39fa888be4ebc2b29f8ac131c81d10a169e21d8258f6bf",
+    "original_bytes": 1049806,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 26470
+  },
+  "preview_sha256": "1199526b8447a9d4a6b0daa63f6ea528c3d5bba8f8266d0519a45e85213822b9"
+}

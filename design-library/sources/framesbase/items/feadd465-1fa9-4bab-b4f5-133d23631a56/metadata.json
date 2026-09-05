@@ -1,0 +1,43 @@
+{
+  "id": "feadd465-1fa9-4bab-b4f5-133d23631a56",
+  "title": "Luminara",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "feadd465-1fa9-4bab-b4f5-133d23631a56",
+    "page_at_capture": 12,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/luminara/preview/media-pipeline-v1/37d9e99b4f38f4c2f4322ef7cd7625e55a2443d42bc155005c0eee788bfac049"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:16.859450+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "367c295b436c821280f3054f355948617a2ad79cd629883201303a68c85d3382",
+  "displayed_prompt_chars": 3646,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "639f195b2cffc64e98caf43fc6539a0410d1e8a4229c2d6bd075a1261c2697a6",
+    "original_bytes": 3412330,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 43850
+  },
+  "preview_sha256": "b36420d9830fddff94cd5beb65744bca6c8e6c9d7ff95bab002939c66ee1c3ea"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "608b29bc-96f3-47e5-9caf-3f41220456a1",
+  "title": "Luxury Escapes",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Travel App",
+    "item_id": "608b29bc-96f3-47e5-9caf-3f41220456a1",
+    "page_at_capture": 1,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/apps/luxury-escapes/poster/first-frame-v1/b2c269b1f3e42534778bb529233d074f7d672585666d8be914ca2ee323d0247b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:34.789855+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dec13e377ec238c44bad3a7736cd7f0f4dba4af65858df3f4557e4324e11278d",
+  "displayed_prompt_chars": 9543,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b2c269b1f3e42534778bb529233d074f7d672585666d8be914ca2ee323d0247b",
+    "original_bytes": 65296,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 44836
+  },
+  "preview_sha256": "129e22b0636bfbd4ef9e0114ca46a0514cac1bbbdfa59242887447bd8b6cddf9"
+}

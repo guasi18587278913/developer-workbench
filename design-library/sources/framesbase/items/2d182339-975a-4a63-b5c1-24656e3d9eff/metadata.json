@@ -1,0 +1,43 @@
+{
+  "id": "2d182339-975a-4a63-b5c1-24656e3d9eff",
+  "title": "Scaling Platform",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "2d182339-975a-4a63-b5c1-24656e3d9eff",
+    "page_at_capture": 2,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/scaling-platform/poster/media-pipeline-v1/f3927889838901d2f7fa4647df47c4b4281686c11b48dad087cacac085cd4650"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:50.374026+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "db3fce2592544d9f7521d82b242ceef5f7083503930bf962ec2072934f83b631",
+  "displayed_prompt_chars": 5231,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0a50934c50b24f1ab61e4f447446fa5936089a2295613ded2d85de712fa3b32a",
+    "original_bytes": 61128,
+    "original_dimensions": [
+      1920,
+      1072
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      536
+    ],
+    "bytes": 23996
+  },
+  "preview_sha256": "662eb8bf720a21d809bc928b00f6b239c8def5f73e2ae9bc46639b6e99eb5e34"
+}

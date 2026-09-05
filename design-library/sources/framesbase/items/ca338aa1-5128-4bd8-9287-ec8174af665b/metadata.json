@@ -1,0 +1,43 @@
+{
+  "id": "ca338aa1-5128-4bd8-9287-ec8174af665b",
+  "title": "LearnHub",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Education",
+    "item_id": "ca338aa1-5128-4bd8-9287-ec8174af665b",
+    "page_at_capture": 1,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/apps/skills-lea/poster/first-frame-v1/79dfebaa99fdd2c53a4b22bf4a20075d13c77d67ddeb0d96629e15e2f31631c0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:31.603893+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "22457986854fa09e9be5827ee535dcaf90fdc830c37cde94d348c37c51bc1cc0",
+  "displayed_prompt_chars": 7782,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "79dfebaa99fdd2c53a4b22bf4a20075d13c77d67ddeb0d96629e15e2f31631c0",
+    "original_bytes": 32102,
+    "original_dimensions": [
+      1280,
+      894
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      671
+    ],
+    "bytes": 22996
+  },
+  "preview_sha256": "0ec7ed63b46b9a045ba1e2fb9fcf275d23d54f5b65b8fee124795e46067d28d9"
+}

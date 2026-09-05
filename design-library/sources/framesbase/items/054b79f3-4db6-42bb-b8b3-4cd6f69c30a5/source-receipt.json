@@ -1,0 +1,66 @@
+{
+  "repository_url": "https://github.com/vikod3/grasssite",
+  "commit": "c5752384211fee38ca1c8ed47e9f4464d7103e53",
+  "status": "complete",
+  "files": [
+    {
+      "path": ".bolt/mcp.json",
+      "bytes": 71,
+      "sha256": "ac6a446b5ff21d6211603c71e6f0f52601356fa8fe2019b8d4f491b6c1574b4a"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 66,
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 19,
+      "sha256": "a8db166167d30d2c36fa95cc3163e77a4bc33205ede3b81a368750f25ded3879"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2325,
+      "sha256": "7dedb9d1cd9dd784c76c7cf720622789c13ede5cdf83d0f6da33dfecd9eb3206"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 31604,
+      "sha256": "0ee74a2db10a6682a9173150646f130474273a8b5881a9f9c29e2bd51ed7fc84"
+    },
+    {
+      "path": "package.json",
+      "bytes": 279,
+      "sha256": "99b7cf89380710e9329f43d0b2e2956ee3acd4d2a63d07ef0b6f7930edffbbb9"
+    },
+    {
+      "path": "src/main.js",
+      "bytes": 101,
+      "sha256": "fdeca17447713fd6ae98b65d00b076d88cdf6967f548df5ca5cff39b5901049d"
+    },
+    {
+      "path": "src/nav.js",
+      "bytes": 285,
+      "sha256": "4142c6fb8e9940d11b6df860d8c73d0b708dca74f5642593b498b76016057282"
+    },
+    {
+      "path": "src/scene.js",
+      "bytes": 11682,
+      "sha256": "fd27fe4e22ba5682cf8e9f7817e1a3770daf5446f1889b5e9a32a49351d815ac"
+    },
+    {
+      "path": "src/style.css",
+      "bytes": 5948,
+      "sha256": "0d0504083abb0b1688b27c08e1d56ec3a3a9766a568703fcaff78cc6164f13a7"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 136,
+      "sha256": "62f23fc2804864dc7a209668744fda87cd97cd315384877253617889799fa7b9"
+    }
+  ],
+  "omitted": [],
+  "execution": "not-executed",
+  "license_files": [],
+  "excluded_non_source": []
+}

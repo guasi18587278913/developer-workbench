@@ -1,0 +1,43 @@
+{
+  "id": "ca95f185-6df7-4bd0-bde3-c69582f33023",
+  "title": "Talent Collective",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "ca95f185-6df7-4bd0-bde3-c69582f33023",
+    "page_at_capture": 12,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/talent-collective/poster/media-pipeline-v1/c65966bb3e4292badb90f416188beaa710f1d0ad26920d6f51e9e4dd154e4720"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:30.605525+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3ceb01f5b2a28f943dbc97fb7a20a9c8f2fc9f6f207a25838cb7d5cb3b0b18e5",
+  "displayed_prompt_chars": 9583,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b33cd3f97a3fafaa07e2c374a3df8c44b5926fdbd858c2beb5c8209baa97b947",
+    "original_bytes": 49540,
+    "original_dimensions": [
+      1280,
+      724
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      543
+    ],
+    "bytes": 25944
+  },
+  "preview_sha256": "046ee941d41a3225df6ea3467e54830d92f0e861173fc47fa5d0c242633a3235"
+}

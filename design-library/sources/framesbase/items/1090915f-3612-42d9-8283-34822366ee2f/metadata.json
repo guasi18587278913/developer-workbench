@@ -1,0 +1,43 @@
+{
+  "id": "1090915f-3612-42d9-8283-34822366ee2f",
+  "title": "Wellness Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "1090915f-3612-42d9-8283-34822366ee2f",
+    "page_at_capture": 10,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/wellness-hero/preview/media-pipeline-v1/dfde0fc935034f9b9edeaa4b664e4faf6d8fa74956c691405263c91962b925c3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:02.987910+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "404e516e0ad9365a2ff6890cd206886e0621e770dd637bd1172eabcafb389ec1",
+  "displayed_prompt_chars": 4719,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5bdd50121ac139a098ca115627c55dd678142a4ab185371cc2b8b421ec490950",
+    "original_bytes": 1542696,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 65,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 22622
+  },
+  "preview_sha256": "3124a59c899380e05963a8ad727112c57e3dd457ba028bc175a5fe8488f3a757"
+}

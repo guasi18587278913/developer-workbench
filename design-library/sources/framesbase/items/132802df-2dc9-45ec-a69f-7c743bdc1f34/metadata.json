@@ -1,0 +1,43 @@
+{
+  "id": "132802df-2dc9-45ec-a69f-7c743bdc1f34",
+  "title": "Codeveil",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Developer",
+    "item_id": "132802df-2dc9-45ec-a69f-7c743bdc1f34",
+    "page_at_capture": 1,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/codeveil/poster/media-pipeline-v1/1b08eaa2bf41d642c4a6eb2073d3e7fadcce874809c44c4281b094165413a628"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:07.389435+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "96ffdd488c3b20495b7dc14b3dacf26012298a31f82c195c623f022ed2e97241",
+  "displayed_prompt_chars": 11412,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b4024ed9f28548a1a8cb23f800dca8b79ce4f825cff86053f29ee4f2dcb2784a",
+    "original_bytes": 78578,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 42228
+  },
+  "preview_sha256": "258c70112e53694290a3d9074fef5a768b66c59b1326b58ab5a30b2b4dfb595b"
+}

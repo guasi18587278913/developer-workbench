@@ -1,0 +1,43 @@
+{
+  "id": "d5b4d70e-a78f-4a92-9fa0-29ec38f17ae9",
+  "title": "Relocation Card",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Finance",
+    "item_id": "d5b4d70e-a78f-4a92-9fa0-29ec38f17ae9",
+    "page_at_capture": 12,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/relocation-card/poster/media-pipeline-v1/b0dbbce90a03fd752dba8de8509ab75569af1f8772a9082233fce99c60994a5e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:28.850520+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2eb4d83677db188a1e64116a2daa8792ad0e5be8e0f3f91538547dfe64c91f0c",
+  "displayed_prompt_chars": 10368,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "49f4255e8d7347d429fc446f1ca4d34291742629ec7a4b1d3e2cb13089a9105a",
+    "original_bytes": 124312,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 57266
+  },
+  "preview_sha256": "70aa766de56cde1edefc905f3786a1b5bce85cf9c1def8a96c8410c2cd77370e"
+}

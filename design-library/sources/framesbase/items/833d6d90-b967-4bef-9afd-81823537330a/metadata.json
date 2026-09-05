@@ -1,0 +1,43 @@
+{
+  "id": "833d6d90-b967-4bef-9afd-81823537330a",
+  "title": "Automation Machines",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "833d6d90-b967-4bef-9afd-81823537330a",
+    "page_at_capture": 5,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/automation-machines-hero/poster/media-pipeline-v1/4a69f22a04c07ac2aee65da8edd2204161cdf4698c7a3e83dfa78906c17f6eed"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:33.934704+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "41f76443f82834237200043a8168cb692ac0ba804c268eb0e46f2bb550a1701b",
+  "displayed_prompt_chars": 7406,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bf1999c4527375881a6ec6946e1ddafdb456c8e1faa1960d2839ef778928a972",
+    "original_bytes": 571286,
+    "original_dimensions": [
+      1810,
+      1290
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      684
+    ],
+    "bytes": 19902
+  },
+  "preview_sha256": "5ad10a171567c6ed8a6d8b3d22e39e816cbcb493497ac563bc781a409d5bb5d8"
+}

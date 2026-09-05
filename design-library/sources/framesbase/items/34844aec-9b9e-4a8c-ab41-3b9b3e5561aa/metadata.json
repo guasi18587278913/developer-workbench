@@ -1,0 +1,43 @@
+{
+  "id": "34844aec-9b9e-4a8c-ab41-3b9b3e5561aa",
+  "title": "RIVR DeFi",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "34844aec-9b9e-4a8c-ab41-3b9b3e5561aa",
+    "page_at_capture": 7,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/rivr-defi-landing/poster/media-pipeline-v1/7d6100807d1a426c8ef7a416edbcc3f8ca4f2c06f3b6bac24aefc46f4d95bd1f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:30.837070+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "60e4308784cb2a5b13996d42a7c24daa2529f483c549122d4948e17eb71cec59",
+  "displayed_prompt_chars": 5196,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ae13eee0d1474d20fc984d210d16f61f4585f708450d0d4b268dff0d5bc96ee7",
+    "original_bytes": 243193,
+    "original_dimensions": [
+      856,
+      1544
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      532,
+      960
+    ],
+    "bytes": 42688
+  },
+  "preview_sha256": "ddad8e53774f6b699750e355bf6c44377b3b16c20ef298b1afb77a2299019b97"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0b7f8771-8157-4ae0-94b4-860d110a7967",
+  "title": "Price Calculator",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "SaaS",
+    "item_id": "0b7f8771-8157-4ae0-94b4-860d110a7967",
+    "page_at_capture": 1,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sections/price-calculator/poster/media-pipeline-v1/79d7d1580c5127659ad3e59343d9d743eccbb25d5eff11a35f36c762790b551a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:30.687811+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bb7da53a5ec5dce674d46754cb7fc0271496c84569bf1998deff2d16f24af08d",
+  "displayed_prompt_chars": 3168,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cd04bd032f4ce506014062b1888c12207bf7cbaf38b79cf98945dec74ddc2f77",
+    "original_bytes": 337003,
+    "original_dimensions": [
+      1920,
+      1535
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      768
+    ],
+    "bytes": 34770
+  },
+  "preview_sha256": "18b75bbea003f3f5c71b3f35f649cca1a18fd68ce9f3987877c168b498cc9f2d"
+}

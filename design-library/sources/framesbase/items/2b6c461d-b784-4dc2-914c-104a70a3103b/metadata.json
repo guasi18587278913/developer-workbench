@@ -1,0 +1,43 @@
+{
+  "id": "2b6c461d-b784-4dc2-914c-104a70a3103b",
+  "title": "Media Card Carousel",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Slider",
+    "item_id": "2b6c461d-b784-4dc2-914c-104a70a3103b",
+    "page_at_capture": 3,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sections/media-card-carousel/preview/media-pipeline-v1/fd453b451fc9391be63e99b05ef0bf496011fef87d6734a7e6404638cfdbca55"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:24.184970+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7bdc23c00c7fb299bd420e64e2e2016420f5926cd71c710777b938dd40499c15",
+  "displayed_prompt_chars": 5840,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c5525ce080aad165eff268821112d913626273bc9e2e7cce2b9c62b1af5fbae1",
+    "original_bytes": 810010,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 18868
+  },
+  "preview_sha256": "66ac1cefe3ed6658ba774ca469e7acef9787171efa01cf038d07446890a8f52e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "8ed108d3-543a-43fc-acd0-fbbe1cf40446",
+  "title": "LaunchEx Submissions",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "8ed108d3-543a-43fc-acd0-fbbe1cf40446",
+    "page_at_capture": 2,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sections/launchex-submissions/preview/media-pipeline-v1/0d371ddf35f5c411ec96d2e73bc94ff91f2da3af64144155519dcbd6efbc14cc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:24.166823+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "09d32cfbe6403d593ca175e9052bc98a5f2066305efc9919d3955a774776e5bf",
+  "displayed_prompt_chars": 4777,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9ad56a323b70a76af9a05782aaacfd25e3d21dcf185db14c8ea6c97a9b4f6318",
+    "original_bytes": 442324,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 8220
+  },
+  "preview_sha256": "0d8f068a71d0f8a77e87b8963615cd5f5ec23e7026a8e6367d84a9c33daa6363"
+}

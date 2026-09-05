@@ -1,0 +1,43 @@
+{
+  "id": "f780106c-91b1-4c07-a6ef-4c70ca27ebba",
+  "title": "Nike Hover",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "f780106c-91b1-4c07-a6ef-4c70ca27ebba",
+    "page_at_capture": 2,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sections/nike-hover/preview/media-pipeline-v1/9c29a78c7ae04cdaf7e08e60a723683eb164acc3ee4fc5cdfe7c18ab946c3f79"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:47.680905+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b8a6ba55a8cef2b32bf85526b273637b8a147e2214c1872b99c728cad4492c77",
+  "displayed_prompt_chars": 13726,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "fe47363224eb98dfa18ed2da6710a291de6fed4f3e72f31c332c9cab3f4a4998",
+    "original_bytes": 400252,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 20636
+  },
+  "preview_sha256": "23d00b00c6685dcf8dec2663303845af320bab636c9933743fd1c69669b0b60a"
+}

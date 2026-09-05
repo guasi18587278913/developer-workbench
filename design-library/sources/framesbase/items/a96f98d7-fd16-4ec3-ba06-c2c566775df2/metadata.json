@@ -1,0 +1,43 @@
+{
+  "id": "a96f98d7-fd16-4ec3-ba06-c2c566775df2",
+  "title": "NexaCore Results",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "a96f98d7-fd16-4ec3-ba06-c2c566775df2",
+    "page_at_capture": 2,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sections/nexacore-results/preview/media-pipeline-v1/fe6cce54415d0844ae95550afb3ded3128562cdebf354a4d715372370463a18e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:26.215647+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0b91b2f1e9024bbacae4a110d0fba51c5de2599c999210aeeea8d2e8c0779ac5",
+  "displayed_prompt_chars": 9261,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "babe884ca9702e9a8f6ae20373116b5c7358670b088f34340af3bb72471de8ea",
+    "original_bytes": 90052,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 64,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 15920
+  },
+  "preview_sha256": "705ad2b2a780ef7e794062fad5fd9dafa2806cc432fac5bb322e0146b4509358"
+}

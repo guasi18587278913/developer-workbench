@@ -1,0 +1,43 @@
+{
+  "id": "2926b160-b146-49bb-b1f8-d92e8d6f5676",
+  "title": "OYLA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "2926b160-b146-49bb-b1f8-d92e8d6f5676",
+    "page_at_capture": 12,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/oyla/poster/media-pipeline-v1/d9d2cf735a492f6cea966449a18ed955a2a84a7eb6da1e21e583751d183f1717"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:18.717707+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c0ee84f589cf00aa8dcd882e096cffcd437319aacb80f592d227788957e001fc",
+  "displayed_prompt_chars": 15995,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "47b0202e25c9f507c918ad20aa31cf729f9e92475476dc5515bf6320c966e134",
+    "original_bytes": 43482,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 22706
+  },
+  "preview_sha256": "223167aa91a5f99672782a06ca7100e8475bbfff1f0de44f818c853f628ece04"
+}

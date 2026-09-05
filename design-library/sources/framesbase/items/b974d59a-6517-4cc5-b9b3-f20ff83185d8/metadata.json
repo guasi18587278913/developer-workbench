@@ -1,0 +1,43 @@
+{
+  "id": "b974d59a-6517-4cc5-b9b3-f20ff83185d8",
+  "title": "Dot",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "b974d59a-6517-4cc5-b9b3-f20ff83185d8",
+    "page_at_capture": 5,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/dot-hero/preview/media-pipeline-v1/c421cb65ae5b82e202370b9bc6df1bac700fb60d7bae44f42daf9465300f1f10"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:14.868226+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b59eeeb35cb978cb5c1d6a264a8e1bb32229b11c452f022a477ebf09500462d5",
+  "displayed_prompt_chars": 3871,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "acbd46556fad6071ce57ddb604417ccf95f827638dd06aaacd59d2eb34f67a77",
+    "original_bytes": 5711491,
+    "original_dimensions": [
+      800,
+      588
+    ],
+    "original_frames": 117,
+    "dimensions": [
+      800,
+      588
+    ],
+    "bytes": 35910
+  },
+  "preview_sha256": "10e0a7ea83c714294a8305c6e8ff351ef21d91fef24fac780a3a9b5154308b62"
+}

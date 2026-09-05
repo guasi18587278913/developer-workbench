@@ -1,0 +1,43 @@
+{
+  "id": "4cc14b2b-12b8-4d9b-b94a-a8cd79834d06",
+  "title": "ADHD Planner",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "App",
+    "item_id": "4cc14b2b-12b8-4d9b-b94a-a8cd79834d06",
+    "page_at_capture": 1,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/apps/adhd-planner/poster/media-pipeline-v1/4ea082fc8f6d27a434a5b33b71609b4fb7822c7e42a2cf28cf0e037c53aa88e8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:30.193209+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f18f4af3e6ef499af529613bed4babe87579766b3bd6b88ef5c3a351cd4993ed",
+  "displayed_prompt_chars": 8810,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "96c54f15dbe22bfe25e2c9f040e844695d3c62b655d32c8fafc63142704482ca",
+    "original_bytes": 135694,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 69540
+  },
+  "preview_sha256": "b5fe1323f63bce9524ac32d6557c895ab114710e299af1da7c581bcb0cde16fa"
+}

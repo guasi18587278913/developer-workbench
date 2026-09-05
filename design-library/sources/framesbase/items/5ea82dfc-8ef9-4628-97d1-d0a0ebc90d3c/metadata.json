@@ -1,0 +1,43 @@
+{
+  "id": "5ea82dfc-8ef9-4628-97d1-d0a0ebc90d3c",
+  "title": "Future-State",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "5ea82dfc-8ef9-4628-97d1-d0a0ebc90d3c",
+    "page_at_capture": 11,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/future-state/poster/media-pipeline-v1/1b9fb4e3dabfbc61d4488accda4678d72127c5d6a66031190a485a0ed9efb1e3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:05.801806+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2aecf352d4d186338ea956ab6472dc19b7ad26964281ee737d66879bad156529",
+  "displayed_prompt_chars": 8143,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bb28e20240de9666270c49a9c461f4b5e4084b4ddec84e857c23b4cfef24ae78",
+    "original_bytes": 148790,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 70544
+  },
+  "preview_sha256": "aaa4a4e7017d5d3b6e4c2c7a3963765a9c5b9d2ab7fbd1a3b6e200c952b152bb"
+}

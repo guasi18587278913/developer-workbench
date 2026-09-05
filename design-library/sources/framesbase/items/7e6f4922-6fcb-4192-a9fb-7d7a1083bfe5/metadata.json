@@ -1,0 +1,43 @@
+{
+  "id": "7e6f4922-6fcb-4192-a9fb-7d7a1083bfe5",
+  "title": "Neo Museum",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Website",
+    "item_id": "7e6f4922-6fcb-4192-a9fb-7d7a1083bfe5",
+    "page_at_capture": 9,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/neo-museum/preview/media-pipeline-v1/74c656f021f1846385cb7ebf97f12d667dacad6a4a9739c61672bbb45a7ca643"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:18.872132+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c79fa379a6e3485265c3b8b48b7cbaea4973f11c6c6954fcd88cdb22790bdab9",
+  "displayed_prompt_chars": 15036,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cb862558ec89dc67982376611d03f39ba43877dc532b6b2d2a8c2fa9390e66f6",
+    "original_bytes": 1640264,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 31540
+  },
+  "preview_sha256": "52b45f898153f359a84446b1579511fb6ed14378a797bf0e9dfb9e2d74c863a9"
+}

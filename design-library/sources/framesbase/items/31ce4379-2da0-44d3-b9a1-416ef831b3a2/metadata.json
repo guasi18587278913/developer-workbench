@@ -1,0 +1,43 @@
+{
+  "id": "31ce4379-2da0-44d3-b9a1-416ef831b3a2",
+  "title": "VertexAI Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "31ce4379-2da0-44d3-b9a1-416ef831b3a2",
+    "page_at_capture": 6,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/vertex-ai-hero/poster/media-pipeline-v1/958a3940da476ef68ff807d4e07d903f6fadc2e2a405522981ddd69b02712c86"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:01.589540+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "177e5113d8602eb1e2c859330e30599865d8d366bb3258cdd7d0cfb14052da0e",
+  "displayed_prompt_chars": 12242,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "dfb99506ea65a15a2bcda216628576ffcbe235f72439dbdf834b081719074733",
+    "original_bytes": 2056780,
+    "original_dimensions": [
+      1920,
+      1422
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      711
+    ],
+    "bytes": 57958
+  },
+  "preview_sha256": "3991e6912edda714a720c3f2cdfd5ef2ccc702148197ef8138ed758af7750829"
+}

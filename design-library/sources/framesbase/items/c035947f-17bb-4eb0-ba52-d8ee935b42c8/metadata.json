@@ -1,0 +1,43 @@
+{
+  "id": "c035947f-17bb-4eb0-ba52-d8ee935b42c8",
+  "title": "Cognitra Feature",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Feature",
+    "item_id": "c035947f-17bb-4eb0-ba52-d8ee935b42c8",
+    "page_at_capture": 3,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sections/cognitra-feature/preview/media-pipeline-v1/e6595f4cc636d8847dd0ce00588f4cf3d48088d3111f6b0d338b3986d6e9c262"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:36.947805+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c457671bf0c32c0034ae80d8c3ca8ce0ad4fe8aba78abb7ef6edda3daefdf1e9",
+  "displayed_prompt_chars": 3241,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f509b931f907d21515c24bc5baea58269520051aa5bf08a1829441fdd9b848fa",
+    "original_bytes": 1598116,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 22580
+  },
+  "preview_sha256": "1ceb0ee03bac18018261a8206eb8a1c54b1180d584292acfded56d6b9871404b"
+}

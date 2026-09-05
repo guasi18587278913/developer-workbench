@@ -1,0 +1,43 @@
+{
+  "id": "7cb7d03b-54d4-49a1-9deb-46c62f4b0f89",
+  "title": "Targo Logistics Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "7cb7d03b-54d4-49a1-9deb-46c62f4b0f89",
+    "page_at_capture": 4,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/12/poster/media-pipeline-v1/82bdcf2caed14c6199f1a5368ab4bd0353930a33224d040b1b0076ad9f7bf4aa"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:54.663314+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0fb344fb6593c9e3c41c21347633ab208309d4957c12414dfb3cc32723b8c78b",
+  "displayed_prompt_chars": 2162,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "97a7785536a70ef2f5fb5dd4bee9747c0c017ef231b2c04341351d29b1313bd4",
+    "original_bytes": 1827068,
+    "original_dimensions": [
+      1920,
+      1372
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      686
+    ],
+    "bytes": 47876
+  },
+  "preview_sha256": "b6ee73c50fbb40b7e0851448faa67364c85aeeb15ff5ac1b3278735fddcb8c65"
+}

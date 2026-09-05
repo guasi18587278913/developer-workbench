@@ -1,0 +1,43 @@
+{
+  "id": "3eae252c-682c-4115-958d-f4970123c69d",
+  "title": "Coastal Estate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Real Estate",
+    "item_id": "3eae252c-682c-4115-958d-f4970123c69d",
+    "page_at_capture": 14,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/coastal-estate/poster/media-pipeline-v1/bceb41fd77a6177ac95c262edce9e72adc5476eb6f7d719d1f8784eff445d462"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:53.953017+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4a83575bccb1cc266e0469bb72dc004cda6c39f17012529a52eded5775cd5704",
+  "displayed_prompt_chars": 9269,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e6c93ea5c494b3f43f7da50ea7a06538b3ca956fe2ba38e18e2e4a3038855846",
+    "original_bytes": 131760,
+    "original_dimensions": [
+      1280,
+      850
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      638
+    ],
+    "bytes": 67820
+  },
+  "preview_sha256": "bd2a0c50628941c49d0e63a9b1264ff8082c9dfe52656f5e899e86cba0515c9e"
+}

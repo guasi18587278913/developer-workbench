@@ -1,0 +1,43 @@
+{
+  "id": "277c3d81-21a8-4ea1-a16d-f22d863618eb",
+  "title": "Nexora Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features Section",
+    "item_id": "277c3d81-21a8-4ea1-a16d-f22d863618eb",
+    "page_at_capture": 1,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sections/nexora-features/poster/media-pipeline-v1/ff0bb340b24c178acfcc296fa12a8c7e71f0fed783a25f821af0388c4846fc4b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:01.345086+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6b74149f548bee6711f3d454d3e0591cb7f5c57a9f241b0a7c55ec13f6dce9e9",
+  "displayed_prompt_chars": 4555,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "77ee0b19c46fa6ff0b598fac18b2db20c439f593a5a2122ed28f93cceafaecff",
+    "original_bytes": 1311667,
+    "original_dimensions": [
+      1600,
+      1178
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 46284
+  },
+  "preview_sha256": "c8b53336a4e7ce0cdf731d7196231035e0c6df5ac3fe6c96bfa41084f3dd9abb"
+}

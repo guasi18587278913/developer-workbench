@@ -1,0 +1,43 @@
+{
+  "id": "7e49b512-41b7-4d2e-89a5-e676286d8b94",
+  "title": "Autonomous Ops",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "SaaS",
+    "item_id": "7e49b512-41b7-4d2e-89a5-e676286d8b94",
+    "page_at_capture": 4,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sections/autonomous-ops/poster/media-pipeline-v1/259e1c1d1b33bbc92993e141bd4c3f15394bf43aebd0538be9a9d12f5d5e5351"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:25.824927+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c969ea7fe9e873c56e58f8c0238a5e83c2fc8f529b2626ab46bb45b5f38672b9",
+  "displayed_prompt_chars": 18222,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "fe91de4d697e10ebcb38fc9d25bfed4820a7ce6b0b1c3f14b0a127a55341c4c6",
+    "original_bytes": 29788,
+    "original_dimensions": [
+      1280,
+      720
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      540
+    ],
+    "bytes": 16606
+  },
+  "preview_sha256": "4b2c1cdc2d767ee2e300a0570b96bd297ef960549148636791f785ef045e0d53"
+}

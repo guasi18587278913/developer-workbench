@@ -1,0 +1,43 @@
+{
+  "id": "ce169659-7033-4e97-a4c7-429fd5e851a2",
+  "title": "Pulse 3D",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "3D Website",
+    "item_id": "ce169659-7033-4e97-a4c7-429fd5e851a2",
+    "page_at_capture": 10,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/pulse-3d/poster/media-pipeline-v1/615ec7f3af840880ba478e7fcc64c28dbfdeb2fd01fd1263d95c5ee63c9149a9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:50.275697+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "42d72c4581405912775440ee6ad58a9516404dc0130fe14aad835ef5e617b10e",
+  "displayed_prompt_chars": 20823,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7f6c1465d3d0d0220a2c6fb3f1c74b1b956d250d54b0ffdd8825fd5b21acad0e",
+    "original_bytes": 119916,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 59092
+  },
+  "preview_sha256": "758af6cea49229fdc60785c484afaedb957aef8025baf550345427a6721af9a1"
+}

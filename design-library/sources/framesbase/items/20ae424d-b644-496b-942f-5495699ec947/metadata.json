@@ -1,0 +1,43 @@
+{
+  "id": "20ae424d-b644-496b-942f-5495699ec947",
+  "title": "F1 Racing Hub",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Statistics App",
+    "item_id": "20ae424d-b644-496b-942f-5495699ec947",
+    "page_at_capture": 2,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/apps/f1-racing-hub/poster/media-pipeline-v1/2e03bbd8b0ea54006aed682aec3e99fda528874dcd04cd29a1f7bac26b57c820"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:02.504887+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "64a0f460aababfc6d45fa727fd82f69c16febbfaa9e84d449f85aac0966c5460",
+  "displayed_prompt_chars": 10448,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b573ec93f4d4ba889dbf27714abd4f2a6e91c95b5c81bd43c371fbf8bebf05b3",
+    "original_bytes": 89648,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 50458
+  },
+  "preview_sha256": "f4c06ca7ec34e40291ba968a0be258ca68ce8fd04c7588197f6cd33a9555fbe1"
+}

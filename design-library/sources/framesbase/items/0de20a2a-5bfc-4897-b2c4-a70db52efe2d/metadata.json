@@ -1,0 +1,43 @@
+{
+  "id": "0de20a2a-5bfc-4897-b2c4-a70db52efe2d",
+  "title": "Mistveil",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer",
+    "item_id": "0de20a2a-5bfc-4897-b2c4-a70db52efe2d",
+    "page_at_capture": 1,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sections/mistveil/poster/media-pipeline-v1/1203db0a88dac71a6eeddea9c322541fac5bc4ace78e80d4c1c86fb990b800f2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:12.043504+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c485f122979c37b487897110191536c6c068439eef30faddc57da5984d3e835a",
+  "displayed_prompt_chars": 24907,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ec6623730161d4400949603c4fd4abb4753e20449e9c2569ebb6c6f324dc0402",
+    "original_bytes": 261542,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 62420
+  },
+  "preview_sha256": "4c014421b0fa47e6ce8945f2cae80eacc0d3580b95de026383d68cff8c59910c"
+}

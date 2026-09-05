@@ -1,0 +1,43 @@
+{
+  "id": "288baab1-70c0-4386-b174-66ec4854450e",
+  "title": "Art Landing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "288baab1-70c0-4386-b174-66ec4854450e",
+    "page_at_capture": 9,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/art-landing/poster/first-frame-v1/50527ab55e125d188e9c437c7f8af63efd792c9ecf65fbdf9b01872c9df43c75"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:58.051111+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e8f80f85334a240f97864e4c723edb0385b52f3c7c423316eeeb2406e4701fb3",
+  "displayed_prompt_chars": 5948,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "50527ab55e125d188e9c437c7f8af63efd792c9ecf65fbdf9b01872c9df43c75",
+    "original_bytes": 98278,
+    "original_dimensions": [
+      976,
+      720
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      708
+    ],
+    "bytes": 89758
+  },
+  "preview_sha256": "791ee289fae569221cc602c6c96671803c013594b47802022afc343708440b3c"
+}

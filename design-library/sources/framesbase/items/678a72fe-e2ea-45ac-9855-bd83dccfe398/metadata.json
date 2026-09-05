@@ -1,0 +1,43 @@
+{
+  "id": "678a72fe-e2ea-45ac-9855-bd83dccfe398",
+  "title": "Halo Sound",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "678a72fe-e2ea-45ac-9855-bd83dccfe398",
+    "page_at_capture": 14,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/halo-sound/poster/media-pipeline-v1/44ba820f982a677aee051e1639af01f1519ef2b40eb533deeb5e066f96ee921e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:41.579678+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "837469a69bbdce49d00f283287e11e8f40de3b5f547d71f02ddbce024468357d",
+  "displayed_prompt_chars": 33150,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c17a7f84c293e36723b94e4c6a0d5aad64c53f3668db6c7207880ef758765a23",
+    "original_bytes": 103998,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 49210
+  },
+  "preview_sha256": "3f90a3d1c69f90791c048a45739b4bd5f7af961769b3423d621602d74247161a"
+}

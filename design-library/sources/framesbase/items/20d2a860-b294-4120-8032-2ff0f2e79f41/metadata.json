@@ -1,0 +1,43 @@
+{
+  "id": "20d2a860-b294-4120-8032-2ff0f2e79f41",
+  "title": "Nickel Payments",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "20d2a860-b294-4120-8032-2ff0f2e79f41",
+    "page_at_capture": 5,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/nickel-hero/poster/media-pipeline-v1/47a2abde688ec3187a37d757d9c66c2ab263b4a9414f6245d38915e66b62b257"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:06.068849+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ef302c9de9ead14937814a1d2a51a46952963e1eb35957ccebe12b6ae649cfc1",
+  "displayed_prompt_chars": 2661,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "73c68098ae56a76b5238e55f65e87f1c67c43065c4c0739db0f72fb9ef0055be",
+    "original_bytes": 889403,
+    "original_dimensions": [
+      1920,
+      1334
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      667
+    ],
+    "bytes": 40174
+  },
+  "preview_sha256": "ecf6c93e58c71e0220b675d3ebcd5ab96537828ca6dc825a7be24519ad263b68"
+}

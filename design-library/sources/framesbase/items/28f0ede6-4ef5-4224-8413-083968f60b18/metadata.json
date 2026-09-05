@@ -1,0 +1,43 @@
+{
+  "id": "28f0ede6-4ef5-4224-8413-083968f60b18",
+  "title": "Robot Battle Arena",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Game UI",
+    "item_id": "28f0ede6-4ef5-4224-8413-083968f60b18",
+    "page_at_capture": 2,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/apps/robot-battle-arena/poster/media-pipeline-v1/719d114bfbee9b078a349a7c9b7cee8891d74039fbb75290cee471ab18a66b7b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:20.781100+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5876b16681d3640b2e5b9479fb2bf2734875c96f2a87c78f4bc3bba6e23cc255",
+  "displayed_prompt_chars": 9335,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "38934c55cd8504f3f9ba97fef78c8e52b11a158e6e824c2f9780edbac07011ac",
+    "original_bytes": 84788,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 46236
+  },
+  "preview_sha256": "db7aceafcd775aeead08ebd73ea552cea14423633efd22aac8463a412b37b436"
+}

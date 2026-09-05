@@ -1,0 +1,43 @@
+{
+  "id": "49faf7a1-62f5-4e48-8a07-5e907d3525bf",
+  "title": "Framelix 3D Studios",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "49faf7a1-62f5-4e48-8a07-5e907d3525bf",
+    "page_at_capture": 4,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/13/poster/media-pipeline-v1/ea15491bcaf212cb9a1b8620cd11d636c2f86395392066c5a3234fc1d8883c79"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:43.339981+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b8bbbf56f694f7e7a4458833fde0664efb8b009a65cbede3548a2d6882d3f33b",
+  "displayed_prompt_chars": 2977,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6dc5806d9d6ebbf43a580b90bc0bfa1c3bd8aa0aae262d01e83fd5b9ddee05c6",
+    "original_bytes": 1787014,
+    "original_dimensions": [
+      1732,
+      1074
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      595
+    ],
+    "bytes": 29044
+  },
+  "preview_sha256": "6721ee12575569f929a1a781a9796c151afb95d2fd3953f81a21b89a53ab2dd1"
+}

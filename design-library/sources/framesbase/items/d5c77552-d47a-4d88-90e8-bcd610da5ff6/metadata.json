@@ -1,0 +1,43 @@
+{
+  "id": "d5c77552-d47a-4d88-90e8-bcd610da5ff6",
+  "title": "AI Future Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "d5c77552-d47a-4d88-90e8-bcd610da5ff6",
+    "page_at_capture": 2,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/ai-future-studio/poster/media-pipeline-v1/fe2580fc24a6e5be03338ce0b8c2132a9344d3c8f0396ca9f7aaf77dccf5f551"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:12.004223+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "38deceabad9a1753eb224e53f3ff5648514fbb6c8e17af7ba2a6013fc3f0d295",
+  "displayed_prompt_chars": 51890,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f3b84e2dab693c792418c2a4da42cc4004eedec623a7245746f80358d00e2a4d",
+    "original_bytes": 101802,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 58684
+  },
+  "preview_sha256": "37746c88916ce3351271ed0aedcb7f1b76577842890eab05666320708db359a4"
+}

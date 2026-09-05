@@ -1,0 +1,43 @@
+{
+  "id": "00c5dd3b-a42e-4769-ae44-62a5f876c338",
+  "title": "Radial Diagram",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Testimonials",
+    "item_id": "00c5dd3b-a42e-4769-ae44-62a5f876c338",
+    "page_at_capture": 3,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sections/radial-diagram/preview/media-pipeline-v1/6a53c3e04470649584b7bdc6bbf27e3e593af5d7b4d87f715fc7f410e5296be4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:02.277295+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2e928d74cb6c4d56642e7a28a6be130dc5c4a3185741c7170385b05f00e1b784",
+  "displayed_prompt_chars": 5364,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "538468b3c1c69afc9439f529d3643f667f81c24ca7a79931f05e5dd3052c4f65",
+    "original_bytes": 305742,
+    "original_dimensions": [
+      640,
+      476
+    ],
+    "original_frames": 71,
+    "dimensions": [
+      640,
+      476
+    ],
+    "bytes": 13974
+  },
+  "preview_sha256": "6694094d4319f322604218ccfa6d95723d91999bdfe14ca867328ab2c443ce7e"
+}

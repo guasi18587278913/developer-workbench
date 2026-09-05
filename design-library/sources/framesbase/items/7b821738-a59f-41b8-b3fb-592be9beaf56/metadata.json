@@ -1,0 +1,43 @@
+{
+  "id": "7b821738-a59f-41b8-b3fb-592be9beaf56",
+  "title": "FinancialFocus",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "7b821738-a59f-41b8-b3fb-592be9beaf56",
+    "page_at_capture": 7,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/financialfocus/preview/media-pipeline-v1/000c2ecf2bdb4e3d7ebb964d0822a887cf965ade992f05b4a0cfdbf237d918c5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:52.680460+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7c03e15d79e06667f504bed10e01513a02341050122051ec0d5e52183a8b9d01",
+  "displayed_prompt_chars": 54280,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "dbf9e700b2e8059105dfe752c3cad82ddd10e1afd4442ecc538ec99d20d09dbb",
+    "original_bytes": 835868,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 19510
+  },
+  "preview_sha256": "d425e25498b043c4fd184b861a4e2e25a768e5f1cf108422ddd42cfa7d3f26ec"
+}

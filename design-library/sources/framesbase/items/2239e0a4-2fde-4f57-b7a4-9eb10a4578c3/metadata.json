@@ -1,0 +1,43 @@
+{
+  "id": "2239e0a4-2fde-4f57-b7a4-9eb10a4578c3",
+  "title": "Eco Intelligence",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "2239e0a4-2fde-4f57-b7a4-9eb10a4578c3",
+    "page_at_capture": 11,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/eco-intelligence/preview/media-pipeline-v1/25d2cc1387322ecd96a9089286997e6c44f7c8f0fe255eeaf5690ba3d2f6d06f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:08.056753+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "653fc954812906d096332223cf51ab135f0c89a2a35767fe8cad3828a6a8eedd",
+  "displayed_prompt_chars": 7877,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cafdc60d7ac4eb2435c324e4d7cfa20cab59f3a5bd7574a3709f287cdd702f26",
+    "original_bytes": 1219930,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 25072
+  },
+  "preview_sha256": "aaf38c60f7f7f202ec3371c28cef74b26a1eb2ca3a29484adde91ef3297375f3"
+}

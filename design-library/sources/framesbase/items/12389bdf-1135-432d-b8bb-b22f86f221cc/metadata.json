@@ -1,0 +1,43 @@
+{
+  "id": "12389bdf-1135-432d-b8bb-b22f86f221cc",
+  "title": "AI Calorie Tracker",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Health",
+    "item_id": "12389bdf-1135-432d-b8bb-b22f86f221cc",
+    "page_at_capture": 1,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/apps/ai-calorie-tracker/poster/first-frame-v1/823166dba6b502134e2b2666e9d615361701149876ea675bda082e7591926cf5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:27.003513+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "12cbc77d0cb5e36f198ab6748f08fd0f5f82980a07d9356f87bee0a2f69e1511",
+  "displayed_prompt_chars": 45323,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "823166dba6b502134e2b2666e9d615361701149876ea675bda082e7591926cf5",
+    "original_bytes": 58188,
+    "original_dimensions": [
+      1280,
+      954
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      716
+    ],
+    "bytes": 40172
+  },
+  "preview_sha256": "b01285c82068c5857597498a2a1980ef50930d3677d1f5f41fbd5596bb87fab0"
+}

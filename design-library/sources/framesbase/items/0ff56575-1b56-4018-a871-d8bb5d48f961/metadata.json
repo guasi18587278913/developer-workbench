@@ -1,0 +1,43 @@
+{
+  "id": "0ff56575-1b56-4018-a871-d8bb5d48f961",
+  "title": "Product Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency Website",
+    "item_id": "0ff56575-1b56-4018-a871-d8bb5d48f961",
+    "page_at_capture": 11,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/product-studio/poster/media-pipeline-v1/986fcb5135b1da7c69607a9da3f0cd817049b0a8a4488ed593da0f1db4c270ae"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:54.436103+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2e43e93d5f14f2fe8fb7cf0242263e1ad78dec2dc5a5d58ac28c59547bc50ad7",
+  "displayed_prompt_chars": 8165,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "da522ad2161e0160acdd496fc1e723e78bed8454f1062da3540892c7b17957e8",
+    "original_bytes": 54392,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 27748
+  },
+  "preview_sha256": "809df0e2a20f646733ab8d570c4bba411648b7e209242f5fbcaebaa564aa7ba3"
+}

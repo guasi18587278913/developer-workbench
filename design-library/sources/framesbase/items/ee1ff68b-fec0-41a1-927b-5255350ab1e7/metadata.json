@@ -1,0 +1,43 @@
+{
+  "id": "ee1ff68b-fec0-41a1-927b-5255350ab1e7",
+  "title": "VEX Ventures",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "ee1ff68b-fec0-41a1-927b-5255350ab1e7",
+    "page_at_capture": 7,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/vex-ventures-hero/poster/media-pipeline-v1/1d9f2a8fa1e81a0423dd742fdc060bfeb29581d6972d713466a92aa80fdbe519"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:06.404129+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5b43ab2865b587b541447a0ac44d601d0b10fb80eabaf72f11b8e799a5953a7b",
+  "displayed_prompt_chars": 5051,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "036d3c5c27ca9ecb1bf0b647ad7fc24a0aa71866e1eb3c9a04e0b13cc6536521",
+    "original_bytes": 93439,
+    "original_dimensions": [
+      674,
+      509
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      674,
+      509
+    ],
+    "bytes": 57952
+  },
+  "preview_sha256": "cb047d97a248640f16e609c3af50db739b013ebce999f3a889605ae4f2217cf7"
+}

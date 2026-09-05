@@ -1,0 +1,43 @@
+{
+  "id": "65452494-e776-4138-869d-1e7e8a041a7e",
+  "title": "CozyPaws",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "65452494-e776-4138-869d-1e7e8a041a7e",
+    "page_at_capture": 10,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/cozypaws/poster/first-frame-v1/ad8b44efc5f9c99849dd167fde66237fb61e46ee067648781ec8ed1049f9db91"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:58.294810+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bafa6b2af5f0a290f17c922f798f46e2e7a6fdfbb7c25208c3ccae1c73e74074",
+  "displayed_prompt_chars": 6443,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ad8b44efc5f9c99849dd167fde66237fb61e46ee067648781ec8ed1049f9db91",
+    "original_bytes": 56854,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 39674
+  },
+  "preview_sha256": "1279ad4c99fcc00b94873f23b403087f633894a235230ff11b2c42527b700369"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "38aba76a-a12d-4d8a-a8c1-919c9b030157",
+  "title": "Synth Mode",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fashion",
+    "item_id": "38aba76a-a12d-4d8a-a8c1-919c9b030157",
+    "page_at_capture": 12,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/synth-mode/poster/media-pipeline-v1/acad9c713241fa1fdc50b4279e31edf2114e1218ffcf89a8170b9ecc240b7999"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:41.796019+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "971ac1dd12d6ed3bd5dc18bd3fc235a89392b49bf6420a91f0768ba69f50b8cf",
+  "displayed_prompt_chars": 10533,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a6432f36e8a33cead26be07c9e8f61333c38876e2382cc12f5e1313b44d58413",
+    "original_bytes": 46096,
+    "original_dimensions": [
+      1280,
+      1002
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      752
+    ],
+    "bytes": 27534
+  },
+  "preview_sha256": "61c13279d8664c71748b6a49265d715e8dac66264da8f58060b98493b9bb2ee7"
+}

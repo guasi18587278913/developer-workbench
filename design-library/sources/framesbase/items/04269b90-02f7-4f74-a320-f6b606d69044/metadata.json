@@ -1,0 +1,43 @@
+{
+  "id": "04269b90-02f7-4f74-a320-f6b606d69044",
+  "title": "Agent Crew",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "04269b90-02f7-4f74-a320-f6b606d69044",
+    "page_at_capture": 14,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/agent-crew/poster/media-pipeline-v1/2e866e67ece6b78740d628ac9985bc39dc62ccd9b160592fff6b8487fbfe2f88"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:35.033299+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5705e560cb2e34dbbe402235bec8370f37b9cb23a62b29f607860453940e8f4d",
+  "displayed_prompt_chars": 8792,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b66bebde1f6a24b19aa6f5817818ccc1af06986c77fa9205b4f28eced397f819",
+    "original_bytes": 87032,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 51186
+  },
+  "preview_sha256": "d081bda6919df697dc7e44a9dfab42515e56ff4b41795261df6f01c4b1465509"
+}

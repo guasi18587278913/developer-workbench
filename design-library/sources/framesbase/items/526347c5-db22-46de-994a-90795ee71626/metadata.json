@@ -1,0 +1,43 @@
+{
+  "id": "526347c5-db22-46de-994a-90795ee71626",
+  "title": "Intelligent Systems",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "526347c5-db22-46de-994a-90795ee71626",
+    "page_at_capture": 14,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/intelligent-systems/poster/media-pipeline-v1/03e7b1d112ab02517da734df20f1aae41cbaf5037715b3b8b67769fdcff0f0b0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:39.658004+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "25074a811b013367f38cd944e6c387867c0253f4b845e51b853473d2d20aea53",
+  "displayed_prompt_chars": 24365,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "df9fc07c56c4d34f5dfc6520566ecbff41d3e2cb3acbca10ea661df718b2205f",
+    "original_bytes": 98702,
+    "original_dimensions": [
+      1280,
+      1928
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      637,
+      960
+    ],
+    "bytes": 32996
+  },
+  "preview_sha256": "c2398e05a4c2526534d9cfac87d04bb312e5e6509c4967553143a9515920bbd0"
+}

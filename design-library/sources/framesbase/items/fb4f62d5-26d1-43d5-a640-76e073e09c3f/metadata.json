@@ -1,0 +1,43 @@
+{
+  "id": "fb4f62d5-26d1-43d5-a640-76e073e09c3f",
+  "title": "Immersive Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "fb4f62d5-26d1-43d5-a640-76e073e09c3f",
+    "page_at_capture": 14,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/immersive-studio/poster/media-pipeline-v1/ef479e0b454f9c614386adf725739e63d79b1047f1d739b4df94d17ba6258044"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:44.604641+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2a792a7635d744c6d8334f3bef86ff3c2f12632387a77b295f4c5cb43f0ec7f7",
+  "displayed_prompt_chars": 11711,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "79af29367bbfff7c3f7c6296c8b79b5a61d9efd9b56e5e227e2465f6d2cc6d86",
+    "original_bytes": 108048,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 57698
+  },
+  "preview_sha256": "069a660039e1288bc8f569717069e553dd8205ad8ee14064a93c02fb06b375c5"
+}

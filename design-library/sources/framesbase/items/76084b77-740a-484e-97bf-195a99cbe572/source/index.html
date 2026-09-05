@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Heart health overview</title>
+<script>/* holding state for the entrance, with a failsafe that drops it again if the sequence never runs */
+document.documentElement.className+=" pre";window.__pre=setTimeout(function(){document.documentElement.classList.remove("pre")},4000);</script>
+<style>
+  *,*::before,*::after{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; height:100%; width:100%; overflow:hidden;
+             background:#0b1024; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+
+  #bg{ position:fixed; left:50%; top:50%; width:1920px; height:1440px;
+        transform:translate(-50%,-50%); transform-origin:50% 50%;
+        z-index:0; user-select:none; -webkit-user-drag:none; }
+
+  /* ============================ TYPOGRAPHY ============================
+     One variable typeface (Archivo, wght 100-900) carries the whole screen.
+     Roles below are the complete inventory of text styles in this design;
+     every text node uses one of them - no per-element font declarations. */
+  @font-face{
+    font-family:'Archivo';
+    src:url(assets/fonts/archivo.woff2) format('woff2-variations');
+    font-weight:100 900; font-style:normal; font-display:block;
+  }
+  :root{
+    /* The screen is one fixed canvas that is scaled to the viewport. These four
+       numbers describe it: the canvas box, and the box that must stay visible
+       inside it. The tablet architecture swaps them for a portrait canvas. */
+    --canvas-w:1920; --canvas-h:1440;   /* design canvas */
+    --fit-w:1728;    --fit-h:1036;      /* must-stay-visible box */
+    --shift-x:0px;   --shift-y:0px;     /* recentres the canvas when it is trimmed */
+    --flow:0;        --fit-vh:620;      /* 1 = canvas scrolls instead of being framed */
+
+    --font-sans:'Archivo','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+    /* Weight scale - Archivo wght-axis positions, calibrated so that rendered
+       stroke thickness matches the prototype at each optical size. The
+       prototype's face carries an optical-size axis (thin strokes at display
+       sizes, denser strokes at UI sizes); Archivo does not, so that behaviour
+       is expressed here as size-specific steps rather than one flat weight. */
+    /* Global stroke-density trim. Every role weight below is offset by this
+       single value, so the whole screen can be made lighter or heavier without
+       touching the individual roles. 0 = calibrated stem match. */
+    --fw-adjust:-120;
+
+    --fw-display:360;      /* 85px  - display */
+    --fw-metric:325;       /* 25px  - readout label */
+    --fw-regular:380;      /* 39px  - callout heading */
+    --fw-medium:470;        /* 20px  - body copy */
+    --fw-medium-plus:490; /* 25px  - inline link */
+    --fw-semibold:520;    /* 22-31px - card headline, button */
+    --fw-bold:575;            /* 20-25px - emphasised label, metric */
+    --fw-chip:560;            /* 19px  - filter pills */
+
+    /* role: display - screen title */
+    --t-display-size:85.5px;
+    --t-display-leading:77px;
+    --t-display-tracking:-0.0193em;
+    --t-display-weight:calc(var(--fw-display) + var(--fw-adjust));
+
+    /* role: heading - callout headline */
+    --t-heading-size:39px;
+    --t-heading-leading:41px;
+    --t-heading-tracking:-0.0085em;
+    --t-heading-weight:calc(var(--fw-regular) + var(--fw-adjust));
+
+    /* role: subhead - card headline */
+    --t-subhead-size:31px;
+    --t-subhead-leading:35px;
+    --t-subhead-tracking:0.0061em;
+    --t-subhead-weight:calc(var(--fw-semibold) + var(--fw-adjust));
+
+    /* role: body - running copy */
+    --t-body-size:20px;
+    --t-body-leading:29px;
+    --t-body-tracking:0.0123em;
+    --t-body-weight:calc(var(--fw-medium) + var(--fw-adjust));
+
+    /* role: label - buttons and inline UI labels */
+    --t-label-size:22px;
+    --t-label-tracking:0.013em;
+    --t-label-weight:calc(var(--fw-semibold) + var(--fw-adjust));
+
+    /* role: label-strong - emphasised label above body copy */
+    --t-labelstrong-size:20.5px;
+    --t-labelstrong-tracking:0.0072em;
+    --t-labelstrong-weight:calc(var(--fw-bold) + var(--fw-adjust));
+
+    /* role: chip - filter pills */
+    --t-chip-size:19px;
+    --t-chip-tracking:0.0em;
+    --t-chip-weight:calc(var(--fw-chip) + var(--fw-adjust));
+
+    /* role: metric - readout pill */
+    --t-metric-size:24.5px;
+    --t-metric-tracking:-0.02em;
+    --t-metric-weight:calc(var(--fw-metric) + var(--fw-adjust));
+    --t-metricval-weight:calc(var(--fw-bold) + var(--fw-adjust));
+
+    /* role: link - inline text link */
+    --t-link-size:25px;
+    --t-link-tracking:-0.042em;
+    --t-link-weight:calc(var(--fw-medium-plus) + var(--fw-adjust));
+  }
+
+  /* A scaled canvas keeps its unscaled layout box, so once it scrolls it needs
+     a frame sized to what is actually drawn. Inert until then. */
+  #frame,.hero,.chartframe,.callout{ display:contents; }
+
+  #stage{ position:fixed; left:50%; top:50%;
+           width:calc(var(--canvas-w) * 1px); height:calc(var(--canvas-h) * 1px);
+           transform:translate(-50%,-50%) scale(var(--s,1)) translate(var(--shift-x),var(--shift-y));
+           transform-origin:50% 50%; z-index:1;
+           font-family:var(--font-sans); font-synthesis:none; color:#fff;
+           font-variation-settings:'wght' var(--fw-regular); }
+
+  .t-display{ font-size:var(--t-display-size); line-height:var(--t-display-leading);
+               letter-spacing:var(--t-display-tracking);
+               font-variation-settings:'wght' var(--t-display-weight); }
+  .t-heading{ font-size:var(--t-heading-size); line-height:var(--t-heading-leading);
+               letter-spacing:var(--t-heading-tracking);
+               font-variation-settings:'wght' var(--t-heading-weight); }
+  .t-subhead{ font-size:var(--t-subhead-size); line-height:var(--t-subhead-leading);
+               letter-spacing:var(--t-subhead-tracking);
+               font-variation-settings:'wght' var(--t-subhead-weight); }
+  .t-body{    font-size:var(--t-body-size); line-height:var(--t-body-leading);
+               letter-spacing:var(--t-body-tracking);
+               font-variation-settings:'wght' var(--t-body-weight); }
+  .t-label{   font-size:var(--t-label-size); letter-spacing:var(--t-label-tracking);
+               font-variation-settings:'wght' var(--t-label-weight); }
+  .t-label-strong{ font-size:var(--t-labelstrong-size); letter-spacing:var(--t-labelstrong-tracking);
+               font-variation-settings:'wght' var(--t-labelstrong-weight); }
+  .t-chip{    font-size:var(--t-chip-size); letter-spacing:var(--t-chip-tracking);
+               font-variation-settings:'wght' var(--t-chip-weight); }
+  .t-metric{  font-size:var(--t-metric-size); letter-spacing:var(--t-metric-tracking);
+               font-variation-settings:'wght' var(--t-metric-weight); }
+  .t-metric-value{ font-size:var(--t-metric-size); letter-spacing:var(--t-metric-tracking);
+               font-weight:400; font-variation-settings:'wght' var(--t-metricval-weight); }
+  .t-link{    font-size:var(--t-link-size); letter-spacing:var(--t-link-tracking);
+               font-variation-settings:'wght' var(--t-link-weight); }
+  /* The wrappers below are inert (display:contents) until the mobile layout
+     turns them into real boxes, so their children keep the same containing
+     block and the same absolute placement everywhere above that breakpoint. */
+  #stage>*, .hero>*, .chartframe>*, .callout>*{ position:absolute; }
+
+  .halo{ left:410px; top:810px; width:1320px; height:540px;
+          z-index:0; pointer-events:none; background:radial-gradient(50% 50% at 50% 50%, rgba(205,205,255,1.000) 0%, rgba(205,205,255,0.956) 10%, rgba(205,205,255,0.835) 20%, rgba(205,205,255,0.667) 30%, rgba(205,205,255,0.487) 40%, rgba(205,205,255,0.325) 50%, rgba(205,205,255,0.198) 60%, rgba(205,205,255,0.110) 70%, rgba(205,205,255,0.056) 80%, rgba(205,205,255,0.026) 90%, rgba(205,205,255,0.011) 100%); }
+  .halo2{ left:620px; top:980px; width:720px; height:360px;
+           z-index:0; pointer-events:none; background:radial-gradient(50% 50% at 50% 50%, rgba(210,210,255,0.361) 0%, rgba(210,210,255,0.345) 10%, rgba(210,210,255,0.302) 20%, rgba(210,210,255,0.241) 30%, rgba(210,210,255,0.176) 40%, rgba(210,210,255,0.117) 50%, rgba(210,210,255,0.071) 60%, rgba(210,210,255,0.040) 70%, rgba(210,210,255,0.020) 80%, rgba(210,210,255,0.009) 90%, rgba(210,210,255,0.004) 100%); }
+  .halo3{ left:250px; top:1020px; width:1320px; height:360px;
+           z-index:0; pointer-events:none; background:radial-gradient(50% 50% at 50% 50%, rgba(120,140,255,0.188) 0%, rgba(120,140,255,0.180) 10%, rgba(120,140,255,0.157) 20%, rgba(120,140,255,0.125) 30%, rgba(120,140,255,0.092) 40%, rgba(120,140,255,0.061) 50%, rgba(120,140,255,0.037) 60%, rgba(120,140,255,0.021) 70%, rgba(120,140,255,0.011) 80%, rgba(120,140,255,0.005) 90%, rgba(120,140,255,0.002) 100%); }
+  .panel{ left:96px; top:288px; width:1728px; height:864px; border-radius:80px; z-index:1;
+           backdrop-filter:blur(60px) saturate(.8); -webkit-backdrop-filter:blur(60px) saturate(.8);
+           box-shadow:inset 0 1px 0 rgba(255,255,255,.14), inset 0 0 0 1px rgba(255,255,255,.05),
+                      0 0 34px rgba(214,228,255,.115); }
+  .panel::before{ content:''; position:absolute; inset:0; border-radius:inherit;
+                   background:url(assets/textures/panel-texture.webp) center/100% 100% no-repeat; opacity:0.95; }
+
+
+
+  .title{ left:139px; top:337px; margin:0; width:900px;
+           color:#fdfeff; z-index:6; }
+
+  .chart{ left:0; top:0; width:1920px; height:1440px; z-index:3; pointer-events:none; }
+
+  .spo2{ left:1391px; top:578.5px; width:145px; height:51px; border-radius:20px; z-index:4;
+          background:rgba(255,255,254,.99); display:flex; align-items:center; justify-content:center;
+          gap:7px; box-shadow:0 6px 22px rgba(10,14,34,.18); }
+  .spo2 span{ color:#b3bdd2; position:relative; top:-1px; }
+  .spo2 b{ color:#26356b; position:relative; top:-1px; }
+
+  .heart{ left:594px; top:202px; width:657px; height:1003px; z-index:5;
+           filter:drop-shadow(0 0 34px rgba(150,180,255,.22)); user-select:none; -webkit-user-drag:none; }
+
+  .card{ left:133.5px; top:538.5px; width:449px; height:576px; border-radius:64px; z-index:6;
+          backdrop-filter:blur(30px) saturate(.9); -webkit-backdrop-filter:blur(30px) saturate(.9);
+          box-shadow:inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05); }
+  .card::before{ content:''; position:absolute; inset:0; border-radius:inherit; z-index:-1;
+                  background:url(assets/textures/card-texture.webp) center/100% 100% no-repeat; opacity:0.95; }
+  .card>*{ position:absolute; }
+
+  .card h2{ left:44.0px; top:46px; margin:0; width:260px; color:#ffffff; }
+  .thumb{ left:281px; top:35.5px; width:136px; height:136px; border-radius:50%;
+           object-fit:cover; box-shadow:0 10px 30px rgba(12,16,40,.20); }
+
+  .chips{ left:44.5px; top:186.5px; display:flex; gap:8.0px;
+           align-items:flex-start; }
+  .chip{ height:33px; border-radius:16.5px; display:flex; align-items:center; justify-content:center;
+          white-space:nowrap; padding:0 9.75px; }
+  .chip span{ position:relative; top:-0.5px; }
+  .chip.outline{ border:2.5px solid rgba(255,255,255,.68); color:#ffffff; }
+  .chip.solid{ background:rgba(255,255,255,.985); color:#8f93a6; padding:0 13.0px; }
+
+  .secret{ left:45.5px; top:323px; margin:0; white-space:nowrap;
+            line-height:1; color:#f4f8ff; }
+  .body{ left:45.5px; top:356px; margin:0; white-space:nowrap;
+          color:rgba(230,234,255,.80); }
+
+  .addinfo{ left:131.5px; top:475.5px; width:186px; height:61px; border-radius:30.5px;
+             background:rgba(255,255,255,.20); border:none; color:#fff; white-space:nowrap;
+             font-family:inherit;
+             display:flex; align-items:center; padding:0 11.5px 0 34px;
+             box-shadow:inset 0 0 0 1px rgba(255,255,255,.05); }
+  .addinfo em{ font-style:normal; position:relative; top:1px; }
+  .addinfo:focus-visible, .tip a:focus-visible{ outline:3px solid #ffffff; outline-offset:4px; border-radius:4px; }
+  .plus{ width:37px; height:37px; border-radius:50%; background:rgba(255,255,255,.165); margin-left:auto;
+          display:flex; align-items:center; justify-content:center; flex:0 0 auto; }
+
+  /* The callout does not have a hard left edge in the prototype: the glass
+     (fill *and* backdrop blur) ramps in over the first ~18% of its width, so
+     the heart behind stays visible under the marker dot. */
+  /* Real glass: the callout sits ABOVE the render and blurs it. Its fill is
+     translucent, so the heart reads through the top-left corner softened rather
+     than cut away. The marker tab around the dot is part of the same sheet -
+     one element, one blur, one fill - so the two never seam or double-tint. */
+  .tip-glass{ left:1023px; top:1028px; width:477.5px; height:169.5px; z-index:6;
+               backdrop-filter:blur(14px) saturate(1); -webkit-backdrop-filter:blur(14px) saturate(1);
+               -webkit-mask-image:url(assets/masks/tip-glass-mask.png); mask-image:url(assets/masks/tip-glass-mask.png);
+               -webkit-mask-size:100% 100%; mask-size:100% 100%;
+               -webkit-mask-repeat:no-repeat; mask-repeat:no-repeat; }
+  .tip-glass::after{ content:''; position:absolute; inset:0;
+                      background:url(assets/textures/tip-glass-texture.webp) center/100% 100% no-repeat; opacity:0.5; }
+  .tip{ left:1062px; top:1031.5px; width:438.5px; height:166px; z-index:7; pointer-events:none; }
+  .tip > *{ pointer-events:auto; }
+  .tip p{ position:absolute; left:19.0px; top:22px; margin:0;
+           white-space:nowrap; color:#ffffff; }
+  .tip a{ position:absolute; left:19.0px; top:118px; white-space:nowrap;
+           color:#fff; text-decoration:none; }
+  .tip .ul{ position:absolute; left:19.0px; top:145.9px; width:100px; height:1.6px; background:rgba(255,255,255,.85); }
+  .dot{ left:1035px; top:1042px; width:17px; height:17px; border-radius:50%; background:#fff;
+         z-index:8; box-shadow:0 2px 10px rgba(10,14,34,.30); }
+
+
+
+  /* ---- landscape tablet -------------------------------------------------
+     A landscape tablet is already the design's own 4:3 shape, so the desktop
+     composition needs no rearranging - what it needs is the empty canvas
+     margin back. Below 1180px the canvas is trimmed to the artwork itself
+     (the panel's box plus the heart's overhang) and recentred, which lifts
+     1024x768 from 10.7px body copy to 11.9px without moving one element
+     relative to another. Laptops above this width are untouched. */
+  @media (max-width:1180px) and (min-aspect-ratio:1/1) {
+    :root{ --canvas-w:1728; --canvas-h:1058; --fit-w:1728; --fit-h:1058;
+           --shift-x:-96px;  --shift-y:-202px; }
+  }
+
+  /* ==================== TABLET ARCHITECTURE ==========================
+     The desktop canvas is 4:3 and its panel is 2:1, so on a portrait tablet
+     it can only ever occupy a band across the middle - at 834x1112 the body
+     copy lands at 9.7px. The break is therefore taken on portrait/square
+     viewports narrower than 1120px, which is the width at which that copy
+     first drops below ~13px; landscape tablets keep the desktop canvas,
+     since 1024x768 is the design's own aspect ratio.
+
+     Below the break the same elements are re-composed onto a portrait canvas:
+     panel upright, title above the card, heart carried to the top right, the
+     chart moved beneath both. No element is removed, resized in isolation, or
+     restyled - only placed. */
+  @media (max-width:1120px) and (max-aspect-ratio:1/1) {
+    :root{ --canvas-w:1200; --canvas-h:1560; --fit-w:1160; --fit-h:1420; }
+
+    .panel{ left:32px; top:222px; width:1136px; height:1240px; border-radius:60px; }
+    .panel::before{ background-image:url(assets/textures/panel-texture-portrait.webp); }
+
+    .title{ left:84px; top:294px; }
+    .heart{ left:560px; top:300px; width:620px; height:947px; }
+    .halo,.halo2,.halo3{ transform:translate(0px,109px) scale(.9437); transform-origin:0 0; }
+
+    .card{ left:84px; top:512px; }
+
+    /* The lower half mirrors the desktop relationship rather than repeating it:
+       the grid still runs the full width of the panel, but the trace sits to the
+       LEFT and the heart's base crosses its right end - so the heart occludes
+       the trace here exactly as it does on desktop, and the corner that was
+       empty carries the reading instead. */
+    .chart{ transform:none; }
+    .chart-grid,.chart-trace{ transform-box:view-box; transform-origin:0 0; }
+    .chart-grid{ transform:translate(-507px,551px) scale(.926); }
+    .chart-trace{ transform:translate(-929px,580px) scale(.95); }
+    .spo2{ left:386px; top:1129px; }
+
+    .tip-glass{ left:560px; top:950px; }
+    .tip{ left:597px; top:953.5px; }
+    .dot{ left:572px; top:964px; }
+  }
+
+
+  /* ==================== MOBILE ARCHITECTURE ==========================
+     The portrait-tablet canvas is width-driven, so its copy falls below ~13px
+     under about 750px - at 390px it is 6.7px and the card is 151px wide. Below
+     that the composition is rebuilt as a vertical one on a 600-unit canvas: at
+     390px the body copy comes back to 13.9px and the card to 313px.
+
+     A phone cannot hold a 576-unit card, the render, the reading and the
+     callout at a legible size in one viewport - the honest arrangement is a
+     canvas that scrolls, with the forest staying fixed behind it exactly as it
+     does everywhere else. Nothing is removed, stacked blindly or shrunk: the
+     render still breaks the panel, the callout still crosses it, and the
+     reading still runs under it. */
+  @media (max-width:750px) {
+    /* ===================== MOBILE ARCHITECTURE =====================
+       Above this width the screen is a fixed canvas scaled to fit; a phone
+       cannot carry that (at 390px the scaled body copy fell to 10.5px), so the
+       canvas is dropped and the same DOM becomes a real layout.
+
+       The whole composition hangs off ONE fluid unit - #stage's font-size,
+       bounded by both axes. Type, gaps, padding and the two aspect-locked
+       blocks are all expressed in em against it, so the layout scales as a
+       whole and can never out-grow the screen: no scrolling, no clipping, no
+       per-device rules.
+
+       Structure is a five-row grid. The render row is the only flexible one,
+       so it absorbs whatever is left, and the callout hangs off its base
+       right-aligned - the same relationship it has on desktop, rather than
+       another block in a stack. The reading bleeds to the panel's edges the
+       way the grid does on desktop. */
+    #stage{
+      /* the one fluid unit the whole mobile composition is built from */
+      font-size:clamp(9px, min(3.65vw, 2.2vh), 15.5px);
+
+      --pad-outer:.8em;
+      --pad-panel:1.15em;
+      --stack-gap:.85em;
+      --radius-panel:2em;
+
+      /* the type roles keep their names, weights and tracking - only their
+         sizes become relative, because nothing is being scaled any more */
+      --t-display-size:2.55em;   --t-display-leading:1.06;
+      --t-heading-size:1.22em;   --t-heading-leading:1.22;
+      --t-subhead-size:1.4em;    --t-subhead-leading:1.18;
+      --t-body-size:.95em;       --t-body-leading:1.45;
+      --t-label-size:1em;
+      --t-labelstrong-size:.95em;
+      --t-chip-size:.78em;
+      --t-metric-size:.95em;
+      --t-link-size:.88em;
+
+      position:fixed; top:0; bottom:0; left:50%; height:100dvh;
+      width:min(100%, 500px); transform:translateX(-50%); margin:0;
+      display:grid; grid-template-columns:minmax(0,1fr);
+      grid-template-rows:auto minmax(0,1fr) auto auto auto;
+      row-gap:var(--stack-gap);
+      padding:calc(var(--pad-outer) + var(--pad-panel));
+    }
+
+    html,body{ overflow:hidden; }
+    #frame{ display:block; }
+
+    /* placement from the canvas tiers is cleared once; everything below is
+       expressed relatively, so nothing carries a canvas offset */
+    #stage>*, .hero>*, .chartframe>*, .callout>*{
+      position:relative; left:auto; top:auto; right:auto; bottom:auto; }
+    /* Every block owns the single column - two blocks sharing a row overlap by
+       design. The panel is excluded: an absolutely positioned grid child that
+       is given a grid line is placed against its grid area rather than the
+       stage's padding box, which would inset the surface twice. */
+    #stage>*:not(.panel):not(.heart3d):not(#skeleton){ grid-column:1; }
+
+    #stage>.panel{ position:absolute; inset:var(--pad-outer); width:auto; height:auto;
+                    border-radius:var(--radius-panel); }
+    .panel::before{ background-image:url(assets/textures/panel-texture-fluid.webp); }
+
+    .title{ grid-row:1; width:auto; margin:0; }
+
+    /* the render is the flexible row: it takes whatever the others leave */
+    /* The render is not one of the bands - it stands BEHIND them, spanning from
+       under the title down through the callout and the reading, the way it
+       spans the whole panel on desktop. That is what lets it stay large on a
+       phone: it is no longer competing with the text blocks for height, it is
+       the surface they sit on. The trace passes behind it and re-emerges either
+       side, exactly as it does on the wider tiers. */
+    .hero{ grid-row:2 / span 3; z-index:5; display:flex; align-items:center;
+            justify-content:flex-start; min-height:0; pointer-events:none;
+            padding:0 0 25% 3%; }
+    .heart{ position:relative; width:auto; height:100%; max-width:92%;
+             object-fit:contain; filter:drop-shadow(0 0 34px rgba(150,180,255,.22)); }
+    /* the glow follows the render's own centre, not the row's */
+    .halo,.halo2,.halo3{ position:absolute; left:32%; top:auto;
+                          bottom:14%;
+                          width:78%; height:44%; transform:translateX(-50%); }
+    .halo2{ width:50%; height:30%; }
+    .halo3{ width:62%; height:22%; }
+
+    .callout{ grid-row:3; display:block; justify-self:end; z-index:7;
+               width:17em; max-width:100%; aspect-ratio:477.5 / 169.5;
+               margin-right:-.2em; }
+    .tip-glass{ position:absolute; inset:0; width:auto; height:auto; }
+    .tip{ position:absolute; inset:0; width:auto; height:auto;
+           display:flex; flex-direction:column; justify-content:center;
+           gap:4%; padding:0 6% 0 12.5%; }
+    .tip p,.tip a{ position:relative; left:auto; top:auto; margin:0; }
+    .tip a{ align-self:flex-start; text-decoration:underline;
+             text-underline-offset:.22em; text-decoration-thickness:.06em; }
+    .tip .ul{ display:none; }
+    .dot{ position:absolute; left:2.5%; top:8%; width:3.6%; height:auto;
+           aspect-ratio:1; }
+
+    /* the pill keeps its place over the connector: 1461 is the marker's x in
+       the drawing, so it is that fraction of the window's width */
+    #stage>.spo2{ grid-row:4; align-self:start; justify-self:start; z-index:6;
+            left:calc(100% * (1461 - 1080) / 720);
+            transform:translate(-50%, -52%);
+            width:auto; height:auto; padding:.32em .7em; border-radius:99px;
+            gap:.34em; }
+    .spo2 span,.spo2 b{ top:0; }
+
+    /* The reading is windowed rather than re-drawn: the frame shows the region
+       x 1080-1800, y 620-810 of the chart's own coordinate space, so the trace,
+       grid, connector and marker keep their exact geometry. The offsets are the
+       window's origin as a fraction of the drawing itself (1080/1920, 620/1440),
+       which is why they hold whatever height the frame ends up with. It bleeds
+       to the panel's edges, as the grid does on desktop. */
+    /* the frame's aspect IS the window's aspect, so the region is shown whole at
+       every width - the trace can never be cropped top or bottom */
+    .chartframe{ grid-row:4; display:block; position:relative; overflow:hidden;
+                  z-index:6; aspect-ratio:720 / 190;
+                  width:calc(100% + 2 * var(--pad-panel));
+                  margin-inline:calc(var(--pad-panel) * -1); }
+    .chart{ position:absolute; left:0; top:0; height:auto;
+             width:calc(100% * 1920 / 720);
+             transform:translate(calc(-100% * 1080 / 1920), calc(-100% * 620 / 1440)); }
+    .chart-grid,.chart-trace{ transform:none; }
+
+    /* card: same component, laid out in flow instead of placed */
+    .card{ grid-row:5; position:relative; width:100%; height:auto;
+            border-radius:1.6em; display:flex; flex-direction:column;
+            align-items:flex-start; gap:.5em; padding:1.15em; }
+    #stage>.card>*{ position:relative; left:auto; top:auto; }
+    .card h2{ width:calc(100% - 5.2em); }
+    #stage>.card>.thumb{ position:absolute; right:1.15em; top:1.15em;
+                          width:4em; height:auto; aspect-ratio:1; }
+    .chips{ display:flex; gap:.5em; }
+    .chip{ height:auto; padding:.34em .78em; border-radius:99px; }
+    .chip.solid{ padding:.34em .78em; }
+    .chip span{ top:0; }
+    .secret{ margin-top:.15em; }
+    /* the designed line breaks stay; they simply wrap if a narrow phone needs it */
+    .body{ white-space:normal; }
+    .addinfo{ align-self:center; width:auto; height:auto; margin-top:.35em;
+               padding:.62em 1.5em .62em 1.9em; gap:.9em; border-radius:99px; }
+    .addinfo em{ top:0; }
+    .plus{ width:1.55em; height:1.55em; margin-left:0; }
+  }
+
+
+  /* ============================= ENTRANCE ============================
+     A one-shot opening sequence. Everything in this block is either a
+     masking box for a line reveal, a transform reference for one of the
+     SVG hooks, or a holding state that exists only until the sequence
+     takes over. None of it has any effect on the finished screen: the
+     resting frame is the design exactly as authored above.
+
+     Four behaviours carry the whole thing, and each is taken from what
+     the screen already is rather than from an effects list:
+       glass MATERIALISES in place - it condenses, it does not slide;
+       type RISES out of its own line box;
+       the render SETTLES into the composition;
+       the reading DRAWS itself, the way a trace is actually written. */
+
+  /* The line box doubles as the mask. The padding keeps descenders clear
+     of the clip edge and the negative margin hands the height straight
+     back, so each line occupies exactly the space the plain <br> did. */
+  .ln{ display:block; overflow:hidden; padding-bottom:.14em; margin-bottom:-.14em; }
+  .ln>span{ display:block; }
+
+  /* Hooks with no geometry of their own, so the marker, the connector and
+     the rule can be moved without touching the drawing's coordinates. */
+  .mk{ transform-box:view-box; transform-origin:1460px 739px; }
+  .cn{ transform-box:view-box; transform-origin:1461px 712px; }
+  .spo2{ transform-origin:50% 100%; }   /* it unfolds off the connector's tip */
+  .tip .ul{ transform-origin:0 50%; }
+
+  /* The holding state, set by an inline script in <head> so the screen is
+     never painted before the sequence owns it, and dropped by the sequence
+     on its first frame. If that script never runs, or the sequence fails,
+     the class is simply removed and the page is the finished design. */
+  .pre .panel,.pre .card,.pre .tip-glass,.pre .halo,.pre .halo2,.pre .halo3,
+  .pre .heart,.pre .chart-grid,.pre .mk,.pre .cn,.pre .spo2,.pre .dot,
+  .pre .card h2,.pre .secret,.pre .body,.pre .addinfo,
+  .pre .tip a,.pre .tip .ul{ opacity:0; }
+  .pre .ln>span{ transform:translateY(120%); }
+  .pre .chart-trace path{ visibility:hidden; }
+
+
+  /* ============================== RENDER ==============================
+     The heart is drawn twice. The image is the poster frame: it is what
+     the screen has always been, it arrives with the entrance, and it is
+     what stays if this browser has no WebGL or the model never turns up.
+     The canvas is the same heart as geometry, and it takes over only once
+     it has something to show - at which point it starts beating.
+
+     The canvas is not part of any tier's layout. It is pinned over the
+     image's own box by script, in the stage's coordinate space, so it
+     inherits every placement the image already has - desktop, both
+     tablets and the phone - without one of them having to place it. That
+     is also why it is excluded from the mobile grid above: an absolutely
+     positioned grid child that is given a grid line is placed against its
+     grid area instead of the box we are pinning it to. */
+  #stage>.heart3d{ position:absolute; z-index:5; opacity:0;
+                    pointer-events:none; user-select:none; }
+
+  /* ============================= SKELETON =============================
+     What the screen is before it is the screen. Its shapes are not drawn
+     here: they are measured off the real elements at run time, so the
+     skeleton is the composition's own geometry at whatever tier is in
+     force - desktop, either tablet, or the phone - and cannot drift from
+     a layout it does not have to know about.
+
+     It is honest about time. It is not raised at all unless the wait is
+     long enough to be worth acknowledging, and once raised it stays long
+     enough to be read rather than blinking out. */
+  #stage>#skeleton{ position:absolute; left:0; top:0; width:100%; height:100%;
+                     z-index:9; pointer-events:none; opacity:0;
+                     transition:opacity .42s cubic-bezier(.25,.5,.3,1); }
+  #stage>#skeleton.on{ opacity:1; }
+  #skeleton .sk{ position:absolute; border-radius:6px;
+                  background:rgba(220,232,255,.20); }
+  /* The surfaces carry the same blur the real glass does. Without it the
+     forest reads straight through the placeholder and the whole thing
+     looks like a stain rather than an interface waiting to arrive. */
+  #skeleton .sk-surface{ background:rgba(126,146,200,.20);
+                  backdrop-filter:blur(42px) saturate(.85);
+                  -webkit-backdrop-filter:blur(42px) saturate(.85);
+                  box-shadow:inset 0 1px 0 rgba(255,255,255,.10),
+                             inset 0 0 0 1px rgba(255,255,255,.06); }
+  #skeleton .sk-heart{ background:rgba(220,232,255,.20); border-radius:0;
+                  -webkit-mask-image:url(assets/illustrations/anatomical-heart.webp);
+                  mask-image:url(assets/illustrations/anatomical-heart.webp);
+                  -webkit-mask-size:contain; mask-size:contain;
+                  -webkit-mask-position:center; mask-position:center;
+                  -webkit-mask-repeat:no-repeat; mask-repeat:no-repeat; }
+  /* One sweeping band for the whole layer rather than one per shape: a
+     single composited element carries the shimmer for all of it. */
+  #skeleton .sk-sheen{ position:absolute; overflow:hidden; border-radius:inherit; }
+  #skeleton .sk-sheen>i{ position:absolute; inset:-15% -70%; display:block;
+      background:linear-gradient(105deg,
+                 rgba(224,236,255,0) 38%, rgba(228,238,255,.30) 50%, rgba(224,236,255,0) 62%); }
+  /* The sweep exists only while the placeholder is up. An infinite
+     animation left running behind opacity:0 is still an animation. */
+  #stage>#skeleton.on .sk-sheen>i{ animation:sk-sheen 1.9s linear infinite; }
+  @keyframes sk-sheen{ from{ transform:translateX(-42%); } to{ transform:translateX(42%); } }
+
+  /* The still render is not shown any more. It stays in the document
+     because the composition is measured from it - the canvas is pinned to
+     its box and the skeleton takes the heart's silhouette from its
+     artwork - and because it carries the alternative text. It is painted
+     only if the model cannot be, which is the one case where a still
+     heart beats no heart at all. Both rules are written from the id, so
+     they outrank the holding rule above. */
+  #stage.heart-live .heart{ opacity:0; }
+  #stage.heart-live>.heart3d{ opacity:1; }
+
+  @media (prefers-reduced-motion:reduce){ *{ animation:none!important; transition:none!important; } }
+</style>
+</head>
+<body>
+  <img id="bg" src="assets/backgrounds/enchanted-forest.webp" alt="">
+  <div id="frame"><main id="stage">
+    <div class="panel"></div>
+
+    <div class="hero">
+    <div class="halo"></div>
+    <div class="halo2"></div>
+    <div class="halo3"></div>
+
+    <img class="heart" src="assets/illustrations/anatomical-heart.webp" alt="Three-dimensional render of a human heart">
+    </div>
+
+    <div class="chartframe">
+    <svg class="chart" viewBox="0 0 1920 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="gridFade" x1="645" y1="0" x2="1753" y2="0" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#fff" stop-opacity=".02"/>
+          <stop offset=".22" stop-color="#fff" stop-opacity=".15"/>
+          <stop offset=".85" stop-color="#fff" stop-opacity=".15"/>
+          <stop offset="1" stop-color="#fff" stop-opacity=".04"/>
+        </linearGradient>
+        <linearGradient id="waveFade" x1="1136" y1="0" x2="1742" y2="0" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+          <stop offset=".16" stop-color="#fff" stop-opacity=".8"/>
+          <stop offset=".62" stop-color="#fff" stop-opacity="1"/>
+          <stop offset=".84" stop-color="#fff" stop-opacity=".62"/>
+          <stop offset=".95" stop-color="#fff" stop-opacity=".18"/>
+          <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <g class="chart-grid">
+      <line x1="645" y1="647" x2="1753" y2="647" stroke="url(#gridFade)" stroke-width="2"/>
+      <line x1="645" y1="736" x2="1753" y2="736" stroke="url(#gridFade)" stroke-width="2"/>
+      <line x1="645" y1="826" x2="1753" y2="826" stroke="url(#gridFade)" stroke-width="2"/>
+      <line x1="645" y1="915" x2="1753" y2="915" stroke="url(#gridFade)" stroke-width="2"/>
+      </g>
+      <g class="chart-trace">
+      <path d="M 1136 733 C 1141.3 730.5 1157.3 723.0 1168 718 C 1178.7 713.0 1191.0 708.5 1200 703 C 1209.0 697.5 1214.3 689.5 1222 685 C 1229.7 680.5 1238.7 673.5 1246 676 C 1253.3 678.5 1259.3 692.5 1266 700 C 1272.7 707.5 1279.3 720.0 1286 721 C 1292.7 722.0 1299.3 711.3 1306 706 C 1312.7 700.7 1320.0 691.2 1326 689 C 1332.0 686.8 1335.3 687.5 1342 693 C 1348.7 698.5 1358.0 712.7 1366 722 C 1374.0 731.3 1382.0 741.0 1390 749 C 1398.0 757.0 1407.3 765.5 1414 770 C 1420.7 774.5 1424.7 778.2 1430 776 C 1435.3 773.8 1440.8 762.7 1446 757 C 1451.2 751.3 1455.7 742.5 1461 742 C 1466.3 741.5 1472.5 748.8 1478 754 C 1483.5 759.2 1488.7 767.2 1494 773 C 1499.3 778.8 1505.3 786.0 1510 789 C 1514.7 792.0 1518.0 794.2 1522 791 C 1526.0 787.8 1529.3 779.5 1534 770 C 1538.7 760.5 1545.3 745.7 1550 734 C 1554.7 722.3 1558.0 710.0 1562 700 C 1566.0 690.0 1569.3 677.2 1574 674 C 1578.7 670.8 1584.7 679.2 1590 681 C 1595.3 682.8 1600.7 685.2 1606 685 C 1611.3 684.8 1616.7 681.7 1622 680 C 1627.3 678.3 1632.7 675.2 1638 675 C 1643.3 674.8 1648.7 676.8 1654 679 C 1659.3 681.2 1664.7 683.3 1670 688 C 1675.3 692.7 1680.7 699.3 1686 707 C 1691.3 714.7 1696.7 726.0 1702 734 C 1707.3 742.0 1712.7 750.0 1718 755 C 1723.3 760.0 1728.7 761.8 1734 764 C 1739.3 766.2 1747.3 767.3 1750 768" stroke="url(#waveFade)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <g class="cn"><line x1="1461" y1="632" x2="1461" y2="712" stroke="#fff" stroke-opacity=".5"
+            stroke-width="2.5" stroke-dasharray="13 12" stroke-linecap="butt"/></g>
+      <g class="mk"><g transform="translate(1431.5 713.4) scale(1.15 1.18)">
+        <path d="M23.5 41.5C23.5 41.5 1 27.6 1 13.8 1 6.2 6.4 1 13 1c4.4 0 8.2 2.4 10.5 6.1C25.8 3.4 29.6 1 34 1c6.6 0 12 5.2 12 12.8 0 13.8-22.5 27.7-22.5 27.7Z"
+              fill="#3cade1" stroke="#fff" stroke-width="4.5" stroke-linejoin="round"/>
+      </g></g>
+      </g>
+    </svg>
+
+    </div>
+
+    <div class="spo2"><span class="t-metric">SpO2</span><b class="t-metric-value">97%</b></div>
+
+    <section class="card">
+      <h2 class="t-subhead">Not enough <br>information <br>about sleep</h2>
+      <img class="thumb" src="assets/illustrations/sleep-thumb.webp" alt="">
+      <div class="chips">
+        <div class="chip outline t-chip"><span>Quality</span></div>
+        <div class="chip solid t-chip"><span>Time</span></div>
+      </div>
+      <h3 class="secret t-label-strong">The secret to a healthy heart</h3>
+      <p class="body t-body">A healthy heart is the basis for a long<br>and active life. Here are some key<br>secrets that help maintain a healthy.</p>
+      <button type="button" class="addinfo"><em class="t-label">Add info</em>
+        <span class="plus">
+          <svg width="11" height="11" viewBox="0 0 11 11" aria-hidden="true"><path d="M5.5 .4v9.2M.5 5h9.2" transform="translate(0 -1)" stroke="rgba(255,255,255,.86)" stroke-width="1.7" stroke-linecap="round"/></svg>
+        </span>
+      </button>
+    </section>
+
+    <div id="skeleton" aria-hidden="true"></div>
+    <canvas class="heart3d" aria-hidden="true"></canvas>
+
+    <h1 class="title t-display"><span class="ln"><span>Heart health</span></span><span class="ln"><span>overview</span></span></h1>
+
+    <div class="callout">
+      <div class="tip-glass"></div>
+      <div class="tip">
+        <p class="t-heading"><span class="ln"><span>The valve</span></span><span class="ln"><span>is not working perfectly!</span></span></p>
+        <a class="t-link" href="#">See more</a>
+        <i class="ul"></i>
+      </div>
+      <div class="dot"></div>
+    </div>
+  </main></div>
+
+<script>
+  /* The 1920x1440 reference canvas is scaled uniformly: never letterboxed, never
+     distorted, and never cropping the panel or the heart.
+       cover   - smallest scale at which the canvas fills the viewport
+       content - largest scale at which the panel (x 96-1824) and the heart
+                 (y 202-1205) both stay fully inside the viewport
+     The stage takes min(cover, content); the backdrop takes max(stage, cover) so
+     the forest always reaches every edge - no blank space, top, bottom or side. */
+  (function () {
+    var frame = document.getElementById('frame'),
+        stage = document.getElementById('stage'),
+        bg    = document.getElementById('bg');
+    function num(p) { return parseFloat(getComputedStyle(stage).getPropertyValue(p)); }
+    var applied = '';
+    function fit() {
+      var vw = window.innerWidth, vh = window.innerHeight,
+          cw = num('--canvas-w'), ch = num('--canvas-h'),
+          fw = num('--fit-w'),    fh = num('--fit-h'),
+          flow = num('--flow') === 1, s, h;
+      if (flow) {
+        /* the canvas is taller than any phone: fit its width, scroll its height */
+        s = Math.min(vw / fw, vh / num('--fit-vh'), 1);   /* never larger than the design */
+        h = (ch * s) + 'px';
+      } else {
+        s = Math.min(Math.max(vw / cw, vh / ch), Math.min(vw / fw, vh / fh));
+        h = '';
+      }
+      /* Nothing is written unless the fit actually changed. That keeps the
+         observer below from ever feeding itself: an unchanged viewport
+         produces no write, so no write can produce another callback. */
+      var state = vw + 'x' + vh + '|' + cw + 'x' + ch + '|' + s + '|' + h;
+      if (state === applied) { return; }
+      applied = state;
+      frame.style.height = h;
+      stage.style.setProperty('--s', s);
+      bg.style.transform = 'translate(-50%,-50%) scale(' +
+        Math.max(vw / 1920, vh / 1440) + ')';
+    }
+    fit();
+    window.addEventListener('resize', fit, { passive: true });
+    window.addEventListener('orientationchange', fit);
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', fit);
+    /* A resize event is not guaranteed for every change of viewport. A
+       device emulator being switched on or off, a change of device pixel
+       ratio, or a tier change that moves the layout viewport without
+       moving the window can all arrive without one - and because the
+       canvas is scaled from that viewport, missing it leaves the screen
+       scaled for the tier it was opened in until the page is reloaded.
+       Watching the document's own box catches the change itself rather
+       than waiting to be told about it. */
+    if (window.ResizeObserver) { new ResizeObserver(fit).observe(document.documentElement); }
+  })();
+</script>
+
+<script>
+  /* ============================== SKELETON ==============================
+     The screen's own shape, held up while the screen is being fetched.
+
+     Nothing here describes the layout. Every piece is measured off the
+     element it stands in for, in the stage's coordinate space, which is
+     why one pass covers the desktop canvas, both tablet architectures and
+     the phone: whatever the composition is doing at that width, the
+     skeleton is already doing it.
+
+     It is deliberately hard to see. It goes up only if the wait passes
+     RAISE_AFTER - a warm cache never shows it at all - and once up it
+     holds for HOLD_LEAST so it is read as a state rather than a flicker. */
+  (function () {
+    var RAISE_AFTER = 180,        /* don't acknowledge a wait shorter than this */
+        HOLD_LEAST  = 420;        /* ...and having acknowledged it, don't blink */
+
+    var stage = document.getElementById('stage'),
+        layer = document.getElementById('skeleton');
+    if (!stage || !layer) { window.__skeleton = { done: function (go) { go(); } }; return; }
+
+    /* what stands in for what: selector, treatment */
+    var PARTS = [
+      ['.panel',          'surface'],
+      ['.heart',          'heart'],
+      ['.card',           'surface'],
+      ['.title .ln>span', 'bar'],
+      ['.card h2',        'lines'],
+      ['.thumb',          'circle'],
+      ['.chip',           'pill'],
+      ['.secret',         'bar'],
+      ['.body',           'lines'],
+      ['.addinfo',        'pill'],
+      ['.spo2',           'pill'],
+      ['.tip-glass',      'surface'],
+      ['.tip p .ln>span', 'bar'],
+      ['.tip a',          'bar'],
+      ['.dot',            'circle']
+    ];
+
+    var scale = 1, origin = { left: 0, top: 0 };
+
+    function box(r) {
+      return { left: (r.left - origin.left) / scale, top: (r.top - origin.top) / scale,
+               width: r.width / scale, height: r.height / scale };
+    }
+
+    /* A text element's box is not its text: the title's block is 900px
+       wide and its words are less than half of that. Measuring the
+       contents rather than the element is what keeps a bar the length of
+       the line it stands in for. */
+    function inkOf(el) {
+      try {
+        var r = document.createRange();
+        r.selectNodeContents(el);
+        var rect = r.getBoundingClientRect();
+        if (rect.width > 1 && rect.height > 1) { return rect; }
+      } catch (e) {}
+      return el.getBoundingClientRect();
+    }
+
+    function put(b, cls, radius) {
+      var d = document.createElement('div');
+      d.className = 'sk' + (cls ? ' ' + cls : '');
+      d.style.cssText = 'left:' + b.left + 'px;top:' + b.top + 'px;' +
+                        'width:' + b.width + 'px;height:' + b.height + 'px' +
+                        (radius ? ';border-radius:' + radius : '');
+      layer.appendChild(d);
+      return d;
+    }
+
+    /* A run of text becomes a run of bars on that text's own leading, with
+       the last one short - the shape a paragraph makes, not a grey slab. */
+    function lines(el, b) {
+      var lead = parseFloat(getComputedStyle(el).lineHeight) / scale;
+      if (!(lead > 0)) { lead = b.height; }
+      var n = Math.max(1, Math.round(b.height / lead)), i, h = Math.min(lead * 0.54, b.height);
+      for (i = 0; i < n; i++) {
+        put({ left: b.left, top: b.top + i * lead + (lead - h) / 2,
+              width: b.width * (i === n - 1 && n > 1 ? 0.66 : 1), height: h }, '', h / 2 + 'px');
+      }
+    }
+
+    function build() {
+      layer.textContent = '';
+      var sr = stage.getBoundingClientRect();
+      scale = (sr.width / stage.offsetWidth) || 1;
+      origin = { left: sr.left, top: sr.top };
+
+      PARTS.forEach(function (part) {
+        var text = part[1] === 'bar' || part[1] === 'lines';
+        [].slice.call(document.querySelectorAll(part[0])).forEach(function (el) {
+          var b = box(text ? inkOf(el) : el.getBoundingClientRect());
+          if (!(b.width > 1 && b.height > 1)) { return; }
+          var radius = getComputedStyle(el).borderRadius;
+          switch (part[1]) {
+            case 'surface': put(b, 'sk-surface', radius); break;
+            case 'heart':   put(b, 'sk-heart', 0); break;
+            case 'circle':  put(b, '', '50%'); break;
+            case 'pill':    put(b, '', '999px'); break;
+            case 'lines':   lines(el, b); break;
+            default:        /* bar */
+              var h = Math.min(b.height * 0.56, b.height);
+              put({ left: b.left, top: b.top + (b.height - h) / 2, width: b.width, height: h },
+                  '', h / 2 + 'px');
+          }
+        });
+      });
+
+      /* the shimmer rides over the surface the interface occupies */
+      var panel = document.querySelector('.panel');
+      if (panel) {
+        var pb = box(panel.getBoundingClientRect()),
+            sheen = put(pb, 'sk-sheen', getComputedStyle(panel).borderRadius);
+        sheen.style.background = 'none';
+        sheen.appendChild(document.createElement('i'));
+      }
+    }
+
+    var raised = false, raisedAt = 0, finished = false;
+    var timer = setTimeout(function () {
+      if (finished) { return; }
+      build();
+      raised = true; raisedAt = Date.now();
+      layer.classList.add('on');
+    }, RAISE_AFTER);
+
+    /* Re-measure if the tier changes underneath it while it is up. */
+    if (window.ResizeObserver) {
+      new ResizeObserver(function () { if (raised && !finished) { build(); } })
+        .observe(document.documentElement);
+    }
+
+    function drop() { if (layer.parentNode) { layer.parentNode.removeChild(layer); } }
+
+    window.__skeleton = {
+      done: function (go) {
+        finished = true;
+        clearTimeout(timer);
+        if (!raised) { drop(); go(); return; }         /* never shown: nothing to undo */
+        var wait = Math.max(0, HOLD_LEAST - (Date.now() - raisedAt));
+        setTimeout(function () {
+          layer.classList.remove('on');                /* fades out as the entrance begins */
+          go();
+          setTimeout(drop, 700);                       /* and then it is gone for good */
+        }, wait);
+      }
+    };
+  })();
+</script>
+<script>
+  /* ============================== ENTRANCE ==============================
+     One master timeline. It runs once, on the first paint, and then the
+     screen is the static design for the rest of its life - no scroll
+     hooks, no hover motion, no idle loop, nothing left playing.
+
+     THE SCORE - the order is the composition's own, not the DOM's, and
+     it is written so the eye is handed from one area to the next:
+
+       0.00  the glass forms out of the forest .............. panel
+       0.14  light gathers where the render will be ......... halos
+       0.26  the screen names itself ........................ title, line by line
+       0.50  the subject arrives .............. CENTRE ...... render
+       0.82  the left column fills in ......... LEFT ........ card, then its words
+       1.20  the field under the reading appears ............ grid
+       1.30  the reading writes itself out
+             from behind the render ......... RIGHT ........ trace
+       1.76  it reaches the valve, which sends the
+             figure up to the readout ....................... marker, connector, SpO2
+       1.98  the point is marked, and then
+             explained ...................... BOTTOM ....... dot, callout
+       2.88  complete - and nothing moves again
+
+     Beats overlap at their tails - each starts while the one before it is
+     still resolving - so the screen reads as one composition assembling
+     itself rather than a queue of elements taking turns. What does NOT
+     overlap is the two endings: the readout finishes before the callout
+     begins, because both are conclusions and they would otherwise argue
+     over where the eye should come to rest. It rests on the callout.
+
+     On a phone the same beats are re-ordered to the mobile stack, where
+     the callout sits on the render and the reading and the card are the
+     last two blocks down the page; every distance is scaled down with
+     it. Same motion language, less travel. */
+  (function () {
+    var root = document.documentElement,
+        pre  = function () { clearTimeout(window.__pre);
+                             root.classList.remove('pre'); };
+
+    /* The render hand-off waits for this rather than guessing, so a model
+       that arrives mid-sequence cannot fight the entrance for the same
+       element. Announced on every exit, including the ones that never
+       play a frame. */
+    function settled() {
+      window.__entranceDone = true;
+      document.dispatchEvent(new Event('entrance-done'));
+    }
+
+    /* Reduced motion, or a browser without the animation API: no sequence
+       at all - the finished screen, immediately. */
+    if (!('animate' in Element.prototype) ||
+        matchMedia('(prefers-reduced-motion: reduce)').matches) { pre(); settled(); return; }
+
+    var $  = function (s) { return document.querySelector(s); },
+        $$ = function (s) { return [].slice.call(document.querySelectorAll(s)); };
+
+    /* Read once. One page initialisation produces one entrance: nothing
+       here re-reads the viewport, so a resize mid-sequence cannot restart
+       or re-time it. */
+    var sm = matchMedia('(max-width:750px)').matches,
+        k  = sm ? .6 : 1;                    /* travel scale, not a re-design */
+
+    /* Easing. Entrances decelerate; nothing overshoots, bounces or springs.
+       EXPO carries the two statements and the render - it covers most of
+       its distance early, which is what lets a long reveal still feel
+       fast. OUT is the everyday settle. GLASS is nearly symmetrical, so a
+       surface appears to thicken rather than snap in. DRAW is the only
+       in-out curve: a trace is written with a hand, not thrown. */
+    var EXPO  = 'cubic-bezier(.16,1,.3,1)',
+        OUT   = 'cubic-bezier(.22,.9,.28,1)',
+        GLASS = 'cubic-bezier(.25,.5,.3,1)',
+        DRAW  = 'cubic-bezier(.45,.05,.25,1)';
+
+    /* The sequence waits on everything it cannot open without: the
+       typeface (font-display is block, so the title would otherwise rise
+       invisibly), the backdrop, and the heart itself - which now means the
+       model, not a picture of it. Until they are in, the screen is the
+       skeleton; the composition is never shown half-made.
+
+       The cap is long because the thing being waited for is large, and it
+       exists only so a stalled network cannot hold the page shut forever.
+       The render signals either way, so this is a backstop, not a timer. */
+    var gate = setTimeout(open, 20000), opened = false;
+    Promise.all([document.fonts ? document.fonts.ready : 0,
+                 decode($('#bg')), decode($('.heart')), heart()]).then(open, open);
+
+    function decode(img) {
+      return img && img.decode ? img.decode().catch(function () {}) : 0;
+    }
+    function heart() {
+      return new Promise(function (res) {
+        if (window.__heartSettled) { res(); return; }
+        document.addEventListener('heart-ready', res, { once: true });
+      });
+    }
+    function open() {
+      if (opened) { return; }                /* one initialisation, one entrance */
+      opened = true; clearTimeout(gate);
+      /* The skeleton comes down first, and the sequence starts as it goes,
+         so the screen is handed from the placeholder to the real thing
+         rather than cutting between them. */
+      if (window.__skeleton) { window.__skeleton.done(play); } else { play(); }
+    }
+
+    function play() {
+      var A = [];                            /* the timeline itself */
+      function cue(t, el, frames, dur, ease) {
+        if (!el) { return; }
+        A.push(el.animate(frames, { delay: t * 1000, duration: dur * 1000,
+                                    easing: ease, fill: 'backwards' }));
+      }
+
+      /* the four behaviours */
+      var MATERIALISE = [{ opacity: 0 }, { opacity: 1 }];
+      function settle(d) {                                  /* supporting content */
+        return [{ opacity: 0, transform: 'translateY(' + (d * k) + 'px)' },
+                { opacity: 1, transform: 'none' }];
+      }
+      var RISE = [{ transform: 'translateY(120%)' },         /* masked line */
+                  { transform: 'none' }];
+      var ARRIVE = [{ opacity: 0, transform: 'translateY(' + (16 * k) +
+                                  'px) scale(' + (sm ? .988 : .978) + ')' },
+                    { opacity: 1, transform: 'none' }];      /* the render */
+
+      /* The two scores. Both run the same beats in the order their own
+         layout reads in - on desktop the card is the left column and the
+         reading crosses the panel to the right of it; on a phone the
+         reading and the card are the last two blocks down the stack. */
+      var T = sm
+        ? { panel:0, halo:.12, title:.24, heart:.46, dot:.98, tip:1.04,
+            grid:1.46, trace:1.56, mark:2.00, pill:2.16, card:2.06 }
+        : { panel:0, halo:.14, title:.26, heart:.50, card:.82, grid:1.20,
+            trace:1.30, mark:1.76, pill:1.92, dot:1.98, tip:2.06 };
+
+      /* --- the surface, and the light that precedes the render ------- */
+      cue(T.panel, $('.panel'), MATERIALISE, .9, GLASS);
+      /* three coincident gradients that read as one glow, so they are given
+         one timing rather than a stagger - and they finish ahead of the
+         render, which is what makes the render feel expected */
+      $$('.halo,.halo2,.halo3').forEach(function (el) {
+        cue(T.halo, el, MATERIALISE, .8, GLASS);
+      });
+
+      /* --- the screen names itself ----------------------------------- */
+      $$('.title .ln>span').forEach(function (el, i) {
+        cue(T.title + i * .09, el, RISE, .86, EXPO);
+      });
+
+      /* --- the subject ----------------------------------------------- */
+      /* Whichever heart is the one on screen: the render when it made it,
+         the still frame when it did not. Only one of the two is ever
+         painted, and animating the other would bring it back. */
+      cue(T.heart, $(root.querySelector('#stage.heart-live') ? '.heart3d' : '.heart'),
+          ARRIVE, 1.1, EXPO);
+
+      /* --- the card: the surface condenses, its contents settle into it */
+      cue(T.card, $('.card'), MATERIALISE, .72, GLASS);
+      /* Only the words are given their own motion. The portrait and the two
+         pills are furniture: they come up inside the surface's own fade,
+         which is what keeps this a card arriving rather than six things
+         arriving. The offsets are not an even stagger either - headline,
+         then the label and its paragraph as one pair, then the button a
+         beat later, which is how the card is actually read. */
+      [['.card h2', .12], ['.secret', .19], ['.body', .24], ['.addinfo', .31]]
+        .forEach(function (b) {
+          cue(T.card + b[1], $(b[0]), settle(14), .52, OUT);
+        });
+
+      /* --- the reading: field, signal, then what the signal found ----- */
+      cue(T.grid, $('.chart-grid'), MATERIALISE, .55, GLASS);
+
+      /* Only the dash pattern is written to the element; the offset that
+         hides the line is the tween's own backwards fill. That way the
+         moment the draw ends the offset falls back to nought and the
+         stroke simply stays drawn - it cannot revert to a held-back state
+         while the rest of the sequence plays out. */
+      var trace = $('.chart-trace path'),
+          len   = Math.ceil(trace.getTotalLength());
+      trace.style.strokeDasharray = len + ' ' + len;
+      A.push(trace.animate([{ strokeDashoffset: len }, { strokeDashoffset: 0 }],
+        { delay: T.trace * 1000, duration: 950, easing: DRAW, fill: 'backwards' }));
+
+      cue(T.mark,       $('.mk'), [{ opacity: 0, transform: 'scale(.55)' },
+                                   { opacity: 1, transform: 'none' }], .42, EXPO);
+      cue(T.mark + .06, $('.cn'), [{ transform: 'scaleY(0)' },
+                                   { transform: 'none' }], .4, OUT);
+      /* the readout is the one place the phone differs: its pill already
+         carries a centring transform there, so it is faded, not scaled */
+      cue(T.pill, $('.spo2'), sm ? MATERIALISE
+                                 : [{ opacity: 0, transform: 'scale(.92)' },
+                                    { opacity: 1, transform: 'none' }], .48, OUT);
+
+      /* --- the point is marked, then explained ------------------------ */
+      cue(T.dot, $('.dot'), [{ opacity: 0, transform: 'scale(.4)' },
+                             { opacity: 1, transform: 'none' }], .38, EXPO);
+      cue(T.tip, $('.tip-glass'), MATERIALISE, .62, GLASS);
+      $$('.tip .ln>span').forEach(function (el, i) {
+        cue(T.tip + .10 + i * .08, el, RISE, .64, EXPO);
+      });
+      cue(T.tip + .32, $('.tip a'),   settle(10), .46, OUT);
+      cue(T.tip + .37, $('.tip .ul'), [{ opacity: 0, transform: 'scaleX(0)' },
+                                       { opacity: 1, transform: 'none' }], .42, OUT);
+
+      /* One time origin for every tween, so the score is exact rather than
+         however long the block above took to build. */
+      try {
+        var t0 = document.timeline.currentTime;
+        A.forEach(function (a) { a.startTime = t0; });
+      } catch (e) {}
+
+      /* Only the surfaces that actually move get a layer hint, and only
+         for the length of the sequence. */
+      var hinted = [[$('.heart3d'), 'transform,opacity'], [$('.heart'), 'transform,opacity'],
+                    [$('.panel'), 'opacity'], [$('.card'), 'opacity'],
+                    [$('.tip-glass'), 'opacity']];
+      hinted.forEach(function (h) { if (h[0]) { h[0].style.willChange = h[1]; } });
+
+      pre();                     /* same task as the tweens: no flash between */
+
+      /* Full stop. Each tween is cancelled once it has finished, which
+         leaves its element rendering the authored CSS and empties
+         document.getAnimations(); the drawing gets its plain stroke back
+         and the layer hints are dropped. After this there is no timeline,
+         no listener, no timer and no frame loop left from the entrance. */
+      Promise.all(A.map(function (a) { return a.finished; })).then(stop, stop);
+      function stop() {
+        A.forEach(function (a) { try { a.cancel(); } catch (e) {} });
+        A.length = 0;
+        trace.style.strokeDasharray = '';
+        hinted.forEach(function (h) { if (h[0]) { h[0].style.willChange = ''; } });
+        settled();
+      }
+    }
+  })();
+</script>
+
+<script type="module">
+  /* =============================== RENDER ===============================
+     The heart as geometry, beating.
+
+     The model, the lighting rig and the cardiac cycle below are the ones
+     from the heart_ui prototype - same GLB, same three lights, same 1.75s
+     cycle built from five gaussian phases. What is new here is only how it
+     is fitted to this screen: the canvas is pinned over the poster image's
+     own box, so the render lands exactly where the still heart already
+     sat in every tier, and the composition around it - the trace passing
+     behind it, the dot on the valve, the callout crossing it - is
+     undisturbed.
+
+     Nothing here is required for the page to work. This is a module, so it
+     is deferred by definition and cannot block the entrance; if the
+     browser has no WebGL, or the model never arrives, the poster frame
+     simply stays and the screen is what it was. */
+  import * as THREE from './assets/vendor/three.module.min.js';
+  import { GLTFLoader } from './assets/vendor/GLTFLoader.js';
+  import { RoomEnvironment } from './assets/vendor/RoomEnvironment.js';
+  import { MeshoptDecoder } from './assets/vendor/meshopt_decoder.module.js';
+
+  const MODEL = 'assets/models/heart.glb';
+
+  const img    = document.querySelector('.heart');
+  const canvas = document.querySelector('.heart3d');
+  const stage  = document.getElementById('stage');
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)');
+
+  if (!img || !canvas || !stage) { throw new Error('render: nothing to attach to'); }
+
+  /* Anything below that throws - no WebGL context, a decoder that will not
+     start - must not leave the page holding its breath behind the
+     skeleton. The entrance is released on the way out. */
+  addEventListener('error', function () {
+    if (!window.__heartSettled) {
+      window.__heartSettled = true;
+      document.dispatchEvent(new Event('heart-ready'));
+    }
+  }, { once: true });
+
+  /* ---------------------------------------------------------------- rig --
+     Lifted from the prototype unchanged: a room environment for the
+     reflections, a warm/cool hemisphere, and the blue key, pink rim and
+     cyan fill that give this heart its split lighting. */
+  const renderer = new THREE.WebGLRenderer({
+    canvas, alpha: true, antialias: true, powerPreference: 'high-performance',
+  });
+  renderer.setPixelRatio(1);              /* the buffer is sized explicitly below */
+  renderer.outputColorSpace = THREE.SRGBColorSpace;
+  renderer.toneMapping = THREE.ACESFilmicToneMapping;
+  renderer.toneMappingExposure = 0.88;
+  renderer.setClearColor(0x000000, 0);
+
+  const scene  = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(27.5, 1, 0.1, 100);
+  camera.position.set(0, 0.02, 7.6);
+
+  const pmrem = new THREE.PMREMGenerator(renderer);
+  scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.03).texture;
+  pmrem.dispose();
+
+  const displayRoot = new THREE.Group();
+  displayRoot.position.set(0, 0.05, 0);
+  scene.add(displayRoot);
+
+  const heartRoot = new THREE.Group();
+  heartRoot.rotation.set(-0.035, -0.12, -0.085);
+  displayRoot.add(heartRoot);
+
+  scene.add(new THREE.HemisphereLight(0xbfd8ff, 0x16001a, 0.9));
+  const blueKey = new THREE.PointLight(0x187cff, 17, 13, 1.7);
+  blueKey.position.set(2.6, 1.6, 4.2);
+  const pinkRim = new THREE.PointLight(0xff268f, 21, 12, 1.6);
+  pinkRim.position.set(-3.3, 1.2, 2.4);
+  const cyanFill = new THREE.PointLight(0x65e5ff, 8, 9, 1.8);
+  cyanFill.position.set(0.2, -2.3, 3.8);
+  scene.add(blueKey, pinkRim, cyanFill);
+
+  /* -------------------------------------------------------------- fitting --
+     The canvas carries no placement of its own. It is measured onto the
+     image's box in the stage's own coordinates, which is what makes one
+     rule cover every tier: whatever the image is doing - placed absolutely
+     on the desktop canvas, or sized by the flex row on a phone - the
+     render is doing the same thing. */
+  let cssW = 0, cssH = 0;
+  function fitToPoster() {
+    const ir = img.getBoundingClientRect(), sr = stage.getBoundingClientRect();
+    if (!ir.width || !ir.height) { return; }
+    const scale = (sr.width / stage.offsetWidth) || 1;   /* the canvas tier's --s */
+    const w = ir.width / scale, h = ir.height / scale;
+
+    canvas.style.left   = ((ir.left - sr.left) / scale) + 'px';
+    canvas.style.top    = ((ir.top  - sr.top)  / scale) + 'px';
+    canvas.style.width  = w + 'px';
+    canvas.style.height = h + 'px';
+
+    /* The backing store is sized in real device pixels - the stage's scale
+       included, since that is what the render is finally seen through -
+       and capped, so a 4K window cannot ask for a buffer nobody needs. */
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const pw = Math.max(2, Math.min(Math.round(ir.width * dpr), 1400));
+    const ph = Math.max(2, Math.round(pw * (h / w)));
+    if (pw !== cssW || ph !== cssH) {
+      cssW = pw; cssH = ph;
+      renderer.setSize(pw, ph, false);
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+    }
+  }
+
+  /* The poster's box moves for exactly the reasons the canvas fit does, so
+     this rides the same signals - and the observer catches the tier
+     changes that never raise an event. */
+  addEventListener('resize', fitToPoster, { passive: true });
+  if (window.ResizeObserver) { new ResizeObserver(fitToPoster).observe(document.documentElement); }
+  /* The entrance moves the poster while it arrives, and a box measured
+     mid-flight is the wrong box - so the fit is taken again once the
+     poster is finally at rest. */
+  document.addEventListener('entrance-done', fitToPoster);
+
+  /* ---------------------------------------------------------------- model --
+     Framed to the poster rather than to the prototype's stage: the heart
+     is scaled so its own height fills the same share of this box that the
+     drawn heart fills of the image, and centred on what it actually
+     occupies rather than on its origin. */
+  /* Calibrated against the poster's own silhouette rather than guessed:
+     with these two numbers the render's ink lands within about a percent
+     of the drawn heart's box on the desktop canvas, which is what lets the
+     hand-off read as the same heart rather than a second one. */
+  const FRAME_HEIGHT = 3.324;    /* model units - the drawn heart is 92% of frame height */
+  const FRAME_OFFSET_Y = 0.077;  /* and sits a touch above centre */
+
+  function frameModel(model) {
+    const box = new THREE.Box3().setFromObject(model);
+    const size = box.getSize(new THREE.Vector3());
+    const centre = box.getCenter(new THREE.Vector3());
+    const scale = FRAME_HEIGHT / Math.max(size.y, 0.001);
+    model.scale.multiplyScalar(scale);
+    model.position.sub(centre.multiplyScalar(scale));
+    model.position.y += FRAME_OFFSET_Y;
+  }
+
+  function polish(model) {
+    model.traverse((o) => {
+      if (!o.isMesh) { return; }
+      o.castShadow = o.receiveShadow = false;
+      o.frustumCulled = true;
+      const mats = Array.isArray(o.material) ? o.material : [o.material];
+      mats.forEach((m) => {
+        if (!m) { return; }
+        m.envMapIntensity = 1.5;
+        if ('metalness' in m) { m.metalness = Math.max(m.metalness, 0.28); }
+        if ('roughness' in m) { m.roughness = Math.min(m.roughness, 0.24); }
+        if ('clearcoat' in m) { m.clearcoat = 1; }
+        if ('clearcoatRoughness' in m) { m.clearcoatRoughness = 0.08; }
+        m.needsUpdate = true;
+      });
+    });
+  }
+
+  /* ------------------------------------------------------------ heartbeat --
+     The prototype's cycle, unchanged. One 1.75s period built from five
+     gaussian phases - the systolic contraction and its rebound, a smaller
+     second pair, and the slow diastolic fill - which is what keeps it
+     reading as a heart rather than a pulsing scale. The beat is
+     anisotropic on purpose: the heart squeezes hardest through its depth,
+     least through its height. */
+  const PERIOD = 1.75;
+  const gaussian = (v, centre, width) => {
+    const d = (v - centre) / width;
+    return Math.exp(-(d * d));
+  };
+
+  const clock = new THREE.Clock(false);
+  let still = reduce.matches;
+
+  function frame() {
+    const t = clock.getElapsedTime();
+    const cycle = (t % PERIOD) / PERIOD;
+
+    const primaryContraction   = still ? 0 : gaussian(cycle, 0.12,  0.075) * 0.038;
+    const outwardRebound       = still ? 0 : gaussian(cycle, 0.255, 0.1)   * 0.023;
+    const secondaryContraction = still ? 0 : gaussian(cycle, 0.43,  0.09)  * 0.012;
+    const secondaryRebound     = still ? 0 : gaussian(cycle, 0.56,  0.1)   * 0.007;
+    const diastolicFill        = still ? 0 : gaussian(cycle, 0.78,  0.2)   * 0.004;
+
+    const contraction = primaryContraction + secondaryContraction;
+    const expansion   = outwardRebound + secondaryRebound + diastolicFill;
+    const pump        = expansion - contraction;
+
+    displayRoot.scale.set(1 + pump * 0.86, 1 + pump * 0.56, 1 + pump * 1.18);
+    displayRoot.position.y = 0.05 + contraction * 0.18 - expansion * 0.08;
+    heartRoot.rotation.z = THREE.MathUtils.lerp(
+      heartRoot.rotation.z, -0.085 - contraction * 0.34 + expansion * 0.14, 0.1);
+
+    renderer.render(scene, camera);
+  }
+
+  /* Reduced motion gets the heart, held still on one frame - the geometry
+     is the point, the beat is the motion. */
+  function start() {
+    if (still) { renderer.render(scene, camera); return; }
+    clock.start();
+    renderer.setAnimationLoop(frame);
+  }
+  reduce.addEventListener('change', (e) => {
+    still = e.matches;
+    if (still) { renderer.setAnimationLoop(null); clock.stop(); renderer.render(scene, camera); }
+    else { start(); }
+  });
+
+  /* ------------------------------------------------------------- hand-off --
+     The screen does not open on a stand-in. The entrance waits on this
+     signal, so the composition arrives with the real heart already in it
+     and already beating - and until it comes, what is on screen is the
+     skeleton.
+
+     The signal is sent either way. If the model cannot be had at all the
+     page must still open, and it opens on the still render: a heart that
+     does not beat is worth more than a placeholder that never leaves. */
+  function settled(ok) {
+    if (window.__heartSettled) { return; }
+    if (ok) { stage.classList.add('heart-live'); start(); }
+    window.__heartSettled = true;
+    document.dispatchEvent(new Event('heart-ready'));
+  }
+
+  /* The model carries the same 997,700 vertices the prototype's export
+     does; it is only packed differently - quantized attributes behind
+     EXT_meshopt_compression, which is a third of the bytes off the wire
+     for identical geometry. That costs the decoder imported above. */
+  fitToPoster();
+  new GLTFLoader().setMeshoptDecoder(MeshoptDecoder).load(MODEL, async (gltf) => {
+    try {
+      const model = gltf.scene;
+      polish(model);
+      frameModel(model);
+      heartRoot.add(model);
+      fitToPoster();
+
+      if (renderer.compileAsync) { await renderer.compileAsync(scene, camera); }
+      else { renderer.compile(scene, camera); }
+      renderer.render(scene, camera);            /* a frame exists before it is shown */
+      settled(true);
+    } catch (err) {
+      console.warn('render: the heart model arrived but could not be prepared.', err);
+      settled(false);
+    }
+  }, undefined, (err) => {
+    console.warn('render: the heart model could not be loaded; opening on the still render.', err);
+    settled(false);
+  });
+</script>
+</body>
+</html>

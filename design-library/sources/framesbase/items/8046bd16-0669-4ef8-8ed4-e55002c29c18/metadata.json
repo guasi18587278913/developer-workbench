@@ -1,0 +1,43 @@
+{
+  "id": "8046bd16-0669-4ef8-8ed4-e55002c29c18",
+  "title": "Nimbus Security",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Cards",
+    "item_id": "8046bd16-0669-4ef8-8ed4-e55002c29c18",
+    "page_at_capture": 4,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sections/nimbus-security/preview/media-pipeline-v1/772ddf59b16570ecf81749c5928b392a7131f12ea22153d867f8dc5b98a33e6f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:57.657190+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e1c650ba9ee4cdcb21fd62ff5727f49a8caa565b7cf236648ed378f65d3670da",
+  "displayed_prompt_chars": 12818,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "33493448d2127c6d7087bf0d1d61bc4e0bdb1cea46992fc1742048f32fc1c245",
+    "original_bytes": 199620,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 20028
+  },
+  "preview_sha256": "5670ea9fce364617d20d27b6989c7ff52347ebc2e8aa81c5e5f0f974ec22b5dd"
+}

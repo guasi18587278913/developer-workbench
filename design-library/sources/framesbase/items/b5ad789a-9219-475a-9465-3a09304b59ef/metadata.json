@@ -1,0 +1,43 @@
+{
+  "id": "b5ad789a-9219-475a-9465-3a09304b59ef",
+  "title": "Slate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "b5ad789a-9219-475a-9465-3a09304b59ef",
+    "page_at_capture": 5,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/slate-hero/poster/media-pipeline-v1/5b4bc67ab8193d47f5c3ba7831913f37f51e85d1119ee0eae9e52a3dccbbaca7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:52.959619+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "65095dfdab018ee8207c126228fe22db2f9324bb46f4625e56fe1be72a854c3f",
+  "displayed_prompt_chars": 5124,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "78363810509ee6e289116c0db5a76ff87fdf458d7294973a92c27f88fc1bf4ea",
+    "original_bytes": 470817,
+    "original_dimensions": [
+      1982,
+      1446
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      700
+    ],
+    "bytes": 24788
+  },
+  "preview_sha256": "84dc11739f39ec99643b8dbd6249e16ac35e67457971a0bc8c0472ffd60925f7"
+}

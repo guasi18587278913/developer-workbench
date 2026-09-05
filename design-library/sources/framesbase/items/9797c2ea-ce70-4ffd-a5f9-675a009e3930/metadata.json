@@ -1,0 +1,43 @@
+{
+  "id": "9797c2ea-ce70-4ffd-a5f9-675a009e3930",
+  "title": "Vertex Sci",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "9797c2ea-ce70-4ffd-a5f9-675a009e3930",
+    "page_at_capture": 11,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/vertex-sci/preview/media-pipeline-v1/0fbc050c1411f66fef71315ef5c4ff1fcd73a4a05fc2c0e70042c0a2bf5ff510"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:03.814974+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dcaf74549360cc46fe07c86cf69a82aa89929c7aae55c9e454a528ffc6863e85",
+  "displayed_prompt_chars": 9146,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e815cf1c71b509be3b5280aa6bdcaae5bb68a862d5c9bb9412a3d1f688c10034",
+    "original_bytes": 2832418,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 39550
+  },
+  "preview_sha256": "f39fef01876141318c6f1e071ae0a598eaea3e305ffe08029901b278981997cf"
+}

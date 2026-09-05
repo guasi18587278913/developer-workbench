@@ -1,0 +1,43 @@
+{
+  "id": "61e61f95-79ef-4bea-85d5-f056124799b1",
+  "title": "SpeakUp Venture Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "61e61f95-79ef-4bea-85d5-f056124799b1",
+    "page_at_capture": 6,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/speakup-venture-hero/poster/media-pipeline-v1/8b777d26ecca59b80220df663eb7ed42db2a405592fca379d6dd3d8042b30df1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:08.101115+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ad2da261539adb0d0fedce44a2862ca407863fce29850f6bc34d5c14ff37d0cd",
+  "displayed_prompt_chars": 3854,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c120d10cd44d8f3acb1b774ab28fb048298f8d5363a97e34f1be6d154983f98d",
+    "original_bytes": 103468,
+    "original_dimensions": [
+      1200,
+      871
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      697
+    ],
+    "bytes": 66760
+  },
+  "preview_sha256": "ab8e5c4b294d0bd91343c1ac9273930440c08618dff62046633e0dd8a971e300"
+}

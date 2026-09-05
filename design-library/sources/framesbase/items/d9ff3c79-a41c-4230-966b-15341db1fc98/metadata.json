@@ -1,0 +1,43 @@
+{
+  "id": "d9ff3c79-a41c-4230-966b-15341db1fc98",
+  "title": "Kova Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Benefits",
+    "item_id": "d9ff3c79-a41c-4230-966b-15341db1fc98",
+    "page_at_capture": 3,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sections/kova-features/preview/media-pipeline-v1/537da88e86c19512368cdbd26c4c6029bad9e5a3607f80f3536f629f610741c0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:21.814063+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "68ce990e887aed0281e36ccdb34190e405846d187f2f5afdce6dc6facbf3fab5",
+  "displayed_prompt_chars": 12180,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ebe95c1dbfceb65221300bad55154624d74028b64ebdb3f6a6b7566eb4e02c26",
+    "original_bytes": 263710,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 36,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 6858
+  },
+  "preview_sha256": "f01a5240f48ec947381adc9f186a264f54743dd77816f02ea46ddecbd1b76180"
+}

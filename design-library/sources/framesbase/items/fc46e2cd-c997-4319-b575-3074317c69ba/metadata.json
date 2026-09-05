@@ -1,0 +1,43 @@
+{
+  "id": "fc46e2cd-c997-4319-b575-3074317c69ba",
+  "title": "Nexar",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Productivity",
+    "item_id": "fc46e2cd-c997-4319-b575-3074317c69ba",
+    "page_at_capture": 2,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/apps/nexar-hero/poster/media-pipeline-v1/26e38bc629008bf48dd5825a15ae20b094838ad18bd06cccd14fb2ff4d5ae3ed"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:59.620168+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6ed8505f701f48301b61d102186438f041a7cdd848b49ddbf4ecf821ae850241",
+  "displayed_prompt_chars": 8357,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6fa8f69778bb5eddc8762d6fdbb4d844a1c291012838caff6f109dae29113f71",
+    "original_bytes": 535605,
+    "original_dimensions": [
+      1920,
+      1367
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      684
+    ],
+    "bytes": 47120
+  },
+  "preview_sha256": "5eb95b91d1318e417196cf1cac918f05c12e2a000ebed8f836b5398c6d552557"
+}

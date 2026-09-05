@@ -1,0 +1,43 @@
+{
+  "id": "d01b7030-2b17-42e3-87a0-69ae6d8275f1",
+  "title": "Cloud Kicks",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fashion",
+    "item_id": "d01b7030-2b17-42e3-87a0-69ae6d8275f1",
+    "page_at_capture": 15,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/cloud-kicks/poster/media-pipeline-v1/bd6968e5bde5ea4fef64f6e183d52bbe03b1740b061ed3a1168515b817a262d6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:07.523113+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ffbda9059e261c6e1d348dcf5fe75b419d9828a4138314bbcb1b05110d28470f",
+  "displayed_prompt_chars": 7865,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f790972f103877f55e676b33a5daba8d55e9f08974ad21b30f07aa8d2cdc9452",
+    "original_bytes": 57648,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 33950
+  },
+  "preview_sha256": "b0aa74b7a1fd2ca429fa7956a1ba546f5358e68e9b12fbb2c38edf4ec22c07c6"
+}

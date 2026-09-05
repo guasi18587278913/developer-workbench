@@ -1,0 +1,43 @@
+{
+  "id": "d6fdd0b0-2825-42d1-aedc-a7eff06a8a4b",
+  "title": "Cybersecurity Hero v2",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "d6fdd0b0-2825-42d1-aedc-a7eff06a8a4b",
+    "page_at_capture": 8,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/cybersecurity-hero-v2/preview/media-pipeline-v1/68cbb2166d2b0846de71f40fe6f10059f630f3dd87362a08798bcb545eb2737a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:09.604445+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fc04a44e0da8381746ba32efc4ab2e0d4ac3bcaf10c7195c3a1fc0c945c40318",
+  "displayed_prompt_chars": 7140,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1a3a9fe976dd316e7ab703d68d0340dec9b7ae60c06b7b2b37feee62d622e540",
+    "original_bytes": 1028150,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 14834
+  },
+  "preview_sha256": "9aea85c893ff20d27ac89a77acf6bfbe2b883b0ff939c2e860ac2bc87cd542b2"
+}

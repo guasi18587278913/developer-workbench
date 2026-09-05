@@ -1,0 +1,43 @@
+{
+  "id": "e80151c8-1e62-482a-b463-441d363cf76d",
+  "title": "Augmented Sight",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "e80151c8-1e62-482a-b463-441d363cf76d",
+    "page_at_capture": 15,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/augmented-sight/poster/media-pipeline-v1/f0d085ead9a0ceaa6bfea6eab036c99f1a7d3095d9ab45ac6f11b12c449880b0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:04.732743+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5d80a34f09a8cf910ad7915362521fcaa4c58e09447f601af8845d708b50d2d6",
+  "displayed_prompt_chars": 7959,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "eabd4aefaa371fa7fa4bf7b390f372f3f8e90206d37f9236fbd2e6579c57b26a",
+    "original_bytes": 83060,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 29550
+  },
+  "preview_sha256": "0844dbca5a25d62faa582205adaf7e5fc53cfcb8785890efb714f09ec7b90d1e"
+}

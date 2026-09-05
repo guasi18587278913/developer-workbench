@@ -1,0 +1,43 @@
+{
+  "id": "52c61350-0426-4bd4-8b67-cbe57659c962",
+  "title": "SaaS Pricing Flow",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "52c61350-0426-4bd4-8b67-cbe57659c962",
+    "page_at_capture": 1,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sections/saas-pricing-flow/preview/media-pipeline-v1/cf3b48ab168a9faaf001261ab0840759740eb3b51ee12581c4fc1002577e535d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:05.736853+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a68e31f8962648536217678ef3d0344e34ddab87beb8f4d511086b5b1007fb88",
+  "displayed_prompt_chars": 5969,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3bd71b5cb93c66839261e965c5c7dc0929b18f34b3c1ce2cd3cb03d336d4337e",
+    "original_bytes": 1847992,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 26890
+  },
+  "preview_sha256": "753e6a8576fdaff10618dfa813ed1b5936c511967e1e868f5eb5c2b4f2710acc"
+}

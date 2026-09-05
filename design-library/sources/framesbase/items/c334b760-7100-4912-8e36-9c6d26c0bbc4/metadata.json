@@ -1,0 +1,43 @@
+{
+  "id": "c334b760-7100-4912-8e36-9c6d26c0bbc4",
+  "title": "Prioritize",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "c334b760-7100-4912-8e36-9c6d26c0bbc4",
+    "page_at_capture": 4,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/prioritize-hero/poster/media-pipeline-v1/dd2d5a4b534f19806e215da024cc0dd6948fff93d1eedc780aa52d453873371d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:45.688440+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "33739352b79c851935e3fb83f0b537d36f36e479163e3bd6d132302d1619222a",
+  "displayed_prompt_chars": 6216,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ef0a0c5ef65462476be56f3c10c8dd82127b206b7bbd9b1dd2f671ac6d5b2653",
+    "original_bytes": 405938,
+    "original_dimensions": [
+      1878,
+      1382
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      706
+    ],
+    "bytes": 29172
+  },
+  "preview_sha256": "a782ca897f2dab4fb4848e0d685afa13910e8f1551dd370f76fe9de42811a531"
+}

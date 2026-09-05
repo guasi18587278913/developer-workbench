@@ -1,0 +1,43 @@
+{
+  "id": "0c961259-db56-4e96-b40f-675f1f15cf94",
+  "title": "Bento Grid Stats",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Bento",
+    "item_id": "0c961259-db56-4e96-b40f-675f1f15cf94",
+    "page_at_capture": 2,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sections/bento-grid-stats/preview/media-pipeline-v1/44a8e71106203a7e94cefa6981531187efd59ab28f6bc60b124c6a1b0293eb88"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:49.664046+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2d4f3c32f1ce13d7f5e636314c301c8fe344b711f0ee061a26ef69092f54255c",
+  "displayed_prompt_chars": 6839,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3224436c2756cf99fb656a829d536f8d148e800504a1f7625595f3e7c7e29071",
+    "original_bytes": 249336,
+    "original_dimensions": [
+      640,
+      460
+    ],
+    "original_frames": 34,
+    "dimensions": [
+      640,
+      460
+    ],
+    "bytes": 16246
+  },
+  "preview_sha256": "f0e689beeabb61e68cfaf557e3b28bd587fd8ebf59bffee65f46da56a0698818"
+}

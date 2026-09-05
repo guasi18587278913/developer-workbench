@@ -1,0 +1,43 @@
+{
+  "id": "f3bd46c2-eb66-40f5-ac4c-5b77dc86b259",
+  "title": "PROMPT",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "f3bd46c2-eb66-40f5-ac4c-5b77dc86b259",
+    "page_at_capture": 11,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/prompt-hero/poster/media-pipeline-v1/571624e7e744d0c2e4a490fda2e4124aa7418209dcea2ed306245eaa3acae56b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:24.207214+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "00ee092c5e29f6634fc49b9e3dfde68c77d21017cbf741081f8e58ed1ed3d9a3",
+  "displayed_prompt_chars": 13186,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4cfbab84c336e933ee8ce84f0f2600b7f071107a4c4be85511e056850f064f02",
+    "original_bytes": 50614,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 28748
+  },
+  "preview_sha256": "e5eeaf095490ce1a2b9efcfb80bf635adad5c475dc74e14be513750252ef8995"
+}

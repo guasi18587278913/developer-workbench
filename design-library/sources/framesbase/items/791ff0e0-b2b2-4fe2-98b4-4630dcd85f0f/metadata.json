@@ -1,0 +1,43 @@
+{
+  "id": "791ff0e0-b2b2-4fe2-98b4-4630dcd85f0f",
+  "title": "3D Property",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Real Estate",
+    "item_id": "791ff0e0-b2b2-4fe2-98b4-4630dcd85f0f",
+    "page_at_capture": 2,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/apps/3d-property/poster/media-pipeline-v1/877fc04a445486ea52fffe8c04576896c769ad1aa5363af1f18f6ac389b20e42"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:19.253384+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cfeb3b80d5e863cf5080b5ab5dfc0d9582349af960acd80f3f4fd461a0693250",
+  "displayed_prompt_chars": 13004,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "03e75873a40c148ecf26f00f2562af06295be5bf9b1377d3882a991fbfb1da41",
+    "original_bytes": 70722,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 40094
+  },
+  "preview_sha256": "0d56d0c37204779bc5c1321a66fa550d140a03a632998b07c473616dd65dab50"
+}

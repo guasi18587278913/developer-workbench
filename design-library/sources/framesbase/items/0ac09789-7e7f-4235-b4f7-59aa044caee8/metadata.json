@@ -1,0 +1,43 @@
+{
+  "id": "0ac09789-7e7f-4235-b4f7-59aa044caee8",
+  "title": "E-commerce Website",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "0ac09789-7e7f-4235-b4f7-59aa044caee8",
+    "page_at_capture": 5,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/ecommerce-website-landing/poster/media-pipeline-v1/3bb19bd31380d15b28584e7cd266f1b793a077392fd24d68fa131e0831a1a319"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:40.794351+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6a51f2a590392a2cd99bc66c2ab0133037aa607f12ae2a08769fd779e788fa3f",
+  "displayed_prompt_chars": 5130,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b66a55a9ee3a7bf85e305935041c283192bcc621a7f362b9889f90fedaed1e9d",
+    "original_bytes": 336493,
+    "original_dimensions": [
+      964,
+      1676
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      552,
+      960
+    ],
+    "bytes": 54328
+  },
+  "preview_sha256": "8b31bc822a47ab784c61367ebbec8b6fcff4502c4e1eb095a0afc447e3b2f0f1"
+}

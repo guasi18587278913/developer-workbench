@@ -1,0 +1,43 @@
+{
+  "id": "977ae2e9-4614-4cb9-bbd0-4b4c4c9dd769",
+  "title": "Arceage Services",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Services",
+    "item_id": "977ae2e9-4614-4cb9-bbd0-4b4c4c9dd769",
+    "page_at_capture": 4,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sections/arceage-services/preview/media-pipeline-v1/0c9b088c5da6ffb6f753b0d0604bbe782c85d65567599a63905dbb5fc80ecb7f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:23.681576+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "325afe38229b3d6b5e85bdfcc5e9394216e0bd7ad953a80e1b661e764bf14383",
+  "displayed_prompt_chars": 7344,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b7d68122bd1ba76d64b06116e3ab072d53938dc9aa610b9360dc2252942694fb",
+    "original_bytes": 267228,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 11418
+  },
+  "preview_sha256": "6e02d83e0348ab0536d98ff9da651d45193ae9bdf455b9101ed42013a3274be9"
+}

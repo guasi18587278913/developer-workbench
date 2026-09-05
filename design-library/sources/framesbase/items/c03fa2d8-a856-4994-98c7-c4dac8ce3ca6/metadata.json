@@ -1,0 +1,43 @@
+{
+  "id": "c03fa2d8-a856-4994-98c7-c4dac8ce3ca6",
+  "title": "Deep Neural Interface",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Artificial Intelligence",
+    "item_id": "c03fa2d8-a856-4994-98c7-c4dac8ce3ca6",
+    "page_at_capture": 13,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/deep-neural-interface/poster/media-pipeline-v1/5e5eb720b91e8b0b2b8fb151f3e730fbdb70fe3e7ba1f4e29c361d2a612c489f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:11.743777+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "661003f230e54398889e161dd1dff0ce385aef312ddaddd7dc22f29a051bc4fe",
+  "displayed_prompt_chars": 34470,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "687c8136e1110f7c0678694ed43675d703a39094e8d5b85ba1d32fb35665b848",
+    "original_bytes": 69662,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 38032
+  },
+  "preview_sha256": "5da80b3d5b18616155621af197f880c62a8b987cedaea543b7011c10ad7e5f59"
+}

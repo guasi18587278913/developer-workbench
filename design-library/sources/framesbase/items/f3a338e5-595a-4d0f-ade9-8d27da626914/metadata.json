@@ -1,0 +1,43 @@
+{
+  "id": "f3a338e5-595a-4d0f-ade9-8d27da626914",
+  "title": "AI Companions",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "f3a338e5-595a-4d0f-ade9-8d27da626914",
+    "page_at_capture": 14,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/ai-companions/poster/media-pipeline-v1/f23832ca89d306136ff8edd835cefe98fb96c7426314a1deaf5865579ad05807"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:43.172765+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f8fb2ce4cea117b118917a204dda3576b3320976f12711572792fafe82d24b1e",
+  "displayed_prompt_chars": 6624,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "dc9db1074d1969a289e2082d627870316fa891b75aa9b86652ad5b8134607612",
+    "original_bytes": 73130,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 42096
+  },
+  "preview_sha256": "544e5845ea751e13691bf64ae6f602a01190c1bf047621d60bc171893b847317"
+}

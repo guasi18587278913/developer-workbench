@@ -1,0 +1,43 @@
+{
+  "id": "0a943fe4-447d-4417-8fba-b6bca60f27cb",
+  "title": "Skybridge 404",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "404",
+    "item_id": "0a943fe4-447d-4417-8fba-b6bca60f27cb",
+    "page_at_capture": 15,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/skybridge-404/poster/media-pipeline-v1/1592cbe7d0d9be5124c50586ef7ae2ae73457ecfcab2789da681afb97cd8ad88"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:58.380870+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5f12d5f49322d6271ed7019ba76f4dfe62cf63efae5d1091bba5bae2593766be",
+  "displayed_prompt_chars": 7104,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7a317f5611e6360e78c56c1dde1f0aa0382e5d8ba0c1942e068e865a7e33100f",
+    "original_bytes": 156496,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 89020
+  },
+  "preview_sha256": "058bda70e5fdbdb24b0bfa8cec209c3794085b39de2763450bc131b502210e7c"
+}

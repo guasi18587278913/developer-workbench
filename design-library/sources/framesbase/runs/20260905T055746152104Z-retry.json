@@ -1,0 +1,46 @@
+{
+  "mode": "retry",
+  "started_at": "2026-09-05T05:57:43.709436+00:00",
+  "attempted": [
+    {
+      "section": "sites",
+      "page": 1,
+      "position": 4,
+      "error": "ValueError: Unexpectedly short prompt"
+    },
+    {
+      "section": "sites",
+      "page": 4,
+      "position": 21,
+      "error": "RuntimeError: Content saved but preview is still missing"
+    },
+    {
+      "section": "sites",
+      "page": 8,
+      "position": 22,
+      "error": "RuntimeError: Content saved but preview is still missing"
+    }
+  ],
+  "recovered": [
+    {
+      "id": "627f1087-bbda-453f-80c2-808a89bb5954",
+      "section": "sites",
+      "page": 1,
+      "position": 4
+    },
+    {
+      "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+      "section": "sites",
+      "page": 4,
+      "position": 21
+    },
+    {
+      "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+      "section": "sites",
+      "page": 8,
+      "position": 22
+    }
+  ],
+  "remaining": [],
+  "finished_at": "2026-09-05T05:57:46.152054+00:00"
+}

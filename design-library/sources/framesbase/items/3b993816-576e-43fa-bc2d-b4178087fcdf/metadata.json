@@ -1,0 +1,43 @@
+{
+  "id": "3b993816-576e-43fa-bc2d-b4178087fcdf",
+  "title": "AI Automation",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "3b993816-576e-43fa-bc2d-b4178087fcdf",
+    "page_at_capture": 7,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/ai-automation/preview/media-pipeline-v1/bc0b7b7a9ed2dc24673ac78b584c9d2a5b9ef72e2e7948eaed2706452cb2159f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:57.119693+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "29ed8710a49726eaef43d403913b3f72ba92d052d55ad2d39796013fc9b3520c",
+  "displayed_prompt_chars": 9362,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ae67692ae17352aaf3f768de26dc755d4e3eeed4a945a775dedb0b52ba41f0f5",
+    "original_bytes": 1572942,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 18100
+  },
+  "preview_sha256": "7e5e3c7734fda1b675e8d4a4f9f6cc7264ac448f0b432373dfda2af46414df8b"
+}

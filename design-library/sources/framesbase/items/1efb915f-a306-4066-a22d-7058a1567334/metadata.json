@@ -1,0 +1,43 @@
+{
+  "id": "1efb915f-a306-4066-a22d-7058a1567334",
+  "title": "Data Relay",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "1efb915f-a306-4066-a22d-7058a1567334",
+    "page_at_capture": 13,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/data-relay/poster/media-pipeline-v1/c5dd97ef5301fed49e6c65395493082ccf2769e9f1dd076eca7e18263f093559"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:10.715986+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "25bc12c5c804d75851f02677b5c9a7d1ff0cb101d3678e7d11ec3174f8b6a9f4",
+  "displayed_prompt_chars": 12419,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b6af16013931051105d1805b8532c3823311a1efb52a39895e5f0774619e85c8",
+    "original_bytes": 72632,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 44460
+  },
+  "preview_sha256": "36a90df03c9769568ef71c5d1ec4205d271b5b5f9b5a6e114fa9dbd5ea2bdfa1"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "946cdbdf-f3e7-4c7d-b60e-2dd38761cc10",
+  "title": "EMBER.dsgn",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "946cdbdf-f3e7-4c7d-b60e-2dd38761cc10",
+    "page_at_capture": 6,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/ember-dsgn-hero/preview/media-pipeline-v1/00464032734c6c26233f7f307f14ee644c92b9042485471c9e76148fb964441b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:19.996627+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2a355e1cb8919d379b282c079b4c55f9fdf80c379fc61c1d45a86d10295abe8d",
+  "displayed_prompt_chars": 6305,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0a117fc89207773b8110e47113819f8a89b0496ff698c993bcd85b4de8cad507",
+    "original_bytes": 1479644,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 21230
+  },
+  "preview_sha256": "757f9242bb5e2acca2446c5fa366c9dc31e0f54b3e28e7e5a7d104b87ad92236"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e9cdbaed-d836-4a8b-93ca-24af8614be66",
+  "title": "Viktor Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "e9cdbaed-d836-4a8b-93ca-24af8614be66",
+    "page_at_capture": 3,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/19/poster/media-pipeline-v1/38b314128273fc7665fc720109f14542359b5596ab305739e5fd8f2bd82533da"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:28.145043+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bc0c6bbb4cf07cd5a33673798d61cb8d7ef67580ff88b28e1759ef098e566b13",
+  "displayed_prompt_chars": 2693,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bbddb9e335ff91a3d346ac490073ce6181546579bc0c57b17b3aa15f5dceb556",
+    "original_bytes": 1632355,
+    "original_dimensions": [
+      1636,
+      1284
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      753
+    ],
+    "bytes": 29380
+  },
+  "preview_sha256": "79ba85f2ea2bc672cbfe580fbe47a856e3a3c5b87e1c46a73c982ebc68eb2261"
+}

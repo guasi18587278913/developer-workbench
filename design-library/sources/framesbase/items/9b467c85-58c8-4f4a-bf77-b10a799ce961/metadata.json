@@ -1,0 +1,43 @@
+{
+  "id": "9b467c85-58c8-4f4a-bf77-b10a799ce961",
+  "title": "Open Agent",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "9b467c85-58c8-4f4a-bf77-b10a799ce961",
+    "page_at_capture": 15,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/open-agent/poster/media-pipeline-v1/8f434ab93b038270d4401eb2236e8dd9fa827dc345068e9a4f42d63041441852"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:02.952661+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f7781a0f420750e37fcc260018d23a717a6483d4adedfa2bf3a5ac0e2fafca1b",
+  "displayed_prompt_chars": 11636,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "fa05fed3491145536a7ad0dd7c11fd108b3a121db5ebb7e79497be3661103b4a",
+    "original_bytes": 95312,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 52600
+  },
+  "preview_sha256": "3983ffa234ed5fd13393f5a030124d45c0a977ff1b9076e9a706a295e210816d"
+}

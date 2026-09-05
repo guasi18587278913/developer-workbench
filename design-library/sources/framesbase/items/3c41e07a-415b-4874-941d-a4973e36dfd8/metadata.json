@@ -1,0 +1,43 @@
+{
+  "id": "3c41e07a-415b-4874-941d-a4973e36dfd8",
+  "title": "Mouse Trail CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "3c41e07a-415b-4874-941d-a4973e36dfd8",
+    "page_at_capture": 2,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sections/mouse-trail-cta/preview/media-pipeline-v1/98f91b61d742b49e906bfe25113a16b82e789b8feb1bcc06d3f1fba96252c6c4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:34.861857+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fcda22e8db79b40011895db9d1a40079fa51f756a04c40a006a603d826d029ed",
+  "displayed_prompt_chars": 5721,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "149855849bc553e82fa60c056cba41f4eb363d6a0a4785df7464e607b32ca4f8",
+    "original_bytes": 203596,
+    "original_dimensions": [
+      640,
+      506
+    ],
+    "original_frames": 54,
+    "dimensions": [
+      640,
+      506
+    ],
+    "bytes": 7978
+  },
+  "preview_sha256": "c34b656964104972d75c103b6614059f0bd10aa5590d9b9edac1da55bc68fe34"
+}

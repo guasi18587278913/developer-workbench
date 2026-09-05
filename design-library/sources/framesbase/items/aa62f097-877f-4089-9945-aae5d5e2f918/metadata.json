@@ -1,0 +1,43 @@
+{
+  "id": "aa62f097-877f-4089-9945-aae5d5e2f918",
+  "title": "Shamoni",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "aa62f097-877f-4089-9945-aae5d5e2f918",
+    "page_at_capture": 9,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/shamoni-hero/poster/media-pipeline-v1/b749c8cd3f8f9312cf04320c41031174a4b23291c842c007b1ccf66cf3461863"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:56.641649+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b37d6250ff38acd54c2e93399fd4f63eb88d98d42cd4e2c9d5efef5dff18a08a",
+  "displayed_prompt_chars": 21939,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3b157590ba6bde8adceab9e307aa9b027297802632fa974dde99876e98098ac8",
+    "original_bytes": 972264,
+    "original_dimensions": [
+      1850,
+      1366
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      709
+    ],
+    "bytes": 107432
+  },
+  "preview_sha256": "c59e9c8c462c306fac80509d50b8478ffc7056627338a8192f1831fec189d14e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "19ba3b5b-4b03-4865-8308-690a10a8afdb",
+  "title": "Coffee Rewards",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Loyalty App",
+    "item_id": "19ba3b5b-4b03-4865-8308-690a10a8afdb",
+    "page_at_capture": 1,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/apps/coffee-rewards/poster/first-frame-v1/bff61e8954274252fedc0483af097ebefb0dcc687f5dc41911b474b1d518c5a2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:43.068073+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ee4a52d661786358e9d1b75ffd699b687221e8520faffc02242d2dbb8449ec9f",
+  "displayed_prompt_chars": 5054,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bff61e8954274252fedc0483af097ebefb0dcc687f5dc41911b474b1d518c5a2",
+    "original_bytes": 18044,
+    "original_dimensions": [
+      1280,
+      932
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      699
+    ],
+    "bytes": 12572
+  },
+  "preview_sha256": "d2024e00b25e3f6badb0c36d6733518c306d66130ba096d4858c1c94ffc9b668"
+}

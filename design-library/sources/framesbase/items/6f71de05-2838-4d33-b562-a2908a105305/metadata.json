@@ -1,0 +1,43 @@
+{
+  "id": "6f71de05-2838-4d33-b562-a2908a105305",
+  "title": "Movie Premiere",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Entertainment",
+    "item_id": "6f71de05-2838-4d33-b562-a2908a105305",
+    "page_at_capture": 1,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/apps/movie-premiere/poster/first-frame-v1/d8317ee78e491e2a11937f6f491ef43bf47f852ff6a62c7f293081373fb504b6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:37.741923+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "43827c058583d7d345baad3999e9d3e6e919e9e4268f5c8c75fe51f7181506d8",
+  "displayed_prompt_chars": 6881,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d8317ee78e491e2a11937f6f491ef43bf47f852ff6a62c7f293081373fb504b6",
+    "original_bytes": 20936,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 14450
+  },
+  "preview_sha256": "1125c5f7285c484899b68bf24ec99a73ecf6f5be6ae26e69862bc379210d0769"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "40d4dd6d-39ee-4c87-ac03-bbde9a56b92e",
+  "title": "Wanderful Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Travel",
+    "item_id": "40d4dd6d-39ee-4c87-ac03-bbde9a56b92e",
+    "page_at_capture": 8,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/wanderful-hero/preview/media-pipeline-v1/94d9193cdc5c36d721c5ef706888ed849a08ac09e750ca98422078fb243eee27"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:20.997624+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a88ec2d864bdaff152230391d1725468982663d6abec1fe71ee124ed306e4a98",
+  "displayed_prompt_chars": 4223,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6634d5ae8271b6f12fbb963f2a568c3782a431ec558ca1d8928a43811e805e3a",
+    "original_bytes": 941878,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 18328
+  },
+  "preview_sha256": "8abd9808748ea9449c16c7240eca29ea0b29884b82b39cb4d214c852f4381484"
+}

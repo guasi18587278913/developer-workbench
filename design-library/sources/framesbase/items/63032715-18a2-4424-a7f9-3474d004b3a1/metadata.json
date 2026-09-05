@@ -1,0 +1,43 @@
+{
+  "id": "63032715-18a2-4424-a7f9-3474d004b3a1",
+  "title": "Quantum Core",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Data Intelligence",
+    "item_id": "63032715-18a2-4424-a7f9-3474d004b3a1",
+    "page_at_capture": 2,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/quantum-core/poster/media-pipeline-v1/d5a9aa67ca949773c8a366c10848710fac34e174cb2bfdc582802a1e7f7bfcb9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:00.353825+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d629442d28020804b456a1f2abd57d6eca8951a68fddc87efe1ce809466b8622",
+  "displayed_prompt_chars": 27320,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e53f7bc3d1d50649f1433566f8541f37160175bc3b2c0ba0793d24faf71978f5",
+    "original_bytes": 74098,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 44224
+  },
+  "preview_sha256": "1d0e648ebb58abb8599202714a23761ac72bbb911bb0f85d25e9873f5f37da6d"
+}

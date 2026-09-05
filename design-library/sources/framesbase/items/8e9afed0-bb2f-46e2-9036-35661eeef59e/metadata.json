@@ -1,0 +1,43 @@
+{
+  "id": "8e9afed0-bb2f-46e2-9036-35661eeef59e",
+  "title": "Mood Tracker",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Wellness",
+    "item_id": "8e9afed0-bb2f-46e2-9036-35661eeef59e",
+    "page_at_capture": 1,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/apps/mood-tracker/poster/first-frame-v1/499b4a9d470e1ef913f0eae5de65171c2d38d4ac251cc671bac09d56a400f4ce"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:25.147378+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "014348e71c879956674a1d192112c852cd21ef0b669f2dcf7fa9dd172ad62758",
+  "displayed_prompt_chars": 10884,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "499b4a9d470e1ef913f0eae5de65171c2d38d4ac251cc671bac09d56a400f4ce",
+    "original_bytes": 45396,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 32462
+  },
+  "preview_sha256": "9888be9bf4c45fafcadcd86ab13f6590e52603994ab1a98663feeb67f663e5c2"
+}

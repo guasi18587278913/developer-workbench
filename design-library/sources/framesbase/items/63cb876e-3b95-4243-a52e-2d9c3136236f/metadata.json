@@ -1,0 +1,43 @@
+{
+  "id": "63cb876e-3b95-4243-a52e-2d9c3136236f",
+  "title": "Geno Trace",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "63cb876e-3b95-4243-a52e-2d9c3136236f",
+    "page_at_capture": 1,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/geno-trace/poster/media-pipeline-v1/e9d60766db9d14e65fb79ca7cdd54f18c3b608838fb8d68845597f84938ffc1a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:35.498330+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7abe6ee0d60505d3b65c8155378125521fe92a34bf0ab906f32e0534367da3bc",
+  "displayed_prompt_chars": 9759,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d2572dbed4f0a560c1eade6cd3d7e483adb3c63d750e5ade7012d0ca577c6e41",
+    "original_bytes": 99846,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 51964
+  },
+  "preview_sha256": "8bb863b020633017e9412264b7427a3b1673608f7675c7d751ce5d4eb0024be6"
+}

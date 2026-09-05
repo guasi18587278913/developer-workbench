@@ -1,0 +1,43 @@
+{
+  "id": "767c762f-8867-4951-86c2-2e42be6b8943",
+  "title": "Datacore SaaS Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "767c762f-8867-4951-86c2-2e42be6b8943",
+    "page_at_capture": 3,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/4/poster/media-pipeline-v1/9de0b56faf1f70688585f6b71d502de0ce749b15d537689d1a76b0ffe230a84c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:37.221847+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "94cc75637dda4de5fd8027508edb1a1569cb257d8b2598b72be7b5876f394c87",
+  "displayed_prompt_chars": 2660,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "89ae9419c04a7f099850af3660e0ae3268b255be9c4332881a83b249e33615f3",
+    "original_bytes": 6953732,
+    "original_dimensions": [
+      800,
+      559
+    ],
+    "original_frames": 114,
+    "dimensions": [
+      800,
+      559
+    ],
+    "bytes": 32860
+  },
+  "preview_sha256": "4a343d0d9e5f2a2e57533f988ade7b4d187eb3cf537ef2a229444cc4bb9dfd1b"
+}

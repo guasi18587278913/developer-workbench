@@ -1,0 +1,43 @@
+{
+  "id": "13b6f518-e697-4667-8179-ea595413950e",
+  "title": "404 Planet",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "404",
+    "item_id": "13b6f518-e697-4667-8179-ea595413950e",
+    "page_at_capture": 4,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sections/404-planet/preview/media-pipeline-v1/203622cb1a9c3da35ae0bde07306a52943056a2f0b9c201db6f74822dd32a528"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:19.315208+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a65606d4bdc8b977eeec3413388e8abaea92e70a398170d618e4eceb94b09f94",
+  "displayed_prompt_chars": 7598,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2434b256495a02b6e690edf2a387c50c209af1c24b5cd07ee32d23014d74fb37",
+    "original_bytes": 1956200,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 25590
+  },
+  "preview_sha256": "df9922b90477495a22fadd711ea26890021a2d5f0a068006d2deff10ac73e534"
+}

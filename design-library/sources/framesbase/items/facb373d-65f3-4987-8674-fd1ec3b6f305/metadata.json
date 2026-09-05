@@ -1,0 +1,43 @@
+{
+  "id": "facb373d-65f3-4987-8674-fd1ec3b6f305",
+  "title": "SaaS Value",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "facb373d-65f3-4987-8674-fd1ec3b6f305",
+    "page_at_capture": 10,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/saas-value/poster/media-pipeline-v1/00c9fee75ffc31f9b498097dc3f7e6ddedc0e727925b66acfe69b809bac7d9f6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:46.480926+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a6c22889377337439e88083be916adadfdbbb8ee67ec379be3923eeb65394095",
+  "displayed_prompt_chars": 8755,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a0aa1ef7ef06ca11858221e014f88091a673b1232e6d25af30215ffdfd005808",
+    "original_bytes": 1111297,
+    "original_dimensions": [
+      1978,
+      1466
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      712
+    ],
+    "bytes": 30780
+  },
+  "preview_sha256": "8e4a7baded786d32fe07e093257970acd32fe81b6041077dce33601c57199232"
+}

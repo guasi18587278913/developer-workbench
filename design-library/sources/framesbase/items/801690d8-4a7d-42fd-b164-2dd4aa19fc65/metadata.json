@@ -1,0 +1,43 @@
+{
+  "id": "801690d8-4a7d-42fd-b164-2dd4aa19fc65",
+  "title": "Scroll Landing Page",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Interactive",
+    "item_id": "801690d8-4a7d-42fd-b164-2dd4aa19fc65",
+    "page_at_capture": 8,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/scroll-landing/poster/media-pipeline-v1/825fb489ba249aae0cf06a9e8830c49164d5df452f49afa0a167ec0762ba2456"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:58.794307+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "46a019c1085fe8ee01ddba78493c77ad4e0bc3570d9dd6bd5d2ef4e2da67de5e",
+  "displayed_prompt_chars": 15732,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a31e6f0218a1e43aef7fe89afb4d50e7b84a7a86ded6dbc8ce59ea9e1c82636a",
+    "original_bytes": 114178,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 65520
+  },
+  "preview_sha256": "e567b3b4f8a3692a7da62d886d0bcc35c858b3b83abe4cfb3da31de4acde15aa"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "f2b83e6a-88a5-4ac5-bd5f-3100feb26292",
+  "title": "Peakline Redshift",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "f2b83e6a-88a5-4ac5-bd5f-3100feb26292",
+    "page_at_capture": 1,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/peakline-redshift/poster/media-pipeline-v1/1e71dc984905869364bab93babba9c6788b8cceb23d7444b9b9c12c2fe4113bf"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:25.747016+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "18ed1f7f70b32591ec9a29155532907c8e8d8c97387f444e49e221a6091b3584",
+  "displayed_prompt_chars": 26692,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "349eaccc6ce063f28b3e27f710621bf1ecee0a780effc20c3e05303307419be6",
+    "original_bytes": 63422,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 35346
+  },
+  "preview_sha256": "617f52351ca6eb39c3547e359c1f9e9877fe5a7318d2ad658121e2d25a329c0a"
+}

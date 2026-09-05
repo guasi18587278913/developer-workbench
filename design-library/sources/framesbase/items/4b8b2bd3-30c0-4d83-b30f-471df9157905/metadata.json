@@ -1,0 +1,43 @@
+{
+  "id": "4b8b2bd3-30c0-4d83-b30f-471df9157905",
+  "title": "AI Designer Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "4b8b2bd3-30c0-4d83-b30f-471df9157905",
+    "page_at_capture": 6,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/ai-designer-agency/poster/media-pipeline-v1/eaf1b1ab215a24acab49eb5321df7215110aabacd9625b41006bbb1e56358639"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:49.986385+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "449b1a237884ab74209221aa38ce3df662fb872e7c770193bf2bfb405d46b056",
+  "displayed_prompt_chars": 7394,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "594791ea62fbc26229264a082a4f4e2ce999790b96b3fa6bd518d374cc94e6b2",
+    "original_bytes": 1218793,
+    "original_dimensions": [
+      942,
+      1650
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      548,
+      960
+    ],
+    "bytes": 48980
+  },
+  "preview_sha256": "88caf67cc73cdb8da17246e82cdbe397ef6dc4fddf68be8334d7ed2edc6f618a"
+}

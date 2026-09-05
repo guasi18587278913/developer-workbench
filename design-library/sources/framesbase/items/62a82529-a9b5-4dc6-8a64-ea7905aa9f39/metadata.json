@@ -1,0 +1,43 @@
+{
+  "id": "62a82529-a9b5-4dc6-8a64-ea7905aa9f39",
+  "title": "BuildShield",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Construction",
+    "item_id": "62a82529-a9b5-4dc6-8a64-ea7905aa9f39",
+    "page_at_capture": 2,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/buildshield/poster/media-pipeline-v1/38a85c23f0ff67a653559b0829daf1d756e6063c8fe6c4437477e22f82c6618d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:53.332620+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "11b8e96fef1b0cd2efb1b4660f83bd6e6fc29e34a42e9d68a77d8563b56de38d",
+  "displayed_prompt_chars": 21358,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f09d04d4b96d5ff9ded2b56696c106b944362e256cf58be515e506eba54bed7c",
+    "original_bytes": 123170,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 69212
+  },
+  "preview_sha256": "5b3b9231d3270aaf7fdc315abb71605eb4fea87a938f3623e4e4e6ac01e75228"
+}

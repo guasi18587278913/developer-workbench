@@ -1,0 +1,43 @@
+{
+  "id": "2aeefa36-09e6-45f0-a6f1-e0e6ed30bc9b",
+  "title": "Church Community",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Church",
+    "item_id": "2aeefa36-09e6-45f0-a6f1-e0e6ed30bc9b",
+    "page_at_capture": 1,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/apps/church-community/poster/first-frame-v1/537c228cb598c7b7def7c8962f235697647f6306ac185a5c5a75a97763b723bb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:32.992886+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "45cac4b9fd553db4f6b63868ee85f2c14e06c51d8752f7862c1512bebdd0b211",
+  "displayed_prompt_chars": 5380,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "537c228cb598c7b7def7c8962f235697647f6306ac185a5c5a75a97763b723bb",
+    "original_bytes": 42156,
+    "original_dimensions": [
+      1280,
+      954
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      716
+    ],
+    "bytes": 29276
+  },
+  "preview_sha256": "85a958180bbc040db526ca7a47e79a70b4c92e958f24bee9ddfe8fa8ce757879"
+}

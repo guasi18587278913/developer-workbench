@@ -1,0 +1,49 @@
+{
+  "validated_at": "2026-09-05T06:10:55.012510+00:00",
+  "source_cards": 704,
+  "entries": 701,
+  "counts": {
+    "sections": 91,
+    "sites": 349,
+    "apps": 43,
+    "backgrounds": 218
+  },
+  "expected": {
+    "sites": 349,
+    "apps": 43,
+    "sections": 91,
+    "backgrounds": 221
+  },
+  "verified_duplicate_cards": {
+    "backgrounds": 3
+  },
+  "delivery_types": {
+    "prompt": 477,
+    "source-link": 6,
+    "background-link": 218
+  },
+  "source_files_verified": 39,
+  "preview_missing": [
+    "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+    "d5a1c111-5acf-4c7f-afce-d6561e73d4ae"
+  ],
+  "source_issues": [
+    {
+      "id": "627f1087-bbda-453f-80c2-808a89bb5954",
+      "title": "Vintage Care",
+      "issue": "source-placeholder"
+    },
+    {
+      "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+      "title": "Slam Dunk",
+      "issue": "not-provided-by-source"
+    },
+    {
+      "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+      "title": "WISA Space",
+      "issue": "not-provided-by-source"
+    }
+  ],
+  "failures": [],
+  "passed_entries": 701
+}

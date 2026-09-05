@@ -1,0 +1,43 @@
+{
+  "id": "5a360021-3646-45fd-bfab-119ad064141c",
+  "title": "Live Language Classes",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Learning SaaS",
+    "item_id": "5a360021-3646-45fd-bfab-119ad064141c",
+    "page_at_capture": 2,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/apps/live-language-classes/poster/first-frame-v1/900fcbc469f6a730543d8a94e4bad5daac0536b49208cab0a5356cc37a8194f5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:21.770314+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "63bdb171d22d1f7c5e7227ae9ae34018acf4d3f55ba4c77c3ea14b733449c503",
+  "displayed_prompt_chars": 19729,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "900fcbc469f6a730543d8a94e4bad5daac0536b49208cab0a5356cc37a8194f5",
+    "original_bytes": 60502,
+    "original_dimensions": [
+      1280,
+      948
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      711
+    ],
+    "bytes": 41144
+  },
+  "preview_sha256": "30afb527f360cd90caa4fa0fea3a3789b61e15e84811ba53a481cd19b8aab272"
+}

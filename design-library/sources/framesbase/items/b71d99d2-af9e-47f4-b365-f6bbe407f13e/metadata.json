@@ -1,0 +1,43 @@
+{
+  "id": "b71d99d2-af9e-47f4-b365-f6bbe407f13e",
+  "title": "Learnly",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "b71d99d2-af9e-47f4-b365-f6bbe407f13e",
+    "page_at_capture": 5,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/learnly/preview/media-pipeline-v1/06d1ff916a3c31cad6038a9b60f8e05e269b4f6019d8be3b10141858abb19135"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:27.213768+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "498b5e234d63fadfdc16ae7512cc847bdfef64c9f398b207ea66e453697bbbae",
+  "displayed_prompt_chars": 16419,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3ea31f926c8404f972e209ae96fc8b8d55253fb497ec719b410236bc390a6fd2",
+    "original_bytes": 1117720,
+    "original_dimensions": [
+      640,
+      480
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      480
+    ],
+    "bytes": 21144
+  },
+  "preview_sha256": "d2ec86cb26fe8478e33e9191e117df14f3e1644caa5df4e41d2d5f1df9176c5a"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9f64e330-7177-41f5-b3ca-94597f00d571",
+  "title": "3D Character Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "3D",
+    "item_id": "9f64e330-7177-41f5-b3ca-94597f00d571",
+    "page_at_capture": 1,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/3d-character-studio/poster/media-pipeline-v1/a7ce185f3e21b44481818db4f8a4bfad3671f1762c329c9afff184cf237d15ec"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:36.852247+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9d38ff7bbc2094745d4c388e57b130c5e1a6d469b7e9f9c1beb300506d0324b3",
+  "displayed_prompt_chars": 5726,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2a722ced32362fe8ceedc99e32c277e41b3505976220cb6df5080d61dfdc8708",
+    "original_bytes": 66950,
+    "original_dimensions": [
+      1920,
+      1192
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      596
+    ],
+    "bytes": 25222
+  },
+  "preview_sha256": "bae26a4bf07fb2144aa4942139c81e0b7abfac7fcb4d2dac84bd87170af538fc"
+}

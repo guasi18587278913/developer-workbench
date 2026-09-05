@@ -1,0 +1,43 @@
+{
+  "id": "3af446c3-3be2-477b-93cf-65dfd25f0621",
+  "title": "Spectrum Grid",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Technology",
+    "item_id": "3af446c3-3be2-477b-93cf-65dfd25f0621",
+    "page_at_capture": 1,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sections/spectrum-grid/poster/media-pipeline-v1/79a2a989d4bab720e9ba504cc63d98be512bd524f352b2d267ee01a5d7aa44f6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:28.523892+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a026868a8fdd27071504cb942b3ae46623d5b5e689f0358094059139396de425",
+  "displayed_prompt_chars": 11555,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "589de59c49c9432c7f448df62ffe5286474c310263233139a1ee7fe31cfe5169",
+    "original_bytes": 58956,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 33620
+  },
+  "preview_sha256": "4178708f9e92f387d654f4acf753724ebaeddadd5c86f09c9c421f6c6a68f155"
+}

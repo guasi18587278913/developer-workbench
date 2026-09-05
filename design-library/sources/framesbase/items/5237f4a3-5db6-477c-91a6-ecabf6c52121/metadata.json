@@ -1,0 +1,43 @@
+{
+  "id": "5237f4a3-5db6-477c-91a6-ecabf6c52121",
+  "title": "Contact Cybernetic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "5237f4a3-5db6-477c-91a6-ecabf6c52121",
+    "page_at_capture": 8,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/contact-cybernetic/preview/media-pipeline-v1/b725f7b00c3af1047ed4d34ee83bd3fe8cb51c496d2a2979a58325354e1bd80d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:46.009302+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3bdae30ec7078168d20fbced6eb76b89ba5a8a412253aeb75dd91915411bf051",
+  "displayed_prompt_chars": 6423,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c7cfd48d97c360d0d18ebf29decf4bea8386ba4b17cc616c431f395c7aa1a90c",
+    "original_bytes": 815610,
+    "original_dimensions": [
+      640,
+      458
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      458
+    ],
+    "bytes": 17904
+  },
+  "preview_sha256": "7aec9d8c6dfe85b8521cf5f770abe5b74e14fbd8c8249f0db35b46cf0b3b8a05"
+}

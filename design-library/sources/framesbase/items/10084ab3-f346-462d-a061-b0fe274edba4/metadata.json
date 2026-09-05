@@ -1,0 +1,43 @@
+{
+  "id": "10084ab3-f346-462d-a061-b0fe274edba4",
+  "title": "Space Voyage",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "10084ab3-f346-462d-a061-b0fe274edba4",
+    "page_at_capture": 4,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/20/poster/media-pipeline-v1/b646468a3ade2e4368b2e9e937c85bbc2c442a09d956adfa3d5cb8f494e09cfe"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:17.472721+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c1742c71595826974015c38fc3a41e84eda3d2efb3cd642dfcdca68751a00bb9",
+  "displayed_prompt_chars": 5749,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a9a2fedee02fd059ccffcf86e9bb3c1eb41720ec0c16c5c765f5649c54b89781",
+    "original_bytes": 2147449,
+    "original_dimensions": [
+      1920,
+      1230
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      615
+    ],
+    "bytes": 87182
+  },
+  "preview_sha256": "ae13d5d1ed3bfa0a0162d0cc0d294fb4a950a7a36a738edffbb9d3ad0c554371"
+}

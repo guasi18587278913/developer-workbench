@@ -1,0 +1,43 @@
+{
+  "id": "31198968-94ab-4c75-8db0-45f922971eb9",
+  "title": "Global CTA Footer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "31198968-94ab-4c75-8db0-45f922971eb9",
+    "page_at_capture": 3,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sections/global-cta-footer/preview/media-pipeline-v1/d51c12e73fccd68e4e8f38f362f13106a3fec59c6e0589a7b0bd8b68b9bad3a1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:11.183862+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "73412280bf29d3056c5bd0673799dc2c3ba4830f82758ac5df9b3d4ed45f5f70",
+  "displayed_prompt_chars": 12324,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8fc8e59825ea825aea1fe2fe7a60b9cec2109d7a02b58246b28dbd0bd1ecd55f",
+    "original_bytes": 1276794,
+    "original_dimensions": [
+      640,
+      460
+    ],
+    "original_frames": 70,
+    "dimensions": [
+      640,
+      460
+    ],
+    "bytes": 29348
+  },
+  "preview_sha256": "a5ae72aebc93e9e69d586fd70bb38356b49ecac2f33425ccb91507be9d1d9768"
+}

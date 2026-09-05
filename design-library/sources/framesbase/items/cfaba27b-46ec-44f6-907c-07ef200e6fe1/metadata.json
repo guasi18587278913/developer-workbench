@@ -1,0 +1,43 @@
+{
+  "id": "cfaba27b-46ec-44f6-907c-07ef200e6fe1",
+  "title": "Animated Cards",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Component",
+    "item_id": "cfaba27b-46ec-44f6-907c-07ef200e6fe1",
+    "page_at_capture": 4,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sections/animated-cards/preview/media-pipeline-v1/e0b2cc8ce1015becf74e08f90ca696d2accbd46ef6912834a6f33509aca2877c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:17.239271+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a202c81c7cf8de7b5278f0ded92f463c68a745110afe28eee795f04fa32888c7",
+  "displayed_prompt_chars": 36212,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9cacdc3c42fa24e2e1da237e28fd4d5a4b10f1558969086507c09ac7a4ff428c",
+    "original_bytes": 554760,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 7660
+  },
+  "preview_sha256": "a24ac3283eeb6c3a2d14bc800e21d18f76f03945817e2117b7d9d810803a54eb"
+}

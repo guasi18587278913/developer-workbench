@@ -1,0 +1,43 @@
+{
+  "id": "f6ce6818-dc07-4cca-b9ab-61453644a2fd",
+  "title": "Intelligent Operations",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "f6ce6818-dc07-4cca-b9ab-61453644a2fd",
+    "page_at_capture": 14,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/intelligent-operations/poster/media-pipeline-v1/75a74eb2d3155c08e13b6ef6a49702f5fae5829170b7996ed6091718bac87e6b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:55.364962+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5ed2aae2e573c8b4803c67d37b9fff464cb42af9ce2281589496cf846229300c",
+  "displayed_prompt_chars": 10447,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "196685c8a6084a7be50951669697fd75aadbb9955cd69ffa856c9c2c4b689005",
+    "original_bytes": 77846,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 26228
+  },
+  "preview_sha256": "6a52e370f9025c31583c2600f2318cf2b871a2474f51d37a76a2b31b24658704"
+}

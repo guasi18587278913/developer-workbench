@@ -1,0 +1,43 @@
+{
+  "id": "5dc36f48-4cf0-4ea5-98bf-d7bdebc18006",
+  "title": "Lead Funnel",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "5dc36f48-4cf0-4ea5-98bf-d7bdebc18006",
+    "page_at_capture": 2,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/lead-funnel/poster/first-frame-v1/6cf60dbc3a0e6c2a748c028183f10ebbaaa6cd2ed4c5bde055334ef9f7b6a320"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:10.183975+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "11c5961cefca736fa4fa47bf5e9c597ad8b0e7a507cbc872e371661ce40c0a30",
+  "displayed_prompt_chars": 50354,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6cf60dbc3a0e6c2a748c028183f10ebbaaa6cd2ed4c5bde055334ef9f7b6a320",
+    "original_bytes": 25506,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 18122
+  },
+  "preview_sha256": "ab50185ecd92908a0939ff2422dfea8da94a13f9202737f335e677592808de08"
+}

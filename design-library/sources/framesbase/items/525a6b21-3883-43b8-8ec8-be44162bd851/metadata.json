@@ -1,0 +1,43 @@
+{
+  "id": "525a6b21-3883-43b8-8ec8-be44162bd851",
+  "title": "FlowMate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "525a6b21-3883-43b8-8ec8-be44162bd851",
+    "page_at_capture": 4,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/flowmate-landing/poster/media-pipeline-v1/614c5940df30d85d557a0e826e13459ac3984712259ad5985308d1cd2f26969f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:09.394333+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "963b2a5fd737bab82232feeab4e0759277020e01758feef32bd2acba746cc6b5",
+  "displayed_prompt_chars": 7502,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "93d43d4d2399aab4ac866730f9eb02614e18c5655fbd66788ddf85689044f250",
+    "original_bytes": 258730,
+    "original_dimensions": [
+      924,
+      1754
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      506,
+      960
+    ],
+    "bytes": 47130
+  },
+  "preview_sha256": "b3ce4b22d2f310a39b32a9e7ca3db264949e32d40cd06ef3468308c058d6eaa7"
+}

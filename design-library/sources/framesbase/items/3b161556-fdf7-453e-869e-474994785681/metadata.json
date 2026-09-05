@@ -1,0 +1,43 @@
+{
+  "id": "3b161556-fdf7-453e-869e-474994785681",
+  "title": "Orbit Engineers",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "3b161556-fdf7-453e-869e-474994785681",
+    "page_at_capture": 3,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/orbit-engineers/poster/media-pipeline-v1/e71905702dfd46765c6b8e2e03e7529b50d467caf926f8dc24035afad17d2635"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:12.331036+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8ab07ecf627c526a3e5013d7eecb74df5caed00cc702cb0092925429ee15cb13",
+  "displayed_prompt_chars": 5513,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4cfb3baa1fe8ede4647797e8e04cac1f6e810459a3de1fa5ca97eccaf5197b8e",
+    "original_bytes": 2029113,
+    "original_dimensions": [
+      992,
+      1726
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      552,
+      960
+    ],
+    "bytes": 56180
+  },
+  "preview_sha256": "befa9a9fc27912288a84e6bcc81e9805e05b6ac9a1b7ff596b18c035e062e63e"
+}

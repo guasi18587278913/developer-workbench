@@ -1,0 +1,43 @@
+{
+  "id": "4a7d1f9d-91f0-4187-ac26-25fb6308dd25",
+  "title": "NimBus Pricing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "4a7d1f9d-91f0-4187-ac26-25fb6308dd25",
+    "page_at_capture": 2,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sections/nimbus-pricing/preview/media-pipeline-v1/225251c7c4900c12ee2038d1f37961931f90d7fa6c21d4c48dfffef3e5827a2b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:36.989493+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "37e1fb4806b3ff4803e26b7667a3567ce084199a128d480cb7431afe93743109",
+  "displayed_prompt_chars": 13062,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3ccd0bbf931c75139cc6473bc090ec29096a6f272d4bff8f46b208ac5733913e",
+    "original_bytes": 491106,
+    "original_dimensions": [
+      640,
+      460
+    ],
+    "original_frames": 54,
+    "dimensions": [
+      640,
+      460
+    ],
+    "bytes": 16622
+  },
+  "preview_sha256": "18f6e5b7996cec4804a6c8482024fda5de088af68d5124212d06364e4fa1eb15"
+}

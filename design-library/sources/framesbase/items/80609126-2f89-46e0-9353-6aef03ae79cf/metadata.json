@@ -1,0 +1,43 @@
+{
+  "id": "80609126-2f89-46e0-9353-6aef03ae79cf",
+  "title": "Futuristic Tech",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "80609126-2f89-46e0-9353-6aef03ae79cf",
+    "page_at_capture": 9,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/futuristic-tech/preview/media-pipeline-v1/ed020c2333c3de195ab34ad7aebd41463db3c09629ed1b09f9eda95745d60ee5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:15.212581+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ccc3383402b99f44570dfd959ca332e19f7e81d26cffcb3c83d87578d871ea7f",
+  "displayed_prompt_chars": 4805,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "67177478e794cc4e64158a45bf558f8abd060b9c38b7d68fd72e70cb0e12c947",
+    "original_bytes": 2118900,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 51806
+  },
+  "preview_sha256": "9c69f836fd8f2cea565f1e63950526fc9c68c73247e9a942f8e01d6b3386909b"
+}

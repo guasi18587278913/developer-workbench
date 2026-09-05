@@ -1,0 +1,43 @@
+{
+  "id": "5876679e-7e6d-4d33-ae03-6640df390b23",
+  "title": "Digital Director",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "5876679e-7e6d-4d33-ae03-6640df390b23",
+    "page_at_capture": 13,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/digital-director/poster/media-pipeline-v1/0ff05bccabc1cee7824fd8f7b8c90ee2a7aec335a1d5ed3a69b7bdf473b3b957"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:14.910188+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "66cee4f848e3813f1ee500379e3d8f88d75696d38a19caf31c25909af01a51c4",
+  "displayed_prompt_chars": 8947,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9fa7afd4fd0e7c37ccf066a67b8e9789c4a5612e9bb1f7bae88f5c3c148b95ce",
+    "original_bytes": 44640,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 25936
+  },
+  "preview_sha256": "c60a48a6ca6d7d078166307577615f20961876422ddf1ec9bef5aa1995d31239"
+}

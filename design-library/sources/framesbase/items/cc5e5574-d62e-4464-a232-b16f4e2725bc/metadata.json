@@ -1,0 +1,43 @@
+{
+  "id": "cc5e5574-d62e-4464-a232-b16f4e2725bc",
+  "title": "RIVR",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "cc5e5574-d62e-4464-a232-b16f4e2725bc",
+    "page_at_capture": 7,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/rivr-hero/poster/media-pipeline-v1/f0b75f4a529fc6db145405bffbf68585b29a98dcbb57dd0526c36e758829cbfb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:24.718711+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "44771c0ba6fedb5aec274e001a93b1569b743749f45fa49a1c990c84efb6b1e9",
+  "displayed_prompt_chars": 8089,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "220d228117d32e18429762574ca432a18b02b32cbc07ccaa3e18a62e59701055",
+    "original_bytes": 799332,
+    "original_dimensions": [
+      1862,
+      1388
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      716
+    ],
+    "bytes": 54548
+  },
+  "preview_sha256": "c4d2c5395fc35489b346560eac18a0ef72276b195f4329e297f6ed0d3e4365f5"
+}

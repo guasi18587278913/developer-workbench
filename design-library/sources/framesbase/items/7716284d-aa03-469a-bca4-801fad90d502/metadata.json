@@ -1,0 +1,43 @@
+{
+  "id": "7716284d-aa03-469a-bca4-801fad90d502",
+  "title": "Veloce Cards",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Cards",
+    "item_id": "7716284d-aa03-469a-bca4-801fad90d502",
+    "page_at_capture": 4,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sections/veloce-cards/preview/media-pipeline-v1/fc8f5582b106bea937818feedd21807a21ab67dbee7de982b163105ef0502fb7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:14.902305+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c2582053229a33abbd33793d80824dbe4e733b9aa7d434947547b99f46894caa",
+  "displayed_prompt_chars": 4540,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f8698aac4bec2d965c03b71d3fa7dd13cbd2b725c0edfb5b345be77318f69dbc",
+    "original_bytes": 400882,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 10550
+  },
+  "preview_sha256": "030288b5cf5a88c75b9d22a806a811bd1164ce42fb3f2e80f2ac363d8986b891"
+}

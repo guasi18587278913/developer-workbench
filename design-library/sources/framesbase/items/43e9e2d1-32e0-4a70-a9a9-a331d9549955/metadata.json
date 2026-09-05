@@ -1,0 +1,43 @@
+{
+  "id": "43e9e2d1-32e0-4a70-a9a9-a331d9549955",
+  "title": "Footballer Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Sports",
+    "item_id": "43e9e2d1-32e0-4a70-a9a9-a331d9549955",
+    "page_at_capture": 1,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/apps/footballer-portfolio/poster/first-frame-v1/c335015037fdeb99114b47b5a597aa04e78e3fa45b4d3c5cfa01f514fc1aa44f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:09.331932+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "96994a040f91c59dec94deae60be3674ade01a0af799c5342112a4a05c3bf965",
+  "displayed_prompt_chars": 7198,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c335015037fdeb99114b47b5a597aa04e78e3fa45b4d3c5cfa01f514fc1aa44f",
+    "original_bytes": 64928,
+    "original_dimensions": [
+      1280,
+      998
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      749
+    ],
+    "bytes": 45870
+  },
+  "preview_sha256": "3ff941c906542ffa3521015f210ecca17f745b239d4590a935db60a0101bd1b8"
+}

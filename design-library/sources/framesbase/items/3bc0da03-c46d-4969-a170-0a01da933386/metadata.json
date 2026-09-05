@@ -1,0 +1,43 @@
+{
+  "id": "3bc0da03-c46d-4969-a170-0a01da933386",
+  "title": "Global Hubs",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "3bc0da03-c46d-4969-a170-0a01da933386",
+    "page_at_capture": 2,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/global-hubs/poster/media-pipeline-v1/d26f825d6da233e4e1b6c19c46a46a595f5ae52b302bbb0f3d212987e8a14c06"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:54.737322+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c7aec38f78e5e58510f4f414f4d0e38e9902eb8411539660ec46e9755fb5d1b9",
+  "displayed_prompt_chars": 11814,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e1e5e8ee8fd23083cc1952b9b087777ca790c482755a85878be457ea4351decf",
+    "original_bytes": 41452,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 23932
+  },
+  "preview_sha256": "d7be978228a718a0dcc75f9819213fa677d5c5f4eb0f73d9dbceccf359f3cdfa"
+}

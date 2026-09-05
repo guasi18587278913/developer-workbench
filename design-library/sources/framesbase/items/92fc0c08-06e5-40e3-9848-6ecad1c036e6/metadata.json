@@ -1,0 +1,43 @@
+{
+  "id": "92fc0c08-06e5-40e3-9848-6ecad1c036e6",
+  "title": "Motion Frame",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Film",
+    "item_id": "92fc0c08-06e5-40e3-9848-6ecad1c036e6",
+    "page_at_capture": 15,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/motion-frame/poster/media-pipeline-v1/a7349ffb13e0fdf360a34c02551e54461364f709184486caf17572f9d09ff1b5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:16.354007+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "69017d16e9221773fabadfc34944788eab4bb12843789be8d0e8a433106eba16",
+  "displayed_prompt_chars": 13624,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5c88a92b7072d668487c23632b4a56e5d9a83d20baff11db2579ae585b88a924",
+    "original_bytes": 79672,
+    "original_dimensions": [
+      1280,
+      724
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      543
+    ],
+    "bytes": 45764
+  },
+  "preview_sha256": "ec4ae094aeced344426435ee2fbd0c69fb9f47222033fcd5f9746dbdb12815bc"
+}

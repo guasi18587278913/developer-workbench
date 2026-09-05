@@ -1,0 +1,43 @@
+{
+  "id": "226a0cf0-7336-4461-8496-ecd58088e1f4",
+  "title": "Reading Library",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Books",
+    "item_id": "226a0cf0-7336-4461-8496-ecd58088e1f4",
+    "page_at_capture": 2,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/apps/reading-library/poster/media-pipeline-v1/63df0a30eef04490edefa6c7fee45196a8223d62b77b36fb5e9b039b3ad09b0e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:15.539488+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6c9a247bca0d19ac582a9604a2a6dc9d54bdc6bb9673644ef27388f5b76cc681",
+  "displayed_prompt_chars": 13839,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e7ef331b549de282bd17dbc6b6ea7c8f953abcf37f51168dc03776bd6253a8cd",
+    "original_bytes": 111868,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 56530
+  },
+  "preview_sha256": "2b564cde25bf0060615d907a36188024b06c5c1afb09f422c2e7a2d2df18bb34"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "87e90531-d3ef-4131-950a-32239fc6ba74",
+  "title": "Conversion",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "87e90531-d3ef-4131-950a-32239fc6ba74",
+    "page_at_capture": 11,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/conversion/preview/media-pipeline-v1/637b7d66ce3bba66ef798a3e925fc5091cd7281fc6d4b8edd7fc7a461967cfdd"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:38.439447+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d73906ae339844cce005d11931dab4a137792f24894106eb44d105f28a6b8948",
+  "displayed_prompt_chars": 5900,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "54f90d91e7d7ac029594a08b47299a7acd5cce4d8d60d38f3c6547e5d733374b",
+    "original_bytes": 2018206,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 33822
+  },
+  "preview_sha256": "f93df3eb0fcc2e8b8252699024946e9c06f261783c14723fdba95cd743042be8"
+}

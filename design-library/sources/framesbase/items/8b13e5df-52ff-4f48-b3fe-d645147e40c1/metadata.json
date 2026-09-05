@@ -1,0 +1,43 @@
+{
+  "id": "8b13e5df-52ff-4f48-b3fe-d645147e40c1",
+  "title": "Systema",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "8b13e5df-52ff-4f48-b3fe-d645147e40c1",
+    "page_at_capture": 13,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/systema/poster/media-pipeline-v1/60a8aed0035da105c0b7140a2fb38b8db20c043ee0953470badf9c625ef85e57"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:00.680777+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3f4e56e0b1fdb4fc8e864e6131570f69e5aa21e58392dcd64412366292bd9136",
+  "displayed_prompt_chars": 10643,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7d9f6738963d3558e18e3717412abd1e1edc88ec55e76cecd0a09c235a84c0e9",
+    "original_bytes": 104642,
+    "original_dimensions": [
+      1280,
+      1440
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      853,
+      960
+    ],
+    "bytes": 49876
+  },
+  "preview_sha256": "0ae88e43998813ddc48b8cefad8d032eae84c524d9953d823123af1eaee70d9c"
+}

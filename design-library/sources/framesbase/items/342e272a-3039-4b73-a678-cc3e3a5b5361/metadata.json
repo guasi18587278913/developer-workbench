@@ -1,0 +1,43 @@
+{
+  "id": "342e272a-3039-4b73-a678-cc3e3a5b5361",
+  "title": "Orbit Web3",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Web3",
+    "item_id": "342e272a-3039-4b73-a678-cc3e3a5b5361",
+    "page_at_capture": 5,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/orbit-web3-hero/poster/media-pipeline-v1/36791f90c2e6fda9c20bd991caab5e99e57de9b63562980a7db6b00c8c2b10a1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:24.923646+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "18ddaa4ccbd60609732f8fca9540519409d21991e40f3855b67dd0e8d9ff0f67",
+  "displayed_prompt_chars": 3217,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a98d10858d5bf0e3cd740f296a1653a609d58eae0d2714fedd1f95f10408260a",
+    "original_bytes": 2212043,
+    "original_dimensions": [
+      1920,
+      1440
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 56026
+  },
+  "preview_sha256": "59673ef651fb0b050268302d2cf9a1cc19a3841aa56e9a566eee7de197338c89"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "eb13e7e9-22df-4a30-8bc7-bdd80525a805",
+  "title": "Pet Products",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Ecommerce App",
+    "item_id": "eb13e7e9-22df-4a30-8bc7-bdd80525a805",
+    "page_at_capture": 1,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/apps/pet-products/poster/first-frame-v1/976e387a3ee143b9c723dc04c5e866d77ced60f1983e5caad758ec00ce4fc1d6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:53.541137+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9d0c314bc3afac2ac031aa1c262951ba7bec84076f7e37e1cd6bbe6553ebe2cb",
+  "displayed_prompt_chars": 22957,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "976e387a3ee143b9c723dc04c5e866d77ced60f1983e5caad758ec00ce4fc1d6",
+    "original_bytes": 54164,
+    "original_dimensions": [
+      1280,
+      954
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      716
+    ],
+    "bytes": 37638
+  },
+  "preview_sha256": "4b3bb3714a8f6037784a21d9a6ab529f50d43fa9e61ad7f8825e3ced6b310eb5"
+}

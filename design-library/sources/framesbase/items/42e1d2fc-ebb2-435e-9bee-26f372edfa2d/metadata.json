@@ -1,0 +1,43 @@
+{
+  "id": "42e1d2fc-ebb2-435e-9bee-26f372edfa2d",
+  "title": "Rocket FAQ",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "FAQ",
+    "item_id": "42e1d2fc-ebb2-435e-9bee-26f372edfa2d",
+    "page_at_capture": 2,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sections/rocket-faq/preview/media-pipeline-v1/0196d3e62a3e14261f91981908a1f5abfe28d9ce51bb22240601de92ca338c59"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:41.664127+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d069146202aae27e26ff75c18f6872133685d5cce848edfd762ce452781a8b7b",
+  "displayed_prompt_chars": 10808,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0a4bc25113b4881230ec8923e50dd9c3e6bda9b790cef4bd38e08c4e4325b956",
+    "original_bytes": 142890,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 9972
+  },
+  "preview_sha256": "6468046ca40cfffd2e954e2bf8c09b58477e98be85885e9e1bb289e8b681c5b2"
+}

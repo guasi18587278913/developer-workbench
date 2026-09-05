@@ -1,0 +1,43 @@
+{
+  "id": "59bd37f0-4cc4-4e2b-97b8-df41153ec5d0",
+  "title": "Sentinel AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "59bd37f0-4cc4-4e2b-97b8-df41153ec5d0",
+    "page_at_capture": 6,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/sentinel-ai-hero/poster/media-pipeline-v1/5a52ed0a5840e771d042cf6243757064c3ae190b8819ff2491bfd19c4bfae842"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:42.125649+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e52bab7ddad4744ce9c3e7058c7af3cab4dc95a53bd6c08964b5df55e00504ea",
+  "displayed_prompt_chars": 5940,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4fd3d153a1947d07254bb38cc89e83abfa7b93558aab8c8e478f13c51685bfdb",
+    "original_bytes": 426094,
+    "original_dimensions": [
+      1904,
+      1422
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 26868
+  },
+  "preview_sha256": "45e687fe5c772ddcbae4d063d5b33945ca241c94b30fb78e5c3f578ba7132f84"
+}

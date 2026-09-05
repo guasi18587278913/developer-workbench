@@ -1,0 +1,43 @@
+{
+  "id": "0191170f-7b80-4f99-9d73-d504767b62fa",
+  "title": "Urban Jungle",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "0191170f-7b80-4f99-9d73-d504767b62fa",
+    "page_at_capture": 8,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/urban-jungle-hero/poster/media-pipeline-v1/de262547dd0a7440043eb4772f5b64699be62bec1a22d50141c910c718b6cc5a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:25.484217+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "89f261bfe1d36561fa47e0d65d97c6557a33a8f37698fd2ac68fc09edde550a0",
+  "displayed_prompt_chars": 12395,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8aa3e21f76a54d7cc20a98ceb05ba289b796f0bf13b05a3c9cee1066c78ee904",
+    "original_bytes": 414852,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 223672
+  },
+  "preview_sha256": "dd38799c8ba64187fed759e2e67f6fc459c381463c5688c51bce2439d8816365"
+}

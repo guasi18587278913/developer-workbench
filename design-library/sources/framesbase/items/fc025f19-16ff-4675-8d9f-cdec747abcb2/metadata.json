@@ -1,0 +1,43 @@
+{
+  "id": "fc025f19-16ff-4675-8d9f-cdec747abcb2",
+  "title": "Tech-Forward",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "fc025f19-16ff-4675-8d9f-cdec747abcb2",
+    "page_at_capture": 10,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/tech-forward/poster/first-frame-v1/a923cd1434e241927f7939896e5eefb364fa60481590b394719ba780e7e9c694"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:00.977386+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7abc31f28067c26aa9384dd8617cd4ef90f07b121f1893f041faffca950e5edd",
+  "displayed_prompt_chars": 3400,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a923cd1434e241927f7939896e5eefb364fa60481590b394719ba780e7e9c694",
+    "original_bytes": 22134,
+    "original_dimensions": [
+      1280,
+      944
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      708
+    ],
+    "bytes": 15380
+  },
+  "preview_sha256": "11c13a274f8c0725dd61870d2d07c0926c90d0aa1934a74b9d1c84f7a08f3fc4"
+}

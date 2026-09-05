@@ -1,0 +1,43 @@
+{
+  "id": "1daf8483-ff23-4af5-a9e3-decc5be2d7e5",
+  "title": "Investment Gate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "1daf8483-ff23-4af5-a9e3-decc5be2d7e5",
+    "page_at_capture": 9,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/investment-hero/preview/media-pipeline-v1/42b39ca53396976198fc8078bc0fd2beda93f730cf24f02455e974c20f79feea"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:34.330690+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "93c9402a559f06120860d7b4af67c12aaac3a931e4fff43b56aab9650821316a",
+  "displayed_prompt_chars": 9903,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9cd3db13dbfacbfdf8eb3b6181685d68532ee9ae6ae515d223d56590e6b7199b",
+    "original_bytes": 1765002,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 34288
+  },
+  "preview_sha256": "a1af51414f425adf69c1a6abec55a10100cb3888d6670518fde43be4f772882d"
+}

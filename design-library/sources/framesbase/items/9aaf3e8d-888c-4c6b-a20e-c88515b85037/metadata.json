@@ -1,0 +1,43 @@
+{
+  "id": "9aaf3e8d-888c-4c6b-a20e-c88515b85037",
+  "title": "AKOR Security",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "9aaf3e8d-888c-4c6b-a20e-c88515b85037",
+    "page_at_capture": 7,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/akor-security-landing/poster/media-pipeline-v1/d48ea432a07ed97ed1bdf3156aaebba49a4c128db6f4757a0764c142e0fe7688"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:20.049211+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fcd83fb646c697a93ed5157c2042cb2655a297ef8176c4189dc7c42337afed6b",
+  "displayed_prompt_chars": 5451,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "33e32787b16460bd73febd86238d986f0a957146976c6e152fffc76516e43a24",
+    "original_bytes": 432033,
+    "original_dimensions": [
+      830,
+      1694
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      470,
+      960
+    ],
+    "bytes": 23988
+  },
+  "preview_sha256": "68a3676f20e1533f927852ff809e8d4889511a4c26c11d6603f77da5e81e96e9"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a559f7a3-51b7-4d5a-801d-abd4de191040",
+  "title": "Gear Shop",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Ecommerce App",
+    "item_id": "a559f7a3-51b7-4d5a-801d-abd4de191040",
+    "page_at_capture": 1,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/apps/gear-shop/preview/media-pipeline-v1/142d2e15eae45377a3b8f0b23ae561f9b928e1aebaa0944f24f48697317b3c8c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:52.181877+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "26f568a71c08ea979d91dc48871375d5614738a75df947d388ef0f92e09079d8",
+  "displayed_prompt_chars": 7103,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "46a1133ce3f74160af8a33ca59970d0872a036308cf125600804c701256ac423",
+    "original_bytes": 564860,
+    "original_dimensions": [
+      1158,
+      827
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      686
+    ],
+    "bytes": 38328
+  },
+  "preview_sha256": "6dd3a74b7c9aa9972265374c825d82026dce03fc5d1330bd5c28247c8329d079"
+}

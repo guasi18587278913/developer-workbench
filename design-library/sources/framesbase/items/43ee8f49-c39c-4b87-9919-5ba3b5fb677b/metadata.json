@@ -1,0 +1,43 @@
+{
+  "id": "43ee8f49-c39c-4b87-9919-5ba3b5fb677b",
+  "title": "NovaDesk Signup",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Signup",
+    "item_id": "43ee8f49-c39c-4b87-9919-5ba3b5fb677b",
+    "page_at_capture": 5,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/novadesk-signup/preview/media-pipeline-v1/8e650e12079cdf622f12f7242ac4b521998f6ecbee75e514cc0a9e0435b9c98b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:22.376188+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cb7d7c765153c21f6c62c590d83c8d1b29884b67536627307820b024defc9c72",
+  "displayed_prompt_chars": 4156,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1445a0be62ecbc9f749101c5d39d0dde72298d641113b2fe6cab8c1f78a243ec",
+    "original_bytes": 1337002,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 20560
+  },
+  "preview_sha256": "a91863986971979a8efacc89a917ec07574d1a7b1120387c8d7582c10107f184"
+}

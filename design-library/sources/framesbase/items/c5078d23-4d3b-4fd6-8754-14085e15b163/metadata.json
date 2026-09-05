@@ -1,0 +1,43 @@
+{
+  "id": "c5078d23-4d3b-4fd6-8754-14085e15b163",
+  "title": "Asme",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "c5078d23-4d3b-4fd6-8754-14085e15b163",
+    "page_at_capture": 9,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/asme-hero/poster/media-pipeline-v1/31125be46bd7501a75a3f425201d7f63f639e2c48a850f518d943a9cf6b7f74b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:07.017216+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1127da6eb24f5c40f392c09df4ecc39dd435fee5475f28b4aa64a91472a46a2c",
+  "displayed_prompt_chars": 4360,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "76f305f02daa61fe2de68942f832fbdd07d9a524de5f0b2f70c115af3d48610a",
+    "original_bytes": 133936,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 73010
+  },
+  "preview_sha256": "deed4453a6afeaa41443344af69d086129376b95db41db99fbb825f7fd9762d1"
+}

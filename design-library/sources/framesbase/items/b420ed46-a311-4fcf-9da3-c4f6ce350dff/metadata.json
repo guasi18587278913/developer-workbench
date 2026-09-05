@@ -1,0 +1,43 @@
+{
+  "id": "b420ed46-a311-4fcf-9da3-c4f6ce350dff",
+  "title": "CleanTech",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Sustainability",
+    "item_id": "b420ed46-a311-4fcf-9da3-c4f6ce350dff",
+    "page_at_capture": 11,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/cleantech/poster/first-frame-v1/92e2b23d5cc6616a6ade7aa795d6cf54ebcce12622db461331954ef893b1c46d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:26.063872+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3f9ece8d385d829614198da90807b8ca22fd566d51d0237055482cca9259ab07",
+  "displayed_prompt_chars": 10066,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "92e2b23d5cc6616a6ade7aa795d6cf54ebcce12622db461331954ef893b1c46d",
+    "original_bytes": 75882,
+    "original_dimensions": [
+      1280,
+      950
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      713
+    ],
+    "bytes": 49080
+  },
+  "preview_sha256": "65a231607d27c3a48d45e3d6480d1d9873fb42a5cd0507ebb1c0f578d3832071"
+}

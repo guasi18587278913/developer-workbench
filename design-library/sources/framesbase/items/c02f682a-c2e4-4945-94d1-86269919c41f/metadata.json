@@ -1,0 +1,43 @@
+{
+  "id": "c02f682a-c2e4-4945-94d1-86269919c41f",
+  "title": "AI Runtime",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "c02f682a-c2e4-4945-94d1-86269919c41f",
+    "page_at_capture": 14,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/ai-runtime/poster/media-pipeline-v1/7542e9c752ebb264fe61ff718f2b7cebc094bfd61ad21c4944256322e2e20f6b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:30.153089+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1355c12164f58f2a483d1478d215717c5e819230a91375091d0fbb94979a0a0a",
+  "displayed_prompt_chars": 9593,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "00af87232f6184794d877c35c1b704820c408bdb35d1143d8d9b9ff3cb9cbd13",
+    "original_bytes": 138318,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 65820
+  },
+  "preview_sha256": "f383f8fac55338618330b42ad75225c8a4d78757bdbb53bfc8a1cd7d77f7be19"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e8e4b3e8-fe8d-46c6-be04-864b3e682100",
+  "title": "Sky Cookie",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Food",
+    "item_id": "e8e4b3e8-fe8d-46c6-be04-864b3e682100",
+    "page_at_capture": 13,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/sky-cookie/poster/media-pipeline-v1/1b6712d7d2eebb8140bd68c682eb61043750f9b00d68b132f4b8c89a9cda0346"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:52.500747+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "64f6ed4bd71481eab7e85547e6ac5534186d29d59125fb8b09d854bc01534b8f",
+  "displayed_prompt_chars": 16874,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "51b7829e0b39dee01cc90d70fc3385ea5d865106e2f080d4e0195b4265ce59d8",
+    "original_bytes": 59220,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 32064
+  },
+  "preview_sha256": "95ea0992d9669ba25f8b5fb923fb06b04247841c222d117e939bcb86d653be8b"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4b1fea3c-3ee5-4766-ad37-ee5c842316e0",
+  "title": "Inner Quest",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Mindfulness",
+    "item_id": "4b1fea3c-3ee5-4766-ad37-ee5c842316e0",
+    "page_at_capture": 14,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/inner-quest/poster/media-pipeline-v1/ec0ea10bda73c48d7a9309cb74acfa949e5a78d026c5923e8855b3d63f0f3dc8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:50.712433+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "80a130a755583078186fd50bfa36416c63ced45db6e7f4b8b9b7c9f87b8156dd",
+  "displayed_prompt_chars": 8160,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "03ae2fcb9d225ff74f0f6f594b9bb77589b744463aebf5c0d70b52faa0dc8d71",
+    "original_bytes": 182142,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 69262
+  },
+  "preview_sha256": "161782c32e503a372bb043dc5b2ee61805bb10287c9f93fec524814bfbf61ad3"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "19fb254c-1e7a-4897-bc2d-a5ff350f7ac6",
+  "title": "Liquid Glass Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "19fb254c-1e7a-4897-bc2d-a5ff350f7ac6",
+    "page_at_capture": 3,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/liquid-glass-agency/poster/media-pipeline-v1/9d6278007a1d65b99af89fffb606b9479442cbd56480b58d5c4107a07cd66bf9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:21.352791+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bd16ca267b759cd8bace55f9c87254057ca14b98f885cbdec3f20de8d07e1dd2",
+  "displayed_prompt_chars": 13320,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7ab1a7349bd63e245767c31a24da830d8a9bf7838645b94259e4ceac748903c6",
+    "original_bytes": 784280,
+    "original_dimensions": [
+      794,
+      1636
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      466,
+      960
+    ],
+    "bytes": 37656
+  },
+  "preview_sha256": "5d3659182ae09aa639b31d601b247a89309b77b6dc0a01e4cbe77b4d3c08047b"
+}

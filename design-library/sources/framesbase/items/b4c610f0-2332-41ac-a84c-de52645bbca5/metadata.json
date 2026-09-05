@@ -1,0 +1,43 @@
+{
+  "id": "b4c610f0-2332-41ac-a84c-de52645bbca5",
+  "title": "Lending AI Agents",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS Website",
+    "item_id": "b4c610f0-2332-41ac-a84c-de52645bbca5",
+    "page_at_capture": 9,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/lending-ai-agents/poster/media-pipeline-v1/fecd087acb83739b728a5096bfb775567f827d018ef3f4708d72134a4b5caed0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:23.397977+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5fc9816c08cb1b9c3bec341604eacaa71bebfe0d996a7a11b338e928fe45b8b4",
+  "displayed_prompt_chars": 5196,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e73f25760d81067e538e478733a2b649d19f9f83ce0dcd54e315fe9993ccf444",
+    "original_bytes": 101432,
+    "original_dimensions": [
+      1280,
+      958
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      719
+    ],
+    "bytes": 55982
+  },
+  "preview_sha256": "7c6daf9282509003e2201ad1c2225132964cc7f45b7c356530394d9ac4ac3673"
+}

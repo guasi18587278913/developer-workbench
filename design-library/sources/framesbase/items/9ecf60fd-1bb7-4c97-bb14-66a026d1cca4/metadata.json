@@ -1,0 +1,43 @@
+{
+  "id": "9ecf60fd-1bb7-4c97-bb14-66a026d1cca4",
+  "title": "What Package Fits You",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "9ecf60fd-1bb7-4c97-bb14-66a026d1cca4",
+    "page_at_capture": 1,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sections/package-fits-pricing/poster/media-pipeline-v1/93cd950a16e23e76bf2efcd6f2aafdf2110e353da89c210d406d0838a600d9e5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:56.739190+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1fe7552a1bda5579dfe4f5474730db0ccb30e2134b715dfbe66de79f7faf8dbc",
+  "displayed_prompt_chars": 9163,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "721bbc1688f77b3da8d6f45d9bf14d196709326307899d4c4a1718cbee74c69e",
+    "original_bytes": 294662,
+    "original_dimensions": [
+      1920,
+      1416
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      708
+    ],
+    "bytes": 22722
+  },
+  "preview_sha256": "0e7dc3446830d609eb2913358b3ae31e2b4ff66ca63b81d88a70b8e81f446bdd"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6ebb101d-80f8-43bb-9420-36668de8c75f",
+  "title": "HR SaaS Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "6ebb101d-80f8-43bb-9420-36668de8c75f",
+    "page_at_capture": 3,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/16/poster/media-pipeline-v1/28baa47049782bbd5516d414a09d11f6e1a098c6707fa2f8eeb724c499bbc81b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:33.230441+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "29670faed584c5edc11e0a7a419f0b8c0dfe3485105d9c16f0d418d562afa18d",
+  "displayed_prompt_chars": 2198,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f049299dc9a633e29bfe26b346a6f2893b749eb78eff470864784ddda50ca9b8",
+    "original_bytes": 1330359,
+    "original_dimensions": [
+      1788,
+      1276
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      685
+    ],
+    "bytes": 24682
+  },
+  "preview_sha256": "3991c60f654e9cae08253e54e6194edf586e7d91bb17f44b00fbe99628717b8c"
+}

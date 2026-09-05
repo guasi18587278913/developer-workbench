@@ -1,0 +1,43 @@
+{
+  "id": "1cf51035-b2fb-4b70-b665-8b2763f0a2df",
+  "title": "Interactive Discovery",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "1cf51035-b2fb-4b70-b665-8b2763f0a2df",
+    "page_at_capture": 11,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/interactive-discovery/poster/media-pipeline-v1/a9d24129ce6c746dc3fc6dd9c5b5aed293dbe82a5b0d6fcb5b44c2501f2c4a32"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:32.874826+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c81bf5235d39099e553f989415057fc9610a0e5184bf127b563fed79712b4829",
+  "displayed_prompt_chars": 6894,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6f3318760bb2e2c26a987d818f4dc04fb123d5177bb03883f745364dbc22104b",
+    "original_bytes": 115264,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 61120
+  },
+  "preview_sha256": "ac18fbb843527a4cf876800045a3990e5c502f7bcfdd01191635abd4c185175a"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "67fbcffc-24d5-4fb7-a562-3195241f82c8",
+  "title": "Imperial VPN",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Cybersecurity",
+    "item_id": "67fbcffc-24d5-4fb7-a562-3195241f82c8",
+    "page_at_capture": 13,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/imperial-vpn/poster/media-pipeline-v1/beeab1a267a61eb96bf2a5f8e9298c2718a55fdb5c47d0e89aa040b8cc66e673"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:59.659365+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "393268151eb0e2d1f93c5f7112675840a1f8eb6689c387d017a2a41b139f3a85",
+  "displayed_prompt_chars": 15907,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e625f8ae03b591d9405209badd836aa9a8a6a075356efcfdc28c4d5dc52c8ec9",
+    "original_bytes": 126920,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 69158
+  },
+  "preview_sha256": "f96d1fbd33945cd132ec580a334077f9c9e075999af6fd3e9be3ab61f86affdf"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bcdefd54-da34-4571-860e-ed6ab6888269",
+  "title": "Immersive Ocean",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "bcdefd54-da34-4571-860e-ed6ab6888269",
+    "page_at_capture": 9,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/immersive-ocean/preview/media-pipeline-v1/8f187ff6596c591cbc3e1121b61a531d444c64a9e3514757bd8eed26e0e189b5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:25.077135+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6a98189c77fd23768ae75e00b114a4953224a867931729ad8c5adaba63cbc5be",
+  "displayed_prompt_chars": 4030,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "144abd670ccc82a33c20de4b5e8ee68176b8e7e7e2525b2d3caf222a2f082945",
+    "original_bytes": 788630,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 42,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 21288
+  },
+  "preview_sha256": "79a82be330712868e6bfa030380d006d346a2c5e358fae1b90b919f9dbf917e6"
+}

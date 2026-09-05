@@ -1,0 +1,43 @@
+{
+  "id": "74a3a1d3-45cc-4eab-87cd-d97aaf489f27",
+  "title": "Vision Reveal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "74a3a1d3-45cc-4eab-87cd-d97aaf489f27",
+    "page_at_capture": 2,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/vision-reveal/poster/first-frame-v1/deb49643cb1005feee843ce1a11f214a3604e1f7a91663a495835767ec546f9d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:09.114485+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e41755ecba41e0dbf5e3d55ce5da3460b733c903b91688335849269693bf8508",
+  "displayed_prompt_chars": 16723,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "deb49643cb1005feee843ce1a11f214a3604e1f7a91663a495835767ec546f9d",
+    "original_bytes": 32516,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 22972
+  },
+  "preview_sha256": "1fbc7dd1c8d95af00fbe846e5b7b5fcad01d8ddcd53c031468c44a20246a24b2"
+}

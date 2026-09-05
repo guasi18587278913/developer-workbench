@@ -1,0 +1,43 @@
+{
+  "id": "d9888639-5064-4654-be6d-ebfa3d19b23f",
+  "title": "Website Builder",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "SaaS",
+    "item_id": "d9888639-5064-4654-be6d-ebfa3d19b23f",
+    "page_at_capture": 2,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/apps/website-builder/preview/media-pipeline-v1/09d0737261d168e453be0d2a18112dfc08b3bf9018186a8df3bec1e1292cb97d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:12.140666+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bf352701cda50f81e0012bac821a7e76aa404864fae68ad417caf8e17a8fa7a2",
+  "displayed_prompt_chars": 11457,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d80eedb8d2afcc778b03a05dd81c15b99ed48504e8b0d5c40693a49f7e934405",
+    "original_bytes": 76696,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 28906
+  },
+  "preview_sha256": "6780e40bcb9f43c24d5eb23b71a2612a222805eaef3d3bc5c527e775d31d106c"
+}

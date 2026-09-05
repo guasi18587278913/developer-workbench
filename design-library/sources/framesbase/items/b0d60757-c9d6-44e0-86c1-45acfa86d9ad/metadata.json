@@ -1,0 +1,43 @@
+{
+  "id": "b0d60757-c9d6-44e0-86c1-45acfa86d9ad",
+  "title": "Mythic Naturecore",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b0d60757-c9d6-44e0-86c1-45acfa86d9ad",
+    "page_at_capture": 8,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/mythic-naturecore/preview/media-pipeline-v1/eae1d336693a20fc3fa8bcbf217f3d445b9fef5d49b5e692f4c7eb4e843ac11b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:48.333595+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dffab75716b0f41cce6ed49819d415eae2ba307e0468281c58694100d82f4ec0",
+  "displayed_prompt_chars": 8039,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f529e62a1998e416ccad6e0c378750255a45b2cd8a24fc65715fa362ca5b9ad4",
+    "original_bytes": 2390408,
+    "original_dimensions": [
+      640,
+      480
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      480
+    ],
+    "bytes": 49762
+  },
+  "preview_sha256": "7bcc1ae75539c4bb921dd259409d944eecf72a7071013915a6f1bafe8125857e"
+}

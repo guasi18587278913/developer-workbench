@@ -1,0 +1,43 @@
+{
+  "id": "63505def-be71-4e54-8caa-7d42f90bce82",
+  "title": "Rare Gallery",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Curated",
+    "item_id": "63505def-be71-4e54-8caa-7d42f90bce82",
+    "page_at_capture": 2,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/rare-gallery/poster/media-pipeline-v1/ef2b60fae62a353e420c80204b2ca9ab724a08738463fa1e3e5f9337b59152ea"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:44.172223+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "87ce7f906703c3ab8736c8fc406b92e450dbc504bc33ac66a563ac3a7d933dbf",
+  "displayed_prompt_chars": 4964,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7e890312c12019a6588bfaf54f64d221a0752e177b536707ccf0beda40340280",
+    "original_bytes": 572278,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 178186
+  },
+  "preview_sha256": "ae84af3a329f9259bea6cac716318dd018d9a8575cd916e5908a153e4177c197"
+}

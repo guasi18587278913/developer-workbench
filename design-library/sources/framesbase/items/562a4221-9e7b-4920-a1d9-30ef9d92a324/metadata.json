@@ -1,0 +1,43 @@
+{
+  "id": "562a4221-9e7b-4920-a1d9-30ef9d92a324",
+  "title": "Nike Premium Landing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "562a4221-9e7b-4920-a1d9-30ef9d92a324",
+    "page_at_capture": 5,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/nike-premium-landing/poster/media-pipeline-v1/f494ec63eb9575f81dea8416aa73f7c8fd5193295df980fe44b586fe67be44c5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:17.474432+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7a9918ad3314f99a81fdf2735f24e370ba9fc90cf3ee5fdad7a2f77404d1427b",
+  "displayed_prompt_chars": 18433,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ec6352c7d8fa37fac24332d3fdceba6cef8563d759a078bf2e539ca330648e55",
+    "original_bytes": 1404658,
+    "original_dimensions": [
+      1920,
+      1411
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      706
+    ],
+    "bytes": 69040
+  },
+  "preview_sha256": "c200159920a1ae821e37e70b5ae4d674d7a94356f74a307a8dafdfc9daed3778"
+}

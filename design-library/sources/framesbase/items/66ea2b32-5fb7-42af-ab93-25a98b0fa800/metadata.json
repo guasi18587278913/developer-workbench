@@ -1,0 +1,43 @@
+{
+  "id": "66ea2b32-5fb7-42af-ab93-25a98b0fa800",
+  "title": "Aethera Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "66ea2b32-5fb7-42af-ab93-25a98b0fa800",
+    "page_at_capture": 9,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/aethera-hero/poster/media-pipeline-v1/c10dce4b279959ce7efda876c19317b2ff0e6fbc93d88d4508a45d002954862b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:13.164063+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e4f05b30ecfb52ada93f551f0e9cafbc259fa57c791408c412107e23e5ccdf32",
+  "displayed_prompt_chars": 3169,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "27dbbc126109a7ceaf33a8b80091e3b70d0b268fd6d26e9a1edaca6937f3f37a",
+    "original_bytes": 669010,
+    "original_dimensions": [
+      1926,
+      1404
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      700
+    ],
+    "bytes": 79882
+  },
+  "preview_sha256": "ffdbc05bed854f9b679052cc4d1d5eca9f1637374c3abe3302350c1077e0c3d4"
+}

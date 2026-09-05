@@ -1,0 +1,43 @@
+{
+  "id": "6928160f-2d98-4172-8c88-6a8c3ca0a4ea",
+  "title": "Velorah",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "6928160f-2d98-4172-8c88-6a8c3ca0a4ea",
+    "page_at_capture": 3,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/velorah-hero/poster/media-pipeline-v1/6c11fa990245b56b9dbdc6aadceac83bf4974cb33488a23985e5bf78ef4b86be"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:42.762128+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b79f787da8bad026b0a783abfe2445ed6317caa898764fb61046a58122721a2f",
+  "displayed_prompt_chars": 3788,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3e9a0a85d464068c9ccbfec9cbccb2c1445105bc0bb584fad30521843ca44241",
+    "original_bytes": 2336335,
+    "original_dimensions": [
+      1920,
+      1418
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      709
+    ],
+    "bytes": 71064
+  },
+  "preview_sha256": "b5c621ff2e66431d028fa8ead828ffa0ef8d1a118e3ef2dc64fdcc341e63a403"
+}

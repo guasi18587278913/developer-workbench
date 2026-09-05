@@ -1,0 +1,43 @@
+{
+  "id": "f4ded56d-d79f-4724-96cb-513f96b6e1b8",
+  "title": "Audio Showcase",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "f4ded56d-d79f-4724-96cb-513f96b6e1b8",
+    "page_at_capture": 11,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/audio-showcase/preview/media-pipeline-v1/0c4347ce1174674dfd3333bbfb71a3e69e921e0b7c8da5d743367aba3101dbb8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:53.028542+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6bed09a557b923f894591f045f444b3e92c7bea69c68c3ed3208d37f0922606e",
+  "displayed_prompt_chars": 6927,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "51c547cc6f3810af995d7ec04ebcd8c5f906fe274f1f08a6dc79eac843f44b60",
+    "original_bytes": 2722792,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 37676
+  },
+  "preview_sha256": "d996633ba81ab6d81763411e9a12108b7ca9723b994c71d05d71495a59e3ff4c"
+}

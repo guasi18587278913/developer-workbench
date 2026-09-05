@@ -1,0 +1,43 @@
+{
+  "id": "9a365d37-b4bf-4260-b1df-1bfd870d4686",
+  "title": "Pro AI Deck",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Presentation",
+    "item_id": "9a365d37-b4bf-4260-b1df-1bfd870d4686",
+    "page_at_capture": 5,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/pro-ai-deck/poster/media-pipeline-v1/f1211f4c0c2f9851d2b023e57517475db8282a944d657f298d6b1e97d7c12f9b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:11.694382+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3475a48b13f82c1266f761d37faaacb9815d019ae94d18465c98b0b348442151",
+  "displayed_prompt_chars": 20138,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "24d885037a651678304a947d460efadec09727501f2bb205347aad3d06574c1e",
+    "original_bytes": 1623799,
+    "original_dimensions": [
+      1426,
+      943
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      635
+    ],
+    "bytes": 45414
+  },
+  "preview_sha256": "4a52cffe399e2e90ab2d52b24eefc9ccb8c329d488c2d446593fae5b1414d91a"
+}

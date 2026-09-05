@@ -1,0 +1,43 @@
+{
+  "id": "83ca9018-95d9-40d5-a2d5-80f998df91a2",
+  "title": "Dental Care App",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Health App",
+    "item_id": "83ca9018-95d9-40d5-a2d5-80f998df91a2",
+    "page_at_capture": 2,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/apps/dental-care-app/preview/media-pipeline-v1/de512d9798a98c81cbebd5bb2bb69215e9274abf444f9e6219a14a9e3d876b4a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:10.595718+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f43a8aeb31c8a3e8b5e148a1c54175ebf8cfb4529124d271cd5e865fa27c5343",
+  "displayed_prompt_chars": 25723,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "708828222ef1e973040b8941266c5edc1e506e18223480abab1919ca95515546",
+    "original_bytes": 3157082,
+    "original_dimensions": [
+      2048,
+      1536
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 58508
+  },
+  "preview_sha256": "65f8136feb1b6b322f843ebd89f50faffa767907374f0f62bb87d7e51a12e4eb"
+}

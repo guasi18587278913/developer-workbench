@@ -1,0 +1,43 @@
+{
+  "id": "29af4f43-2758-4c92-9e0b-43707fdc8f49",
+  "title": "3D Jack Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "29af4f43-2758-4c92-9e0b-43707fdc8f49",
+    "page_at_capture": 8,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/3d-jack-portfolio-hero/poster/media-pipeline-v1/6ec0b707a9254d3618039cbd0e97f43d4de96810e7667423b7ffa08dd8256d36"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:11.444206+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "480ba19526baf0950139c9bd1be6dd1fae792eb4a5b083d9383602bf9f3876c6",
+  "displayed_prompt_chars": 13877,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5f968f89c3fe0373958d3448ebe20839d3bec4e758c6b1e802f357ef97d5f9e9",
+    "original_bytes": 66106,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 38290
+  },
+  "preview_sha256": "02f9510f7578652b93dbfdcd65f76b43cab89839ab08e43449e1b3abbbf31d00"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "93ece08a-d937-4f0e-ab65-f5e5010cba71",
+  "title": "AI Trip Planner",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Travel",
+    "item_id": "93ece08a-d937-4f0e-ab65-f5e5010cba71",
+    "page_at_capture": 12,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/ai-trip-planner/poster/media-pipeline-v1/990d9849e33f30a6abc8d9af622871593e5b6e140634d81058faf2e93439d3b4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:26.112205+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7474b033ca4375628195dc7171975ddf4ca66c03b8cb022a784651788086bfdf",
+  "displayed_prompt_chars": 6398,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c2ffdce379a906f4f44f55a13daa5db7ef607fa391ffa9cb0aa844f108003013",
+    "original_bytes": 127612,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 65758
+  },
+  "preview_sha256": "9eb8c9c70a61e6ffd73ef24475fa0e03b2743c75162125ae0055071b53a7f6c2"
+}

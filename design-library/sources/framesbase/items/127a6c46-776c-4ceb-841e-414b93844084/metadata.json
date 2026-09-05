@@ -1,0 +1,43 @@
+{
+  "id": "127a6c46-776c-4ceb-841e-414b93844084",
+  "title": "Planetary Pulse",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Science",
+    "item_id": "127a6c46-776c-4ceb-841e-414b93844084",
+    "page_at_capture": 2,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/planetary-pulse/poster/media-pipeline-v1/6f9827a827c9264b7d09b9bf8ee0175b8e5d38ce8a22a12cf9ee1e4656c6c0ee"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:15.212851+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "672aa29624ea1893b92b3fcbbddac504bcdb95349292f32ea3417539a1675136",
+  "displayed_prompt_chars": 26446,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9cbbc9cd316c360784e572bab0f3132d3b4ea57166d84aef4d1ca013c7887947",
+    "original_bytes": 46088,
+    "original_dimensions": [
+      1280,
+      714
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      536
+    ],
+    "bytes": 26326
+  },
+  "preview_sha256": "24ac4016e19793b566954c6d15701ac7810e077775292b885b43983f930eca49"
+}

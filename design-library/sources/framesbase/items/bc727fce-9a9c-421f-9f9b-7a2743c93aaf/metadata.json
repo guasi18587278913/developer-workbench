@@ -1,0 +1,43 @@
+{
+  "id": "bc727fce-9a9c-421f-9f9b-7a2743c93aaf",
+  "title": "Lodge Booking App",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Booking",
+    "item_id": "bc727fce-9a9c-421f-9f9b-7a2743c93aaf",
+    "page_at_capture": 1,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/apps/lodge-booking-app/preview/media-pipeline-v1/bf78c286e49561201879f4f80b107b713d3884b48dd46dd11d6789bfa68e8bc1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:39.897147+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6de5c9f4b351d94cd6e0216203b94abd81f983fc3da720db5b9f4d4a02923904",
+  "displayed_prompt_chars": 6343,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1a19fa857a5bb273defb80819ab36a28584caf2e38c669a43874d23081662b78",
+    "original_bytes": 66030,
+    "original_dimensions": [
+      1024,
+      768
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 54878
+  },
+  "preview_sha256": "6621ae13aa5552982714ce4ff25a007091817f803bcd2b07fbcfa55f7044a9fe"
+}

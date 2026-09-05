@@ -1,0 +1,43 @@
+{
+  "id": "e82e527e-8739-4341-ad66-6fc642094dd6",
+  "title": "Retro-Futurist",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "e82e527e-8739-4341-ad66-6fc642094dd6",
+    "page_at_capture": 2,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/retro-futurist/preview/media-pipeline-v1/d0bf5101471b5f6565f20ec70a52b65fe1fa3888638211aaac328e88a4bfe893"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:06.089464+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "77349f561dcf23cb8d0dfc0b45f8acedd3505bff78a5eae8aa3be73f95768e4c",
+  "displayed_prompt_chars": 5713,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1b6d3b3409b1344e7546d7c3ae383cda7789113c688ed6432daaa6a008a5a708",
+    "original_bytes": 715612,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 17560
+  },
+  "preview_sha256": "9cf302a192711e06d00b0c0bb73e331f0de2ad7250d1bec6946ef98e67b275e0"
+}

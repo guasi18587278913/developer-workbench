@@ -1,0 +1,43 @@
+{
+  "id": "c9b95dce-8e86-4c87-acf6-d393f2189d2d",
+  "title": "Neuralyn",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "c9b95dce-8e86-4c87-acf6-d393f2189d2d",
+    "page_at_capture": 3,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/neuralyn-hero/poster/media-pipeline-v1/ed05341f8d5703fc85f644e9a89be8b0ff5cfc1e40d30a1541322ed47549387a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:05.159208+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2268d689489cc9ef20b5acf32baed1f3cc26a9564f1537d11115cacc3064698f",
+  "displayed_prompt_chars": 5257,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "abe5bbfbef4ef74cb0ea73dda44d364ae21637bfcf9b7180570609eb0202d6f1",
+    "original_bytes": 927831,
+    "original_dimensions": [
+      1540,
+      1150
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 36622
+  },
+  "preview_sha256": "e02a26709bdbf67fd3b981b69fb4c847e30d21e859ae20ba27039c7b7eea433c"
+}

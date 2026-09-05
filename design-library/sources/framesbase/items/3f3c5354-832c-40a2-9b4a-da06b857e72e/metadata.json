@@ -1,0 +1,43 @@
+{
+  "id": "3f3c5354-832c-40a2-9b4a-da06b857e72e",
+  "title": "Solar Energy Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "3f3c5354-832c-40a2-9b4a-da06b857e72e",
+    "page_at_capture": 8,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/solar-energy-hero/poster/media-pipeline-v1/a4165e948427cf23c70cbe0d8698502f51dfb0c12429dec200a2cee7c1620fe0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:05.470723+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "23d7587887bb664f0de23ccd5aafe4a9d68fa8660292b8fe14c23d0e1a75ff83",
+  "displayed_prompt_chars": 13718,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4f07a3345fe587fe0343f313dedee177e8fe1635f9a7299cdd0019fb53f8679e",
+    "original_bytes": 95582,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 44462
+  },
+  "preview_sha256": "a29499bbeae1c5cd2c8ab91580d9f2e7841dcf33db3ec887cbb9a3a12cd5cf96"
+}

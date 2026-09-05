@@ -1,0 +1,43 @@
+{
+  "id": "7c553857-ca5d-4640-92d7-2b6d84016f5b",
+  "title": "Transform Data",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "7c553857-ca5d-4640-92d7-2b6d84016f5b",
+    "page_at_capture": 6,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/transform-data-hero/poster/media-pipeline-v1/13bd3c0c930710fa10ac5070df38300dd60b13582830cb41fb93bd434ee30671"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:52.652536+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "677d3fcb3c1f2fe378d9d463a05925f39951c343dbb3a22920cc0f604fe73f6b",
+  "displayed_prompt_chars": 3605,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2c32772e29c3eb79fa1ab777fc8203afd00bad04b850ea560325b80d723f9e94",
+    "original_bytes": 1557590,
+    "original_dimensions": [
+      1920,
+      1423
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      712
+    ],
+    "bytes": 53120
+  },
+  "preview_sha256": "a76181e99906e41676b89ee58df9b6944b5fdf0a3a082ad6c3b63589199db50d"
+}

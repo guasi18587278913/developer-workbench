@@ -1,0 +1,43 @@
+{
+  "id": "dbf496e5-bf65-42c9-a64f-c8d5b6845ca6",
+  "title": "Prosthetics Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "dbf496e5-bf65-42c9-a64f-c8d5b6845ca6",
+    "page_at_capture": 8,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/prosthetics-hero/preview/media-pipeline-v1/58ed8b15972d40d055356357a9e1684eace4d3c6bb6e0fdae5c2fa4bea61a65b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:40.753187+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "43dc54544e666fcf232cd251a9caf081cbbde86436f5eeff6d5ecdc484e73948",
+  "displayed_prompt_chars": 3421,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9a33f27b799a47d245acc1295bf561c3e9bf3a80d2e34ca36167a825a9557a4c",
+    "original_bytes": 464936,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 9522
+  },
+  "preview_sha256": "8ee195e200cf39aa2facd6e8ce5f83390d762fcf4dd927824a39aad7380ea3a5"
+}

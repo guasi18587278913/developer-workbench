@@ -1,0 +1,43 @@
+{
+  "id": "08596d45-9af3-417b-9f46-9544893f2f05",
+  "title": "Luxury Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "08596d45-9af3-417b-9f46-9544893f2f05",
+    "page_at_capture": 9,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/luxury-hero/preview/media-pipeline-v1/5994ac1fe9635b8d6b3aa2ee2e59d78a319eea46fe994bcf205f8f73653d53e8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:29.539289+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "83b9af4da9b0971de4fb6a901b88782cca42d1b0c0d9f402cb92fb0e7287e972",
+  "displayed_prompt_chars": 10671,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4191c0418f951250af692d14869148c2aadb20817dcf7f739fda11cc233df665",
+    "original_bytes": 2842722,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 44898
+  },
+  "preview_sha256": "e71f3ffcbdec1ad61ed80088cac3fb14ea053b9b18c2275c5b0b4d8106fd785e"
+}

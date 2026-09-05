@@ -1,0 +1,43 @@
+{
+  "id": "1ebbc0e8-993f-4591-8982-14a64aa52ad5",
+  "title": "Mindloop Landing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "1ebbc0e8-993f-4591-8982-14a64aa52ad5",
+    "page_at_capture": 7,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/mindloop-landing/poster/media-pipeline-v1/039f6d04fa502e49027d3f85a02e869e54b9bfa909a97d9d4f2b66cab9a4f25b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:40.961592+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e37b73d4812519e3362aa46a9c05e8e4b8361dc55a41afad413789b0e1d3b0bf",
+  "displayed_prompt_chars": 7242,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1b60ca82974769057a37672acbabe7814681a7f4da98cfb31133983899c5ba3a",
+    "original_bytes": 1826163,
+    "original_dimensions": [
+      880,
+      1376
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      614,
+      960
+    ],
+    "bytes": 61594
+  },
+  "preview_sha256": "52c746f67197280e6d0ffa817b93804c645f28c6675b486a031cd29d3aecc3a9"
+}

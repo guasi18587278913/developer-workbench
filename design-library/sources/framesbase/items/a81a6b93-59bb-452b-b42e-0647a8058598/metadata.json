@@ -1,0 +1,43 @@
+{
+  "id": "a81a6b93-59bb-452b-b42e-0647a8058598",
+  "title": "Editorial Collection CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "a81a6b93-59bb-452b-b42e-0647a8058598",
+    "page_at_capture": 3,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sections/editorial-collection-cta/preview/media-pipeline-v1/ca8e3a625c2065e266057b5245606cb5e7ad3e16c31313d635426f77a98ccecc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:19.667219+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "33cef903736b98b9803bac07fc5002a56724e0b66dde5fd457ac2e8addf91088",
+  "displayed_prompt_chars": 6679,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "22d469ff1ae83faba0bb600af80167853eebb4b09097b5a58a2502c9a820d759",
+    "original_bytes": 1061846,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 24950
+  },
+  "preview_sha256": "07bd3f4e05a70d004d5b9dc53c596792416a37f723ffba5847db2d9155170948"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5e4c3aad-d51f-4405-b537-22117c3642d5",
+  "title": "Sky Estate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Real Estate",
+    "item_id": "5e4c3aad-d51f-4405-b537-22117c3642d5",
+    "page_at_capture": 10,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/sky-estate/poster/media-pipeline-v1/c07c064a1d933760bf1be245e0a20a2fc8029ac956775b4afc2e66cc6cedb508"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:38.084570+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d6b74996ec639dd507a391006a23f01cdb9131476805d41c2984e9d37449d866",
+  "displayed_prompt_chars": 10182,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9043da44daa080c291d984f6938bae653f09074d21fbcbe98dcbb16191ccdabb",
+    "original_bytes": 159800,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 82976
+  },
+  "preview_sha256": "1d0bf709c7423583cf01dc7ffa9c16a0613b8a1482745f82ed94b04293ab97b9"
+}

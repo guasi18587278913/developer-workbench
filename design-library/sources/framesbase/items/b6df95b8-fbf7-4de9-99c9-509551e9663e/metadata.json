@@ -1,0 +1,43 @@
+{
+  "id": "b6df95b8-fbf7-4de9-99c9-509551e9663e",
+  "title": "Glow Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features Section",
+    "item_id": "b6df95b8-fbf7-4de9-99c9-509551e9663e",
+    "page_at_capture": 1,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sections/glow-features/poster/media-pipeline-v1/c8c37aa06ddb7b3f0c87bc568a4476f663db38845007708905ffde1587382c36"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:44.025763+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1b1e95aaa8416abbbdafaf591b94df2011e39558118e5d40695b20e00389e3ea",
+  "displayed_prompt_chars": 3072,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b726dc9416cbe8f0810aa9ee00620670d6940298e777c19288886335cb3875a3",
+    "original_bytes": 546255,
+    "original_dimensions": [
+      1834,
+      1362
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      713
+    ],
+    "bytes": 15006
+  },
+  "preview_sha256": "bf7ea88295fca7aff12c1fe401af24761ac3c6ae0cff1754f4679160ea064e04"
+}

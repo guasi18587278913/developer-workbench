@@ -1,0 +1,43 @@
+{
+  "id": "0152f0b3-14b7-4095-8397-e9cba9b67849",
+  "title": "Cosmic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "0152f0b3-14b7-4095-8397-e9cba9b67849",
+    "page_at_capture": 10,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/cosmic/preview/media-pipeline-v1/4b47b37ac4a25505e51fff742f58adda57998233c8364e8b70385bdbb35f9b40"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:44.313447+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cc65e2aea64627bd1e28ddd312a0db5bb9d6df3257ccc7dad4267be6fd9dfa9e",
+  "displayed_prompt_chars": 9217,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6f714becb9bcac308359b3405c7756251cf30a4fb6cb37f356121702f867ba95",
+    "original_bytes": 1075988,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 27506
+  },
+  "preview_sha256": "fd5201b1dfe7487843e055fa3861c784a6149d9b16013f8a7cb80b0e31256086"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4c52f842-44ec-41f2-8901-84ebc2e1a67c",
+  "title": "JungleMind",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "4c52f842-44ec-41f2-8901-84ebc2e1a67c",
+    "page_at_capture": 1,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/junglemind/poster/media-pipeline-v1/a9d44590720ebd3664c551696bc9b1fa5d55cd29e3db69e76ab8f8983e7c42a8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:07.715795+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "54efd5737896cf684ef4e55efb3000d43363a37c286047e4853811536b3174a9",
+  "displayed_prompt_chars": 36531,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d8d26d6eca56418fc37b9019b3aefae0e2c28c9004ad24e26ad80f463226b9e9",
+    "original_bytes": 189940,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 73490
+  },
+  "preview_sha256": "381454a10c6eb1721c0966b1584d2882851f16d5258599a4b47cb2bd23af5146"
+}

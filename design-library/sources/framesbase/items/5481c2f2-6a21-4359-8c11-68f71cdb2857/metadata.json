@@ -1,0 +1,43 @@
+{
+  "id": "5481c2f2-6a21-4359-8c11-68f71cdb2857",
+  "title": "SkyElite Private Jets",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "5481c2f2-6a21-4359-8c11-68f71cdb2857",
+    "page_at_capture": 7,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/skyelite-hero/poster/media-pipeline-v1/1446654c8784ca10f182d31c8fa7501f6bcdc6709605e4c857aead3cac39da88"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:22.408183+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ecfa79a15e0566ef1308a639507f2c8e1107364074a514ee3b413c301d86f015",
+  "displayed_prompt_chars": 2285,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "35da3bda68206c78b33dd9145782f8df5495be748acc2db86f90fc36631b3b42",
+    "original_bytes": 1020946,
+    "original_dimensions": [
+      1920,
+      1454
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      727
+    ],
+    "bytes": 28530
+  },
+  "preview_sha256": "e05b4cdad483a2bddffb0850bcf143e8501dfdd56e7fb44599f0097ac2abefaa"
+}

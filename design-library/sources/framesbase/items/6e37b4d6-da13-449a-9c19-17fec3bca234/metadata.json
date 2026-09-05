@@ -1,0 +1,43 @@
+{
+  "id": "6e37b4d6-da13-449a-9c19-17fec3bca234",
+  "title": "Guardnet Demo",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Info",
+    "item_id": "6e37b4d6-da13-449a-9c19-17fec3bca234",
+    "page_at_capture": 4,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sections/guardnet-demo/preview/media-pipeline-v1/81a86dc99b156a04bec2abf7d39fcac926b90a7c91823e08c4b1b1d963045529"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:52.956881+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d90a2b58b340b4369b643866403e2748d9ffa6637a503d8a3d954e8c6f09a79f",
+  "displayed_prompt_chars": 6473,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7b96ae7170485621588d18332a62332ad3a485d11d05072ef49e55109def7171",
+    "original_bytes": 702320,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 13006
+  },
+  "preview_sha256": "507cbff08e221549a83d1407044571250d0cd7d95d7739eda156830c4b69037f"
+}

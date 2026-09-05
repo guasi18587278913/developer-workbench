@@ -1,0 +1,43 @@
+{
+  "id": "60e0c19f-9900-4b7b-bf4f-3ead89515226",
+  "title": "Vectrus Energy",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Editorial",
+    "item_id": "60e0c19f-9900-4b7b-bf4f-3ead89515226",
+    "page_at_capture": 1,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/vectrus-energy/poster/media-pipeline-v1/c568c38ebda67c2565cbe5f3017ee57fa86bbad885f3ce9f80cf002dc1359f2a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:31.386860+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e1da38a819cd51964577663152e6d2373073f3b1cd8d54d130dd7a9b1ada0250",
+  "displayed_prompt_chars": 8300,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "48f73fd10fe82acd1bd9e703d8c8d41a8bce61b8fcea35cbe0a44d608969c56c",
+    "original_bytes": 109110,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 52386
+  },
+  "preview_sha256": "3a671037bdf930d5f16a1fe1832588dc7a0a1ee1330a390b5fec96b3c1a692fa"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "90b6c742-7e69-4d6d-88a5-8bdbab057e86",
+  "title": "Cosmos Interface",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "90b6c742-7e69-4d6d-88a5-8bdbab057e86",
+    "page_at_capture": 10,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/cosmos-interface/poster/first-frame-v1/18c25184cb4a85f072d1a7dc5b3abb3295e2dbb108a007196b7d2ec9dcba4ba5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:56.484223+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e71757b48e4caf4e3f00966308a1de6fa79a831ec3761696d7e7ce85403353a8",
+  "displayed_prompt_chars": 26200,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "18c25184cb4a85f072d1a7dc5b3abb3295e2dbb108a007196b7d2ec9dcba4ba5",
+    "original_bytes": 45240,
+    "original_dimensions": [
+      1280,
+      924
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      693
+    ],
+    "bytes": 30946
+  },
+  "preview_sha256": "467948a844aa06954065fedabe39403f6c6494bec41a156ba1bd49080eb33fd4"
+}

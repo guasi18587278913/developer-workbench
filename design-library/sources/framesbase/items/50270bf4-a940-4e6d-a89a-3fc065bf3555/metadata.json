@@ -1,0 +1,43 @@
+{
+  "id": "50270bf4-a940-4e6d-a89a-3fc065bf3555",
+  "title": "Dental Implant Clinic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Healthcare",
+    "item_id": "50270bf4-a940-4e6d-a89a-3fc065bf3555",
+    "page_at_capture": 1,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/apps/dental-implant-clinic/poster/first-frame-v1/4c3592385d38e6fbf789b7d2d5ad614407f6648fd5e1cc3cf71e38310e248d9b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:41.683033+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a533331e344b18fbb72d12dbbd437205fe4d70343271e3ed6b51b7adf5efcc73",
+  "displayed_prompt_chars": 13238,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4c3592385d38e6fbf789b7d2d5ad614407f6648fd5e1cc3cf71e38310e248d9b",
+    "original_bytes": 34944,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 24262
+  },
+  "preview_sha256": "8a128a80f4e7ca82256bcadb1c88ec8844c88db425f2de172a780ed03d160e97"
+}

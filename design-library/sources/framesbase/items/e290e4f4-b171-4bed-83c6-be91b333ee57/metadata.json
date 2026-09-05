@@ -1,0 +1,43 @@
+{
+  "id": "e290e4f4-b171-4bed-83c6-be91b333ee57",
+  "title": "Cargo Group",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "e290e4f4-b171-4bed-83c6-be91b333ee57",
+    "page_at_capture": 11,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/cargo-group/poster/first-frame-v1/07d1c06c1053e3607af1a953b07b586cbbe2ee07a0a32e6f414f1dd5d5e3f77c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:58.483790+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8b0103812f5329dfd31a49f6fb42fe611d57112a87562d995481e30ad768e88c",
+  "displayed_prompt_chars": 9392,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "07d1c06c1053e3607af1a953b07b586cbbe2ee07a0a32e6f414f1dd5d5e3f77c",
+    "original_bytes": 82448,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 54974
+  },
+  "preview_sha256": "82647c7843eeef1ac4074ab3e5a82debe4b3ae6735776bf6f865469e4a59660e"
+}

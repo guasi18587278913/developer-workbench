@@ -1,0 +1,43 @@
+{
+  "id": "c4ea3019-1a4e-4414-9a7e-f486c49511ef",
+  "title": "Benefits Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features Section",
+    "item_id": "c4ea3019-1a4e-4414-9a7e-f486c49511ef",
+    "page_at_capture": 1,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sections/benefits-features/poster/media-pipeline-v1/0995458374baab9099a4d4feb821846ab1f6995551eafa0bb71294f47173ad9a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:46.115496+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1e5b9b2a2b73c3e6fe12235e0aaba62100dcebe29b225a992ec96e11ab42e699",
+  "displayed_prompt_chars": 5910,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4cf749ccffcb2e25187e89f36bf1b2d89397cf94f73e9ee81187194b3ace7d46",
+    "original_bytes": 219188,
+    "original_dimensions": [
+      1600,
+      1164
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      698
+    ],
+    "bytes": 31538
+  },
+  "preview_sha256": "8fcab14ec9ba15bdf28458a1fa86ea25d42da4beae435e222faf3ca85ee9337f"
+}

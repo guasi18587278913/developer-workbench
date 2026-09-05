@@ -1,0 +1,43 @@
+{
+  "id": "d034c9e2-9c68-4504-a1b3-662fea085572",
+  "title": "Rocket CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "d034c9e2-9c68-4504-a1b3-662fea085572",
+    "page_at_capture": 3,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sections/rocket-cta/preview/media-pipeline-v1/e21e5b960fd87eaf9a1c9e032422e926a1708842502e0b193a4c6b651cef14fb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:49.447917+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f7b2e5aec6965f491513fc005249e66099cd0de8e61e5011e6da8244281c9331",
+  "displayed_prompt_chars": 11622,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9495c910a749653c6ce3f550a5f0129ad30a0c01efbda2e356a67e6c9c0f1050",
+    "original_bytes": 1055538,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 37052
+  },
+  "preview_sha256": "4f6b6eb64ebf861834bca43e144a59c0d207fa639d27cf88ba7975b6e22adccf"
+}

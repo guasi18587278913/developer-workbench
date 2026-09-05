@@ -1,0 +1,43 @@
+{
+  "id": "195daa7c-91e4-40fd-ae77-3470f51f07c5",
+  "title": "Vize Footer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer Section",
+    "item_id": "195daa7c-91e4-40fd-ae77-3470f51f07c5",
+    "page_at_capture": 1,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sections/vize-footer/poster/media-pipeline-v1/e1762210d8b90cc384e59486cc0ae9c72c92f43c86c9f3852bee22116f96ee28"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:52.630901+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "55229c936a8706f64190196b08207c4ef6d1deed9026ec26285debe43b4fe8eb",
+  "displayed_prompt_chars": 7734,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "23949bfb78c34ee31489fb90d86bd6c8480b11fc0bd686e866f118ccd36eff1e",
+    "original_bytes": 50121,
+    "original_dimensions": [
+      1838,
+      1350
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 13974
+  },
+  "preview_sha256": "47eca044a35e630d657769babee52e357b8a1c82e913b73a074db7a6d6605f6e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9349c46b-dd1f-4be3-9623-4337778598fc",
+  "title": "AI Film Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "9349c46b-dd1f-4be3-9623-4337778598fc",
+    "page_at_capture": 12,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/ai-film-studio/poster/media-pipeline-v1/89393daf56c7af5ec095d17e2698392ade774710a270cd7b8db22cb74549b944"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:38.771358+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5c1d39c5d8d4eebe03c99e328a2edbc6472d12dabc4e69f5cb22bedc02f84e10",
+  "displayed_prompt_chars": 13629,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9d89bbd54deb9d5258b1309da70b842a8bbfcbf7054bbd075f70dcd868724523",
+    "original_bytes": 42012,
+    "original_dimensions": [
+      1280,
+      759
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      569
+    ],
+    "bytes": 25808
+  },
+  "preview_sha256": "a90fff799d922a7199fed2d48531773ef8a3ceddb050f549f34b2d767703421f"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "69f0c062-7a17-4737-91f1-56c18f595195",
+  "title": "Fitness Dashboard",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Wellness",
+    "item_id": "69f0c062-7a17-4737-91f1-56c18f595195",
+    "page_at_capture": 2,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/apps/fitness-dashboard/poster/media-pipeline-v1/951af808c0766f58993fe75928d0e881ea3baf875c15cfd38ba4e5b41f45df2d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:57.546915+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2d4587cfa96b1e1d7b6469af2ad22997e4b86dc1b92dd9d0f3d058495ee1d525",
+  "displayed_prompt_chars": 9073,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "03368a24e09d8f41052c4ae39c1b882a90abd6335f707e5504dad468af512246",
+    "original_bytes": 144374,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 53538
+  },
+  "preview_sha256": "d92388d492ee779b403b24a292bf46ee76b9c76901c4a2b0a2f9d4dfd042ad61"
+}

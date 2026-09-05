@@ -1,0 +1,43 @@
+{
+  "id": "98a66586-dc8b-430f-b097-e5ee0a797eab",
+  "title": "Community CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA Section",
+    "item_id": "98a66586-dc8b-430f-b097-e5ee0a797eab",
+    "page_at_capture": 1,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sections/community-cta/poster/media-pipeline-v1/aa583d7fa1de6bfc50761e5238ee645d4a564fbbbea0aacd988777d8ce058ca4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:32.833111+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7003d159fab00ca77951b3277c7b1afceaa29a3f8a841753032eb64b1c4c6a80",
+  "displayed_prompt_chars": 6576,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4f8c6c35e2d2ccfc42f1e75d5c4be77acebb491f4c40b129bb8a1db555bce374",
+    "original_bytes": 537810,
+    "original_dimensions": [
+      1570,
+      1146
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      701
+    ],
+    "bytes": 37448
+  },
+  "preview_sha256": "92129beba7f1e273304286e371dcd90b9e9325bbd36d7b5afd3fbf1d0a805946"
+}

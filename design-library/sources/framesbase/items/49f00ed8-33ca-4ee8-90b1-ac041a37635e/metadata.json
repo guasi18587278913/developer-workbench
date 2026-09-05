@@ -1,0 +1,43 @@
+{
+  "id": "49f00ed8-33ca-4ee8-90b1-ac041a37635e",
+  "title": "Wealthcore",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fintech",
+    "item_id": "49f00ed8-33ca-4ee8-90b1-ac041a37635e",
+    "page_at_capture": 1,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/wealthcore/poster/media-pipeline-v1/17f03edca0cb80a0055404ffbd115854cbd511a772bfc9bb16c6aa1d974ba7ec"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:24.808926+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "682d21b91f319db0b7c76a1afc840d506311572240cbf05ab8e89730aa5f17be",
+  "displayed_prompt_chars": 38823,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ae59331b491712f04348ae87038510c8ef655e5099836dc865ac0a25a43caed0",
+    "original_bytes": 66272,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 30022
+  },
+  "preview_sha256": "6466eb2348f34d6ba66dfe67162849b554e25e1d652c97b072724a99208537f1"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "97638f78-ee79-4f4b-be0a-2533f1cb841a",
+  "title": "Freight Command",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Logistics",
+    "item_id": "97638f78-ee79-4f4b-be0a-2533f1cb841a",
+    "page_at_capture": 2,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/apps/freight-command/poster/media-pipeline-v1/3b265becc0e2dab64e6b1d313efade2fc171ddfcfc5297e50422b9a573826b37"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:13.758334+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "99cf86d5cc8430545281ab97362032e901893557c526907ca810c154e631737a",
+  "displayed_prompt_chars": 20275,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "432d29c621dfeeb1ac0e24269389190d9e1044d09b97f3cc66fc76cff96274ec",
+    "original_bytes": 213993,
+    "original_dimensions": [
+      1228,
+      903
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      706
+    ],
+    "bytes": 47608
+  },
+  "preview_sha256": "536af723f0fe93ac3401d3544016ffb87eb9b92918bae9bcf1c7ecd1e5364b6b"
+}

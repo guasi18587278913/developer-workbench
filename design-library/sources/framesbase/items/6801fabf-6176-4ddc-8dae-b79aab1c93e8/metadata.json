@@ -1,0 +1,43 @@
+{
+  "id": "6801fabf-6176-4ddc-8dae-b79aab1c93e8",
+  "title": "Creative Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "6801fabf-6176-4ddc-8dae-b79aab1c93e8",
+    "page_at_capture": 6,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/creative-agency/preview/media-pipeline-v1/6178c31941e067132412cc0f888500c2d2011e98207d1214e56d82d9246f3a16"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:55.027058+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bc1a3c699713d0c9cc48fab06258a2b6cd8ba0c54ffe670335e0894a82f1793e",
+  "displayed_prompt_chars": 6403,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "191a3c87e7a194e747963c288b98474f492fc78b0b445aae8b9102980995b7e7",
+    "original_bytes": 2050838,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 34900
+  },
+  "preview_sha256": "d1025884a3ebfa5361acf0d1caef80fe2e055189693687c89c676d84b74a5f9a"
+}

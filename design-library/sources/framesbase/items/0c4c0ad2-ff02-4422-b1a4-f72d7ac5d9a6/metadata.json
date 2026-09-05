@@ -1,0 +1,43 @@
+{
+  "id": "0c4c0ad2-ff02-4422-b1a4-f72d7ac5d9a6",
+  "title": "Neural Interface",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "0c4c0ad2-ff02-4422-b1a4-f72d7ac5d9a6",
+    "page_at_capture": 10,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/neural-interface/preview/media-pipeline-v1/831a0190b5f1831c90cbb3b4697b3c52088eb448f0bdab9315eba5105307d746"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:08.213518+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7933ef3f0d18ea734c29991036c3178b415ecd54bd64b17220469af64618acd3",
+  "displayed_prompt_chars": 34002,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "28aa4033d81b3c6bd2a2c1509de84987e1fb41a570ae959d2617b6ff9a8c0cbc",
+    "original_bytes": 1472838,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 11720
+  },
+  "preview_sha256": "d9de45221add2c10d9ab7675f3fcccae4de0c68f84faff2cc543ec85bf56fc16"
+}

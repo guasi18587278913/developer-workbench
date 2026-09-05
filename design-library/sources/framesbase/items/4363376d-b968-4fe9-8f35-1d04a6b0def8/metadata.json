@@ -1,0 +1,43 @@
+{
+  "id": "4363376d-b968-4fe9-8f35-1d04a6b0def8",
+  "title": "Mindloop",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "4363376d-b968-4fe9-8f35-1d04a6b0def8",
+    "page_at_capture": 5,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/mindloop-hero/poster/media-pipeline-v1/5ffe754adefc29c2069692a67d0b2e9057eff569b4f35a3ed560cfe868b003b1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:43.077831+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8086c4436d76199fbe87ff8e6af88b9e6f82d4f8039e3a7593554995566a5482",
+  "displayed_prompt_chars": 2949,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "618d555884717d61cfc422a130a7d3560bfc07526ac3016205e03a627bf41e92",
+    "original_bytes": 538073,
+    "original_dimensions": [
+      1470,
+      968
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      632
+    ],
+    "bytes": 30310
+  },
+  "preview_sha256": "398fe8db5d1bc97a12515e01844a751c58bb18ebd270f8208d9ee2981bd11ea0"
+}

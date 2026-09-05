@@ -1,0 +1,43 @@
+{
+  "id": "b4e90f5d-f10b-4017-97d8-402468586570",
+  "title": "Dashboard UI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Dashboard",
+    "item_id": "b4e90f5d-f10b-4017-97d8-402468586570",
+    "page_at_capture": 1,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sections/dashboard/preview/media-pipeline-v1/8c833824c5374a90aa250d06590e428e2705a225875400e42098368347642e7c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:37.477674+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "005dc1e87bb577e2e170ee937b79618692e61bb259d13918d061031dcbe82fb2",
+  "displayed_prompt_chars": 9125,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a80a26eeef74609c13932b8219879a49bab97a4d754f17badc6942d34d69c8ff",
+    "original_bytes": 2182006,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 44356
+  },
+  "preview_sha256": "1635f88235e9d4d910e8aa3942d2fe21b34d59bded0c1db3858aba906e9d1e03"
+}

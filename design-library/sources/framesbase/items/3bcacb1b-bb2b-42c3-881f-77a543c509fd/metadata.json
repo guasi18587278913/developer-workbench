@@ -1,0 +1,43 @@
+{
+  "id": "3bcacb1b-bb2b-42c3-881f-77a543c509fd",
+  "title": "CodeNest Coding Platform",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "3bcacb1b-bb2b-42c3-881f-77a543c509fd",
+    "page_at_capture": 4,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/codenest-hero/poster/media-pipeline-v1/ca851c508cfd45ef3cafb8c2f43b3f5faaaa50505cc2a0dccb4e6f004a20556c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:28.710029+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "aecd9a57ef07ea90a50e99364f6fc1c2eb9cbaaa6de4cb6853f62bb7643697ec",
+  "displayed_prompt_chars": 2581,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5ce086ac709772373ce2da4ead1c2e243a2c31c3722fe7df40f18815f6cc9920",
+    "original_bytes": 1929447,
+    "original_dimensions": [
+      1812,
+      1292
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      685
+    ],
+    "bytes": 28670
+  },
+  "preview_sha256": "84d51ca3c1f12b3dbcf131247fb46d16b85987f8634692b06f671e9520dfe233"
+}

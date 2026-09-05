@@ -1,0 +1,43 @@
+{
+  "id": "eb359734-20eb-4cd2-90f7-c3fa43a04473",
+  "title": "Subscription Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "eb359734-20eb-4cd2-90f7-c3fa43a04473",
+    "page_at_capture": 11,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/subscription-agency/poster/first-frame-v1/398a15a2cec7cb2c2610ce2a9d805ff703e4395f0b41ce0e95c598da40db8a53"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:34.677981+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a1c407a9c4090191ddb3cd175d22d7c90c0c42715d3c7235a2c6a08022e24120",
+  "displayed_prompt_chars": 6172,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "398a15a2cec7cb2c2610ce2a9d805ff703e4395f0b41ce0e95c598da40db8a53",
+    "original_bytes": 28796,
+    "original_dimensions": [
+      1280,
+      936
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      702
+    ],
+    "bytes": 20238
+  },
+  "preview_sha256": "6d40c6f8a969235dea44069c8542b2d5b06b030b4161cb412b891fc4cf0b6e42"
+}

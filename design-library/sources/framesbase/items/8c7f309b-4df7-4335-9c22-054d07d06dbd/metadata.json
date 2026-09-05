@@ -1,0 +1,43 @@
+{
+  "id": "8c7f309b-4df7-4335-9c22-054d07d06dbd",
+  "title": "Silent Velocity",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "8c7f309b-4df7-4335-9c22-054d07d06dbd",
+    "page_at_capture": 14,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/silent-velocity/poster/media-pipeline-v1/c300fc867c92052a1096fa536063e95ee376a70241473e30363f0113e3a65672"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:46.030577+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "535248856c57c8e72ad473e59eb546d54217cbdeeaf4601d0e0e43f7b0e8ab3d",
+  "displayed_prompt_chars": 10525,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3a740be4a7e75ecef842f3ce5e9806264554bcf37f0837f3ec4e7864eb771099",
+    "original_bytes": 63302,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 36304
+  },
+  "preview_sha256": "cc8557ad7736566340a9452f00e8a3ebe43adab1220be91565e37fd34c3ea7be"
+}

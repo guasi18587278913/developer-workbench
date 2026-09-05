@@ -1,0 +1,43 @@
+{
+  "id": "0d18179d-3700-462d-8568-bbafe72b8323",
+  "title": "Form Study",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Art",
+    "item_id": "0d18179d-3700-462d-8568-bbafe72b8323",
+    "page_at_capture": 15,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/form-study/poster/media-pipeline-v1/28f66ccb4f3ae34a30b92985726e2e41395fe966abb886528214c70d90f7b6a3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:08.932209+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e0bf536a141285a81bc2a5e6661732aa6b2c56136fd9bd7e3149b95bb12c6e5a",
+  "displayed_prompt_chars": 8801,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f595190ffbbbe7f0ef9efc7fd4672e7f1b84ae99bb0d0ea13a81c1327205c1d5",
+    "original_bytes": 118214,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 57042
+  },
+  "preview_sha256": "6085e07292c9b76bad93c2468808a8304952b23210c4dd045fbbcb489643971b"
+}

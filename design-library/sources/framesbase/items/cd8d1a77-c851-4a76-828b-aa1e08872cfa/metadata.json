@@ -1,0 +1,43 @@
+{
+  "id": "cd8d1a77-c851-4a76-828b-aa1e08872cfa",
+  "title": "Glassmorphic Feature Tabs",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Tabs",
+    "item_id": "cd8d1a77-c851-4a76-828b-aa1e08872cfa",
+    "page_at_capture": 3,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sections/glassmorphic-feature-tabs/preview/media-pipeline-v1/93c6de4c1ba7d048572fc3ec2793a93091255bed47d41090d03a8f210140325b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:51.478705+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "95e0b4d1dec656b64c9c5872d2ba8e3ce6b3194aaca0d70e95e234fbb5c7252d",
+  "displayed_prompt_chars": 12067,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e0f163312eaf02e2b3a071dd737c49a20b2db21fd8f20e601a45d3a1639c3e02",
+    "original_bytes": 685026,
+    "original_dimensions": [
+      640,
+      486
+    ],
+    "original_frames": 71,
+    "dimensions": [
+      640,
+      486
+    ],
+    "bytes": 19864
+  },
+  "preview_sha256": "00a66b6dd0ca44bd0b9c3b3d250029314a48f83e8e83f96e129373e743f79b5e"
+}

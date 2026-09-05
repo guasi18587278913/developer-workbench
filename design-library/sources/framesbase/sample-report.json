@@ -1,0 +1,56 @@
+{
+  "started_at": "2026-09-05T05:33:07.292261+00:00",
+  "mode": "sample",
+  "sections": {
+    "sites": {
+      "expected": 349,
+      "pages": 15,
+      "ids": [
+        "132802df-2dc9-45ec-a69f-7c743bdc1f34",
+        "4c52f842-44ec-41f2-8901-84ebc2e1a67c",
+        "76084b77-740a-484e-97bf-195a99cbe572"
+      ],
+      "duplicates": [],
+      "final_visible_total": 349,
+      "complete": true
+    },
+    "apps": {
+      "expected": 43,
+      "pages": 2,
+      "ids": [
+        "43e9e2d1-32e0-4a70-a9a9-a331d9549955",
+        "7ab5fd2a-7535-4ce4-9bf0-42f55d70f0c2",
+        "de8e6895-65ee-4472-8da0-88cbf73e5d4c"
+      ],
+      "duplicates": [],
+      "final_visible_total": 43,
+      "complete": true
+    },
+    "sections": {
+      "expected": 91,
+      "pages": 4,
+      "ids": [
+        "1246a299-6aef-4e0a-806b-b4776bcab59f",
+        "52599ccc-ada4-4a5a-9225-fcba04259fd8",
+        "0de20a2a-5bfc-4897-b2c4-a70db52efe2d"
+      ],
+      "duplicates": [],
+      "final_visible_total": 91,
+      "complete": true
+    },
+    "backgrounds": {
+      "expected": 221,
+      "pages": 10,
+      "ids": [
+        "bg-6b6549b72b328a120e4d",
+        "bg-6a8f0ea72afaf7d5020c",
+        "bg-3997498d17bbe7620860"
+      ],
+      "duplicates": [],
+      "final_visible_total": 221,
+      "complete": true
+    }
+  },
+  "failures": [],
+  "finished_at": "2026-09-05T05:33:13.278598+00:00"
+}

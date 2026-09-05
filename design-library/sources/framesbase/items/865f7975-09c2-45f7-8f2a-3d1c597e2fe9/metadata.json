@@ -1,0 +1,43 @@
+{
+  "id": "865f7975-09c2-45f7-8f2a-3d1c597e2fe9",
+  "title": "NEX Robotics",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "865f7975-09c2-45f7-8f2a-3d1c597e2fe9",
+    "page_at_capture": 1,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/nex-robotics/poster/media-pipeline-v1/6911ee159f3a121569cee6c0a6f290df9e26ca51efd4b7ca0700cdc6aa341d62"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:23.521597+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b44c8af35d15189e2d1ea9c50d82e6987acd9318388445308c40644ae3e35d11",
+  "displayed_prompt_chars": 34744,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7dad6dca9f64ced1e26abce59013d8c4cebdf8f31315e41ef99c3094d8f665cf",
+    "original_bytes": 60600,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 36340
+  },
+  "preview_sha256": "3db7b620325d92643ec673c14235c040b99d492275d2b26a18de8ad88ee5ac41"
+}

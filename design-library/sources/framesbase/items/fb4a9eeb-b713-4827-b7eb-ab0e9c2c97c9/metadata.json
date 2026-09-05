@@ -1,0 +1,43 @@
+{
+  "id": "fb4a9eeb-b713-4827-b7eb-ab0e9c2c97c9",
+  "title": "Vitara",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "fb4a9eeb-b713-4827-b7eb-ab0e9c2c97c9",
+    "page_at_capture": 6,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/vitara-hero/poster/media-pipeline-v1/bd9554da23e2dac13beaf6b0645d04a16b9b813ab5b4fe40db97619c4afa983c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:31.307862+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e09d2d25829e8d298c68e32d97d2a065032bfc5a3e9998e5b999c3abb6493ab8",
+  "displayed_prompt_chars": 3623,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5c86d6d98e411bcb9496e324c59511a3544e3430532a9a2406d7b0956cdfab84",
+    "original_bytes": 498027,
+    "original_dimensions": [
+      1920,
+      1327
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      664
+    ],
+    "bytes": 37094
+  },
+  "preview_sha256": "c7c2d73de768e3962fb3e2bf552fb884c6358df46225d1a41c6265540b720e63"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9d6d1da1-fdbc-4b0b-a90d-253ead8c5f7b",
+  "title": "Nimbus Sticky Cards",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Cards",
+    "item_id": "9d6d1da1-fdbc-4b0b-a90d-253ead8c5f7b",
+    "page_at_capture": 3,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sections/nimbus-sticky-cards/preview/media-pipeline-v1/eb683f579f61d394c6aaaf812058f5a97741a450de2c6588e7fa3fb12e4047b2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:43.028599+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "10d1a028061c6a14fbc080e71af4700489ea7ba872fb242b9a2e14ea56f0dcfc",
+  "displayed_prompt_chars": 12638,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6c2788cdd067a403d1e1855d0c7eb43da71cdcc203fa2a8957e976472c299f53",
+    "original_bytes": 334024,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 70,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 11656
+  },
+  "preview_sha256": "94c5c62411d4a90e43544bf7b8e298232a59fe4b093487e68e58e777e4b62b7f"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9a34a1e6-fbf6-4a67-bb69-b0abb9bec60c",
+  "title": "Clarity Core",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "9a34a1e6-fbf6-4a67-bb69-b0abb9bec60c",
+    "page_at_capture": 10,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/bio-active/preview/media-pipeline-v1/815d396eddee96b5bced4a55cf16e8ab5399eee10c30212d31f937cfd1fe4787"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:36.209430+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "80bfa559119ddaac39ad2d88ddb26653408f4470d8115bfbed4db7d3266d89b6",
+  "displayed_prompt_chars": 7092,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "38925e6692d302adb383ff34aa3de00ea301ac8ef98bf997162ef8f97acc6b17",
+    "original_bytes": 2147854,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 30614
+  },
+  "preview_sha256": "b5aa7aa1dcc3bc98f9304e9d6fd0fc34742d22bcc4df1812c2d28a1bc6351faa"
+}

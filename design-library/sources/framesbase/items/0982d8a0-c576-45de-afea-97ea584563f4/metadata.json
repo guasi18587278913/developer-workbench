@@ -1,0 +1,43 @@
+{
+  "id": "0982d8a0-c576-45de-afea-97ea584563f4",
+  "title": "Ink Dynasty",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Culture",
+    "item_id": "0982d8a0-c576-45de-afea-97ea584563f4",
+    "page_at_capture": 15,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/ink-dynasty/poster/media-pipeline-v1/7addc2634c7a68b9b16134f46665105b04067f0b48378d52d9d237b4c5d56ef1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:17.823698+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d185683b9e151118744fbdebb548054369d09d81513450579cca87265f94ba6e",
+  "displayed_prompt_chars": 10024,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "735ed11dc61d8533099ff2041d718fcf14351ed5084de6e208d5f021784bf96b",
+    "original_bytes": 145434,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 74196
+  },
+  "preview_sha256": "6e657cd740af1586b3938ed46aeae6d66647c31c8537f035428590d8773a0590"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ec0d3c18-1e4e-4772-9a36-e2d4b987fcd2",
+  "title": "Creator Guild",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Community",
+    "item_id": "ec0d3c18-1e4e-4772-9a36-e2d4b987fcd2",
+    "page_at_capture": 15,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/creator-guild/poster/media-pipeline-v1/9c028d86e502ac80c33c0f79fa354b4f202a0806ee1dd0d340150f3a9f1a7cb4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:06.139641+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fb6565a3b8cfe7c899ea5db4922f9231a4cc9424eb65c41399f603b269eec31b",
+  "displayed_prompt_chars": 8285,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bef2613ef02488078935ae71b28d1395fe796524b1ee1f504245ef6c11f0b6bd",
+    "original_bytes": 102068,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 52136
+  },
+  "preview_sha256": "f9b506c4e46655ee0e40836c1ddd13db33ecaa266a6c78902b024a0134fece02"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b277d919-4672-4b55-8652-10f7495ff9ed",
+  "title": "Stark Minimal Footer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer",
+    "item_id": "b277d919-4672-4b55-8652-10f7495ff9ed",
+    "page_at_capture": 2,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sections/stark-minimal-footer/preview/media-pipeline-v1/717ed323cc27dcd105926c11434953549cb72307446c18a0e43729fcc92af6f2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:32.842682+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cd3f7a40354f7fa1e15d9417809c9c4ca29273abc36ddddd33de0a957fb8103c",
+  "displayed_prompt_chars": 5437,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0a7211402deca9088c90266f48292301246e7d38ce284bd7224c76806b791566",
+    "original_bytes": 153836,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 64,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 11354
+  },
+  "preview_sha256": "fd8f8dbd36a0fadb4d7a15b56ad76f83be16d08b8f009599dbe350fc9a737795"
+}

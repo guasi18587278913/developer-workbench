@@ -1,0 +1,43 @@
+{
+  "id": "599d5e1a-40f3-4f0d-819a-24814d3fefc4",
+  "title": "Apex Pulse",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "599d5e1a-40f3-4f0d-819a-24814d3fefc4",
+    "page_at_capture": 10,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/apex-pulse/preview/media-pipeline-v1/683e0b60a80334d5d4d44889e9dd2e8d0d2a30dd6f8fcc8a05ef58907f288002"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:06.316299+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ff53fa282e76089ac81e2d1f2f78a4732c0f97a80a3b7de9d1c9db57ae7ec1a6",
+  "displayed_prompt_chars": 7266,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2a6012a18360a451d33b53cee278c71ae6564725d0b9b2cbcc16d7e50fbd4743",
+    "original_bytes": 2945348,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 39582
+  },
+  "preview_sha256": "4387041d5e96b83babd21ccc1131e5d84eca0fb07a7cf6a2e63a263bc815e83f"
+}

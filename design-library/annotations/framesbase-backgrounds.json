@@ -1,0 +1,1312 @@
+{
+  "items": {
+    "bg-6b6549b72b328a120e4d": {
+      "summary_zh": "聚光灯下的花丛人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6a8f0ea72afaf7d5020c": {
+      "summary_zh": "蓝天白云与绿色丘陵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-3997498d17bbe7620860": {
+      "summary_zh": "浅色糖果渐变方块",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-04771790200510ff6409": {
+      "summary_zh": "蓝天下的野花山坡",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d291bee4fe2ef9025fba": {
+      "summary_zh": "浅色悬浮支付卡片",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-543222fd1939418f66dc": {
+      "summary_zh": "奇幻山谷与水边草地",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0e4bdcc43e9db8cb9169": {
+      "summary_zh": "深色蓝橙弧形渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-86add4352fc227463f6b": {
+      "summary_zh": "太空人和星形几何物体",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8d5c26fcabfdf9fb3314": {
+      "summary_zh": "熔岩地面上的透明方块",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-de7f03353eeccb103dbb": {
+      "summary_zh": "红色云层中的巨型石柱",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d0f113a11b750eefc696": {
+      "summary_zh": "红底游戏人物群像",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-780c2759a9c213f38109": {
+      "summary_zh": "阳光花海与绿色小丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0aa3da1cfbe0f92fd6ea": {
+      "summary_zh": "蓝色光芒中的电脑人物剪影",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8a4d62946a2d2795f04e": {
+      "summary_zh": "蓝色玻璃抽象丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a0b29e5febb0f6c71d9f": {
+      "summary_zh": "现代住宅建筑与草坪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d6825911ca55d6107b7b": {
+      "summary_zh": "蓝橙赛博几何空间",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8ce8168de194bd937b99": {
+      "summary_zh": "夜间山坡上的复古电视",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-4688951053cfe3a3578f": {
+      "summary_zh": "深色红蓝交汇光束",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e9fe5ad122678c5a3140": {
+      "summary_zh": "湖畔阳光与聚会人群",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e1f2818622089e0076d6": {
+      "summary_zh": "深色柔焦灰白光斑",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-332ed27a457e9a2e9ccf": {
+      "summary_zh": "紫色发光地球",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a74356487a65c1385e78": {
+      "summary_zh": "青绿色金属波浪丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-487e7043596090f2838a": {
+      "summary_zh": "黑底紫色模糊流光",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cf678f75a9c0188f70ec": {
+      "summary_zh": "紫色绸缎褶皱",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-04accee095b4897bf81f": {
+      "summary_zh": "白色放射状能量光束",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8c19c6305f153235ac24": {
+      "summary_zh": "蓝橙极光与行星地平线",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2e42b6208627ae921a96": {
+      "summary_zh": "黑底银河星空",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-1592e197d788336e0d1e": {
+      "summary_zh": "紫蓝液态金属曲面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-3b78efc5fcfa1d02e897": {
+      "summary_zh": "紫色透明能量球",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-49c7851a470487a0c9fb": {
+      "summary_zh": "浅绿镜面抽象曲面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6dedd91dc640cdf6a131": {
+      "summary_zh": "黑底白色波浪光带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5429fc39eb4baa093305": {
+      "summary_zh": "黑底绿色金属丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2d322af407d21069e1a8": {
+      "summary_zh": "深蓝抽象起伏山脊",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-46b00fcab387e43fbc42": {
+      "summary_zh": "橙色地平线光晕",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-035d2a386a87296b7d17": {
+      "summary_zh": "紫粉镜面波浪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-48c9042ce0c75f5563c0": {
+      "summary_zh": "蓝色黑洞与星空旋涡",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-555aee9a0d8507433a6f": {
+      "summary_zh": "黑底彩色金属丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-653c7ce56c8d0e98c327": {
+      "summary_zh": "粉紫柔焦渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-86af8d5e5ff05380f1fa": {
+      "summary_zh": "深色低亮度紫色流体",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d34c249a5248bcca0205": {
+      "summary_zh": "黑底蓝紫扇形光束",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2345751b52a80372c7fe": {
+      "summary_zh": "黑色透视网格空间",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2b2c8543293b6eed3ab4": {
+      "summary_zh": "白底卡通滑板角色",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8c7d4afcd18cb04d5ceb": {
+      "summary_zh": "浅色未来人物与窗光",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c28c4160f0a81954ac91": {
+      "summary_zh": "夜间花丛中的太空人",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e41cce5293c7981ed2a0": {
+      "summary_zh": "蓝色斜向光带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e52797d67a6306b880f5": {
+      "summary_zh": "黑底透明棱镜与彩虹折射",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-267cc540528ad78aafbd": {
+      "summary_zh": "蓝色夜空下的复古电视",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2c7f9061c7f0a1de75b8": {
+      "summary_zh": "城市天际线与公园湖面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-94d9b3db9d75cc9ba2bf": {
+      "summary_zh": "夜空下的电脑桌人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-13c3508c327b547df8e5": {
+      "summary_zh": "绿色行星与星云",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-64a49201ac40c891e373": {
+      "summary_zh": "黑底蓝色弯曲光带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-fcb9d51e36010f5917af": {
+      "summary_zh": "云海日落中的人物剪影",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-574830a024233a9137bd": {
+      "summary_zh": "蓝天下的花丛与邮箱",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cee895619ca64bb94a08": {
+      "summary_zh": "未来城市高塔与太空人",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-79df348170dd489ff7a2": {
+      "summary_zh": "白底蓝色玻璃按钮",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cbed0cc6703fa51cc52b": {
+      "summary_zh": "黑底斜向金属弧线",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-77165ed1d10a0551af69": {
+      "summary_zh": "森林与远山雪峰",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b74c25f5ab43e89bc06e": {
+      "summary_zh": "浅色透明玻璃器皿",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0cfc5f76b37aec354905": {
+      "summary_zh": "星空旋涡与紫色花海人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7a7bbedfae2a510e2246": {
+      "summary_zh": "黑底发光微型植物景观",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a9100311a209441ed852": {
+      "summary_zh": "黑底白色烟雾丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6648cd2c79cbb32ae737": {
+      "summary_zh": "紫色层叠圆角拱形渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d46109a78a8c9646970f": {
+      "summary_zh": "黑底紫色发光花朵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-4dc1358d3277042ea482": {
+      "summary_zh": "彩色花海丘陵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-3290daa2fbaa77a5f0a8": {
+      "summary_zh": "蓝红火焰能量圆环",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-9d6b4f6bb724aa81c8f0": {
+      "summary_zh": "深绿光束中的金币",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-510fae866049dd5ac968": {
+      "summary_zh": "暗色室内废墟与植物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0ec0e0ae7696a6c51239": {
+      "summary_zh": "绿色山谷与蜿蜒溪流",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-72d1a495483a5af13ffb": {
+      "summary_zh": "深色抽象山体与彩色高光",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-99ed6503729fb9b6226c": {
+      "summary_zh": "粉紫花丛与蓝天白云",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-577d4278b47bae4fa617": {
+      "summary_zh": "黑色折面与细绿色线条",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-69bcaab85dafbd1cd157": {
+      "summary_zh": "浅蓝奶油色柔焦光环",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-4010be6c0c531af46ab0": {
+      "summary_zh": "深蓝流体漩涡",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b2718227c0690f32b14c": {
+      "summary_zh": "蓝紫玻璃曲面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-285acf1f8c221cdd7167": {
+      "summary_zh": "白底悬浮森林岛屿",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b3fb3e77583a3428c930": {
+      "summary_zh": "黑底微缩森林与鹿",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-9a0dc1d5f504261bf3f1": {
+      "summary_zh": "亮蓝色透明玻璃波浪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b572dd9ef2b0bfff0f00": {
+      "summary_zh": "深蓝垂直条纹光栅",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2f2c1d848d6973f62a29": {
+      "summary_zh": "黑底彩色光带与人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f30c095ef003d8889166": {
+      "summary_zh": "云层中的商务飞机",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b211550d82acbd09e46a": {
+      "summary_zh": "黑底金色透明液滴",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c3ff4d5cde5e6283dbcf": {
+      "summary_zh": "蓝天下的白色卡通怪兽",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5e904f324cb6fc125a5e": {
+      "summary_zh": "春日樱花与湖泊",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-dd1b0d3caa08866b1a00": {
+      "summary_zh": "白底彩色柔焦光晕",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-921b0d5364ec1b025143": {
+      "summary_zh": "山水晨光与自然石拱桥",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-325d08a08d6ee224dc7a": {
+      "summary_zh": "向日葵田与远山湖泊",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8daf2b52f93f2d58d285": {
+      "summary_zh": "蓝天下漂浮的雏菊",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f78f39a4a47730607bf6": {
+      "summary_zh": "白底写实地球",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d4a48eceabbf1c3d0844": {
+      "summary_zh": "浅粉紫半透明几何弧面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8c809e87821692aca57c": {
+      "summary_zh": "日落云层与辽阔山谷",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7ab4ba72b01fcd777617": {
+      "summary_zh": "黑底橙色云团",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-52917505a82982388638": {
+      "summary_zh": "深蓝背景中的 DNA 双螺旋",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a7861d91c631f32250d3": {
+      "summary_zh": "黑底书桌人物与发光轨道",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7be01540b59b75971a7d": {
+      "summary_zh": "星空下的深色沙丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c3680cdf1ae005c0b0dd": {
+      "summary_zh": "黑底悬浮花卉弯月",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-11cf6d38ee58abcfa72f": {
+      "summary_zh": "黑色垂直金属条纹",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0aac25928644960436d1": {
+      "summary_zh": "彩色太空星球与卡通宇航员",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-dad395440e1f21b1fefe": {
+      "summary_zh": "黑底粉色花卉山丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c811204c53183b3a9321": {
+      "summary_zh": "黑底彩色玻璃圆环",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b8efa1f32f9ece1ec7eb": {
+      "summary_zh": "星空山谷中的人物剪影",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-ddbdf3bc7e6b6dbee2ca": {
+      "summary_zh": "白底橙色卡通机器人",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0b30da4f88ccc2d93873": {
+      "summary_zh": "白底风力发电与太阳能微缩岛屿",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-aff2459158462434d2a4": {
+      "summary_zh": "红色复古室内与人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-44648b5b25383635108d": {
+      "summary_zh": "白底蓝绿色植物波浪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c3640dd91571ba0a7121": {
+      "summary_zh": "米色禅意山石与盆景",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a0757bc7d027182b9290": {
+      "summary_zh": "鲜花草甸与雪山",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-69cb4dda2cf3f249fb0d": {
+      "summary_zh": "紫橙线框流体与卡通人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-528c4b29a80a5c39a461": {
+      "summary_zh": "浅色镜面金属新月",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-13e514082000023b986e": {
+      "summary_zh": "黑底透明粒子花朵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6d56af1b7c84e7414666": {
+      "summary_zh": "黑底蓝紫橙色放射光晕",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5c86be95cd67960d2c5f": {
+      "summary_zh": "橙红背景中的面罩人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-1e6fa52040209841f9a5": {
+      "summary_zh": "云端悬崖与山顶小屋",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-53c904a9f88524c47e72": {
+      "summary_zh": "白底苔藓树枝与蝴蝶",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-305a1fb725358ae2d651": {
+      "summary_zh": "巨大行星边缘与绿色地面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f0938284efe4ab9d9953": {
+      "summary_zh": "黑底悬浮粉色花岛",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7811628ff546256fdbb2": {
+      "summary_zh": "复古花卉静物与书本",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-628333c6c5a106bd4f9d": {
+      "summary_zh": "白底蓝紫反光未来人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e0b73b71ae77f66d5e52": {
+      "summary_zh": "复古胶片色山脉",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-36ae87ee9d0c5a13f793": {
+      "summary_zh": "深色颗粒彩虹渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d25cf49c052653efe022": {
+      "summary_zh": "黑底绿色数据光条",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8756782932b1afd7636c": {
+      "summary_zh": "阳光草原与巨大岩石",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-481c662b602dfa444918": {
+      "summary_zh": "深海玻璃柱与鱼群",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-88b79a574fc7526fd73b": {
+      "summary_zh": "白底金属手与蝴蝶",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-9e7dc86e135cf2473a04": {
+      "summary_zh": "浅色抽象蓝橙沙丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c7bde7fc47f271e3b3d6": {
+      "summary_zh": "黑底彩虹垂直条纹",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6b94b33fe38ddd837c3d": {
+      "summary_zh": "蓝粉星云",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-95f5f3613a53a7c0f670": {
+      "summary_zh": "米黄色花坡上的人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5059a20cd8e400e00f18": {
+      "summary_zh": "桃红背景中的黑色卡通兔子",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0dddf9fdc91ab8d09fc2": {
+      "summary_zh": "紫粉晚霞与平原",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0ee74241c4fbd8d635e9": {
+      "summary_zh": "花卉边框中的蓝天",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cac142669c22581f84e9": {
+      "summary_zh": "云海悬崖与日出",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b58c7622727caed05c6e": {
+      "summary_zh": "白底精细线缆与金属接头",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-922709f7ad17b7ea4902": {
+      "summary_zh": "黑底花卉装饰的人物雕像",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e66261542afe4118e6ed": {
+      "summary_zh": "日光花坡上的石拱门",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-76c87974b3fce1aa01bd": {
+      "summary_zh": "蓝天下绿色山坡长椅",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-150f82d7468262ca0665": {
+      "summary_zh": "雾气中的自行车骑手",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-59635b67b1534a725089": {
+      "summary_zh": "黑暗空间中的白色发光门",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6a1355fa9f874d42b337": {
+      "summary_zh": "日落海岸古典建筑",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-54a502f516845ecfb957": {
+      "summary_zh": "浅灰背景中的悬浮岩石",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-07745cccc6b2cb5101a1": {
+      "summary_zh": "金绿色山谷与蜿蜒小溪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7819c63ab94bc07a087a": {
+      "summary_zh": "白底飞机机身与舷窗",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f1c717c3f0c1abcc63e2": {
+      "summary_zh": "黑底枯树小岛与白衣人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c84a7f3ae2a44a584930": {
+      "summary_zh": "灰绿色山峦与薄雾",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-9c1ef4ca4797b8da8582": {
+      "summary_zh": "黑底低亮度金属曲面",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5d52395b2a802db03cdc": {
+      "summary_zh": "草地蓝天下的白色门",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-91cf12f8bf4dc65e423d": {
+      "summary_zh": "阳光草地与漂浮蝴蝶",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e7862cb79590010d168b": {
+      "summary_zh": "紫色发光轨道圆环",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-bf7f18088bab9eb26b00": {
+      "summary_zh": "月面与巨大暗色行星",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b53db3e07ec26963dddd": {
+      "summary_zh": "蓝天下绿植中的复古钟表",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a06d9e965fe0306714fb": {
+      "summary_zh": "橙红暖色流体渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c9e44bccc1baf3674117": {
+      "summary_zh": "白底浅蓝透明丝带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f17b61ef13f2726f3bed": {
+      "summary_zh": "滨水城市天际线",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-b6a10d26b21b02ce724a": {
+      "summary_zh": "蓝底佩戴红色眼镜的人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-48114925c1039f7a0795": {
+      "summary_zh": "黑底银白粒子人像",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-1a938f1b38761ef42f2a": {
+      "summary_zh": "白底绿色苔藓圆丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8d76401e34729fe23a2a": {
+      "summary_zh": "灰底人物与花卉耳机",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-59283bf18cbb5fe2aec5": {
+      "summary_zh": "彩色天空中的长方形传送门",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6fb049e38e9593f9699c": {
+      "summary_zh": "蓝天下爬满植物的古典遗迹",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-00ec9b5941dc4353e244": {
+      "summary_zh": "阳光草地中的人物背影",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-8e9a1ccff9ab3168306f": {
+      "summary_zh": "夜间山湖与营火",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-22d1c6404b5e8d853aeb": {
+      "summary_zh": "黑底蓝橙对称发光图形",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7db00f5124418d1e2794": {
+      "summary_zh": "红云森林中的巨大石柱",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-bf47f5417ff24ba1d8c4": {
+      "summary_zh": "黑底蓝色地球地平线",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-11aec9b0f278828f7cd2": {
+      "summary_zh": "白色天空下的金色草甸",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-15564ed3a5cc4167f823": {
+      "summary_zh": "黑底透明星球与环绕轨道",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2b807e419327d7cd8791": {
+      "summary_zh": "卡通秋日森林与山溪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-184aee4e421d905c549c": {
+      "summary_zh": "米色天空与红色沙丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7f344f8f07cac1ef47fe": {
+      "summary_zh": "蓝天白云与绿色田野",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0c33fef576ef4405bb40": {
+      "summary_zh": "俯视绿色水面与飞鸟",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-4ca054b48795e6857344": {
+      "summary_zh": "黑底白色粒子波浪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6dc1af70969d2ef025e5": {
+      "summary_zh": "黑底蓝白光环阵列",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2e609f7810e67bdb7039": {
+      "summary_zh": "阳光草地中的白衣人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-93cef7194acf0211cc5d": {
+      "summary_zh": "暗色画廊中的人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-ab500eb0223ef98c409c": {
+      "summary_zh": "黑底发光粉色莲花",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cad09116e81c9ed003ef": {
+      "summary_zh": "黑底粉色霓虹眼镜羊驼",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5dfa98ab00bf35a72dea": {
+      "summary_zh": "森林水面上的白色几何灯阵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-3b9e055011ad9bc96018": {
+      "summary_zh": "粉绿色颗粒山丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-817b3c1e9695ccec59cf": {
+      "summary_zh": "红色山坡与远处雪山",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-50f1782668059bc9afde": {
+      "summary_zh": "黑暗空间中的橙色门与人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-06236fd5087c1c733698": {
+      "summary_zh": "蓝色行星弧面与星空",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6c8598310889fa3da827": {
+      "summary_zh": "阳光绿色叶片与水珠",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-fd81a914d909135bba22": {
+      "summary_zh": "柔和复古山谷与花田",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d9082128bf1737c1a6c4": {
+      "summary_zh": "卡通山村与绿色田野",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-e2fcca58832e8d93b95f": {
+      "summary_zh": "夜间山谷与巨大月亮",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-cf8c6a45ad4690b686c5": {
+      "summary_zh": "绿植花卉包围的蓝天",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7699465ddf240d3d320d": {
+      "summary_zh": "蓝紫橙色星云",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0fdec79dfb2bb34e23e7": {
+      "summary_zh": "浅色悬崖缝隙与花草",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-555cc23c9e65dff8b785": {
+      "summary_zh": "黑底悬浮花卉岩石岛",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-68e21ac29e3da0210b56": {
+      "summary_zh": "蓝紫粉垂直玻璃光栅",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-caea343d3c2be6c1c9d1": {
+      "summary_zh": "米色水墨山林",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-22bc125da600a66060f2": {
+      "summary_zh": "灰底彩色条纹抽象物体",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-250e9745401d35c5f834": {
+      "summary_zh": "白底 DNA 双螺旋",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-ddee4ae8ba41d12adea3": {
+      "summary_zh": "白底极简绿色沙丘",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a75103790e2c5bb28297": {
+      "summary_zh": "黑底宇宙纹理人物",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-25aefde75817ec28ecc1": {
+      "summary_zh": "白底下沿彩色花海",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-5627e9874aa303843b2e": {
+      "summary_zh": "黑底发光金属数字圆环",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a25dd7087523ec733f0c": {
+      "summary_zh": "黑底圆形花园与粒子",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-9352b010e989e5b523c5": {
+      "summary_zh": "黑底紫色能量球与轨道",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a40eee96746e20491670": {
+      "summary_zh": "金色山谷日出",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f39978a87a5672d47aa3": {
+      "summary_zh": "绿色天空月牙与太空人",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-0a079cccc1505904847c": {
+      "summary_zh": "梦幻花坡与彩虹光晕",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f1862a9c64d125907d30": {
+      "summary_zh": "黑底颗粒粉色波浪",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-2f9e3432617ed8dc3ac8": {
+      "summary_zh": "紫色薰衣草田与晚霞",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-a531364c987f434dacb3": {
+      "summary_zh": "像素风彩色峡谷溪流",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-64dfbd5995e6b034ce02": {
+      "summary_zh": "黑底红金颗粒球体",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-84a71273ee2daf8c5706": {
+      "summary_zh": "日落花坡上的石拱门",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-83a4ed47bad35cf0a4ca": {
+      "summary_zh": "金色积云与绿色山林",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-04d84402197fababd1d5": {
+      "summary_zh": "紫粉双色绒毛球体",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-f0cc08788b3544aef074": {
+      "summary_zh": "黑底橙紫条纹渐变",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-7fbe7124399ed5ee4ed0": {
+      "summary_zh": "蓝紫奇幻森林与螺旋图腾",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-d05eb2dc90796279f713": {
+      "summary_zh": "黑底红橙光带",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-818c295365b50a509c2e": {
+      "summary_zh": "黑底红色矩形光栅",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-3688c932becaa2d4ce73": {
+      "summary_zh": "阳光绿色丘陵",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-39f3947f100fec0a19f4": {
+      "summary_zh": "碧蓝海岸与粉色花卉",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-1aa9ce4cb58e53ad0e25": {
+      "summary_zh": "灰底蓝色未来头盔",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-6284926e3043c6815dd6": {
+      "summary_zh": "蓝天下的缆车与空中灯串",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-34a0b90a6fd74340fde4": {
+      "summary_zh": "卡通橙色沙漠与悬浮白云",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    },
+    "bg-c0ac4705d3e7a9a7b737": {
+      "summary_zh": "日出云海与绿色悬崖",
+      "basis": "static-preview",
+      "method": "assistant-visual-review",
+      "reviewed_at": "2026-09-05"
+    }
+  }
+}

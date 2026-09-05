@@ -1,0 +1,43 @@
+{
+  "id": "bb9cee0c-c3c6-49d8-b5ad-fefe4190a1f2",
+  "title": "Fastshot",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "bb9cee0c-c3c6-49d8-b5ad-fefe4190a1f2",
+    "page_at_capture": 1,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/fastshot/poster/media-pipeline-v1/58a0b257d5b1f9c44c6ca90d71c3bbba984dbf2687f2df4596600b1a8e684559"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:34.444424+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "049f1c3c318960e162b0f1caf9d6bbe1e0adc6230dc21f5f8ca6c83805b6dc15",
+  "displayed_prompt_chars": 15844,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8e308612d9de86003b72ee735209f385acd379f2840d6adfbfcda27325d7ff35",
+    "original_bytes": 69380,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 23934
+  },
+  "preview_sha256": "f8cd1e1db570cd7c68e7ece20223ad80474735748dde50d014ba02fb4929ebca"
+}

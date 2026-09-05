@@ -1,0 +1,43 @@
+{
+  "id": "7bc4b52a-bb68-4ce7-be12-327e7cd6d7a7",
+  "title": "Investor Deck",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Investor Presentations",
+    "item_id": "7bc4b52a-bb68-4ce7-be12-327e7cd6d7a7",
+    "page_at_capture": 4,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/deck-investor/poster/media-pipeline-v1/115e22b004d8d2530646274f8c5aaa348f0c34bd99bb2ae8f1142c2e963ab8cf"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:38.265696+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "261219a6723735674022f742c730522711c276e75776dcb6e75848c6cc6cfa98",
+  "displayed_prompt_chars": 10864,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "93a437562d188ec1cf07cca60a78449e5f038f4b97d624567a85db75212bd8b7",
+    "original_bytes": 904074,
+    "original_dimensions": [
+      1920,
+      1332
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      666
+    ],
+    "bytes": 20300
+  },
+  "preview_sha256": "18ba7406779b6192aa928f14c2472a128647eb7fcf5f304fb6144feaa0016603"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "a8257415-cb61-444b-b4b3-2f12299d2ada",
+  "title": "Aurex Finance",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fintech",
+    "item_id": "a8257415-cb61-444b-b4b3-2f12299d2ada",
+    "page_at_capture": 2,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/aurex-finance/poster/media-pipeline-v1/8fcb6b9c4e0a89c642eb784012f8bdeadcbb5e75b89c8a590dd5284ccf960e44"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:01.409321+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ac48bc079e00b5d910692ff56e757d7b72a0de4e51ab0652abe0363674e4404f",
+  "displayed_prompt_chars": 29337,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "11e88c8366a9abad8bfbe18a2820f6f97c46a05b650cf5831a2c5b6cec957e15",
+    "original_bytes": 53414,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 31086
+  },
+  "preview_sha256": "0e6c5bf1e9c8602c381088725d4a99af27e6b78b6acb33dffca958cb61d37746"
+}

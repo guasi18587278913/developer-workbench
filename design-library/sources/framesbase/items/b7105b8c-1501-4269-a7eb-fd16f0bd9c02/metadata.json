@@ -1,0 +1,43 @@
+{
+  "id": "b7105b8c-1501-4269-a7eb-fd16f0bd9c02",
+  "title": "USD Halo",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b7105b8c-1501-4269-a7eb-fd16f0bd9c02",
+    "page_at_capture": 7,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/halo-usd-landing/preview/media-pipeline-v1/7e2c6c97a2309fa0b7c85e0638b78b094411399f9583362d3646fc418895ccf4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:33.756760+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "304fc87864be5186bb31beec502153a80b7f18c4f915b3479c0a430d5c3fd6aa",
+  "displayed_prompt_chars": 8531,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7083107f2096c997006e2a65606f713b81db41f17e49c4adebc004ab1aa32bba",
+    "original_bytes": 3624439,
+    "original_dimensions": [
+      458,
+      800
+    ],
+    "original_frames": 87,
+    "dimensions": [
+      458,
+      800
+    ],
+    "bytes": 37780
+  },
+  "preview_sha256": "3321db0875b6bcb7cd0d9bd2eba27bce716b9ebd243d976e3514aed46a6b495e"
+}

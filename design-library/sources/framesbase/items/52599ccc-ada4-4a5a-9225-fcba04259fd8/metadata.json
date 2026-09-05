@@ -1,0 +1,43 @@
+{
+  "id": "52599ccc-ada4-4a5a-9225-fcba04259fd8",
+  "title": "Gridcore",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "52599ccc-ada4-4a5a-9225-fcba04259fd8",
+    "page_at_capture": 1,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sections/gridcore/poster/media-pipeline-v1/8b548916f34c4d279b9f39a8e3d564984c8b44ce63e0119d6cba832d16d95457"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:11.737362+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2a92515ba70766f05a86318174c5e0acadda80528380432ec2f0d15a21aec898",
+  "displayed_prompt_chars": 14356,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "810af6c29031ddcde723d9f110100572b24430938e6e583d49420af0a08b7cfb",
+    "original_bytes": 73736,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 42312
+  },
+  "preview_sha256": "069bebaaa23026fba85b5c3713748e4490200f465c4d868704c4226e82e5d1bc"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "360e0f1d-af3a-4b32-843c-71690e95202f",
+  "title": "Scenic Travel",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "360e0f1d-af3a-4b32-843c-71690e95202f",
+    "page_at_capture": 9,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/travel-hero/preview/media-pipeline-v1/197790cdfdede582cefbed54a044454afdc91127341eb925b9c8e3d0c2ad1164"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:08.897121+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5c085d849db7a8cb16cedcd63c6bf3654938c2cb2d3f0dfdfa97e877d6083d84",
+  "displayed_prompt_chars": 21419,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "45d67f914dc3b39c53bed66356591ed2416425c08a9303672424e99f50ded3c5",
+    "original_bytes": 1560210,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 22708
+  },
+  "preview_sha256": "7ce0b9a695e757bf6fc0d53ed10111b23b850079271d57bc95a91d41cc402627"
+}

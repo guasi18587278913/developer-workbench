@@ -1,0 +1,63 @@
+{
+  "verified_at": "2026-09-05T05:58:47.135964+00:00",
+  "sections": {
+    "backgrounds": {
+      "expected_cards": 221,
+      "unique_deliveries": 218,
+      "duplicate_cards": 3,
+      "groups": [
+        {
+          "id": "bg-1aa9ce4cb58e53ad0e25",
+          "occurrences": [
+            {
+              "page": 6,
+              "position": 16,
+              "delivery_sha256": "1aa9ce4cb58e53ad0e25286fb65b4223eb68c95c13aada557e09018909b2588c",
+              "preview_media_key": "media/motionsites/backgrounds/d9de8aab-2777-4b00-bee3-916fcabc0e80/poster/first-frame-v1/cfb93f53c050f40d783b6516f125ce8d89e78ae4c469d11cbac00a317963f870"
+            },
+            {
+              "page": 10,
+              "position": 2,
+              "delivery_sha256": "1aa9ce4cb58e53ad0e25286fb65b4223eb68c95c13aada557e09018909b2588c",
+              "preview_media_key": "media/motionsites/backgrounds/7efbfe12-e394-4923-a14d-82a9d6d79049/poster/first-frame-v1/cfb93f53c050f40d783b6516f125ce8d89e78ae4c469d11cbac00a317963f870"
+            }
+          ]
+        },
+        {
+          "id": "bg-6648cd2c79cbb32ae737",
+          "occurrences": [
+            {
+              "page": 3,
+              "position": 4,
+              "delivery_sha256": "6648cd2c79cbb32ae7375a5999ddf8e92edba1db4fb649730eb6789c06654a6f",
+              "preview_media_key": "media/motionsites/backgrounds/37df6e99-2e2e-47d2-974b-cf1af493f11a/poster/first-frame-v1/3387b370f285b4e2494473c52610f4589937770d200601b60a0d80a766f4dd32"
+            },
+            {
+              "page": 3,
+              "position": 16,
+              "delivery_sha256": "6648cd2c79cbb32ae7375a5999ddf8e92edba1db4fb649730eb6789c06654a6f",
+              "preview_media_key": "media/motionsites/backgrounds/151255e6-c22d-4f8c-85cd-3d7a0bc60942/poster/first-frame-v1/3387b370f285b4e2494473c52610f4589937770d200601b60a0d80a766f4dd32"
+            }
+          ]
+        },
+        {
+          "id": "bg-a9100311a209441ed852",
+          "occurrences": [
+            {
+              "page": 2,
+              "position": 7,
+              "delivery_sha256": "a9100311a209441ed852a97d8a5c12f0960cc344b78817127bb671460a9d5d70",
+              "preview_media_key": "media/motionsites/backgrounds/e4f0e89d-bea7-4786-a64a-425219aa9119/poster/first-frame-v1/dcf63896c8072b327a53440e03c703395939e7de277115b6dc48235803fd7834"
+            },
+            {
+              "page": 3,
+              "position": 15,
+              "delivery_sha256": "a9100311a209441ed852a97d8a5c12f0960cc344b78817127bb671460a9d5d70",
+              "preview_media_key": "media/motionsites/backgrounds/8b1e2cc3-d6c5-43f9-80f8-c052fb73ad0e/poster/first-frame-v1/dcf63896c8072b327a53440e03c703395939e7de277115b6dc48235803fd7834"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

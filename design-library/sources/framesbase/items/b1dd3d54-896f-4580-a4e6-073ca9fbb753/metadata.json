@@ -1,0 +1,43 @@
+{
+  "id": "b1dd3d54-896f-4580-a4e6-073ca9fbb753",
+  "title": "Bloom",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b1dd3d54-896f-4580-a4e6-073ca9fbb753",
+    "page_at_capture": 2,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/bl/preview/media-pipeline-v1/016133afcacbe18ab952692afdacddf9f89783a50d2192639abca1c6b464037c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:08.188668+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "49923643b60f675fd693bc21030e95d7a43e58c8c0027a64465519c1eab20d11",
+  "displayed_prompt_chars": 41384,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8314caa5e51babc975219c4ed93734f6dca7ff1c4868ee69f7560c7bf4f367df",
+    "original_bytes": 2693402,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 23090
+  },
+  "preview_sha256": "50ec35cda6218078a5985c771e70957771b97766e5ff1016fad64c9d19e9e3d9"
+}

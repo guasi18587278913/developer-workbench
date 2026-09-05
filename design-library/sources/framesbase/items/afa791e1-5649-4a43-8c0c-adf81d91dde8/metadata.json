@@ -1,0 +1,43 @@
+{
+  "id": "afa791e1-5649-4a43-8c0c-adf81d91dde8",
+  "title": "Angel Shield",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Security",
+    "item_id": "afa791e1-5649-4a43-8c0c-adf81d91dde8",
+    "page_at_capture": 2,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/angel-shield/poster/media-pipeline-v1/52084aae1f69635617d0dbe1d3f46c3a2163e5c16f916822c07bf19426659ea3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:51.830169+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1cf83782b04d2ca5cb204789f666c31816c42becc0d40e36884c62a5d2d1e434",
+  "displayed_prompt_chars": 11599,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9e2efb0fe0dde9d7a2987e8da8bb3bfd5e0b958ff2ef03bb01571cad320f7ed1",
+    "original_bytes": 121812,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 64232
+  },
+  "preview_sha256": "57ac43fb875d74a2d50b7a2ebbfc68fefe9f3a598e5727943afb6778ce9abe09"
+}

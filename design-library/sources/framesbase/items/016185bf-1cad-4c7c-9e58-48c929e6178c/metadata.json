@@ -1,0 +1,43 @@
+{
+  "id": "016185bf-1cad-4c7c-9e58-48c929e6178c",
+  "title": "Keep Ahead Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features Section",
+    "item_id": "016185bf-1cad-4c7c-9e58-48c929e6178c",
+    "page_at_capture": 1,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sections/keep-ahead-features/poster/media-pipeline-v1/01f9532f84c9615d695aa9ccb502d361205d9127d0007ad0feb5594c26800527"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:34.998298+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8545359be1aed6d5b8e8e35639772420da693696c07ca57a603b93d012833a51",
+  "displayed_prompt_chars": 9132,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7b00b37bc14757d3948155d62488d0397f5e8a84aa358bc83e0d437ad41e5f3b",
+    "original_bytes": 721933,
+    "original_dimensions": [
+      1932,
+      1436
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      714
+    ],
+    "bytes": 28936
+  },
+  "preview_sha256": "e74cff44f8378c8e1d15efb9ad8fa574e1b9dec598ff2ae96a5706ad91ae4c61"
+}

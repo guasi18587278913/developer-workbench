@@ -1,0 +1,43 @@
+{
+  "id": "43dfd104-a10a-4abd-a552-0fd927de2e92",
+  "title": "Editorial Eyewear",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fashion",
+    "item_id": "43dfd104-a10a-4abd-a552-0fd927de2e92",
+    "page_at_capture": 15,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/editorial-eyewear/poster/media-pipeline-v1/c2abb4d65f9dbbb48b8791910a64ba1c3ddca21d8678e45487eb7a18da26efb9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:59.748942+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2808c783bd7283e945f55aeae6b07659759891f62c9fce472673550859288983",
+  "displayed_prompt_chars": 9864,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9a7c8b525d1b0f26aa1f67dcfc263223b545932fa6ae7924599e8ecd5a5773c2",
+    "original_bytes": 54804,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 31286
+  },
+  "preview_sha256": "1011a03ee6a08fd40a1163d0f12d48c71f8f81d2a44341273e00fbc15ce57150"
+}

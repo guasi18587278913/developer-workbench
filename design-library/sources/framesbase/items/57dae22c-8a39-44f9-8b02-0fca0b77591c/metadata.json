@@ -1,0 +1,43 @@
+{
+  "id": "57dae22c-8a39-44f9-8b02-0fca0b77591c",
+  "title": "Cyber Ronin",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "57dae22c-8a39-44f9-8b02-0fca0b77591c",
+    "page_at_capture": 1,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/cyber-ronin/poster/media-pipeline-v1/bf766a870deeceb65be8de303cdaa7a9b73f0d823a610db508f691dce4b3f34f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:22.496282+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3386fbb4b197ed04898371fa2dfec18cde5d7d4c3ec965c46a185bde92c444a9",
+  "displayed_prompt_chars": 10993,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f4bb63109703ddc3295a90b508a5f7cdc14e8a6effcaf2137c69529f70761c34",
+    "original_bytes": 217836,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 60334
+  },
+  "preview_sha256": "e3b103b5172eabebfc116605ae37845c772260b04f120faa9b6f6b0a04d2dbaa"
+}

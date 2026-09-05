@@ -1,0 +1,43 @@
+{
+  "id": "20709516-f309-426f-af32-8e42c8e819ac",
+  "title": "EcoVolta",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "20709516-f309-426f-af32-8e42c8e819ac",
+    "page_at_capture": 5,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/ecovolta-hero/poster/media-pipeline-v1/dc9b3a9ffdc90cc177b783d6be3600232520cce04cf33c3792a57964b8a2e45a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:36.301795+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3f7cab55243d3adeb9b6bac0da255e70eb53b0d255912691f82e1e73191e23c9",
+  "displayed_prompt_chars": 7207,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a0b2ad10b6b54cbb693c065a9915926f0049249f5ff99a014807daf78dc9f9c3",
+    "original_bytes": 1271496,
+    "original_dimensions": [
+      1920,
+      1478
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      739
+    ],
+    "bytes": 67660
+  },
+  "preview_sha256": "28cab622134a3f9945f12d736c5345f62b0972cd172cb576f7ea8f1d6ffb0a9a"
+}

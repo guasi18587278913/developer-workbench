@@ -1,0 +1,43 @@
+{
+  "id": "ff5e517f-2199-4a6c-b1cc-c1fa3d9d1e12",
+  "title": "Solace sign-in",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Sign In Form",
+    "item_id": "ff5e517f-2199-4a6c-b1cc-c1fa3d9d1e12",
+    "page_at_capture": 4,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sections/solace-sign-in/preview/media-pipeline-v1/18cbd9a69f7011a86db14b7c433af9c298cc9983325d518467f5b9254e96b8d8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:07.267779+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "54f4ad0026fbffe65088d6de489761e301fcaae639c9ca957940c48a83d9c73b",
+  "displayed_prompt_chars": 15138,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "33e364dbe53d481740ffb7831d1b2ad3387b9ee1f5c5d5c783a3978d68d48f0b",
+    "original_bytes": 3466316,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 49670
+  },
+  "preview_sha256": "cc548fff73191a20b60f6319202032250755a07fc01eee57415d2b728c3afa62"
+}

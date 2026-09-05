@@ -1,0 +1,43 @@
+{
+  "id": "9b67fdf3-96e8-4a42-9824-519b0a1f2f22",
+  "title": "Luxury Real Estate",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "9b67fdf3-96e8-4a42-9824-519b0a1f2f22",
+    "page_at_capture": 8,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/luxury-real-estate/preview/media-pipeline-v1/93a06804f206f8e77fbe2d80b2e11dc8e55a915ebd9878d87a7f73be8d533dc0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:36.615730+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f4af94433ecf146b296e1a39e0e8138297ea844891ab75bbb3a209ae395277ae",
+  "displayed_prompt_chars": 13462,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "306f4daead605777804c20d29181dfd74813a78314f47fbc8a8d7b80ce97e668",
+    "original_bytes": 1082186,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 10120
+  },
+  "preview_sha256": "b258154023982c44ca3234abcda4e7b4c9de39ab67bb9fcda71d416eb102904a"
+}

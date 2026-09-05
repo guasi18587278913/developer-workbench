@@ -1,0 +1,43 @@
+{
+  "id": "ee7d148b-d17d-40a7-bcdc-e41e57bd241d",
+  "title": "Modern Dental Clinic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Healthcare",
+    "item_id": "ee7d148b-d17d-40a7-bcdc-e41e57bd241d",
+    "page_at_capture": 12,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/modern-dental-clinic/poster/first-frame-v1/3313240bb8bcd02628b758dadd2043dfd1d19f8212d3f4a2d6715963446f04c7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:12.835347+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "97bc8f73368a0cbfc1bde47398aa1b80674adccbf6321361720365b3998e6a69",
+  "displayed_prompt_chars": 5400,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3313240bb8bcd02628b758dadd2043dfd1d19f8212d3f4a2d6715963446f04c7",
+    "original_bytes": 79296,
+    "original_dimensions": [
+      1280,
+      940
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 55022
+  },
+  "preview_sha256": "bac64294f0262b5aa0e7b5331f7a612b4001470c08c73b2f29aecf858f389e1f"
+}

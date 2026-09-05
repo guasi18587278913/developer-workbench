@@ -1,0 +1,43 @@
+{
+  "id": "ef420235-f4cb-446e-b9b6-726cc0c1b4f8",
+  "title": "AI Meeting Notes",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "ef420235-f4cb-446e-b9b6-726cc0c1b4f8",
+    "page_at_capture": 11,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/ai-meeting-notes/poster/media-pipeline-v1/6e770f017454d5070015d7e13b949c2e5c593955568cb701d49ad9fb89236bfc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:59.444417+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b46c71aa5c29d3fdfc6e03f944d53887a6f826b9f93f48c22e298445e001520e",
+  "displayed_prompt_chars": 17912,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4d7fbd3d7ccf3ae16803583132c5071a7343583e53fcd995d4c9a42fa1589087",
+    "original_bytes": 75536,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 44516
+  },
+  "preview_sha256": "f5798b5c16eecf6d27f61474b47cf5377651a2d68b8e91640e16f9adcf18cf58"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "85ccd9f8-6a9a-4013-b054-e67c68d58e2b",
+  "title": "Digital Experiences",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "85ccd9f8-6a9a-4013-b054-e67c68d58e2b",
+    "page_at_capture": 9,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/digital-experiences/preview/media-pipeline-v1/b875add75e070b5b76d0697f97b2148939e6540fb01aa3f5841ba53a4b6d6dc7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:32.052341+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "64e6b632545157840c1db3818255774f616dc1f61fe86c31ef91446684ac759f",
+  "displayed_prompt_chars": 8994,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5ad3affc335a9810fecc65786a62170ada7547ede72ec6430b48bb0f285af660",
+    "original_bytes": 1860854,
+    "original_dimensions": [
+      640,
+      458
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      458
+    ],
+    "bytes": 43918
+  },
+  "preview_sha256": "bb6f8f898a8fad6e0d45333a62cd3fad962cd3017ae758600d6cf14ecf6169f7"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "01f8d904-c8f5-4e08-b1ac-c4450bcc6b51",
+  "title": "Health Portal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "01f8d904-c8f5-4e08-b1ac-c4450bcc6b51",
+    "page_at_capture": 10,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/health-portal/preview/media-pipeline-v1/98e5c84c03e2de88f6c8d72e9d34bea21d928fcaf3c28b7a26f29034d62f4234"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:20.005295+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "16286a9938d5b87fe11d9ef402285994ad1b4414a406dd0e7c04e3383254b849",
+  "displayed_prompt_chars": 16908,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "46a931587611019df441c2773e0b8fe11aceea14fa18ada95c4531eb76b0ca5b",
+    "original_bytes": 1761604,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 19822
+  },
+  "preview_sha256": "cc0b14fdd430f879bfe3f7bd7847332fe975d282c746eef8b50762d2aa73d94c"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "61b88072-c64a-4045-a305-362c935a408f",
+  "title": "SAAS Software",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "61b88072-c64a-4045-a305-362c935a408f",
+    "page_at_capture": 7,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/convix-software-hero/preview/media-pipeline-v1/ef41af2da73c6f0cbf2aea1bda43513fb509041d7130f6afffeb943ba4d02a73"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:18.070006+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dc2d0b83448511268b39ce955990f46888b439028d37d3c80dd993aa4ee1cac8",
+  "displayed_prompt_chars": 5587,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "20a85f4bdf19a687320c6ec2e8ae06cc1cdc8234f2a74c53911ef621d7e71ec1",
+    "original_bytes": 3114760,
+    "original_dimensions": [
+      800,
+      578
+    ],
+    "original_frames": 55,
+    "dimensions": [
+      800,
+      578
+    ],
+    "bytes": 48538
+  },
+  "preview_sha256": "d7bb77b25c7a9d64f1ea5a3aa9a6c30de76957b4b3555ef1410520179de95c8e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "abb80161-e462-4a7a-abe4-f37e93706757",
+  "title": "Mythic VPN",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "VPN",
+    "item_id": "abb80161-e462-4a7a-abe4-f37e93706757",
+    "page_at_capture": 14,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/mythic-vpn/poster/media-pipeline-v1/f8db43f6b3fa811b284212f722031139ba5b70212b2a907be48ce31e4f01d5af"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:28.753823+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d3aba3bcc158769e726d9821887349304b82d96d750c9debdde87ce92fd19cf3",
+  "displayed_prompt_chars": 12217,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f094906dded834d630a2845f1d8eda9724f2a89dae36f06a854fe046d27cecff",
+    "original_bytes": 130116,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 76092
+  },
+  "preview_sha256": "70556e08ad27ba2dc94297c2b7e1482733580c59c415c18610cf5af03ac232c1"
+}

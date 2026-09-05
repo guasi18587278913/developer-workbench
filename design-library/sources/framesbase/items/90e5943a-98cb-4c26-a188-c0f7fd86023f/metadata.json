@@ -1,0 +1,43 @@
+{
+  "id": "90e5943a-98cb-4c26-a188-c0f7fd86023f",
+  "title": "Cyber Layer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Cybersecurity",
+    "item_id": "90e5943a-98cb-4c26-a188-c0f7fd86023f",
+    "page_at_capture": 13,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/cyber-layer/poster/media-pipeline-v1/33eae7c8459460269ce2f5939d68a585bed81cf562d708186b9213a8314830e6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:03.855449+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a052fd0ac15d1783e065bd0f97e4e97d85bb8ee878525ab7ee41a71bed78f8b5",
+  "displayed_prompt_chars": 14235,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6f38b93015c81b4579b19c490f0759e2050fa66a2d7fab99e72d7e2f22957ba8",
+    "original_bytes": 79536,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 43750
+  },
+  "preview_sha256": "e5d0504cc4a608ff9c754ec891d819746bb5f0c763387e452b5bb72183c8a1ea"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5b00cc63-8fbb-43a3-9e18-fae8368443fb",
+  "title": "Power AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "5b00cc63-8fbb-43a3-9e18-fae8368443fb",
+    "page_at_capture": 5,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/power-ai-hero/poster/media-pipeline-v1/14d7b9196db4922202266908f01d1ff4759c3d0738e74005059ee64bd1dc7984"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:50.887292+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7da85cb611a91bdb080434dce20716b4efe5bd97224849594446e19d697ff009",
+  "displayed_prompt_chars": 3838,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bd5dff7c39bd5baca1db935de9921605b039503ef511f6061a9f9510bf6e5062",
+    "original_bytes": 1027027,
+    "original_dimensions": [
+      1920,
+      1449
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      725
+    ],
+    "bytes": 33336
+  },
+  "preview_sha256": "0e493ec94efee9d2a3a189fadc94702a329c7ad17743988967ded7162411cfc3"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e760094c-978e-4f3e-9e3a-11f6d0e83f5a",
+  "title": "Modern Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "e760094c-978e-4f3e-9e3a-11f6d0e83f5a",
+    "page_at_capture": 8,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/modern-agency/preview/media-pipeline-v1/13295b77a48b9f2763938aaf9047c60dcc5c3ef235e4abfbd09ede3598108b41"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:42.923073+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "311cb3608bae2caa7b62823ed61d031165af19f9386316849f521ef74f61ed22",
+  "displayed_prompt_chars": 10347,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4782ee3ed98567ed4fd1abc2c3aa32ae6da671dc570ae171773e9b7f0ed860a9",
+    "original_bytes": 1279768,
+    "original_dimensions": [
+      364,
+      640
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      364,
+      640
+    ],
+    "bytes": 24038
+  },
+  "preview_sha256": "58f03f030b236f12aed23c8ce51379c6a0a26b764836fa9f6b0c1bf95357baa3"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fbb5c4fb-fead-4d73-b4a9-fa1513e9a0e2",
+  "title": "Beauty Products",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Products",
+    "item_id": "fbb5c4fb-fead-4d73-b4a9-fa1513e9a0e2",
+    "page_at_capture": 2,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sections/beauty-products/preview/media-pipeline-v1/bfa884c2e8b24ba0a5b51a1c35b66f66188b6ac2db1929848840d0ca230a04e1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:14.951569+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6d447ebf240fc6b4495b82089ca59d1d5b3a1dd557e496f4f527400b3237042b",
+  "displayed_prompt_chars": 6033,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0be8ba70d8727688d7930d173d97a4400c3bbb81612f85abea2a882e85bc5655",
+    "original_bytes": 175434,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 65,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 6960
+  },
+  "preview_sha256": "591a26a5d6f5b15fa36de1f30c44dbbea127a3fc9c4d65ef08ee16de4183bbd8"
+}

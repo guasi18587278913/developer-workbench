@@ -1,0 +1,43 @@
+{
+  "id": "f698964b-75ec-44b8-9a2c-e0ecab7d1cb3",
+  "title": "Worldwide Hubs",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Business",
+    "item_id": "f698964b-75ec-44b8-9a2c-e0ecab7d1cb3",
+    "page_at_capture": 13,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/worldwide-hubs/poster/media-pipeline-v1/83422d1ae0dbb9e02488d640b811811f4cd95227403aaac822392956c775b039"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:02.809565+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3c06da95f310d57733d32ee262ae205f738111259d24280199b5a2d50e695b22",
+  "displayed_prompt_chars": 10929,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f040506abdaa396b092669f31abd035ccb21aa11dfc33cb218af6810105701c3",
+    "original_bytes": 246540,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 123848
+  },
+  "preview_sha256": "446e61f3f523c4a9285f6656edeb6e004628a9d0d534309c80542972940f477b"
+}

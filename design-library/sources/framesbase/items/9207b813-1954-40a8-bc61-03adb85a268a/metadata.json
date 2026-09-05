@@ -1,0 +1,43 @@
+{
+  "id": "9207b813-1954-40a8-bc61-03adb85a268a",
+  "title": "Cybersecurity",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "9207b813-1954-40a8-bc61-03adb85a268a",
+    "page_at_capture": 14,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/cybersecurity/poster/media-pipeline-v1/736d2c1dbb1d7c38cbffa2e2e1eb67b46189057ab8b26136fdcec9907ef14c03"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:56.806255+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a5645388c5455e94aa4c02bde4341abdaec9a65ad464a5552583746689bcb03e",
+  "displayed_prompt_chars": 9224,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2c781b2c49972289a818b9a0ebd15e45d8a027bdca051f2783c57d17f99922f4",
+    "original_bytes": 82706,
+    "original_dimensions": [
+      1920,
+      1447
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      724
+    ],
+    "bytes": 32880
+  },
+  "preview_sha256": "d48e1730a97b878fef1000e5f865f1fdb6c44bfdf7a9a525f64bc7619cd8e0de"
+}

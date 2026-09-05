@@ -1,0 +1,43 @@
+{
+  "id": "9e0b6ca4-6ef2-4123-8d05-c7cd18bca67a",
+  "title": "Data Signal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Analytics",
+    "item_id": "9e0b6ca4-6ef2-4123-8d05-c7cd18bca67a",
+    "page_at_capture": 13,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/data-signal/poster/media-pipeline-v1/5d2c66192fb9722c5eee9f7149607ba171cb1ba21ac81995069694ee845a6e17"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:04.867607+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0d7ee64ac59a288d0a81728ba82e73f220275dc33e4d8227265eb7f7b4217be0",
+  "displayed_prompt_chars": 12007,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bdf823ee1cd092d8c750d30b7a5d3f36990fad4600da4d279f743934cf9d92ba",
+    "original_bytes": 102762,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 56124
+  },
+  "preview_sha256": "3fe68fb441d19d0897c28fafa101197f4380e09937c52f954331e632b2fc423d"
+}

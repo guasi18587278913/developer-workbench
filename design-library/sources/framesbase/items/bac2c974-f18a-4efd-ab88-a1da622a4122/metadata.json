@@ -1,0 +1,43 @@
+{
+  "id": "bac2c974-f18a-4efd-ab88-a1da622a4122",
+  "title": "Duolingo Styleguide",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "bac2c974-f18a-4efd-ab88-a1da622a4122",
+    "page_at_capture": 6,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/duolingo-styleguide-hero/poster/media-pipeline-v1/9e314f5085037aa5edbb9028c1fbb2d2fdb8f7d744512ac6cd8307f5653bd3f5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:57.038014+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "899c74629c7ea16cca2c2d3e418b5c360b4138d9a810fe21f1281d10fa4c3f9e",
+  "displayed_prompt_chars": 10777,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a968ed172d5a33e239e5e1e321c40b6a5c683a1cb390603246a0af71155690d6",
+    "original_bytes": 57929,
+    "original_dimensions": [
+      1092,
+      819
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 32842
+  },
+  "preview_sha256": "77692d9b054387ab4cd45c415909cd70263684c0b1e5cc22b426420d6ae297a7"
+}

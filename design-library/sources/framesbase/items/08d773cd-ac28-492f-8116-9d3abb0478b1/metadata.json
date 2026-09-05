@@ -1,0 +1,43 @@
+{
+  "id": "08d773cd-ac28-492f-8116-9d3abb0478b1",
+  "title": "Prisma Creative Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "08d773cd-ac28-492f-8116-9d3abb0478b1",
+    "page_at_capture": 5,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/prisma-landing/poster/media-pipeline-v1/e32f0b6cba98778623350efdf8328af194846404d6684a27caf859edcf35d79e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:01.375802+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4fc7f6c5021dfbf0662047d5ca32bd83291f7d06645f539c0ec99766c56c5128",
+  "displayed_prompt_chars": 8432,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ba4c62201b6736cd70863769d253bc57ecd573042d9b87b13d97fcd1ee47b79b",
+    "original_bytes": 174986,
+    "original_dimensions": [
+      1280,
+      2288
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      537,
+      960
+    ],
+    "bytes": 47868
+  },
+  "preview_sha256": "8649bb6dcfe14e06747c279f58fc4385ce19bbb93860cc329ba3bb2e6511b59e"
+}

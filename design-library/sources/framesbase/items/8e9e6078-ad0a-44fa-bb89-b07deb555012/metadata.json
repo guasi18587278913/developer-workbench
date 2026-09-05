@@ -1,0 +1,43 @@
+{
+  "id": "8e9e6078-ad0a-44fa-bb89-b07deb555012",
+  "title": "Cinematic Brand",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "8e9e6078-ad0a-44fa-bb89-b07deb555012",
+    "page_at_capture": 8,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/cinematic-brand/preview/media-pipeline-v1/9ea3f0964506c85530933355056fc7e13ce1bb08062728e5447f90623bcfaf15"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:18.884632+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dfd64a4c80b9058db24a3e8970d40dc9f0e493f67ef6ae142511f3716b4816ac",
+  "displayed_prompt_chars": 6044,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "48fc15304d7e61f7cd4ab2951e20a7fd72fc1360f5a3e856e785a4d558082934",
+    "original_bytes": 2455484,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 33458
+  },
+  "preview_sha256": "dacb16dd202eebf63dbf4b60c5762ee8a2665b2ee35903f1b2b3896e1be0fd7e"
+}

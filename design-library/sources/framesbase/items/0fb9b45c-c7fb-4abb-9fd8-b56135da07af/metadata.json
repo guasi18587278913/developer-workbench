@@ -1,0 +1,43 @@
+{
+  "id": "0fb9b45c-c7fb-4abb-9fd8-b56135da07af",
+  "title": "Sea Serenade",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Lifestyle",
+    "item_id": "0fb9b45c-c7fb-4abb-9fd8-b56135da07af",
+    "page_at_capture": 12,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/sea-serenade/poster/media-pipeline-v1/45f9e3de825d385be63388c6530bcf4bc5faa82e066f9f5580ab19447db71863"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:43.595532+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "69320e1607ddc73f3d3797be9ca505836628d7a3940f2bbec11584c191cbf6c1",
+  "displayed_prompt_chars": 29066,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "23b7c0145208a93aff5ae6e297525dc06663ac7508e03f33825fa8c9e8df375f",
+    "original_bytes": 138824,
+    "original_dimensions": [
+      1280,
+      724
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      543
+    ],
+    "bytes": 76488
+  },
+  "preview_sha256": "2d8bec1b9aa96ddf703b750e833f4a367d90ea54ee31d273b5ccca1be918a298"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "d5755bbb-9872-4f27-a833-83aa4005a66f",
+  "title": "Railroad.ai",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "d5755bbb-9872-4f27-a833-83aa4005a66f",
+    "page_at_capture": 3,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/railroad-ai-hero/poster/media-pipeline-v1/610c5f89b326766ae2636667406b23fad7d28c0380a40c16e505d82c98b4e3b4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:30.692425+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "32d5ee406ca1a0fb3ff407328e540afea2af544f9895c3e7a9ab9f1f69279f9d",
+  "displayed_prompt_chars": 3913,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "399de1160b5973e97b5eab9c3ae7e235959f0a721bb4f9ce6fdfab895ab24a3a",
+    "original_bytes": 1307356,
+    "original_dimensions": [
+      1920,
+      1211
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      606
+    ],
+    "bytes": 45722
+  },
+  "preview_sha256": "fc87684754465fe94d0a7f2bd8d768cc25411f3547963d8eeec419abf9f41ede"
+}

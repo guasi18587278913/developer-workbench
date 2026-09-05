@@ -1,0 +1,43 @@
+{
+  "id": "2dd33d25-fbda-4705-8061-b14462c47f8b",
+  "title": "Evergreen Finance",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fintech",
+    "item_id": "2dd33d25-fbda-4705-8061-b14462c47f8b",
+    "page_at_capture": 8,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/evergreen-finance/preview/media-pipeline-v1/b8af6afb9bccbd02dbf41eac69d47474eb44e206a319790630daebb38a33f5b3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:38.747977+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5cbbf09ecbbeda532f9c8e4aca399d5f6525b0b0baaeb866fe82b37c5e3f480e",
+  "displayed_prompt_chars": 10870,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cdfd4209ed56391a44b0a0065fc86dac49cd5a653a094372f730f1ed59a97bbb",
+    "original_bytes": 1079954,
+    "original_dimensions": [
+      364,
+      640
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      364,
+      640
+    ],
+    "bytes": 29082
+  },
+  "preview_sha256": "0ee70e8fe40d5bf4ba36bf22803af2d5a06975b995d2de6100eb9bc3da3a6d8b"
+}

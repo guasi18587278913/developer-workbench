@@ -1,0 +1,43 @@
+{
+  "id": "018266d8-89e5-44c6-8051-3d7bf08eda26",
+  "title": "Minimal Workflow SaaS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "018266d8-89e5-44c6-8051-3d7bf08eda26",
+    "page_at_capture": 8,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/minimal-workflow-saas/preview/media-pipeline-v1/5e99806fd865d1b71341abe206ae8d76aab1fffef5304deaaf0e44b335166fb2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:34.360821+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b11e42db36513f61ada04ed186dd21920fd6eeab75d13e078538765ca7339773",
+  "displayed_prompt_chars": 10896,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f30313f2a140267e87cb42e548c4feba1eca5df6e726e6299d69e66f00f7edae",
+    "original_bytes": 636790,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 13348
+  },
+  "preview_sha256": "6d3e8f7f7a37748729f5b1529c48d691b7419cc7bd2819303e4c59e5a79bd7c1"
+}

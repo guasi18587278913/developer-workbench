@@ -1,0 +1,43 @@
+{
+  "id": "674db326-417d-410b-a784-1b2e9e2c7d48",
+  "title": "TerraVision",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Nature",
+    "item_id": "674db326-417d-410b-a784-1b2e9e2c7d48",
+    "page_at_capture": 2,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/terravision/poster/media-pipeline-v1/f0a7a68a820f4b5800e742a72e2b33867234d09096eea4421446d88df7cc73ea"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:04.400770+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9a1fbfb0d50a2542cf79069408cb47ccf8cc1eafb52d32c65c91017cdbcb48ec",
+  "displayed_prompt_chars": 21184,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c52fc9cafbd667e24e183c44f5ed694777bab14ff8861d1ddc8d28aa31324f66",
+    "original_bytes": 101826,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 61974
+  },
+  "preview_sha256": "ad3b6eaf89304b0bee37b7cceb03f69eb4cee3e7081c8b13f24fc7db3f44a7a6"
+}

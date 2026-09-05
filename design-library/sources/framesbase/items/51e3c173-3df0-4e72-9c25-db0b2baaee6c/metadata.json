@@ -1,0 +1,43 @@
+{
+  "id": "51e3c173-3df0-4e72-9c25-db0b2baaee6c",
+  "title": "Creative Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "51e3c173-3df0-4e72-9c25-db0b2baaee6c",
+    "page_at_capture": 12,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/creative-portfolio/preview/media-pipeline-v1/cc5b56eb725de7d9368134cfcc91d507db0ab7f2792c377e8e291bee8ccbae1d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:21.524193+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2801889242104a8f6a6250b6a91bfdefd73ef2007992f18fc0eaa61c61d23b45",
+  "displayed_prompt_chars": 5639,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ac80de33ec29da4bf0cde791cb8388a64e8ae8c4e5adc9da82e71ec614d7ef68",
+    "original_bytes": 3960106,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 54990
+  },
+  "preview_sha256": "7705407dfdeeed00efd247ec17cea10d2bc4a23c45d57fda952e05844669b027"
+}

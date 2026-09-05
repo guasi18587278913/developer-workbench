@@ -1,0 +1,43 @@
+{
+  "id": "e3914165-8dc8-4a66-81e1-4394c6dbd3a4",
+  "title": "Digital Epoch",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "e3914165-8dc8-4a66-81e1-4394c6dbd3a4",
+    "page_at_capture": 7,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/digital-epoch-hero/poster/media-pipeline-v1/c334d4d0d6ba4449997bf0e1d994255d11d2f0837b42f7114dca1f96edfc9166"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:26.706703+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "98a578e9d85ce3e6d4a80b5fc09a94e31a8796088975de98245db90e56bfd3fb",
+  "displayed_prompt_chars": 4594,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7fe57ac6261ebdd94f1cdb8a54c4bdc086c771ea463861c39b410809e77fa998",
+    "original_bytes": 471329,
+    "original_dimensions": [
+      1864,
+      1380
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      711
+    ],
+    "bytes": 24464
+  },
+  "preview_sha256": "ac92ca4861425f0de5b368c71bfb1f651e4e9f579274bfc739004ce49b3566f8"
+}

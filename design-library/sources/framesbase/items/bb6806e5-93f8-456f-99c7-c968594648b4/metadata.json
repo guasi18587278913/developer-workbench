@@ -1,0 +1,43 @@
+{
+  "id": "bb6806e5-93f8-456f-99c7-c968594648b4",
+  "title": "DeepThink",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI Assistant",
+    "item_id": "bb6806e5-93f8-456f-99c7-c968594648b4",
+    "page_at_capture": 13,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/deepthink/poster/media-pipeline-v1/e0945b24d0f56c6628a828419d963222fc229208fd9c9455e02da6f4ddfb1280"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:13.471808+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8bf2f692b0bb2b8191d59c48b07319ed8ad48a21a5f4eec36aef2d5517039bb4",
+  "displayed_prompt_chars": 13695,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "389cac6fe09b85d4cd296027f2eb62d6727c7d9f5a667fd000faef99aa17a20e",
+    "original_bytes": 76932,
+    "original_dimensions": [
+      1280,
+      1928
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      637,
+      960
+    ],
+    "bytes": 25356
+  },
+  "preview_sha256": "f2f4309cac25f529cca47a48715cd0b6f7ae48b31f9dbb4d92b919ef4111cb57"
+}

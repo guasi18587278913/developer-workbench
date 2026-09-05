@@ -1,0 +1,43 @@
+{
+  "id": "1d67a09c-c7d9-4322-b765-dcd9f754f577",
+  "title": "Futuristic Cinematic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "1d67a09c-c7d9-4322-b765-dcd9f754f577",
+    "page_at_capture": 6,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/futuristic-cinematic/preview/media-pipeline-v1/78e1aa563b1acbe4436ad7654b347e63434e1a98b1235824072be4a28111b2cf"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:17.480286+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "911f00c31e27085977d66cdbfdb66296bbdda6d1fff976d7926f99e4649858cc",
+  "displayed_prompt_chars": 5679,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8328fa5b32fc77cb8a186de4f408dae7c20a9f2c72321b57f8569b8d92cf2fe0",
+    "original_bytes": 816816,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 14100
+  },
+  "preview_sha256": "2856edc5a49296be2f891cb852444df349a3e3a0841fc5abb02d20d5590d1918"
+}

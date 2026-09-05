@@ -1,0 +1,43 @@
+{
+  "id": "602466a7-fd9c-45bb-b720-0d03b9c2e9aa",
+  "title": "Arceage Testimonial",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Testimonials",
+    "item_id": "602466a7-fd9c-45bb-b720-0d03b9c2e9aa",
+    "page_at_capture": 4,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sections/arceage-testimonial/preview/media-pipeline-v1/940f2179fb84253c0841d01eee61d589ae6a67dd55a543a9174aea60124da495"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:08.896685+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b482a7da4261bbc9e433a23e27f742bdccc1b42c9453948c998e3d0b56865201",
+  "displayed_prompt_chars": 8165,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3eee677690e582e806ae1ee6cb4915467eb802f6c52d2844a87f7475aec1658b",
+    "original_bytes": 159376,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 72,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 6714
+  },
+  "preview_sha256": "a723e63ed65d60c3ff991a2f979a320c3ab91e59b0b27d615fe64aa204199624"
+}

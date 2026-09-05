@@ -1,0 +1,43 @@
+{
+  "id": "e4e1feae-e074-4ce4-ba9c-69a4ef54936e",
+  "title": "Planet Orbit",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "e4e1feae-e074-4ce4-ba9c-69a4ef54936e",
+    "page_at_capture": 3,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/planet-orbit-hero/poster/media-pipeline-v1/5bc3de4b188d5a35bcf71878af9d7724046358106f2a83f3c91a5bf9b0dbf775"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:57.549320+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cae7fee2504aff1d17cea0d62d8a394cd9633f0f9665ae22476ee488ceae6caa",
+  "displayed_prompt_chars": 3224,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2768a786990db4f94780f3152586d966cb6753b93cf1693602dc372786767a2e",
+    "original_bytes": 1551300,
+    "original_dimensions": [
+      1920,
+      1475
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      738
+    ],
+    "bytes": 45042
+  },
+  "preview_sha256": "3570b700040619b4597a9b4658705c1d9e137a19f69e49e45029a849170d6374"
+}

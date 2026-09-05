@@ -1,0 +1,43 @@
+{
+  "id": "7ea7aec1-499d-46f6-ad90-2d3fcacf71fe",
+  "title": "Focus AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "7ea7aec1-499d-46f6-ad90-2d3fcacf71fe",
+    "page_at_capture": 6,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/focus-ai-landing/poster/media-pipeline-v1/f037142a8626d6f8bb0a147aed11846be3b9c122d2697decab35a05cda139940"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:28.919141+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b69dc6970337aea4b55e440d00d3e6c881d0a915d5c1e4ef7c45b2715571220e",
+  "displayed_prompt_chars": 10645,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "919a3112c627d458e5f69f8ded238c2a8e7895d5c55e2b2a05a18f0ce1f04b2a",
+    "original_bytes": 71232,
+    "original_dimensions": [
+      444,
+      782
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      444,
+      782
+    ],
+    "bytes": 27424
+  },
+  "preview_sha256": "bb9528c65bdb33cb879531e1777ff48733b3775bf7df3035652e1f927b28f535"
+}

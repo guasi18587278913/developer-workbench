@@ -1,0 +1,43 @@
+{
+  "id": "7ab5fd2a-7535-4ce4-9bf0-42f55d70f0c2",
+  "title": "Cross-Border",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Transportation",
+    "item_id": "7ab5fd2a-7535-4ce4-9bf0-42f55d70f0c2",
+    "page_at_capture": 1,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/apps/cross-border/poster/first-frame-v1/14ccc03947d4c3724dd87f381b556c05c65faff7b2dcbeeafb7dbf02a7777515"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:09.645625+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "51277206ad60741d5f96ec0838c26ed6c92e63858b03f07c9975fe05bb62214b",
+  "displayed_prompt_chars": 6698,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "14ccc03947d4c3724dd87f381b556c05c65faff7b2dcbeeafb7dbf02a7777515",
+    "original_bytes": 30068,
+    "original_dimensions": [
+      1280,
+      960
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 20574
+  },
+  "preview_sha256": "fe7a5b30b779c0fe02ef47b3b2e382ee14e5f4c0d9f49a91fa23554f0dde07ea"
+}

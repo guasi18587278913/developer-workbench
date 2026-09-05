@@ -1,0 +1,43 @@
+{
+  "id": "ba990167-1d41-4796-b5dc-bf98944bef6c",
+  "title": "Bite-Sized Courses",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Learning",
+    "item_id": "ba990167-1d41-4796-b5dc-bf98944bef6c",
+    "page_at_capture": 2,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/apps/bite-sized-courses/poster/first-frame-v1/efb2fafc98e91724e5706be8895b58b657e54150375887fbadf8879bb936a8f6"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:01.553124+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "aeda328143c4d9bbc32a35605fd95b9921ee4a2eb8324f06771f743e669fbb27",
+  "displayed_prompt_chars": 31216,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "efb2fafc98e91724e5706be8895b58b657e54150375887fbadf8879bb936a8f6",
+    "original_bytes": 18066,
+    "original_dimensions": [
+      1280,
+      960
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 12320
+  },
+  "preview_sha256": "eaf8a4f283e7dedfd37de666910a3cdcd6f7a102afd25664881e4f4a13d6e72f"
+}

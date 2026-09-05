@@ -1,0 +1,43 @@
+{
+  "id": "9e87b015-0ea2-4fd5-a5ab-fca0eefe2556",
+  "title": "Nexto 404",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "404",
+    "item_id": "9e87b015-0ea2-4fd5-a5ab-fca0eefe2556",
+    "page_at_capture": 5,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/404/poster/media-pipeline-v1/e65f5656f028ecc05ad78c8d9692ec3bc2b7470590a15aaaa35c0b048a204114"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:20.089564+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9205c5e7fb789ef90e1dffb1e86ea06d04a1f0a8b4400b50331e4ebfb7e43f22",
+  "displayed_prompt_chars": 5689,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5cfbc0da8d14612d5ea74905ff70476b5ff03ae6f200890e36fc5ceb03ddc24c",
+    "original_bytes": 1856045,
+    "original_dimensions": [
+      1986,
+      1446
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      699
+    ],
+    "bytes": 22368
+  },
+  "preview_sha256": "b76bde41e770a1d933612a80bad192b4a04f425dd3e374607211b620f3955862"
+}

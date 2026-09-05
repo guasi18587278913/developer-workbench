@@ -1,0 +1,43 @@
+{
+  "id": "b9553c71-a6e4-420c-a103-00f5554d3f19",
+  "title": "Pixel Grid Hover",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Case Studies",
+    "item_id": "b9553c71-a6e4-420c-a103-00f5554d3f19",
+    "page_at_capture": 3,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sections/pixel-grid-hover/preview/media-pipeline-v1/bb18f245b190f6b58c4b13f9dfc2dac4660058505de7da98080138a864e195e1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:41.032372+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0425cf6f76e0251cb91da5a3dcfe2b4f2c5532983ac5ba33d9eefe98f107b64b",
+  "displayed_prompt_chars": 8672,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a72a1aba554cc9e1a47081fb94b7febba1c0789eb0e80c6f9ee64a61555b574a",
+    "original_bytes": 1503362,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 70,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 22374
+  },
+  "preview_sha256": "d27ca0dc5ffe12a5e5da9cb67acd7442c2feb675be84c83f95e254b6e676d985"
+}

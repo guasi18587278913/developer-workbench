@@ -1,0 +1,43 @@
+{
+  "id": "b1d9266f-e8d0-408d-aa23-130acb01b497",
+  "title": "Bio-Age Dashboard",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "b1d9266f-e8d0-408d-aa23-130acb01b497",
+    "page_at_capture": 10,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/bio-age-dashboard/preview/media-pipeline-v1/0097d461b67f044670b6228e9d09856b0271d48d3a45f8f98f9bd59a14f6ef49"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:40.756384+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "366178da10f9f212bc41a6c93ff46a31d9e7dd730678f8a7715a888cc8f0f115",
+  "displayed_prompt_chars": 6869,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "92091750cb48626853fa715513e066a6e805174719d816b84a47eb32bfe1b2d1",
+    "original_bytes": 3289100,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 47726
+  },
+  "preview_sha256": "b5298ff5cdcd20a554159f3ac805ef7800ce509e6eb8747eeb214e081021f25e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "eee5efff-f54d-4647-ba4d-60c85e885787",
+  "title": "Arceage Contact Us",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Form",
+    "item_id": "eee5efff-f54d-4647-ba4d-60c85e885787",
+    "page_at_capture": 1,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sections/arceage-contact-us/preview/media-pipeline-v1/1a8e2f1d2ed85435eb7f57aa7755e8e204b269ae968847247625252d8e3b89cd"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:26.723920+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0f74c6afb3e712b16ac519e14820018ef8d33199f188eb0cdb64aff672ff8de4",
+  "displayed_prompt_chars": 7335,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a3ab2ca5603fe9c491ab1e062ffaac7c5abe2825229387051d5697bfd0819f01",
+    "original_bytes": 58732,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 38,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 5474
+  },
+  "preview_sha256": "7e92cb7a2f3e8e51b53c707a69c4f7243b7b681c1fa83e32a110a691422e767a"
+}

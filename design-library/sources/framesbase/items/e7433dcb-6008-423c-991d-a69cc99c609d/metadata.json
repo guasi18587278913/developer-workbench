@@ -1,0 +1,43 @@
+{
+  "id": "e7433dcb-6008-423c-991d-a69cc99c609d",
+  "title": "Luminex",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "e7433dcb-6008-423c-991d-a69cc99c609d",
+    "page_at_capture": 7,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/luminex-hero/poster/media-pipeline-v1/315079938c71fe8865a1bb2c061f66d61322b2ca371592a761020191651f7c2e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:04.149437+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d0acf3c4f3d521af4b44ed5b7fc036f4d002aa435d2bea497fb5d2455a633550",
+  "displayed_prompt_chars": 162,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2da25d9005a7b258c2e814d8f82f74469aea72c1348e095d61a45a2e1e11551e",
+    "original_bytes": 1200148,
+    "original_dimensions": [
+      1920,
+      1453
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      727
+    ],
+    "bytes": 46730
+  },
+  "preview_sha256": "50296b5bc48647a19ef8acdb3d4ba6944e61ba78466937740f0b744bcb6b2ca4"
+}

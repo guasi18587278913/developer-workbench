@@ -1,0 +1,43 @@
+{
+  "id": "e939171b-1d5c-4e45-a28e-827658a6b706",
+  "title": "Shipping Infrastructure",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Developer",
+    "item_id": "e939171b-1d5c-4e45-a28e-827658a6b706",
+    "page_at_capture": 12,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/shipping-infrastructure/poster/media-pipeline-v1/fee3795542a9d5d7e6eb2e2c50a7ffd43226931ef31111cfd2f90c291a73b42c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:27.490005+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3129668b8eb5036a5bba4667d0c77a74cac5fc526e839dfb1a9163022f14bc76",
+  "displayed_prompt_chars": 7119,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "261b4ee711debffd56c4d3b88a215198ced60180aff417a1e7e2b3841fc63b6e",
+    "original_bytes": 61196,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 36330
+  },
+  "preview_sha256": "95c7053e27c97ba147a9f0ea258e0ba3bb6784d84dfa28d02d9c85c726ebf41c"
+}

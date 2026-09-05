@@ -1,0 +1,43 @@
+{
+  "id": "72b8ebb1-3d60-4bea-8e76-968a8b563982",
+  "title": "Space planet",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "3D",
+    "item_id": "72b8ebb1-3d60-4bea-8e76-968a8b563982",
+    "page_at_capture": 1,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/space-planet/poster/media-pipeline-v1/13634896fa134d7a551dc5d23306e0236944fa6a7209333d490b3577759fe593"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:28.471762+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "72a3edd9390ee494bc3bd529164165af788e076829ead202ff8cb84abfb556d3",
+  "displayed_prompt_chars": 29105,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8e2f16a6dce750b170a7a81e6f9553ab79224c7f4d718d4f12479e99b0bf89ee",
+    "original_bytes": 79262,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 45292
+  },
+  "preview_sha256": "d3206b6e0402181641ba16e5c0a6c63f94a629970af783dbb92bd7bc124c3ed4"
+}

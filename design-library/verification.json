@@ -1,0 +1,106 @@
+{
+  "verified_at": "2026-09-05T06:10:55.355264+00:00",
+  "artifact_tree_sha256_excluding_this_file": "34bcf5477c35544517e2c3128c760d4e0a807ba4a06e4abbcedc437d2815a132",
+  "checks": {
+    "syntax": {
+      "passed": 3,
+      "failed": 0,
+      "exit_code": 0
+    },
+    "archive": {
+      "exit_code": 0,
+      "passed": 701,
+      "failed": 0,
+      "source_files_verified": 39,
+      "source_cards": 704,
+      "unique_entries": 701,
+      "preview_count": 699,
+      "source_issues": [
+        {
+          "id": "627f1087-bbda-453f-80c2-808a89bb5954",
+          "title": "Vintage Care",
+          "issue": "source-placeholder"
+        },
+        {
+          "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+          "title": "Slam Dunk",
+          "issue": "not-provided-by-source"
+        },
+        {
+          "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+          "title": "WISA Space",
+          "issue": "not-provided-by-source"
+        }
+      ]
+    },
+    "retrieval": {
+      "passed": 4,
+      "failed": 0,
+      "cases": [
+        {
+          "case": "网站浅色首屏",
+          "exit_code": 0,
+          "matches": 18,
+          "selected_ids": [
+            "018266d8-89e5-44c6-8051-3d7bf08eda26",
+            "183981b4-0f68-4471-88f5-3d6bf03c4f2b",
+            "1efb915f-a306-4066-a22d-7058a1567334"
+          ]
+        },
+        {
+          "case": "价格模块",
+          "exit_code": 0,
+          "matches": 7,
+          "selected_ids": [
+            "0b7f8771-8157-4ae0-94b4-860d110a7967",
+            "106e888a-697e-43e9-a71d-0d7a68045daa",
+            "4a7d1f9d-91f0-4187-ac26-25fb6308dd25"
+          ]
+        },
+        {
+          "case": "小程序视觉参考",
+          "exit_code": 0,
+          "matches": 17,
+          "selected_ids": [
+            "0f8cffb7-98f8-4074-8df8-1737c42cc14d",
+            "19ba3b5b-4b03-4865-8308-690a10a8afdb",
+            "226a0cf0-7336-4461-8496-ecd58088e1f4"
+          ]
+        },
+        {
+          "case": "星空背景",
+          "exit_code": 0,
+          "matches": 6,
+          "selected_ids": [
+            "bg-06236fd5087c1c733698",
+            "bg-0cfc5f76b37aec354905",
+            "bg-2e42b6208627ae921a96"
+          ]
+        }
+      ]
+    },
+    "placeholder_exclusion": {
+      "passed": 1,
+      "failed": 0,
+      "exit_code": 0
+    },
+    "authored_diff": {
+      "exit_code": 0,
+      "passed": true,
+      "note": "Original source material is preserved byte-for-byte and excluded from whitespace normalization."
+    },
+    "tracked_source_files": {
+      "passed": 39,
+      "failed": 0
+    },
+    "background_annotations": {
+      "passed": 218,
+      "failed": 0
+    }
+  },
+  "tool_sha256": {
+    "collect.py": "c005165b7bf44af68b8dd44e1f7aa5fa95eb2e9ec9d4a3e0fdc6322c6296abdb",
+    "library.py": "1b6ca9c109ec3233cde7f3660dd0dcae3484b80fec01d876714d4f5a596bce4b",
+    "assets.py": "83eae37c01c2474f86bd74fceecf1feeb44c87f778821df5edd7e1e6c970a088"
+  }
+}

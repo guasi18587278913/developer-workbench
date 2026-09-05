@@ -1,0 +1,43 @@
+{
+  "id": "6f3f8c5b-a17f-43b8-8bce-c765fa65af63",
+  "title": "Apex Program Accordion",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Accordion",
+    "item_id": "6f3f8c5b-a17f-43b8-8bce-c765fa65af63",
+    "page_at_capture": 2,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sections/apex-program-accordion/preview/media-pipeline-v1/f6f4dec6703a3b0c42dd2f535788973b6082c8fc499e8f1c419bcdb918e79d4e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:55.759163+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3dcd5d76abc37e028d9740d36ec4333730c4f2205a12fbb6f1f2d74e5baaf7a2",
+  "displayed_prompt_chars": 12722,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f61831242e97922014e7bf5af868f6147629c5ff63317c4b1700dc1d4c47bfe1",
+    "original_bytes": 126922,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 65,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 9170
+  },
+  "preview_sha256": "6a16fef6211ae00ac3f198d313d03b3356a0d9425e903c3547ae12a2792a62c6"
+}

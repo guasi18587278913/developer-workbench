@@ -1,0 +1,344 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Playfair Display', serif;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: var(--font-sans);
+}
+
+body {
+  background: #4a8fe0 url("https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260814_072721_28f13744-68db-4a16-a2d1-599141ee4674.png&w=1280&q=85") center / cover no-repeat;
+}
+
+canvas {
+  position: fixed;
+  inset: 0;
+  display: block;
+  z-index: 0;
+}
+
+/* ===== Navigation ===== */
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem;
+  padding-top: 30px;
+}
+
+.nav-logo {
+  color: white;
+  font-size: 1.5rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+.nav-pills {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 9999px;
+  padding: 0.5rem;
+}
+
+.pill {
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.375rem 1rem;
+  border-radius: 9999px;
+  border: none;
+  background: none;
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.pill:hover,
+.pill.active {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+.nav-menu-btn {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: white;
+  padding: 0.5rem 1.25rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.nav-menu-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Hamburger (mobile) */
+.hamburger {
+  display: none;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  cursor: pointer;
+  position: relative;
+  transition: all 0.3s;
+}
+
+.hamburger:active {
+  transform: scale(0.95);
+}
+
+.bar {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%);
+  height: 1.5px;
+  width: 1.25rem;
+  border-radius: 2px;
+  background: white;
+  transition: all 0.3s ease-out;
+}
+
+.bar-top { transform: translate(-50%, -5px); }
+.bar-mid { transform: translate(-50%, 0); }
+.bar-bot { transform: translate(-50%, 5px); }
+
+.hamburger.open {
+  background: #f5f5f5;
+  border-color: #e5e5e5;
+}
+
+.hamburger.open .bar {
+  background: #262626;
+}
+
+.hamburger.open .bar-top {
+  transform: translate(-50%, 0) rotate(45deg);
+}
+
+.hamburger.open .bar-mid {
+  opacity: 0;
+  transform: translate(-50%, 0) scaleX(0);
+}
+
+.hamburger.open .bar-bot {
+  transform: translate(-50%, 0) rotate(-45deg);
+}
+
+/* ===== Hero ===== */
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.hero-heading {
+  position: absolute;
+  top: calc(12% + 50px);
+  left: 0;
+  right: 0;
+  z-index: 50;
+  display: flex;
+  justify-content: center;
+  padding: 0 1.25rem;
+  pointer-events: none;
+}
+
+.hero-heading h1 {
+  color: white;
+  text-align: center;
+  line-height: 0.95;
+}
+
+.hero-heading .line-1 {
+  display: block;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(3.5rem, 10vw, 9rem);
+  letter-spacing: -0.05em;
+}
+
+.hero-heading .line-2 {
+  display: block;
+  font-weight: 400;
+  font-size: clamp(3.5rem, 10vw, 9rem);
+  letter-spacing: -0.08em;
+  margin-top: -0.0625rem;
+}
+
+.hero-description {
+  position: absolute;
+  bottom: 2.5rem;
+  left: 1.25rem;
+  right: 1.25rem;
+  z-index: 50;
+  max-width: 260px;
+}
+
+.hero-description p {
+  font-size: 0.875rem;
+  color: white;
+  line-height: 1.6;
+}
+
+.hero-scroll {
+  position: absolute;
+  bottom: 1.5rem;
+  left: 1.25rem;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.scroll-circle {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scroll-text {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.hero-year {
+  position: absolute;
+  bottom: 1.5rem;
+  right: 1.25rem;
+  z-index: 50;
+}
+
+.year-text {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* ===== Animations ===== */
+.hero-anim {
+  opacity: 0;
+  animation-duration: 0.9s;
+  animation-timing-function: cubic-bezier(0.16, 0.84, 0.44, 1);
+  animation-fill-mode: both;
+}
+
+.hero-reveal {
+  animation-name: heroReveal;
+}
+
+.hero-fade {
+  animation-name: heroFade;
+}
+
+@keyframes heroReveal {
+  from { opacity: 0; transform: translateY(28px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes heroFade {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 767px) {
+  .nav-pills,
+  .nav-menu-btn.desktop-only {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hero-description {
+    bottom: 6rem;
+    max-width: none;
+  }
+
+  .hero-scroll {
+    left: 1.25rem;
+    bottom: 1.5rem;
+  }
+
+  .hero-year {
+    right: 1.25rem;
+    bottom: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .nav {
+    padding: 30px 2.5rem 1.25rem;
+  }
+
+  .hero-description {
+    left: auto;
+    right: 2.5rem;
+    bottom: 6rem;
+  }
+
+  .hero-scroll {
+    left: 2.5rem;
+  }
+
+  .hero-year {
+    right: 2.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .nav {
+    padding: 30px 3.5rem 1.25rem;
+  }
+
+  .hero-description {
+    right: 3.5rem;
+  }
+
+  .hero-scroll {
+    left: 3.5rem;
+  }
+
+  .hero-year {
+    right: 3.5rem;
+  }
+}

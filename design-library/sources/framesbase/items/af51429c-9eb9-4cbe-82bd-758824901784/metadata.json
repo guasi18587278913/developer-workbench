@@ -1,0 +1,43 @@
+{
+  "id": "af51429c-9eb9-4cbe-82bd-758824901784",
+  "title": "Cinematic Landing Page",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "af51429c-9eb9-4cbe-82bd-758824901784",
+    "page_at_capture": 9,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/cinematic-landing-page/preview/media-pipeline-v1/798dea143fe83fdc17cb237050ef843b705f44f0535fae31e475e51fe68809bc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:11.241972+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "acbd643794de5454f12603d248415d8411a8bf1ae594719759df9ee781a0dbce",
+  "displayed_prompt_chars": 12285,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8f90fcdcab8385b7b687b9b3140d968cbe97e7d1850da54f56a9a6159c56a2b5",
+    "original_bytes": 3387902,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 56546
+  },
+  "preview_sha256": "28a1523f91988bfd75c12b06b3998aa66e1ddd60280e8dd5d327a70308349eec"
+}

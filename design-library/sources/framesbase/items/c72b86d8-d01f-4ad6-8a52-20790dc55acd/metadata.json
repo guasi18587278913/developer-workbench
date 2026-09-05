@@ -1,0 +1,43 @@
+{
+  "id": "c72b86d8-d01f-4ad6-8a52-20790dc55acd",
+  "title": "Skytrace",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "c72b86d8-d01f-4ad6-8a52-20790dc55acd",
+    "page_at_capture": 1,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/skytrace/poster/media-pipeline-v1/c545c895e0dc6d4e5c77be520a23898790bdb33b5d4bf23bb3dba0b4e90941a4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:20.410146+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2ac2ac3924a9dd7f6fb810943b4abfbba93bc8556fcfbe72bbae4d872bfadd34",
+  "displayed_prompt_chars": 64517,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "215cd5146dec08ad9b8af18583db68e9d643d818511ccb3ed49b821333c9249d",
+    "original_bytes": 44172,
+    "original_dimensions": [
+      1280,
+      859
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      644
+    ],
+    "bytes": 25664
+  },
+  "preview_sha256": "a92f4310e5dad54b7f835bb6bdc32762034af04f0b025552e8d2de0652704bbc"
+}

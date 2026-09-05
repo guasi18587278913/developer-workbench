@@ -1,0 +1,43 @@
+{
+  "id": "117278d9-b2e0-4cbf-8be4-032e0a0b7246",
+  "title": "Max Reed Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "117278d9-b2e0-4cbf-8be4-032e0a0b7246",
+    "page_at_capture": 1,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sections/max-reed-portfolio/preview/media-pipeline-v1/615453568cffec7a20bff23ed83133f98ede4773d2507c30861bd42f9c820199"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:24.752179+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c588182ebafd462e5901f63b0e4871cca00f8293fc0fbfc1ecf5f54565889dd6",
+  "displayed_prompt_chars": 5397,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "345c1b608f887f5b39fe5b3ba999f6c7777b311b1133baeb5b2265bab74e3979",
+    "original_bytes": 833806,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 53,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 24246
+  },
+  "preview_sha256": "f4cb96b6d1a25f3f261591491d5e0cbb70415fd7a1e6b48bf30c5c573b552248"
+}

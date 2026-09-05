@@ -1,0 +1,43 @@
+{
+  "id": "43c4e908-130a-44d2-b0f2-feccf68d0f36",
+  "title": "Guardnet Benefits",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Benefits",
+    "item_id": "43c4e908-130a-44d2-b0f2-feccf68d0f36",
+    "page_at_capture": 2,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sections/guardnet-benefits/preview/media-pipeline-v1/97c8ed9555d9b5767ea9bb47ac9ef0539c3eb3d663b0a8ac422b508738fad202"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:43.628333+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dd97cc7592f91205f3dd467d6e484480006656f1a7b10a54571912e32a906285",
+  "displayed_prompt_chars": 4108,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "833480db2b2f863d400c4527d9e8442b93ab5d9b9a4bdcf39b3849f300403ee3",
+    "original_bytes": 180246,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 9642
+  },
+  "preview_sha256": "b11b999e74c3cfc5a6ef139bbc4caae333c71a1c282c899e70621e0e5fe59d2b"
+}

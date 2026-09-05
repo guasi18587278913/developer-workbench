@@ -1,0 +1,43 @@
+{
+  "id": "561704b4-2ed3-46c9-b67e-2d02ee6c4bd0",
+  "title": "Reveal Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "561704b4-2ed3-46c9-b67e-2d02ee6c4bd0",
+    "page_at_capture": 4,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/reveal-hero/preview/media-pipeline-v1/9ea9e1dd9d538bfae231739dec875a80012b30e7e9108d752cf9d63397443602"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:56.888482+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "370bda70840ecd771bc40ecb26d5f6f6afe7c313864268db192e3d922774f74d",
+  "displayed_prompt_chars": 6904,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "385317402b7bcea148fc26c02b0ee6c93c8b46fae48d0af81f4ea8c2ca995a46",
+    "original_bytes": 711612,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 15922
+  },
+  "preview_sha256": "42c0e639e0150b61e830ac6061eb670255286bb147f9a0af1074fc01f3ab9259"
+}

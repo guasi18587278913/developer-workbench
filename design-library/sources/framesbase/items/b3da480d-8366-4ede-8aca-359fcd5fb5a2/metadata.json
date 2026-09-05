@@ -1,0 +1,43 @@
+{
+  "id": "b3da480d-8366-4ede-8aca-359fcd5fb5a2",
+  "title": "Grow AI Talent Platform",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "b3da480d-8366-4ede-8aca-359fcd5fb5a2",
+    "page_at_capture": 3,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/grow-ai-hero/poster/media-pipeline-v1/1fb2d2d513b4257f71ba0b9ca4c562b2f5857ac68c58d5e5862d0a7035b502b0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:09.821448+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "930ac22318b5ec84eee478f684a606ddd0d65d8b7f754d8c5361b8deecf8091a",
+  "displayed_prompt_chars": 5487,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6a0fc4904edaa9a6de82f45f043ab5a413d59aa219a20ef1c96471ec037cc327",
+    "original_bytes": 861977,
+    "original_dimensions": [
+      1920,
+      1368
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      684
+    ],
+    "bytes": 24412
+  },
+  "preview_sha256": "35ede43e3fd60deae53dd7f6869e5f8ad5909689b74b07d676afa465c7c0b49b"
+}

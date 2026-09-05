@@ -1,0 +1,43 @@
+{
+  "id": "be027362-7f71-4e35-b11a-9ae8bac997f4",
+  "title": "3D Story",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "be027362-7f71-4e35-b11a-9ae8bac997f4",
+    "page_at_capture": 10,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/3d-story/poster/media-pipeline-v1/b760136904874b17e8f15eb58d6544e540f7adc6326035724411d6ba770bc7c4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:13.771445+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "05dec18951c53d49a4c6c63fd709d44056e0c88db2e73284a7823fb9c955f79c",
+  "displayed_prompt_chars": 7990,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a4f8bde6df7b6a51a4fbdcd4911ffbddf56ad839d5ca37b07cf4ed68974dff8d",
+    "original_bytes": 51788,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 30202
+  },
+  "preview_sha256": "23e9e533c05f53c98034da498fcd8c8b97a9482207f18d43fee3d9f2996a39dc"
+}

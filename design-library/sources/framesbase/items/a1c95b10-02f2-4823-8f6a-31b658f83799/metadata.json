@@ -1,0 +1,43 @@
+{
+  "id": "a1c95b10-02f2-4823-8f6a-31b658f83799",
+  "title": "Nimbus Demo",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Dashboard Demo",
+    "item_id": "a1c95b10-02f2-4823-8f6a-31b658f83799",
+    "page_at_capture": 3,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sections/nimbus-demo/preview/media-pipeline-v1/0566b41f7e1bda8dc8410153fda8b12c7b4fa988fa87c3e64f3133f3f92152d5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:15.500784+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ca2aad9a72d579fd40bccf2469d094e7174357a0b62be03c553f9838c2492ac3",
+  "displayed_prompt_chars": 14389,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "edfe49d7b730a965ea5d864e337069c9748fc3dbda2cd3c98050cee567a7cc6e",
+    "original_bytes": 291840,
+    "original_dimensions": [
+      640,
+      462
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      462
+    ],
+    "bytes": 14136
+  },
+  "preview_sha256": "5c29e1d22d75cbcb8d2d112108d63818797f2b134cb17bab50a4f0536d72903b"
+}

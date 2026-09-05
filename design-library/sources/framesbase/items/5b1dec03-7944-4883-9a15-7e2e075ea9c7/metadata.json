@@ -1,0 +1,43 @@
+{
+  "id": "5b1dec03-7944-4883-9a15-7e2e075ea9c7",
+  "title": "Creative Designer Portfolio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "5b1dec03-7944-4883-9a15-7e2e075ea9c7",
+    "page_at_capture": 12,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/creative-designer-portfolio/poster/media-pipeline-v1/ba58e8ee25ff3d7bd005ee906abf6f2cc61bcac6f56a69b7b5a62b608153f877"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:32.432909+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e6b9d369594481eb13d3ea3bf2c5ef8e08fba4406389a7888044f524a46b0ff8",
+  "displayed_prompt_chars": 2169,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "977a5411a26734d64947bb789a3fcb0637378293ccb62edf8e131d89502b01f5",
+    "original_bytes": 32448,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 18368
+  },
+  "preview_sha256": "34e872c3ae5512a97513c9cc38bc364d2f1f84430c8b9c1d6f5cf71f16404b53"
+}

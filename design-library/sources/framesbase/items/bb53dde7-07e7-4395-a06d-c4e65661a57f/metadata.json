@@ -1,0 +1,43 @@
+{
+  "id": "bb53dde7-07e7-4395-a06d-c4e65661a57f",
+  "title": "Projects Catalog",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Projects",
+    "item_id": "bb53dde7-07e7-4395-a06d-c4e65661a57f",
+    "page_at_capture": 2,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sections/projects-catalog/preview/media-pipeline-v1/b95a1fe6ed72e8425f263f055501b3accd7a71e970f7e98994b167b62c2b2873"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:39.492405+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "84c1762bc7e63879bf4dce1036e4e5dc094cbdd5e60e5ef712ba04175212ea7d",
+  "displayed_prompt_chars": 7197,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0606a48469eb3613ba7f0a20ed0bdd2ca5dc2e2837a07cec437cabb6bd874320",
+    "original_bytes": 2193970,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 35802
+  },
+  "preview_sha256": "e2752e7bc71fc2ec95053244218dd0f4d589d9e9c6c35ca88871c37a4c928333"
+}

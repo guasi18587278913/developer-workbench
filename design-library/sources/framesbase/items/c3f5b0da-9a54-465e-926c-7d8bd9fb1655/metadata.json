@@ -1,0 +1,43 @@
+{
+  "id": "c3f5b0da-9a54-465e-926c-7d8bd9fb1655",
+  "title": "Apex SaaS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "c3f5b0da-9a54-465e-926c-7d8bd9fb1655",
+    "page_at_capture": 3,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/apex-saas-hero/poster/media-pipeline-v1/e8f7cb5876403ca94210cab988f88a455f9d91cd990a0a0326f3e6bb51d9e119"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:07.368338+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0857c9a46133e18d944d3a2b1b8ef3bbc31c3adcbe3ed712d829d3781441a808",
+  "displayed_prompt_chars": 5287,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0e8975cca67740a6ea04df97eab4bb31ae68d61e50425226f442097a0b068413",
+    "original_bytes": 982657,
+    "original_dimensions": [
+      1920,
+      1443
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      722
+    ],
+    "bytes": 33684
+  },
+  "preview_sha256": "c84f2e7ed0be7e1406325ddc7e28d4b4f7457f70d479bc8115b50f6ecfceb498"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b92abcca-3dad-493c-bb27-932bd8dd6c3b",
+  "title": "Travel Journal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Travel",
+    "item_id": "b92abcca-3dad-493c-bb27-932bd8dd6c3b",
+    "page_at_capture": 1,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/apps/travel-journal/poster/first-frame-v1/381c52d664b0945834c7db1c3cf663c529717de2e637191f9a574e4ec374b444"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:50.123254+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "01075eaea7b5b8bdc28ba157b588d4f60797cbd0c00e55fe0ce0b32039b10f88",
+  "displayed_prompt_chars": 5151,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "381c52d664b0945834c7db1c3cf663c529717de2e637191f9a574e4ec374b444",
+    "original_bytes": 19120,
+    "original_dimensions": [
+      1280,
+      940
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 13172
+  },
+  "preview_sha256": "8b8dd82053ebcb7e91fb15f4a628c821e6d5b38ec1279dfb86e4b3abad43749d"
+}

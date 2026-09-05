@@ -1,0 +1,43 @@
+{
+  "id": "820f6d44-47a3-4e56-849c-6e73fda5dd54",
+  "title": "F1 Driver Profile",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Sports",
+    "item_id": "820f6d44-47a3-4e56-849c-6e73fda5dd54",
+    "page_at_capture": 13,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/f1-driver-profile/poster/media-pipeline-v1/85ee1a4216385029537e852b514fb602b82907bf0d2e35dc91a5b651357d290b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:05.786919+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8906b3fd44f5da69cfdbf39efb972b3050549ed054acb73af47fbfe9685d8f2f",
+  "displayed_prompt_chars": 6865,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b3414b3dc01260c34a0b5db5c340fe9595dbe0e9f8f6477e9d3b2c96c39f6dc8",
+    "original_bytes": 83666,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 47964
+  },
+  "preview_sha256": "8c01ea5ffefb227d79763eb60c9e3ef3304da790e1859940caa5553ad58cbe48"
+}

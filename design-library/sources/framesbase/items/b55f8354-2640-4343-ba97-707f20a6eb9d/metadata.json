@@ -1,0 +1,43 @@
+{
+  "id": "b55f8354-2640-4343-ba97-707f20a6eb9d",
+  "title": "Golden Portal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "b55f8354-2640-4343-ba97-707f20a6eb9d",
+    "page_at_capture": 11,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/golden-portal/preview/media-pipeline-v1/c4b1d50960ad538629e6d7b87939d9d669a91c5d135670077f51fa02fa191b00"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:50.411528+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "723173178de50eb8d86d0e28c4d76f2ffbe8154437adcdb619a22ca8e3879f69",
+  "displayed_prompt_chars": 13630,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "25fd02f086b171b2e45ac2c879e43a15f74d7a59692d3754fbb0f4e3da0f2f2c",
+    "original_bytes": 1494012,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 24226
+  },
+  "preview_sha256": "5d484863480addb0d9437f6cd464d7c029381d76ac56f116bc06d9c4f3e099c4"
+}

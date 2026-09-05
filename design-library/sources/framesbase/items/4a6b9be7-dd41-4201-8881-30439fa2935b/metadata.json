@@ -1,0 +1,43 @@
+{
+  "id": "4a6b9be7-dd41-4201-8881-30439fa2935b",
+  "title": "ClearInvoice SaaS Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "4a6b9be7-dd41-4201-8881-30439fa2935b",
+    "page_at_capture": 3,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/3/poster/media-pipeline-v1/41804ee7aa1705177625ed12ffcfc4e7686431a3f406e27cc756195ea686cd0d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:03.210022+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "397bd683fe717d0ed63178e352fb9957819c2167f06f1de436506eccacbdfbab",
+  "displayed_prompt_chars": 2078,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7d1dbdfc0b8c4b9ce2c5fee671abb82fa046e312449f24e54eb36274f3bfae08",
+    "original_bytes": 166481,
+    "original_dimensions": [
+      800,
+      567
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      800,
+      567
+    ],
+    "bytes": 38586
+  },
+  "preview_sha256": "221b0767e35a01596ce9b0445d74d37ceba1e9026f89a81eca9b43dc92f54d7e"
+}

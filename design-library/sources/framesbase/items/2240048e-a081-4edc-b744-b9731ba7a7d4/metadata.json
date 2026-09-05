@@ -1,0 +1,43 @@
+{
+  "id": "2240048e-a081-4edc-b744-b9731ba7a7d4",
+  "title": "Finlytic AI Agent",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "2240048e-a081-4edc-b744-b9731ba7a7d4",
+    "page_at_capture": 3,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/finlytic-hero/poster/media-pipeline-v1/3b01a867c42db9748d35cb45a7c3f890ae279f0abd8b25113af5a98206b29151"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:49.582786+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c1fea8d4520b33fbb3130d28fbf452fd2a78ee295065f05c22719d0b77a6ab0e",
+  "displayed_prompt_chars": 3116,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "07ab42a136e89e857f9018e6f5824c797e950f71da1c89c70d8c3cb1d6e362bc",
+    "original_bytes": 2666406,
+    "original_dimensions": [
+      1846,
+      1382
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      719
+    ],
+    "bytes": 55040
+  },
+  "preview_sha256": "04c72fa994510c7459010b0f4f62e715862cb7add24cb4ddc55fa96d1ef73620"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "730adc7c-5879-42d0-9944-d2c8a06c4a38",
+  "title": "Dark Portfolio Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "730adc7c-5879-42d0-9944-d2c8a06c4a38",
+    "page_at_capture": 4,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/15/poster/media-pipeline-v1/5275618fe77d24cd92a46cddbf23e4fdeb82f6745575cec7003c005d52732ce4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:33.179087+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "966dcb865aa1009db23ccd413cc46acabcb6ae6b3be3082d46911d27fc8b393f",
+  "displayed_prompt_chars": 5526,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "491be9db7a7559d732bbd78c695243dce184fd72df2f47b3e65e83130797fadb",
+    "original_bytes": 1240046,
+    "original_dimensions": [
+      1920,
+      1297
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      649
+    ],
+    "bytes": 22148
+  },
+  "preview_sha256": "3d1755e83d45a466ed57118066f4fdf67b6844f6348c1bde09d89bb5bd7c2421"
+}

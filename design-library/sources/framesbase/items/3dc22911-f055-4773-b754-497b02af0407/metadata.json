@@ -1,0 +1,43 @@
+{
+  "id": "3dc22911-f055-4773-b754-497b02af0407",
+  "title": "Forecast Center",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Utility",
+    "item_id": "3dc22911-f055-4773-b754-497b02af0407",
+    "page_at_capture": 2,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/apps/forecast-center/poster/media-pipeline-v1/c0c9ad1fbae2aa1bb4aea8f5c82f01e4d35a163892b10b66eda117904dffdfae"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:00.593856+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8ba702f22fa97849ca898cfdd147a5dc130dee03e205bae866c811671c65e8e2",
+  "displayed_prompt_chars": 11253,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "33cb4759e6d05544f9846a31a2e8e8249401d2c2840a3d933c9ac8068302cf64",
+    "original_bytes": 109974,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 58984
+  },
+  "preview_sha256": "6e91fdcf164ca858a55e708d4a9b7f58f0c064fd4733874712a58d7eb8d43242"
+}

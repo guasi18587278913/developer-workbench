@@ -1,0 +1,51 @@
+{
+  "id": "76084b77-740a-484e-97bf-195a99cbe572",
+  "title": "Heart Health Dashboard",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "3D",
+    "item_id": "76084b77-740a-484e-97bf-195a99cbe572",
+    "page_at_capture": 1,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/heart-health-dashboard/poster/media-pipeline-v1/83f46d266d791f51bb2e8a85610e9bba9f476718c490735dc0aea7dd6bfcf59a"
+  },
+  "delivery_type": "source-link",
+  "original_url": "https://github.com/vikod3/heart-health-dashboard",
+  "captured_at": "2026-09-05T05:33:08.890720+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp",
+    "source_receipt": "source-receipt.json"
+  },
+  "content_sha256": "6874fa2e746d1d64ee6d2054abfd129af720e55127e070bb3d957cbefbebc261",
+  "displayed_prompt_chars": null,
+  "source_archive": {
+    "directory": "source",
+    "commit": "fb09a6544362a82925bd22cfe021486438904f56",
+    "status": "complete",
+    "license_status": "not-found",
+    "verified_runtime": false
+  },
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7a8d7a9709dcd2bb40ae41173a55f771c6788af8255855248f99429292862836",
+    "original_bytes": 193510,
+    "original_dimensions": [
+      1920,
+      1288
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      644
+    ],
+    "bytes": 60402
+  },
+  "preview_sha256": "2763ffb2ba9d236dc66d634c51ebfa2bcbcd6ee4314687ba30d2f6dea7938752"
+}

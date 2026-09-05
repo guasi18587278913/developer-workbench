@@ -1,0 +1,43 @@
+{
+  "id": "b77c95d7-a443-4c8f-b53e-9f8699d3d413",
+  "title": "Mind-Body Healing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Medicine",
+    "item_id": "b77c95d7-a443-4c8f-b53e-9f8699d3d413",
+    "page_at_capture": 14,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/mind-body-healing/poster/media-pipeline-v1/afa891ae4ba1ded1129bd76fbb5ac985425f911c694aab681f8c4942bf181743"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:24.105838+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0eda43f4b69ab508bf26d28a72573154bd80a9d65e873b6069eed6f9895f080a",
+  "displayed_prompt_chars": 5232,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f30f6159121e66a9e0d1f4d5105647a5216d4d2a68d7d81afa269d093d8962fc",
+    "original_bytes": 57244,
+    "original_dimensions": [
+      1920,
+      1447
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      724
+    ],
+    "bytes": 20362
+  },
+  "preview_sha256": "c6026a19955c2d599e921e6fe5a0d152df7fc396a0d3ac7c0edf38e93b0bb613"
+}

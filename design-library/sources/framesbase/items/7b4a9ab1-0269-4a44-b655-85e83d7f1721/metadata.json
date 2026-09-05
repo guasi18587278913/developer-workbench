@@ -1,0 +1,43 @@
+{
+  "id": "7b4a9ab1-0269-4a44-b655-85e83d7f1721",
+  "title": "Pixel Muse",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative Studio",
+    "item_id": "7b4a9ab1-0269-4a44-b655-85e83d7f1721",
+    "page_at_capture": 1,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/pixel-muse/poster/media-pipeline-v1/7adcea8dff2b0e26be31949678973539745ea829197aa23e3e96f1cc2ff4397f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:42.170159+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "79cbbe1f0f06cc9584cee755e18a19f9cab459909345782c751b0db9e798ca1c",
+  "displayed_prompt_chars": 6658,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8a14cb824448f075dfc6317d9a6dfe695e4b368d880426dca316298e23d23362",
+    "original_bytes": 85094,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 28674
+  },
+  "preview_sha256": "68cf9bf5f7e839fb45182e94b7bf1ef5769c2cb12f9285a1a6bd58d921bcde71"
+}

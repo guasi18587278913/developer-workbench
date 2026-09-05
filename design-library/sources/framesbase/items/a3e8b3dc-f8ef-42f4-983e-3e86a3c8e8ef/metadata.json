@@ -1,0 +1,43 @@
+{
+  "id": "a3e8b3dc-f8ef-42f4-983e-3e86a3c8e8ef",
+  "title": "3D Studio Pricing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "a3e8b3dc-f8ef-42f4-983e-3e86a3c8e8ef",
+    "page_at_capture": 4,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sections/3d-studio-pricing/poster/first-frame-v1/76e9b4a72244034d079abfbace8ffdc3dcc888a8af690589a1dc7939eecd7e37"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:24.783526+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a37bd4311d7ef906b8585358cee45ca1964d89e8c063abaa189711269eab7c81",
+  "displayed_prompt_chars": 3971,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "76e9b4a72244034d079abfbace8ffdc3dcc888a8af690589a1dc7939eecd7e37",
+    "original_bytes": 70738,
+    "original_dimensions": [
+      1280,
+      936
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      702
+    ],
+    "bytes": 48024
+  },
+  "preview_sha256": "2e9b6889481dd22f294cbe655e49c58093253a00a75e78a73286acbfd50e168d"
+}

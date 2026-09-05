@@ -1,0 +1,51 @@
+{
+  "id": "9b0e79ff-3d63-41f4-aeee-b28528db6b32",
+  "title": "3D Future Flora",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Threejs",
+    "item_id": "9b0e79ff-3d63-41f4-aeee-b28528db6b32",
+    "page_at_capture": 2,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/3d-future-flora/poster/media-pipeline-v1/1d58b3707380298b34c9dbc965747a2db113fdf442bc8b81d9ca27a5fa9bc7ea"
+  },
+  "delivery_type": "source-link",
+  "original_url": "https://github.com/vikod3/flowergardenthreejs",
+  "captured_at": "2026-09-05T05:34:56.516237+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp",
+    "source_receipt": "source-receipt.json"
+  },
+  "content_sha256": "dd2adea3cea77a73a282291bb9a3322cee00424c600b85d7a80c32ae7e091e4e",
+  "displayed_prompt_chars": null,
+  "source_archive": {
+    "directory": "source",
+    "commit": "17f82c415e96f39d3454d39dcdd1002370cc3af4",
+    "status": "complete",
+    "license_status": "not-found",
+    "verified_runtime": false
+  },
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "51c00e74085be3f6816c3cc9e548b01470b062641b99f9200ca3a2b5ee9b893e",
+    "original_bytes": 73670,
+    "original_dimensions": [
+      1280,
+      859
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      644
+    ],
+    "bytes": 41732
+  },
+  "preview_sha256": "f109886c1affc1730700b061fe1a27a63e95620f445aeb2bfed4072191729c4f"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "f8e25246-daa3-42c6-9502-2e0895a676af",
+  "title": "Global gateway",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Communication",
+    "item_id": "f8e25246-daa3-42c6-9502-2e0895a676af",
+    "page_at_capture": 1,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/global-gateway/poster/media-pipeline-v1/3881314b255643c325ce25ef50aa9abfc1995fc2fe0910ae49178766cdb6cbad"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:29.460016+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "52a2ae69a8bc9cdd54b64fc909e6eb5041c015f2476e741533dbdf95b5f42c58",
+  "displayed_prompt_chars": 14080,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9b7b9f4903a5530050b3ddccbf15687103cb7a3859a0f1e1b6b519a8411399da",
+    "original_bytes": 141832,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 47922
+  },
+  "preview_sha256": "f1cc91c04e588715ef672e37953a84d07340a246fce17610552309a758d7f526"
+}

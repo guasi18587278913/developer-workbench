@@ -1,0 +1,43 @@
+{
+  "id": "7cb83158-1003-451e-badc-8975b0ef715e",
+  "title": "Yacht Club",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "7cb83158-1003-451e-badc-8975b0ef715e",
+    "page_at_capture": 7,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/yacht-club-hero/poster/media-pipeline-v1/4a013a456f834c02335a550559e2d8aec05a0b29aea3f3c8a8b7c1f6e9a04836"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:10.970699+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f31e2545d6a9c903ffdcdcab8dcb2ea47abd6428ee7ac7459a5f91ba48946eb3",
+  "displayed_prompt_chars": 8356,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "94ebcf2a311fd5a02a709699f4f5924322d58dadce414ab45b3437b4762e4d52",
+    "original_bytes": 540008,
+    "original_dimensions": [
+      1470,
+      1072
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      700
+    ],
+    "bytes": 59138
+  },
+  "preview_sha256": "80a8c0b8d93454f175e6f96fa804cf22b2b6e888f8f03fb16a6dcbc0e6378244"
+}

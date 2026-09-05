@@ -1,0 +1,43 @@
+{
+  "id": "8c75d3c1-6777-41fe-b16e-82b705e7dba5",
+  "title": "Agent Grove",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "8c75d3c1-6777-41fe-b16e-82b705e7dba5",
+    "page_at_capture": 14,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/agent-grove/poster/media-pipeline-v1/e1f026c0671fd1637a0a98234ae06d94a024773fe2b62bcb7f320589b5b34337"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:49.282353+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "2e20b74e4cc309c5e7aa4aedd4c06110a45c9995b7e8c51f5c1489b901aa87d5",
+  "displayed_prompt_chars": 7959,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a0215e7d20b70da4cb0a2530d67923718894fe2427c3b5c1cb5df57fc3285251",
+    "original_bytes": 73980,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 41136
+  },
+  "preview_sha256": "7279f48d0f60f7e40f5cb1a5a0208610d0e62c31ec856238c29da7eb5b884f96"
+}

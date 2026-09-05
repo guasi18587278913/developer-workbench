@@ -1,0 +1,43 @@
+{
+  "id": "07e2f299-7371-488f-b361-993c6062c1cb",
+  "title": "Arceage Stats",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Stats",
+    "item_id": "07e2f299-7371-488f-b361-993c6062c1cb",
+    "page_at_capture": 3,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sections/arceage-stats/preview/media-pipeline-v1/01a7f77893cfffe2bc25b0e4e007c9d556b581755db5475ede981c0a75cf4f0d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:28.286519+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c8887fc7bd6c4b0017023c24f6fd9abf667db71fa6f4f76d1f5137f2c2535acf",
+  "displayed_prompt_chars": 7826,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3f7fd8058c9a15049a8c05f0ce1ba7593032fd45fc4d05e3e9f980aaaedf9471",
+    "original_bytes": 435842,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 13406
+  },
+  "preview_sha256": "e148431be50502c09964fefd939ba10b4813a3b33c14fcf5f0d3957417e654b4"
+}

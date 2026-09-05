@@ -1,0 +1,43 @@
+{
+  "id": "aaf5f982-6ac6-49fa-a181-eb26dac7ab79",
+  "title": "Email Landing Page",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "aaf5f982-6ac6-49fa-a181-eb26dac7ab79",
+    "page_at_capture": 4,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/email-landing-page/preview/media-pipeline-v1/cad68e5f17680f50360a9684b2baec14ae584457f7cb14fbd1e55c84a83990d7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:52.319732+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f5f6bf8cf3390db3f457b12c7a8fd25b4cd1e9419c73da4102f848e0c74a85d9",
+  "displayed_prompt_chars": 19431,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5038efb5bed85a77c2d03c49b8e2c0b4da229db14d29178c25ce5f435cdfdb90",
+    "original_bytes": 1282912,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 18028
+  },
+  "preview_sha256": "e687865c9cb58fd1c76229421e5e41742174cc29437bb3e807fcf1e9d0e73eb0"
+}

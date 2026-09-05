@@ -1,0 +1,43 @@
+{
+  "id": "37eb995b-0223-4e14-b049-0ff78e9a7895",
+  "title": "Portfolio About",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "37eb995b-0223-4e14-b049-0ff78e9a7895",
+    "page_at_capture": 2,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sections/portfolio-about/preview/media-pipeline-v1/0c43b568e2cb0e824769e80f1acac5d3a08550ab4f3af9e003b7665e79318377"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:53.786230+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8517051a70ab33353206d3f800df5d3b7b16809746d1a65fdc3a0920caa58b7c",
+  "displayed_prompt_chars": 5431,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "64ad3c467e32b437d6c52b2b944b63eb238c1c24288c3c66846526feffc13937",
+    "original_bytes": 162734,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 10640
+  },
+  "preview_sha256": "c8ddf3a89d66c92a9f5134f1479064879d3e2f01f8c83f4aabfb7f9b867bc18f"
+}

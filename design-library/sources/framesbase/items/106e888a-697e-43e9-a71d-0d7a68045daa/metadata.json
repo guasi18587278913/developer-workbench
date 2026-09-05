@@ -1,0 +1,43 @@
+{
+  "id": "106e888a-697e-43e9-a71d-0d7a68045daa",
+  "title": "Rocket Pricing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "106e888a-697e-43e9-a71d-0d7a68045daa",
+    "page_at_capture": 3,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sections/rocket-pricing/preview/media-pipeline-v1/25d1771657e0e6337a1433b48f340dfb6e1ba0eb23a335281e51de80eb499ede"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:09.038897+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "37b8528fae4ef43dfff9b43c5a8455a296de70a17079c99feb3de13fdf7c9451",
+  "displayed_prompt_chars": 8841,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "413751945af0990dd548a2f7b88a570545c6c8c2a120027c1a0a3f377b7d7758",
+    "original_bytes": 107782,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 52,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 11110
+  },
+  "preview_sha256": "79b8d9b5c0a036cb55a7ce279837465e591900def493fc9ec4f9c20273e57b90"
+}

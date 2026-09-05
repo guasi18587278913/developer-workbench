@@ -1,0 +1,43 @@
+{
+  "id": "4dd9f11f-fd26-4265-8927-c44d3d518854",
+  "title": "Data Storytelling",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "4dd9f11f-fd26-4265-8927-c44d3d518854",
+    "page_at_capture": 13,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/data-storytelling/poster/media-pipeline-v1/d4472ac46a616c525a8de14d01b5f9765811b2a6a05760da4776765fa8c1ac10"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:16.434976+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9eadc94ae13fd8f4e882321c528bc1f73df31615748d6744fa11745ae4b1db01",
+  "displayed_prompt_chars": 11781,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2d25fc98a89d4f5bba2f12488987a207c583b2e8e7c211258bde3672a9244c76",
+    "original_bytes": 134452,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 75870
+  },
+  "preview_sha256": "a2dba8bf5aeff86a198f14c624a15330c46ec5919a73f799bdb16db8d4fc9dd3"
+}

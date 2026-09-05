@@ -1,0 +1,43 @@
+{
+  "id": "e41d4175-33d0-4aac-8986-f6fa35411eb3",
+  "title": "Social Hangouts",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Community App",
+    "item_id": "e41d4175-33d0-4aac-8986-f6fa35411eb3",
+    "page_at_capture": 2,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/apps/social-hangouts/poster/media-pipeline-v1/d194ee3eca60a5387017600f3188f8fa84730429df09ccc331253a174aa3b9f5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:06.070275+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e82db8a8ac5d52e1dc2fa3be7958e01e506fe4a73f5def4176da2dec183dc5f7",
+  "displayed_prompt_chars": 32953,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c0725cfbac51ff71f8856b3027314fb0742603a4d666670b8c5aae66a4c391a7",
+    "original_bytes": 792503,
+    "original_dimensions": [
+      2048,
+      1536
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 61110
+  },
+  "preview_sha256": "83ef225b67502e8b8c0fecb29b93efa6aa10054d70d75d1a1e777cb55f37df7a"
+}

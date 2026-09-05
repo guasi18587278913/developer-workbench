@@ -1,0 +1,43 @@
+{
+  "id": "76cc56ac-4363-4612-ac27-80aa854721b2",
+  "title": "Technical Specifications",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Tabs",
+    "item_id": "76cc56ac-4363-4612-ac27-80aa854721b2",
+    "page_at_capture": 2,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sections/technical-specifications/preview/media-pipeline-v1/3febcbbe1122974325599a2e9cd9b212322def7195f8dd8792b10f2550864ba4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:30.877427+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b3f50bbf9347e38026ce4acda5951ff7d5c2402e22c02effa3efd25f0f903e32",
+  "displayed_prompt_chars": 13885,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e26e219388f87b76e0dbdd878b1055059b4146cf7a5781b5476d9710e479b301",
+    "original_bytes": 509582,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 14300
+  },
+  "preview_sha256": "65082e7cd203affb71a6c3623d6c18b2636220255fc0dfd58c36284100fd8060"
+}

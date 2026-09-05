@@ -1,0 +1,43 @@
+{
+  "id": "b3e64519-d48e-437e-948d-964ff02e161a",
+  "title": "Digital Reality",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Social Media",
+    "item_id": "b3e64519-d48e-437e-948d-964ff02e161a",
+    "page_at_capture": 1,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sections/digital-reality-hero/poster/media-pipeline-v1/dd22b6429f38a476ce622b54d8b909eafb86e95f3ccf39fddc06a8ab12354573"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:50.580462+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3ded3238cb58c0004e55fe1198d45f0852fa625f16f2af6a9aa0781ffa7bb5a0",
+  "displayed_prompt_chars": 4303,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ac2182b932bd1143bd9e25fed1dbd195639814f2a522dc88519f1f626d00e392",
+    "original_bytes": 434210,
+    "original_dimensions": [
+      1532,
+      1132
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      709
+    ],
+    "bytes": 40096
+  },
+  "preview_sha256": "4711d108bd3c3d166526401b77735e3aa10c7c109b5ad3c56511ec60c0a4f2d5"
+}

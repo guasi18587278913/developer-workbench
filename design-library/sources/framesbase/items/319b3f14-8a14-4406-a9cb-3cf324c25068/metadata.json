@@ -1,0 +1,43 @@
+{
+  "id": "319b3f14-8a14-4406-a9cb-3cf324c25068",
+  "title": "Stillmind",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "319b3f14-8a14-4406-a9cb-3cf324c25068",
+    "page_at_capture": 11,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/stillmind/poster/first-frame-v1/f7a2321a9524e739ff1e9ebaca82d306dc46575e79e7f218ea31f40782803c72"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:39.978954+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "8caa5f53a90ef80f9a7e28e6664037a22b2ea2e732792476ee40b95fd862fe3b",
+  "displayed_prompt_chars": 6025,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f7a2321a9524e739ff1e9ebaca82d306dc46575e79e7f218ea31f40782803c72",
+    "original_bytes": 69628,
+    "original_dimensions": [
+      1280,
+      940
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 46378
+  },
+  "preview_sha256": "4852ca89eed725dbafd51a78c86aed00e8198023eee5b186b818f967a31557b0"
+}

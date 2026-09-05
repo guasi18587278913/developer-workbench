@@ -1,0 +1,43 @@
+{
+  "id": "cf4e46ee-393a-4026-86ed-bba50edf1787",
+  "title": "Adaptive Learning",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Education",
+    "item_id": "cf4e46ee-393a-4026-86ed-bba50edf1787",
+    "page_at_capture": 15,
+    "position_at_capture": 10,
+    "preview_media_key": "media/motionsites/sites/adaptive-learning/poster/media-pipeline-v1/2e8453d5636caec1d389fe6b4e2d0f55e97588c72c6e3468b30fa2a786df408e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:11.734096+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "934ad7b5907070c20420eec3043fd63a6d3896c4594efcabe296abba7738a020",
+  "displayed_prompt_chars": 7826,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "949c786a644ab89e35e60ce1ac8812cca71457a681a216d316b5a5da73f08ce6",
+    "original_bytes": 78594,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 43538
+  },
+  "preview_sha256": "4890259cd303642cb77f293c7c08d8ff92970cd38d49e291c646f6275f735689"
+}

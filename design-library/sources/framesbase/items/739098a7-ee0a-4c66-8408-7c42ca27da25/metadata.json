@@ -1,0 +1,43 @@
+{
+  "id": "739098a7-ee0a-4c66-8408-7c42ca27da25",
+  "title": "BookedUp",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "739098a7-ee0a-4c66-8408-7c42ca27da25",
+    "page_at_capture": 5,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/bookedup/preview/media-pipeline-v1/f79dc0bdba325531ebb87ccea433a3c8e87d3855bc338c07920f915d6e50a7af"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:38.528754+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "33e2271537736b579888a4d34d57cb16fadc83da70b2f5469989329797334d2c",
+  "displayed_prompt_chars": 5529,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9446059740f868ef37784839434367552f6489af8cc727a0b63f591118ad81c2",
+    "original_bytes": 713236,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 16276
+  },
+  "preview_sha256": "34d7b377f088895d5928361b0355337c34e5c1117a79facc53296d1d31312b89"
+}

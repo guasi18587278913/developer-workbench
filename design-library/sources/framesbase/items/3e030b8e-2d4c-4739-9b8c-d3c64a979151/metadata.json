@@ -1,0 +1,43 @@
+{
+  "id": "3e030b8e-2d4c-4739-9b8c-d3c64a979151",
+  "title": "Arctic Lab",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "3e030b8e-2d4c-4739-9b8c-d3c64a979151",
+    "page_at_capture": 13,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/arctic-lab/poster/media-pipeline-v1/5f96033378348ad4351026d9a8795fefeede3db27e1c7460f685defcbb2f7a46"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:19.228777+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1373800c009f5ed28d971d891c609b0cb2930d2cf6fb1e61fe577b46ec48e830",
+  "displayed_prompt_chars": 10301,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c825e7e0be49cd0e20b4b7626eb6f0454d6676f677a99328223a8df98b0e0aae",
+    "original_bytes": 32870,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 18682
+  },
+  "preview_sha256": "69e8189f2b0fecd167dd4ed96dfcf76cd921b22f2abd5d52250d41c440e4d61d"
+}

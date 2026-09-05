@@ -1,0 +1,299 @@
+{
+  "mode": "retry",
+  "started_at": "2026-09-05T05:53:49.848297+00:00",
+  "attempted": [
+    {
+      "section": "sites",
+      "page": 1,
+      "position": 4,
+      "error": "ValueError: Unexpectedly short prompt"
+    },
+    {
+      "section": "sites",
+      "page": 4,
+      "position": 21,
+      "error": "KeyError: 'poster'"
+    },
+    {
+      "section": "sites",
+      "page": 8,
+      "position": 22,
+      "error": "KeyError: 'poster'"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 21,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 6,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 12,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 22,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 17,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 11,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 24,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 18,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 14,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 5,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 4,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 15,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 9,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 19,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 10,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 16,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 23,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 8,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 13,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 7,
+      "error": "Preview missing"
+    },
+    {
+      "section": "backgrounds",
+      "page": 1,
+      "position": 20,
+      "error": "Preview missing"
+    }
+  ],
+  "recovered": [
+    {
+      "id": "bg-332ed27a457e9a2e9ccf",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 21
+    },
+    {
+      "id": "bg-543222fd1939418f66dc",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 6
+    },
+    {
+      "id": "bg-780c2759a9c213f38109",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 12
+    },
+    {
+      "id": "bg-a74356487a65c1385e78",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 22
+    },
+    {
+      "id": "bg-8ce8168de194bd937b99",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 17
+    },
+    {
+      "id": "bg-d0f113a11b750eefc696",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 11
+    },
+    {
+      "id": "bg-cf678f75a9c0188f70ec",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 24
+    },
+    {
+      "id": "bg-4688951053cfe3a3578f",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 18
+    },
+    {
+      "id": "bg-8a4d62946a2d2795f04e",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 14
+    },
+    {
+      "id": "bg-d291bee4fe2ef9025fba",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 5
+    },
+    {
+      "id": "bg-04771790200510ff6409",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 4
+    },
+    {
+      "id": "bg-a0b29e5febb0f6c71d9f",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 15
+    },
+    {
+      "id": "bg-8d5c26fcabfdf9fb3314",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 9
+    },
+    {
+      "id": "bg-e9fe5ad122678c5a3140",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 19
+    },
+    {
+      "id": "bg-de7f03353eeccb103dbb",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 10
+    },
+    {
+      "id": "bg-d6825911ca55d6107b7b",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 16
+    },
+    {
+      "id": "bg-487e7043596090f2838a",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 23
+    },
+    {
+      "id": "bg-86add4352fc227463f6b",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 8
+    },
+    {
+      "id": "bg-0aa3da1cfbe0f92fd6ea",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 13
+    },
+    {
+      "id": "bg-0e4bdcc43e9db8cb9169",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 7
+    },
+    {
+      "id": "bg-e1f2818622089e0076d6",
+      "section": "backgrounds",
+      "page": 1,
+      "position": 20
+    }
+  ],
+  "remaining": [
+    {
+      "section": "sites",
+      "page": 1,
+      "position": 4,
+      "error": "ValueError: Unexpectedly short prompt"
+    },
+    {
+      "section": "sites",
+      "page": 4,
+      "position": 21,
+      "error": "RuntimeError: Content saved but preview is still missing"
+    },
+    {
+      "section": "sites",
+      "page": 8,
+      "position": 22,
+      "error": "RuntimeError: Content saved but preview is still missing"
+    }
+  ],
+  "finished_at": "2026-09-05T05:54:11.848547+00:00"
+}

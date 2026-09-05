@@ -1,0 +1,43 @@
+{
+  "id": "27f74be1-b12f-468d-a1ec-27d227d5423b",
+  "title": "FlowMate Carousal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Carousal",
+    "item_id": "27f74be1-b12f-468d-a1ec-27d227d5423b",
+    "page_at_capture": 2,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sections/flowmate-carousal/preview/media-pipeline-v1/db94dc9b66ee3cc8f9379cee7833d7454a22178ecfab07ac2242126f9b0221d7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:17.464209+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "515f0cb8f049ff50cd7398ca1ad4c4af532624c7a1dc8a8f5310865a73fd60d8",
+  "displayed_prompt_chars": 5263,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bdfea1f3a50d3cec4c43dc3ed0051915d991b822280ec220c80462e75eed7634",
+    "original_bytes": 1681178,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 29382
+  },
+  "preview_sha256": "f22e381564ed439b10e19b8b4234d3f99c170e7463fe54755d5cfbaf961b0e99"
+}

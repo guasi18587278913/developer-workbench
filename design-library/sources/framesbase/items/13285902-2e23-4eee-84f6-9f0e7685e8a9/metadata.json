@@ -1,0 +1,43 @@
+{
+  "id": "13285902-2e23-4eee-84f6-9f0e7685e8a9",
+  "title": "Equilibrium",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "13285902-2e23-4eee-84f6-9f0e7685e8a9",
+    "page_at_capture": 7,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/equilibrium/preview/media-pipeline-v1/d262ec41b1a8550d30ee7d644563083f6ae1b16afee2a1e75f0e71501ad3176d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:08.572732+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5da5c38222bf3e71733675c23d39e98f2f156684febef1e6b0821faade0c27e0",
+  "displayed_prompt_chars": 4787,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a56e6cb9dff83daa6dc01d4a104ca19c8d249828ca7c92161d104fdeb19fb7c4",
+    "original_bytes": 1060990,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 21874
+  },
+  "preview_sha256": "b9b195ffaa977d652ec05c565377c705b06f1882ccfae930ae8a8e1ce05dc273"
+}

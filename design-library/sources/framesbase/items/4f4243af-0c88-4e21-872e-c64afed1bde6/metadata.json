@@ -1,0 +1,43 @@
+{
+  "id": "4f4243af-0c88-4e21-872e-c64afed1bde6",
+  "title": "Intelligence Layer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "4f4243af-0c88-4e21-872e-c64afed1bde6",
+    "page_at_capture": 13,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/intelligence-layer/poster/media-pipeline-v1/9b8e9db2d38190fdef3b364266dec61156f25978b576ddf0b934311c8fde7d61"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:53.917714+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c604cf57aceff45ac77ec77b990aeea449dae1b781bea927a25b8c0028db0f7c",
+  "displayed_prompt_chars": 11825,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "630319780a15c0bad228a3ffbbd3e4d1da35148d6ebcafbdd9e2044b6be34a54",
+    "original_bytes": 35284,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 20490
+  },
+  "preview_sha256": "8471409a28ff72dc77a1800457084bcb667134e5b3a04bdff1863b66bcd1e6a8"
+}

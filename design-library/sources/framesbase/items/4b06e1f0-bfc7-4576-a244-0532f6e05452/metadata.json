@@ -1,0 +1,43 @@
+{
+  "id": "4b06e1f0-bfc7-4576-a244-0532f6e05452",
+  "title": "Northstar",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "4b06e1f0-bfc7-4576-a244-0532f6e05452",
+    "page_at_capture": 1,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/northstar/poster/media-pipeline-v1/3cfcfe49b5674e28b26988b482e37487a979dd88b27755dc7b332d884d73c26e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:27.335331+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "34f0cbc726414c5578b22a0574e46f14c68a15cd62d16b4f1b70bdc9381e5479",
+  "displayed_prompt_chars": 11589,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "93cc5ed139e56d844d39080784bb9d0b5bc33a4a1ecda0fde3c4e7c084147cef",
+    "original_bytes": 79470,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 44788
+  },
+  "preview_sha256": "f4ca9a1f69f63b1efc05ad42e65e79f218bea1bdac60d5d1fcdb78fcc404ef83"
+}

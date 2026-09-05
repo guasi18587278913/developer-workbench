@@ -1,0 +1,43 @@
+{
+  "id": "85a94eb4-f04d-444d-860f-875681a42d6f",
+  "title": "DesignPro Academy",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "85a94eb4-f04d-444d-860f-875681a42d6f",
+    "page_at_capture": 7,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/designpro-hero/poster/media-pipeline-v1/9bc8afea822e99dbfbadf4dd21a9dc3e13f07abe1cec883f7333cfec0399c1de"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:36.046322+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "06a79839ee295e9e0a8b7819fdb59d007c91062f0210f6955156bcf0662912aa",
+  "displayed_prompt_chars": 3038,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "725a227c8edd55466ad3ad84d80f6fbbcec7b58a3c2d80c7598cd18523793912",
+    "original_bytes": 947385,
+    "original_dimensions": [
+      1920,
+      1363
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      682
+    ],
+    "bytes": 32808
+  },
+  "preview_sha256": "73b187639058c0938f80f1435d543f049d5f5612c426f281c26ed0483db82a1e"
+}

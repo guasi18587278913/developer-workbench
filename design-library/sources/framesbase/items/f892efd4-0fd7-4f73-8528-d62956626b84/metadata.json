@@ -1,0 +1,43 @@
+{
+  "id": "f892efd4-0fd7-4f73-8528-d62956626b84",
+  "title": "Glitch Pulse",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "f892efd4-0fd7-4f73-8528-d62956626b84",
+    "page_at_capture": 11,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/glitch-pulse/preview/media-pipeline-v1/19a2b6a3158bcfd31b1f61a00928b4de806a14c82938210f65f0ea179e4a2857"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:28.578148+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7175234763b0dd7e394688bfceadeabac2fc157987904c17ae818301ef1d98d0",
+  "displayed_prompt_chars": 16376,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4a9c17ff6faf6e4252a50b71fb4188f28338e743c8b75925cbbe9e62f630f493",
+    "original_bytes": 1724592,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 30110
+  },
+  "preview_sha256": "3dcae0fe07a6bbc07b8288a95d06e33e306d862cf63054b06b0eeb5be831d798"
+}

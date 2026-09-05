@@ -1,0 +1,43 @@
+{
+  "id": "c285cfa5-173f-4bf1-8fa6-afa966cc2019",
+  "title": "Innovation Lab",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Technology",
+    "item_id": "c285cfa5-173f-4bf1-8fa6-afa966cc2019",
+    "page_at_capture": 14,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/innovation-lab/poster/media-pipeline-v1/aa12f02a1ee1e35d8ad61c5cdefa07fe76df0282f94453ab30fff1c228cd846b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:31.602646+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "90a5002fb4610d19cfeb39dfb7f37bcd8386892f1a66b49931a4cd370a4eeefa",
+  "displayed_prompt_chars": 6911,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b3bbb157359497ea1ec1bc029c9219879c6177396fc1b7a42eccf9d1ba2e4f26",
+    "original_bytes": 64684,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 38758
+  },
+  "preview_sha256": "115c797d95f61c39fd7ed95fe028c59a4a19636e3f5e76e2d487cb8695630f61"
+}

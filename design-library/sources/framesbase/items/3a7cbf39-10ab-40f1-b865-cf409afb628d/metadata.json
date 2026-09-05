@@ -1,0 +1,43 @@
+{
+  "id": "3a7cbf39-10ab-40f1-b865-cf409afb628d",
+  "title": "IntelligentX",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "3a7cbf39-10ab-40f1-b865-cf409afb628d",
+    "page_at_capture": 7,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/intelligentx/preview/media-pipeline-v1/86113cc7f1bde8326152d4ba52ebb017949b6f15a32085ff9f931cc341909a06"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:50.294504+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "290841aaf028b821eebcff51ef7fca9947566ea967b269ab51edfd499845358a",
+  "displayed_prompt_chars": 4182,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f389ceba9f4a6a6089558f6dca5edb2f66b128f3aa486a9153cdb594fc401bc2",
+    "original_bytes": 1987630,
+    "original_dimensions": [
+      640,
+      462
+    ],
+    "original_frames": 63,
+    "dimensions": [
+      640,
+      462
+    ],
+    "bytes": 33398
+  },
+  "preview_sha256": "b915be539ca931cd343dac01036a656d650c47605a65aacd4e13a4e5ab397ff2"
+}

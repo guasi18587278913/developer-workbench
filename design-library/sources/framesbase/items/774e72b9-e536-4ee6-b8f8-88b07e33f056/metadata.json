@@ -1,0 +1,43 @@
+{
+  "id": "774e72b9-e536-4ee6-b8f8-88b07e33f056",
+  "title": "Liquid Glass CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "774e72b9-e536-4ee6-b8f8-88b07e33f056",
+    "page_at_capture": 4,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sections/liquid-glass-cta/preview/media-pipeline-v1/849995bbf851efd843b3a3a9cc8eaafa3671b52a614b99b577b00923ac20e675"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:12.845565+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c2b930af8e18e1793374297475e356008a360bdf3138298ca9ef3e6c7b5a2050",
+  "displayed_prompt_chars": 10077,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "55ca0102de38919be684e8c7576cc383fed09973fac455b763bdee6547e65d34",
+    "original_bytes": 1017062,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 14628
+  },
+  "preview_sha256": "b0837e5de577e3bd563631fb9574cfebcb3c6e335ef88526f795ac66a67ef1b6"
+}

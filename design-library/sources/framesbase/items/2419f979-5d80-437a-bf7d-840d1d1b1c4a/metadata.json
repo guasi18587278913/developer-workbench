@@ -1,0 +1,43 @@
+{
+  "id": "2419f979-5d80-437a-bf7d-840d1d1b1c4a",
+  "title": "Jewelry Store",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "2419f979-5d80-437a-bf7d-840d1d1b1c4a",
+    "page_at_capture": 11,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/jewelry-store/preview/media-pipeline-v1/b41011edf89be48aa5a676a055edc54cb9bbb70ec652144a90b954d2d5270738"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:30.879099+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "10397fe3a8d763753a8aa59837fa0a5869f30dce5ddd87a550630a3625e58ed0",
+  "displayed_prompt_chars": 21521,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "71fbac706a021372298dc11389593520c4c5a2471af142239bdb080611ed6b36",
+    "original_bytes": 600144,
+    "original_dimensions": [
+      1262,
+      925
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      704
+    ],
+    "bytes": 33766
+  },
+  "preview_sha256": "6b8f59fa81ee8ed802c1c586d2b8a0401e0d565446fde065dadc781015249272"
+}

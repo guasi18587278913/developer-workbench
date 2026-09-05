@@ -1,0 +1,43 @@
+{
+  "id": "cf7111be-de60-494b-b49b-befbdd556e0a",
+  "title": "Growth Marketing SaaS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "cf7111be-de60-494b-b49b-befbdd556e0a",
+    "page_at_capture": 8,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/growth-marketing-saas/preview/media-pipeline-v1/c54d2086c46ded72e3910d626c8a3452621ba0c6c4bcfb5d50d87847dce37a34"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:27.777851+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "45d46de6a6a9cad85c5d9950e443cd69aff9e509393977ad37cefb5fd9b04449",
+  "displayed_prompt_chars": 15020,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6cb9c2a78b88fa49d6b733a572472a853a6ce256a6d4d72cf65c77a7ad0f9bd8",
+    "original_bytes": 2009134,
+    "original_dimensions": [
+      640,
+      458
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      458
+    ],
+    "bytes": 41702
+  },
+  "preview_sha256": "4eca58f7de0196b9d5ed9902846eeb33bdb22ae305e913bcfa5f24459b1e7324"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "22ab490d-62ff-4cf1-9794-baa8d593fd03",
+  "title": "Daisy Sweet",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Product",
+    "item_id": "22ab490d-62ff-4cf1-9794-baa8d593fd03",
+    "page_at_capture": 4,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sections/daisy-sweet/preview/media-pipeline-v1/81fc27337402614f1866c1d6d7842646edea10002224951d15677da1425e92ec"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:55.690237+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bea66590bc08a5d77b70ed8f6bc7c55e7ee0bd9c67393cdf08edf23d3ca41c3f",
+  "displayed_prompt_chars": 9664,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1eb1a2b4c17bd86cbfb919e8fc4ab6e096f7a352017f4978de154fa975d8680f",
+    "original_bytes": 1672752,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 67,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 23004
+  },
+  "preview_sha256": "275ac850c26d52022d2a8f9b88b8b8e1c4d3849424526df3fb18daa1230cc2de"
+}

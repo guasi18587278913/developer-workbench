@@ -1,0 +1,43 @@
+{
+  "id": "54078ffa-0e18-4d8d-a5f2-02a7c89c8f02",
+  "title": "Innovation",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "54078ffa-0e18-4d8d-a5f2-02a7c89c8f02",
+    "page_at_capture": 5,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/sites/innovation-landing/poster/media-pipeline-v1/6a39516e3a866c79ada327574e974658093ee474983d0d159b2369175a3793cc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:55.060786+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9e4779f7ba0d275c370964366f30e0c592fbd6c3dd50666c286b1c833c3d22da",
+  "displayed_prompt_chars": 8996,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "58ae770aeee33d5480502b78156a683011bd296b54a2af1bea5cc7c8a0f281a1",
+    "original_bytes": 404947,
+    "original_dimensions": [
+      964,
+      1724
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      537,
+      960
+    ],
+    "bytes": 54786
+  },
+  "preview_sha256": "1a42a6c8701269073194b1a457ead41934475fcbf2ba3608acbf3fb81bb50d60"
+}

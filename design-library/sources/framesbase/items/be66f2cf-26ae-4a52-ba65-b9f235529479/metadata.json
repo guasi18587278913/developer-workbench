@@ -1,0 +1,43 @@
+{
+  "id": "be66f2cf-26ae-4a52-ba65-b9f235529479",
+  "title": "Nexora Automation",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "be66f2cf-26ae-4a52-ba65-b9f235529479",
+    "page_at_capture": 6,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/nexora-hero/poster/media-pipeline-v1/678d12200818b74a445720ff900999d1cfff2736d21bfae4d189739d320e5487"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:13.042455+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "74c6b26bd78c1b439dc2eb30bbb16a70f4d22d42c3acd3999616d2e8d8822f84",
+  "displayed_prompt_chars": 5344,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0c36e05e230a641f65ecab0644988a3ae124dfcb1dcf2742c43ed9b57a85d6c0",
+    "original_bytes": 1663142,
+    "original_dimensions": [
+      1780,
+      1234
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      666
+    ],
+    "bytes": 59758
+  },
+  "preview_sha256": "7261c57844bce54656f96d93f2ea880a75652116afa2d03eabde39fd9cf82bd5"
+}

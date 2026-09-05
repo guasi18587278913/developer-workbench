@@ -1,0 +1,43 @@
+{
+  "id": "3aa2483a-377c-4adb-a2e7-16ea0c1f8f0c",
+  "title": "Zenith Footer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer Section",
+    "item_id": "3aa2483a-377c-4adb-a2e7-16ea0c1f8f0c",
+    "page_at_capture": 1,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sections/zenith-footer/poster/media-pipeline-v1/62e49ef51ef11972519913dbe443c872c168ff9510a52993c5f08d62d5c2c727"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:48.222054+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "01f56f10e64a04921bd0494c506be942cdf316157123c40ee830c209dbcd65a8",
+  "displayed_prompt_chars": 4256,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e2ecc0882e2a26034f67ae80aa0406245b90a01ffffbfe1f72b87495ff97b930",
+    "original_bytes": 416193,
+    "original_dimensions": [
+      1834,
+      1350
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 42388
+  },
+  "preview_sha256": "6b3db309c12fcc82de4e0562610c442d5595e393fdc8689450dad06d32d366e5"
+}

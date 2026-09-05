@@ -1,0 +1,43 @@
+{
+  "id": "2b73a953-37be-4603-8326-908358c4456f",
+  "title": "Blog Showcase",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Blog",
+    "item_id": "2b73a953-37be-4603-8326-908358c4456f",
+    "page_at_capture": 1,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sections/blog-showcase/preview/media-pipeline-v1/f8bf2393030fa29149f9fc8284f102b7191964b411817350cf07132700ee53b9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:03.472358+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "664583bf801b9dc414f6b1dc33170a91894cca333342bf58b49b2266dfbe0e7e",
+  "displayed_prompt_chars": 4151,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e8f87d21d32e30f6f09eba35590a9d3df777f443994b34b2ad5c9544cd473c95",
+    "original_bytes": 1066046,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 22060
+  },
+  "preview_sha256": "fe5780e0c87f2316f08793a3015c577f8d418cf542c0bfb55e77a85a4a8699f7"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "809189f2-a6b3-4e2e-a4a6-1da16fb57d1e",
+  "title": "Ascera AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI Technology",
+    "item_id": "809189f2-a6b3-4e2e-a4a6-1da16fb57d1e",
+    "page_at_capture": 2,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/ascera-ai/poster/media-pipeline-v1/1343f044d2e8c42a6c09f7f28faa9b2bdf2b9ea6bf7c2a3b2b292349d4cb0a3a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:03.373980+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a1e8028ee8c7fa172af97c303e0e72e78bee39f1947c484141f54ffd0e5dfcbb",
+  "displayed_prompt_chars": 30309,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b44c8e196796983d987682eeee2d35729d735f1983d3224255ef3c9d9c00e223",
+    "original_bytes": 122742,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 68078
+  },
+  "preview_sha256": "9bb4cb3730fc734fe8a06bea565ab1660c2c4e3cd3745e20d19f653204e371aa"
+}

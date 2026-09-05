@@ -1,0 +1,43 @@
+{
+  "id": "c025e92d-a0de-4e61-a5ea-eda32c8bdd28",
+  "title": "Feedback Slider",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Slider",
+    "item_id": "c025e92d-a0de-4e61-a5ea-eda32c8bdd28",
+    "page_at_capture": 2,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sections/feedback-slider/preview/media-pipeline-v1/203cf2665d23ed2dfe37494758e09f9124fd88d3117d69a09e75a32bb4216c06"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:57.915380+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d2d5e9d6131d465e3258e40c62e413e91ab0ffa94a372ffda68f8c2bd7288ea7",
+  "displayed_prompt_chars": 7247,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8242944dc4a32cd2465351bf74237081f88e673408a96f082652ef176cc8d46b",
+    "original_bytes": 370944,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 9748
+  },
+  "preview_sha256": "f7ccc6725d3692d8d350b768c12a50ea8dade1380377d369f37508f0cde5723f"
+}

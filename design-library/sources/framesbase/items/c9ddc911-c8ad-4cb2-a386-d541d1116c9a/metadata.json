@@ -1,0 +1,43 @@
+{
+  "id": "c9ddc911-c8ad-4cb2-a386-d541d1116c9a",
+  "title": "TrustFlow",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Finance",
+    "item_id": "c9ddc911-c8ad-4cb2-a386-d541d1116c9a",
+    "page_at_capture": 14,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/trustflow/poster/media-pipeline-v1/c01a95419ffb56c1dde1a05f8b5e108268656f1d893644a88c62066729d53137"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:27.346392+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a76aef2ff45847a466cd6b422911a5da11af16de099c68c6e43cc1da1dbd35db",
+  "displayed_prompt_chars": 6275,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f56b7076586ea618cd439fd7d63cbe0d6e3b1125a89b8b164cf117a02e396443",
+    "original_bytes": 64910,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 35432
+  },
+  "preview_sha256": "e12699720e21f097ad8079f0ef6c14b64c523f10cce061d0d819bd1500f75627"
+}

@@ -1,0 +1,716 @@
+# 设计素材目录
+
+这是轻量标题目录。精确筛选请使用仓库中的检索命令；完整提示词按需读取。
+
+## 网站整页（349）
+
+- [Cosmic](sources/framesbase/items/0152f0b3-14b7-4095-8397-e9cba9b67849/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 · prompt
+- [Minimal Workflow SaaS](sources/framesbase/items/018266d8-89e5-44c6-8051-3d7bf08eda26/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Urban Jungle](sources/framesbase/items/0191170f-7b80-4f99-9d73-d504767b62fa/prompt.md) · 网站整页 Landing Page 深色 暗色 绿色 黑色 黄色 灰色 · prompt
+- [Health Portal](sources/framesbase/items/01f8d904-c8f5-4e08-b1ac-c4450bcc6b51/prompt.md) · 网站整页 Landing Page 健康 浅色 明亮 白色 红色 灰色 · prompt
+- [Agent Crew](sources/framesbase/items/04269b90-02f7-4f74-a320-f6b606d69044/prompt.md) · 网站整页 AI 浅色 明亮 白色 橙色 · prompt
+- [Routine Coach](sources/framesbase/items/047e2722-0876-4803-8529-41425ac10c0b/prompt.md) · 网站整页 Wellness 身心健康 混合明暗 蓝色 白色 · prompt
+- [3D Bloom Layer](sources/framesbase/items/054b79f3-4db6-42bb-b8b3-4cd6f69c30a5/reference.md) · 网站整页 Analytics 三维 立体 混合明暗 青色 · source-link
+- [Futuristic Eyewear](sources/framesbase/items/06039526-78c5-43fc-b62a-e0a8736456bc/prompt.md) · 网站整页 Ecommerce 电商 商城 混合明暗 灰色 白色 · prompt
+- [Creative Studio](sources/framesbase/items/07a691b2-5ebf-445e-8283-c8d9bbe390e5/prompt.md) · 网站整页 Agency 工作室 创意 浅色 明亮 白色 灰色 · prompt
+- [Luxury Hero](sources/framesbase/items/08596d45-9af3-417b-9f46-9544893f2f05/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 红色 橙色 · prompt
+- [Prisma Creative Studio](sources/framesbase/items/08d773cd-ac28-492f-8116-9d3abb0478b1/prompt.md) · 网站整页 Landing Page 创意 深色 暗色 黑色 橙色 · prompt
+- [Mostar Guide](sources/framesbase/items/0975afb7-d08e-42cb-8b80-bfb1b7b5aa5f/prompt.md) · 网站整页 Travel 旅行 混合明暗 绿色 灰色 蓝色 · prompt
+- [Ink Dynasty](sources/framesbase/items/0982d8a0-c576-45de-afea-97ea584563f4/prompt.md) · 网站整页 Culture 浅色 明亮 灰色 白色 · prompt
+- [Skybridge 404](sources/framesbase/items/0a943fe4-447d-4417-8fba-b6bca60f27cb/prompt.md) · 网站整页 404 混合明暗 蓝色 白色 · prompt
+- [E-commerce Website](sources/framesbase/items/0ac09789-7e7f-4235-b4f7-59aa044caee8/prompt.md) · 网站整页 Landing Page 电商 商城 浅色 明亮 灰色 白色 橙色 · prompt
+- [Neural Interface](sources/framesbase/items/0c4c0ad2-ff02-4422-b1a4-f72d7ac5d9a6/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 绿色 · prompt
+- [Sync AI](sources/framesbase/items/0c662d51-9352-4e48-9711-7196e9af7742/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 绿色 白色 · prompt
+- [Form Study](sources/framesbase/items/0d18179d-3700-462d-8568-bbafe72b8323/prompt.md) · 网站整页 Art 表单 艺术 深色 暗色 黑色 灰色 · prompt
+- [Nimbus Grid](sources/framesbase/items/0d647e69-06a1-4653-bcb9-a5a400aad8b9/prompt.md) · 网站整页 Landing Page 混合明暗 橙色 黄色 · prompt
+- [Performance Run](sources/framesbase/items/0d9c6738-e99c-484a-bbb0-4ab5f019a1fe/prompt.md) · 网站整页 Fitness 混合明暗 灰色 青色 黑色 · prompt
+- [Sea Serenade](sources/framesbase/items/0fb9b45c-c7fb-4abb-9fd8-b56135da07af/prompt.md) · 网站整页 Lifestyle 混合明暗 橙色 灰色 白色 · prompt
+- [Product Studio](sources/framesbase/items/0ff56575-1b56-4018-a871-d8bb5d48f961/prompt.md) · 网站整页 Agency Website 工作室 混合明暗 灰色 蓝色 · prompt
+- [Space Voyage](sources/framesbase/items/10084ab3-f346-462d-a061-b0fe274edba4/prompt.md) · 网站整页 Landing Page 混合明暗 橙色 灰色 · prompt
+- [Wellness Hero](sources/framesbase/items/1090915f-3612-42d9-8283-34822366ee2f/prompt.md) · 网站整页 Hero 首屏 主视觉 身心健康 混合明暗 青色 白色 · prompt
+- [Planetary Pulse](sources/framesbase/items/127a6c46-776c-4ceb-841e-414b93844084/prompt.md) · 网站整页 Science 浅色 明亮 灰色 白色 · prompt
+- [Creative Matter](sources/framesbase/items/1322193f-9344-4844-a511-e488e071e33c/prompt.md) · 网站整页 Creative 创意 深色 暗色 蓝色 黑色 · prompt
+- [Codeveil](sources/framesbase/items/132802df-2dc9-45ec-a69f-7c743bdc1f34/prompt.md) · 网站整页 Developer 开发者 浅色 明亮 白色 · prompt
+- [Equilibrium](sources/framesbase/items/13285902-2e23-4eee-84f6-9f0e7685e8a9/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Logoisum Video Agency](sources/framesbase/items/18063261-0f57-4627-80bb-d5de8d98be05/prompt.md) · 网站整页 Agency 工作室 浅色 明亮 蓝色 灰色 白色 · prompt
+- [Bionova Biotech](sources/framesbase/items/183981b4-0f68-4471-88f5-3d6bf03c4f2b/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Nexus IT Solutions](sources/framesbase/items/19d7954d-5c2c-47df-b9a3-8f9d50400451/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 蓝色 · prompt
+- [Liquid Glass Agency](sources/framesbase/items/19fb254c-1e7a-4897-bc2d-a5ff350f7ac6/prompt.md) · 网站整页 Landing Page 工作室 深色 暗色 黑色 灰色 · prompt
+- [Build With Us](sources/framesbase/items/1c65a19b-c091-4f80-8d2a-7700573f1b9b/prompt.md) · 网站整页 Contact us 浅色 明亮 灰色 白色 · prompt
+- [Interactive Discovery](sources/framesbase/items/1cf51035-b2fb-4b70-b665-8b2763f0a2df/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 红色 · prompt
+- [Futuristic Cinematic](sources/framesbase/items/1d67a09c-c7d9-4322-b765-dcd9f754f577/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Investment Gate](sources/framesbase/items/1daf8483-ff23-4af5-a9e3-decc5be2d7e5/prompt.md) · 网站整页 Landing Page 深色 暗色 灰色 蓝色 黑色 · prompt
+- [Mindloop Landing](sources/framesbase/items/1ebbc0e8-993f-4591-8982-14a64aa52ad5/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 灰色 · prompt
+- [Data Relay](sources/framesbase/items/1efb915f-a306-4066-a22d-7058a1567334/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 黑色 灰色 · prompt
+- [EcoVolta](sources/framesbase/items/20709516-f309-426f-af32-8e42c8e819ac/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 绿色 白色 · prompt
+- [Bold Portfolio Hero](sources/framesbase/items/20880223-c2cd-47bf-b8c5-006829ec39a8/prompt.md) · 网站整页 Portfolio 首屏 主视觉 个人作品集 混合明暗 橙色 · prompt
+- [Nickel Payments](sources/framesbase/items/20d2a860-b294-4120-8032-2ff0f2e79f41/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 橙色 · prompt
+- [Model Infrastructure](sources/framesbase/items/20f8dc59-34e8-4c42-b7ee-7351585f3353/prompt.md) · 网站整页 Developer Platform 开发者 深色 暗色 黑色 灰色 蓝色 · prompt
+- [Glassmorphism Agency Hero](sources/framesbase/items/21fddb29-22c2-4a2b-98ae-9f3eca155455/prompt.md) · 网站整页 Agency 首屏 主视觉 工作室 深色 暗色 黑色 灰色 · prompt
+- [Integration SaaS](sources/framesbase/items/222d5740-9056-41ba-bed0-9920dabcfe8c/prompt.md) · 网站整页 Hero 首屏 主视觉 软件服务 混合明暗 粉色 灰色 · prompt
+- [Eco Intelligence](sources/framesbase/items/2239e0a4-2fde-4f57-b7a4-9eb10a4578c3/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Finlytic AI Agent](sources/framesbase/items/2240048e-a081-4edc-b744-b9731ba7a7d4/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 蓝色 紫色 · prompt
+- [Jewelry Store](sources/framesbase/items/2419f979-5d80-437a-bf7d-840d1d1b1c4a/prompt.md) · 网站整页 Ecommerce 电商 商城 混合明暗 橙色 白色 · prompt
+- [Digitwist AI Builder](sources/framesbase/items/25bb4b63-2ffc-463f-b203-8885d84bf16b/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 蓝色 · prompt
+- [Art Landing](sources/framesbase/items/288baab1-70c0-4386-b174-66ec4854450e/prompt.md) · 网站整页 Landing Page 艺术 深色 暗色 橙色 · prompt
+- [AI Workflow Hero](sources/framesbase/items/28e2a619-ea11-4143-b8a7-8aef4e4de740/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 绿色 橙色 白色 黄色 · prompt
+- [OYLA](sources/framesbase/items/2926b160-b146-49bb-b1f8-d92e8d6f5676/prompt.md) · 网站整页 Ecommerce 电商 商城 浅色 明亮 白色 灰色 · prompt
+- [3D Jack Portfolio](sources/framesbase/items/29af4f43-2758-4c92-9e0b-43707fdc8f49/prompt.md) · 网站整页 Portfolio 个人作品集 三维 立体 深色 暗色 黑色 灰色 粉色 · prompt
+- [Book Hero](sources/framesbase/items/29e21ea6-3b85-459a-bd3e-7d4e6a2d2fe9/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 橙色 · prompt
+- [Scaling Platform](sources/framesbase/items/2d182339-975a-4a63-b5c1-24656e3d9eff/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Evergreen Finance](sources/framesbase/items/2dd33d25-fbda-4705-8061-b14462c47f8b/prompt.md) · 网站整页 Fintech 金融科技 浅色 明亮 白色 灰色 · prompt
+- [AI Interface](sources/framesbase/items/2e0b73b0-7b5b-47ff-aa35-24423fc48f9f/prompt.md) · 网站整页 Landing Page 混合明暗 蓝色 青色 · prompt
+- [Organic Odyssey](sources/framesbase/items/2facb1c5-7e7f-475b-a6cb-4b58bde1b33f/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Agent Wave](sources/framesbase/items/30fd89b1-b165-41d2-bacf-c49f1fc479ab/prompt.md) · 网站整页 AI 深色 暗色 灰色 黑色 · prompt
+- [Stillmind](sources/framesbase/items/319b3f14-8a14-4406-a9cb-3cf324c25068/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 蓝色 粉色 · prompt
+- [VertexAI Hero](sources/framesbase/items/31ce4379-2da0-44d3-b9a1-416ef831b3a2/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 橙色 · prompt
+- [Buzzentic Agency](sources/framesbase/items/31e620ae-b45c-4254-a5a9-7c163c11f9f5/prompt.md) · 网站整页 Agency 工作室 深色 暗色 黑色 灰色 · prompt
+- [Tokyo Nocturne](sources/framesbase/items/3391516a-2ff0-4ad4-8aee-89acbfbae077/prompt.md) · 网站整页 Lifestyle 深色 暗色 灰色 黑色 · prompt
+- [Orbit Web3](sources/framesbase/items/342e272a-3039-4b73-a678-cc3e3a5b5361/prompt.md) · 网站整页 Web3 深色 暗色 黑色 灰色 青色 · prompt
+- [RIVR DeFi](sources/framesbase/items/34844aec-9b9e-4a8c-ab41-3b9b3e5561aa/prompt.md) · 网站整页 Landing Page 浅色 明亮 灰色 白色 · prompt
+- [Remote Dev Collective](sources/framesbase/items/3571697c-aa44-4764-aac3-44c6b2a1a05a/prompt.md) · 网站整页 Agency Website 工作室 深色 暗色 紫色 黑色 · prompt
+- [Scenic Travel](sources/framesbase/items/360e0f1d-af3a-4b32-843c-71690e95202f/prompt.md) · 网站整页 Landing Page 旅行 浅色 明亮 白色 橙色 · prompt
+- [Synth Mode](sources/framesbase/items/38aba76a-a12d-4d8a-a8c1-919c9b030157/prompt.md) · 网站整页 Fashion 时尚 浅色 明亮 白色 灰色 · prompt
+- [Skyflora](sources/framesbase/items/3958342c-d2b0-45ac-bf03-3ece33eca11b/prompt.md) · 网站整页 Creative 创意 混合明暗 蓝色 · prompt
+- [IntelligentX](sources/framesbase/items/3a7cbf39-10ab-40f1-b865-cf409afb628d/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Orbit Engineers](sources/framesbase/items/3b161556-fdf7-453e-869e-474994785681/prompt.md) · 网站整页 Agency 工作室 深色 暗色 灰色 黑色 蓝色 橙色 · prompt
+- [AI Automation](sources/framesbase/items/3b993816-576e-43fa-bc2d-b4178087fcdf/prompt.md) · 网站整页 Landing Page 混合明暗 灰色 · prompt
+- [Global Hubs](sources/framesbase/items/3bc0da03-c46d-4969-a170-0a01da933386/prompt.md) · 网站整页 Agency 工作室 浅色 明亮 白色 橙色 · prompt
+- [CodeNest Coding Platform](sources/framesbase/items/3bcacb1b-bb2b-42c3-881f-77a543c509fd/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 灰色 · prompt
+- [Mindora](sources/framesbase/items/3c6b1c10-2ed3-4f70-8696-17dc413136f4/prompt.md) · 网站整页 Wellness 身心健康 浅色 明亮 白色 灰色 · prompt
+- [Acreage Farming](sources/framesbase/items/3c8f451f-9163-4426-a00b-c670a8dfc6d2/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 绿色 灰色 · prompt
+- [Arctic Lab](sources/framesbase/items/3e030b8e-2d4c-4739-9b8c-d3c64a979151/prompt.md) · 网站整页 Portfolio 个人作品集 浅色 明亮 灰色 白色 · prompt
+- [Coastal Estate](sources/framesbase/items/3eae252c-682c-4115-958d-f4970123c69d/prompt.md) · 网站整页 Real Estate 混合明暗 橙色 白色 青色 · prompt
+- [Velorix IIC](sources/framesbase/items/3ef61078-b239-4c3e-adb3-cbcec1fcb9bf/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 紫色 灰色 · prompt
+- [Solar Energy Hero](sources/framesbase/items/3f3c5354-832c-40a2-9b4a-da06b857e72e/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 灰色 黑色 · prompt
+- [Personal Showcase](sources/framesbase/items/3f621e4f-d94e-454d-a045-6f59cbaa6518/prompt.md) · 网站整页 Portfolio 个人作品集 混合明暗 灰色 黑色 · prompt
+- [Wanderful Hero](sources/framesbase/items/40d4dd6d-39ee-4c87-ac03-bbde9a56b92e/prompt.md) · 网站整页 Travel 首屏 主视觉 旅行 混合明暗 青色 黑色 绿色 灰色 · prompt
+- [Mindloop](sources/framesbase/items/4363376d-b968-4fe9-8f35-1d04a6b0def8/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 蓝色 紫色 白色 · prompt
+- [Editorial Eyewear](sources/framesbase/items/43dfd104-a10a-4abd-a552-0fd927de2e92/prompt.md) · 网站整页 Fashion 编辑 杂志 时尚 浅色 明亮 灰色 黄色 白色 · prompt
+- [NovaDesk Signup](sources/framesbase/items/43ee8f49-c39c-4b87-9919-5ba3b5fb677b/prompt.md) · 网站整页 Signup 注册 表单 深色 暗色 红色 黑色 · prompt
+- [Layered Depth](sources/framesbase/items/44e96e6c-04fd-49c4-a43a-4a6af311fb84/prompt.md) · 网站整页 Landing Page 混合明暗 黄色 白色 灰色 · prompt
+- [Web3 EOS Hero](sources/framesbase/items/460357e5-3cdd-4895-a38a-8160eb86e221/prompt.md) · 网站整页 Web3 首屏 主视觉 深色 暗色 黑色 蓝色 · prompt
+- [Waitlist Hero](sources/framesbase/items/4765c768-bc52-486b-bddf-5fba1c74d7e7/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 橙色 灰色 · prompt
+- [Bloom AI](sources/framesbase/items/4823a413-c013-43e7-a979-c9ee61b4af12/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 绿色 · prompt
+- [Wealthcore](sources/framesbase/items/49f00ed8-33ca-4ee8-90b1-ac041a37635e/prompt.md) · 网站整页 Fintech 金融科技 深色 暗色 黑色 灰色 · prompt
+- [Framelix 3D Studios](sources/framesbase/items/49faf7a1-62f5-4e48-8a07-5e907d3525bf/prompt.md) · 网站整页 Agency 工作室 三维 立体 深色 暗色 黑色 蓝色 · prompt
+- [ClearInvoice SaaS Hero](sources/framesbase/items/4a6b9be7-dd41-4201-8881-30439fa2935b/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 深色 暗色 黑色 灰色 · prompt
+- [Northstar](sources/framesbase/items/4b06e1f0-bfc7-4576-a244-0532f6e05452/prompt.md) · 网站整页 Agency 工作室 混合明暗 蓝色 灰色 青色 黄色 · prompt
+- [Inner Quest](sources/framesbase/items/4b1fea3c-3ee5-4766-ad37-ee5c842316e0/prompt.md) · 网站整页 Mindfulness 浅色 明亮 白色 灰色 · prompt
+- [AI Designer Agency](sources/framesbase/items/4b8b2bd3-30c0-4d83-b30f-471df9157905/prompt.md) · 网站整页 Landing Page 工作室 深色 暗色 黑色 紫色 · prompt
+- [JungleMind](sources/framesbase/items/4c52f842-44ec-41f2-8901-84ebc2e1a67c/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 灰色 青色 白色 · prompt
+- [Growth Decisions](sources/framesbase/items/4cc914ea-5034-4777-b532-fce9e779f87a/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 蓝色 灰色 白色 · prompt
+- [Data Storytelling](sources/framesbase/items/4dd9f11f-fd26-4265-8927-c44d3d518854/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 蓝色 橙色 青色 · prompt
+- [Cyberpunk Reveal](sources/framesbase/items/4e489328-cb73-462a-9950-becca04bc807/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 橙色 红色 · prompt
+- [Intelligence Layer](sources/framesbase/items/4f4243af-0c88-4e21-872e-c64afed1bde6/prompt.md) · 网站整页 Technology 科技 深色 暗色 黑色 灰色 · prompt
+- [Luxury Botanical](sources/framesbase/items/50a1f0a2-ad46-40b2-9f63-1dee3f63d3d1/prompt.md) · 网站整页 Landing Page 浅色 明亮 白色 橙色 黄色 · prompt
+- [Fun 404 Page](sources/framesbase/items/50f3e923-7be4-4455-a26b-9fe80d002c08/prompt.md) · 网站整页 Education Website 教育 混合明暗 橙色 · prompt
+- [Creative Portfolio](sources/framesbase/items/51e3c173-3df0-4e72-9c25-db0b2baaee6c/prompt.md) · 网站整页 Hero 首屏 主视觉 个人作品集 创意 深色 暗色 灰色 蓝色 黑色 · prompt
+- [Contact Cybernetic](sources/framesbase/items/5237f4a3-5db6-477c-91a6-ecabf6c52121/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 蓝色 · prompt
+- [FlowMate](sources/framesbase/items/525a6b21-3883-43b8-8ec8-be44162bd851/prompt.md) · 网站整页 Landing Page 浅色 明亮 青色 白色 · prompt
+- [Intelligent Systems](sources/framesbase/items/526347c5-db22-46de-994a-90795ee71626/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Portal](sources/framesbase/items/52aa2ac9-68ef-4676-b5e4-2ddeee77948e/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Innovation](sources/framesbase/items/54078ffa-0e18-4d8d-a5f2-02a7c89c8f02/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 青色 灰色 · prompt
+- [SkyElite Private Jets](sources/framesbase/items/5481c2f2-6a21-4359-8c11-68f71cdb2857/prompt.md) · 网站整页 Landing Page 浅色 明亮 白色 橙色 灰色 · prompt
+- [Reveal Hero](sources/framesbase/items/561704b4-2ed3-46c9-b67e-2d02ee6c4bd0/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Nike Premium Landing](sources/framesbase/items/562a4221-9e7b-4920-a1d9-30ef9d92a324/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 橙色 · prompt
+- [Cyber Ronin](sources/framesbase/items/57dae22c-8a39-44f9-8b02-0fca0b77591c/prompt.md) · 网站整页 Technology 科技 深色 暗色 黑色 橙色 · prompt
+- [Digital Director](sources/framesbase/items/5876679e-7e6d-4d33-ae03-6640df390b23/prompt.md) · 网站整页 Portfolio 个人作品集 深色 暗色 黑色 橙色 · prompt
+- [VaultShield](sources/framesbase/items/58ba480c-6500-4b71-9b09-7cf09621b582/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 灰色 紫色 白色 · prompt
+- [AI Cyber Defense](sources/framesbase/items/58c49076-610b-4596-ac08-c4f4f954e7c6/prompt.md) · 网站整页 Security 安全 深色 暗色 黑色 灰色 · prompt
+- [Network Hero](sources/framesbase/items/59197331-d4b4-4812-8f55-550d000f3c47/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 蓝色 紫色 粉色 · prompt
+- [Apex Pulse](sources/framesbase/items/599d5e1a-40f3-4f0d-819a-24814d3fefc4/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 橙色 灰色 · prompt
+- [Sentinel AI](sources/framesbase/items/59bd37f0-4cc4-4e2b-97b8-df41153ec5d0/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 绿色 · prompt
+- [Power AI](sources/framesbase/items/5b00cc63-8fbb-43a3-9e18-fae8368443fb/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 蓝色 · prompt
+- [Creative Designer Portfolio](sources/framesbase/items/5b1dec03-7944-4883-9a15-7e2e075ea9c7/prompt.md) · 网站整页 Portfolio 个人作品集 创意 浅色 明亮 白色 · prompt
+- [Orbis NFT](sources/framesbase/items/5ba0755e-daa5-48aa-98d7-1c2e466006cf/prompt.md) · 网站整页 Landing Page 深色 暗色 蓝色 紫色 · prompt
+- [Lead Funnel](sources/framesbase/items/5dc36f48-4cf0-4ea5-98bf-d7bdebc18006/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Sky Estate](sources/framesbase/items/5e4c3aad-d51f-4405-b537-22117c3642d5/prompt.md) · 网站整页 Real Estate 深色 暗色 紫色 · prompt
+- [Future-State](sources/framesbase/items/5ea82dfc-8ef9-4628-97d1-d0a0ebc90d3c/prompt.md) · 网站整页 Landing Page 深色 暗色 蓝色 黑色 · prompt
+- [Avant Studio](sources/framesbase/items/5ed6b02a-e611-41de-be1c-1f0bef9a7997/prompt.md) · 网站整页 Creative 创意 深色 暗色 黑色 黄色 · prompt
+- [Bitcoin Yield](sources/framesbase/items/5fe37d84-c858-4efb-ad36-6080435520d2/prompt.md) · 网站整页 Crypto 深色 暗色 黑色 蓝色 · prompt
+- [Luxury Focus](sources/framesbase/items/60b22f78-41c4-469b-8036-d6bd9bdd0eb1/prompt.md) · 网站整页 E-commerce 电商 商城 深色 暗色 黑色 橙色 灰色 · prompt
+- [Vectrus Energy](sources/framesbase/items/60e0c19f-9900-4b7b-bf4f-3ead89515226/prompt.md) · 网站整页 Editorial 编辑 杂志 浅色 明亮 白色 灰色 · prompt
+- [SAAS Software](sources/framesbase/items/61b88072-c64a-4045-a305-362c935a408f/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 蓝色 白色 · prompt
+- [SpeakUp Venture Hero](sources/framesbase/items/61e61f95-79ef-4bea-85d5-f056124799b1/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 绿色 白色 · prompt
+- [Dreamcore Landing](sources/framesbase/items/6206c264-649d-4354-acf7-1a79a869eca4/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 红色 粉色 · prompt
+- [Vintage Care](sources/framesbase/items/627f1087-bbda-453f-80c2-808a89bb5954/prompt.md) · 网站整页 Creative 创意 浅色 明亮 白色 粉色 · prompt · ⚠ 原站占位内容
+- [BuildShield](sources/framesbase/items/62a82529-a9b5-4dc6-8a64-ea7905aa9f39/prompt.md) · 网站整页 Construction 混合明暗 橙色 · prompt
+- [Quantum Core](sources/framesbase/items/63032715-18a2-4424-a7f9-3474d004b3a1/prompt.md) · 网站整页 Data Intelligence 深色 暗色 紫色 黑色 蓝色 · prompt
+- [Rare Gallery](sources/framesbase/items/63505def-be71-4e54-8caa-7d42f90bce82/prompt.md) · 网站整页 Curated 深色 暗色 黑色 橙色 · prompt
+- [Geno Trace](sources/framesbase/items/63cb876e-3b95-4243-a52e-2d9c3136236f/prompt.md) · 网站整页 Technology 科技 深色 暗色 黑色 橙色 · prompt
+- [Loader Animation](sources/framesbase/items/63ea3545-3d0b-4f66-bf33-9ac43cb4ce69/prompt.md) · 网站整页 Component 深色 暗色 黑色 灰色 · prompt
+- [Impressive Hero](sources/framesbase/items/6505caae-0936-471b-a5c0-5ad0b44a2a70/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [CozyPaws](sources/framesbase/items/65452494-e776-4138-869d-1e7e8a041a7e/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 橙色 · prompt
+- [Aethera Studio](sources/framesbase/items/66ea2b32-5fb7-42af-ab93-25a98b0fa800/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 绿色 · prompt
+- [TerraVision](sources/framesbase/items/674db326-417d-410b-a784-1b2e9e2c7d48/prompt.md) · 网站整页 Nature 自然 混合明暗 绿色 白色 黄色 灰色 · prompt
+- [Wellbeing OS](sources/framesbase/items/675a7ff7-fab9-4645-8c2c-bcc450124094/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 橙色 · prompt
+- [Halo Sound](sources/framesbase/items/678a72fe-e2ea-45ac-9855-bd83dccfe398/prompt.md) · 网站整页 Ecommerce 电商 商城 混合明暗 灰色 黑色 白色 · prompt
+- [Imperial VPN](sources/framesbase/items/67fbcffc-24d5-4fb7-a562-3195241f82c8/prompt.md) · 网站整页 Cybersecurity 浅色 明亮 白色 橙色 · prompt
+- [Creative Agency](sources/framesbase/items/6801fabf-6176-4ddc-8dae-b79aab1c93e8/prompt.md) · 网站整页 Landing Page 工作室 创意 深色 暗色 红色 · prompt
+- [Velorah](sources/framesbase/items/6928160f-2d98-4172-8c88-6a8c3ca0a4ea/prompt.md) · 网站整页 Agency 工作室 深色 暗色 蓝色 黄色 青色 · prompt
+- [Innovation Studio](sources/framesbase/items/697977ed-47ea-4b07-baef-d26211655ba4/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Portal](sources/framesbase/items/6dfac064-364c-42fe-b9f1-db0fcdf4f836/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 红色 黑色 橙色 灰色 · prompt
+- [HR SaaS Hero](sources/framesbase/items/6ebb101d-80f8-43bb-9420-36668de8c75f/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 浅色 明亮 白色 灰色 · prompt
+- [FinFlow](sources/framesbase/items/6ed918c2-32cc-461a-b199-d82cdf81c66c/prompt.md) · 网站整页 Fintech 金融科技 浅色 明亮 白色 灰色 · prompt
+- [Stellar AI](sources/framesbase/items/6f97bc05-87b2-4b88-9d4e-d7b3b3e0ad2b/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 蓝色 · prompt
+- [Obsidian Hero](sources/framesbase/items/708037ca-9dc1-4cb0-b2f9-e8cf53ef1459/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 蓝色 · prompt
+- [Securify Data Security](sources/framesbase/items/7287fe2a-aa13-4a65-97bd-3ae3b25bfe4b/prompt.md) · 网站整页 SaaS 软件服务 安全 深色 暗色 黑色 灰色 · prompt
+- [Space planet](sources/framesbase/items/72b8ebb1-3d60-4bea-8e76-968a8b563982/prompt.md) · 网站整页 3D 三维 立体 深色 暗色 黑色 蓝色 · prompt
+- [NOVA Space Systems](sources/framesbase/items/72bc83ea-aefe-4efa-aa60-7e9627151c85/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Dark Portfolio Hero](sources/framesbase/items/730adc7c-5879-42d0-9944-d2c8a06c4a38/prompt.md) · 网站整页 Portfolio 首屏 主视觉 个人作品集 深色 暗色 黑色 蓝色 · prompt
+- [BookedUp](sources/framesbase/items/739098a7-ee0a-4c66-8408-7c42ca27da25/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Vision Reveal](sources/framesbase/items/74a3a1d3-45cc-4eab-87cd-d97aaf489f27/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 青色 · prompt
+- [No-Code Waitlist](sources/framesbase/items/74c38d70-b12a-48e0-8a8e-193d30dca2bb/prompt.md) · 网站整页 Waitlist 深色 暗色 黑色 蓝色 · prompt
+- [Nature Ritual](sources/framesbase/items/75806499-a2b1-49aa-9345-f290f65907cb/prompt.md) · 网站整页 Wellness 身心健康 自然 深色 暗色 绿色 黑色 黄色 · prompt
+- [Heart Health Dashboard](sources/framesbase/items/76084b77-740a-484e-97bf-195a99cbe572/reference.md) · 网站整页 3D 仪表盘 数据看板 健康 三维 立体 深色 暗色 蓝色 紫色 · source-link
+- [Datacore SaaS Hero](sources/framesbase/items/767c762f-8867-4951-86c2-2e42be6b8943/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 深色 暗色 黑色 蓝色 · prompt
+- [Sparkform](sources/framesbase/items/784f18cf-4090-4a99-9bd3-78fc115e6da5/prompt.md) · 网站整页 Creative 创意 混合明暗 橙色 白色 红色 · prompt
+- [Quantum Lucid](sources/framesbase/items/797b2e5f-6dd5-4994-8943-6c2fdc529e2a/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 蓝色 青色 · prompt
+- [Synapse Dark Hero](sources/framesbase/items/798da891-7b7d-44a3-9bf3-deab91c60177/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 深色 暗色 黑色 灰色 · prompt
+- [Daisy Shop](sources/framesbase/items/7a83723f-8aa3-426f-9edf-9faea823be12/prompt.md) · 网站整页 Ecommerce 电商 商城 浅色 明亮 白色 橙色 · prompt
+- [Pixel Muse](sources/framesbase/items/7b4a9ab1-0269-4a44-b655-85e83d7f1721/prompt.md) · 网站整页 Creative Studio 创意 浅色 明亮 白色 灰色 · prompt
+- [FinancialFocus](sources/framesbase/items/7b821738-a59f-41b8-b3fb-592be9beaf56/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Investor Deck](sources/framesbase/items/7bc4b52a-bb68-4ce7-be12-327e7cd6d7a7/prompt.md) · 网站整页 Investor Presentations 深色 暗色 黑色 蓝色 · prompt
+- [Transform Data](sources/framesbase/items/7c553857-ca5d-4640-92d7-2b6d84016f5b/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 白色 黑色 绿色 灰色 · prompt
+- [Targo Logistics Hero](sources/framesbase/items/7cb7d03b-54d4-49a1-9deb-46c62f4b0f89/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 深色 暗色 黑色 红色 · prompt
+- [Yacht Club](sources/framesbase/items/7cb83158-1003-451e-badc-8975b0ef715e/prompt.md) · 网站整页 Landing Page 深色 暗色 蓝色 黑色 灰色 · prompt
+- [Neo Museum](sources/framesbase/items/7e6f4922-6fcb-4192-a9fb-7d7a1083bfe5/prompt.md) · 网站整页 Website 浅色 明亮 白色 灰色 · prompt
+- [Focus AI](sources/framesbase/items/7ea7aec1-499d-46f6-ad90-2d3fcacf71fe/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Scroll Landing Page](sources/framesbase/items/801690d8-4a7d-42fd-b164-2dd4aa19fc65/prompt.md) · 网站整页 Interactive 深色 暗色 橙色 黑色 · prompt
+- [Futuristic Tech](sources/framesbase/items/80609126-2f89-46e0-9353-6aef03ae79cf/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 灰色 黑色 · prompt
+- [Ascera AI](sources/framesbase/items/809189f2-a6b3-4e2e-a4a6-1da16fb57d1e/prompt.md) · 网站整页 AI Technology 科技 深色 暗色 橙色 黑色 · prompt
+- [Taskly](sources/framesbase/items/81191770-444a-4c54-8a71-f4d4e3a4a4e4/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 蓝色 · prompt
+- [F1 Driver Profile](sources/framesbase/items/820f6d44-47a3-4e56-849c-6e73fda5dd54/prompt.md) · 网站整页 Sports 运动 深色 暗色 黑色 红色 橙色 · prompt
+- [Automation Machines](sources/framesbase/items/833d6d90-b967-4bef-9afd-81823537330a/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [AI Automation Hero](sources/framesbase/items/84218497-6273-45bc-900c-684b7429073d/prompt.md) · 网站整页 AI / SaaS 首屏 主视觉 软件服务 深色 暗色 黑色 灰色 · prompt
+- [Aetheris Voyage](sources/framesbase/items/84bd9153-ffa5-4b42-a128-a85ec5ab07e9/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 灰色 黑色 橙色 · prompt
+- [DesignPro Academy](sources/framesbase/items/85a94eb4-f04d-444d-860f-875681a42d6f/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 蓝色 黑色 · prompt
+- [Digital Experiences](sources/framesbase/items/85ccd9f8-6a9a-4013-b054-e67c68d58e2b/prompt.md) · 网站整页 Landing Page 深色 暗色 黄色 黑色 灰色 · prompt
+- [NEX Robotics](sources/framesbase/items/865f7975-09c2-45f7-8f2a-3d1c597e2fe9/prompt.md) · 网站整页 Technology 科技 浅色 明亮 白色 灰色 · prompt
+- [Visual Hero](sources/framesbase/items/86c2a591-7c9a-4bfb-9990-e910a7a059f0/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黄色 黑色 · prompt
+- [Crypto Vault](sources/framesbase/items/871ba2c2-9def-4366-87f0-26b5f1e577ac/prompt.md) · 网站整页 Fintech 金融科技 深色 暗色 黑色 灰色 · prompt
+- [AI Driving Assistant](sources/framesbase/items/87b66c91-59d2-4d92-a49c-ec8bd1efc877/prompt.md) · 网站整页 AI SaaS Website 软件服务 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Conversion](sources/framesbase/items/87e90531-d3ef-4131-950a-32239fc6ba74/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 绿色 灰色 · prompt
+- [Palomar Labs](sources/framesbase/items/88473704-8b70-469b-b6c2-eeb1d38aeee9/prompt.md) · 网站整页 AI 浅色 明亮 黄色 白色 橙色 · prompt
+- [Frontier](sources/framesbase/items/88db028b-23cf-45da-b771-c63eb90f7c62/prompt.md) · 网站整页 Finance 深色 暗色 黑色 橙色 · prompt
+- [Systema](sources/framesbase/items/8b13e5df-52ff-4f48-b3fe-d645147e40c1/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 灰色 · prompt
+- [Global Talent](sources/framesbase/items/8b57d5cc-3d95-46bd-ab8b-2070b21be008/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 黄色 橙色 白色 · prompt
+- [Agent Grove](sources/framesbase/items/8c75d3c1-6777-41fe-b16e-82b705e7dba5/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 橙色 黑色 灰色 · prompt
+- [Silent Velocity](sources/framesbase/items/8c7f309b-4df7-4335-9c22-054d07d06dbd/prompt.md) · 网站整页 Technology 科技 浅色 明亮 白色 灰色 · prompt
+- [Wellness Devicex](sources/framesbase/items/8c953938-990d-4dee-bb23-0afd88dbfbd7/prompt.md) · 网站整页 Health 健康 身心健康 深色 暗色 黑色 黄色 · prompt
+- [Cinematic Brand](sources/framesbase/items/8e9e6078-ad0a-44fa-bb89-b07deb555012/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 蓝色 粉色 · prompt
+- [Cosmos Interface](sources/framesbase/items/90b6c742-7e69-4d6d-88a5-8bdbab057e86/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 灰色 · prompt
+- [Cyber Layer](sources/framesbase/items/90e5943a-98cb-4c26-a188-c0f7fd86023f/prompt.md) · 网站整页 Cybersecurity 深色 暗色 黑色 · prompt
+- [Cybersecurity](sources/framesbase/items/9207b813-1954-40a8-bc61-03adb85a268a/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 灰色 · prompt
+- [ClubX Investors](sources/framesbase/items/92633e8b-87fc-4bae-85a2-46403e60fa8d/prompt.md) · 网站整页 Landing Page 混合明暗 灰色 白色 · prompt
+- [Motion Frame](sources/framesbase/items/92fc0c08-06e5-40e3-9848-6ecad1c036e6/prompt.md) · 网站整页 Film 深色 暗色 灰色 黑色 红色 白色 · prompt
+- [AI Film Studio](sources/framesbase/items/9349c46b-dd1f-4be3-9623-4337778598fc/prompt.md) · 网站整页 Creative 创意 深色 暗色 黑色 青色 灰色 · prompt
+- [AI Trip Planner](sources/framesbase/items/93ece08a-d937-4f0e-ab65-f5e5010cba71/prompt.md) · 网站整页 Travel 旅行 浅色 明亮 白色 橙色 · prompt
+- [AeroCore](sources/framesbase/items/94442dc0-b9e6-4b84-90fc-d9c2b1bde990/prompt.md) · 网站整页 Landing Page 浅色 明亮 灰色 白色 · prompt
+- [EMBER.dsgn](sources/framesbase/items/946cdbdf-f3e7-4c7d-b60e-2dd38761cc10/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 灰色 红色 白色 · prompt
+- [Bold Studio](sources/framesbase/items/9709eb49-e34d-4dcc-957d-18297a7d4fda/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 红色 · prompt
+- [Vertex Sci](sources/framesbase/items/9797c2ea-ce70-4ffd-a5f9-675a009e3930/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 青色 黑色 绿色 黄色 · prompt
+- [Celestial Renewal](sources/framesbase/items/97be8f74-6305-4896-bb8b-b24b1d70d446/prompt.md) · 网站整页 Wellness 身心健康 深色 暗色 蓝色 黑色 · prompt
+- [Neon Logic](sources/framesbase/items/9885c972-ba86-4d5c-b2e1-9287a8a61218/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 粉色 · prompt
+- [arc Summit](sources/framesbase/items/99fe6d9b-e0ea-4cea-90a7-f91ae5c327a7/prompt.md) · 网站整页 Cyberpunk 混合明暗 蓝色 紫色 · prompt
+- [Clarity Core](sources/framesbase/items/9a34a1e6-fbf6-4a67-bb69-b0abb9bec60c/prompt.md) · 网站整页 Landing Page 深色 暗色 蓝色 · prompt
+- [Pro AI Deck](sources/framesbase/items/9a365d37-b4bf-4260-b1df-1bfd870d4686/prompt.md) · 网站整页 Presentation 深色 暗色 黑色 青色 黄色 · prompt
+- [AKOR Security](sources/framesbase/items/9aaf3e8d-888c-4c6b-a20e-c88515b85037/prompt.md) · 网站整页 Landing Page 安全 深色 暗色 黑色 白色 灰色 · prompt
+- [3D Future Flora](sources/framesbase/items/9b0e79ff-3d63-41f4-aeee-b28528db6b32/reference.md) · 网站整页 Threejs 三维 立体 深色 暗色 黑色 红色 · source-link
+- [Open Agent](sources/framesbase/items/9b467c85-58c8-4f4a-bf77-b10a799ce961/prompt.md) · 网站整页 AI 混合明暗 青色 绿色 灰色 白色 · prompt
+- [xPortfolio Hero](sources/framesbase/items/9b542609-a6d7-4d4f-89dc-661fc7f590c6/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 橙色 · prompt
+- [Luxury Real Estate](sources/framesbase/items/9b67fdf3-96e8-4a42-9824-519b0a1f2f22/prompt.md) · 网站整页 Landing Page 混合明暗 红色 白色 · prompt
+- [AuraMail](sources/framesbase/items/9c3c4578-0a35-43a4-bf48-31e6c4ce9143/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 黑色 白色 蓝色 · prompt
+- [Wellness Balance](sources/framesbase/items/9d1c8bb5-f08f-47a1-95aa-e9ee0174f7b6/prompt.md) · 网站整页 Hero 首屏 主视觉 身心健康 混合明暗 绿色 黄色 白色 · prompt
+- [Mindful Companion](sources/framesbase/items/9d5a8d41-42f1-4bc6-86c9-23ace703c781/prompt.md) · 网站整页 Wellness 身心健康 混合明暗 蓝色 灰色 白色 · prompt
+- [Unwind Hero](sources/framesbase/items/9dd6d02c-9056-4e28-94c8-985b7beab634/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 青色 · prompt
+- [Data Signal](sources/framesbase/items/9e0b6ca4-6ef2-4123-8d05-c7cd18bca67a/prompt.md) · 网站整页 Analytics 深色 暗色 黑色 红色 橙色 · prompt
+- [Cybersecurity Hero](sources/framesbase/items/9e3b2c64-ce73-4bb3-b6c0-c924158a91f6/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 粉色 · prompt
+- [Gateway Portal](sources/framesbase/items/9e7cac80-402e-4150-affe-79964f98dd1e/prompt.md) · 网站整页 Landing Page 混合明暗 灰色 青色 · prompt
+- [Spatial Mapping Platform](sources/framesbase/items/9e852e08-1485-4ae9-8aa1-1c85077448b4/prompt.md) · 网站整页 Data 混合明暗 灰色 粉色 · prompt
+- [Nexto 404](sources/framesbase/items/9e87b015-0ea2-4fd5-a5ab-fca0eefe2556/prompt.md) · 网站整页 404 浅色 明亮 白色 · prompt
+- [Portfolio Cosmic](sources/framesbase/items/9e8ed655-6ab9-479b-9499-4cf1676a7cc2/prompt.md) · 网站整页 Portfolio 个人作品集 深色 暗色 黑色 蓝色 · prompt
+- [3D Character Studio](sources/framesbase/items/9f64e330-7177-41f5-b3ca-94597f00d571/prompt.md) · 网站整页 3D 三维 立体 深色 暗色 红色 橙色 · prompt
+- [Guardnet](sources/framesbase/items/9fe3b9f8-0157-4407-88ee-e3243922ae20/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 灰色 · prompt
+- [Signal ID](sources/framesbase/items/a46d9236-ab5c-4ed2-9304-9f4464ccf1c6/prompt.md) · 网站整页 Technology 科技 深色 暗色 黑色 蓝色 · prompt
+- [Weblex Dark Hero](sources/framesbase/items/a57af091-d9ff-4426-84af-6afba58cc59f/prompt.md) · 网站整页 Landing Page 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Cursor Follow](sources/framesbase/items/a72cfcac-ef50-46fb-9d31-1a03694f3d53/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 蓝色 灰色 白色 · prompt
+- [Aurex Finance](sources/framesbase/items/a8257415-cb61-444b-b4b3-2f12299d2ada/prompt.md) · 网站整页 Fintech 金融科技 深色 暗色 黑色 · prompt
+- [Shamoni](sources/framesbase/items/aa62f097-877f-4089-9945-aae5d5e2f918/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 灰色 橙色 · prompt
+- [Email Landing Page](sources/framesbase/items/aaf5f982-6ac6-49fa-a181-eb26dac7ab79/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 蓝色 · prompt
+- [CoderCrest](sources/framesbase/items/ab6409fb-68cc-4bff-9d0d-7c3c7484e6f8/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 灰色 · prompt
+- [Mythic VPN](sources/framesbase/items/abb80161-e462-4a7a-abe4-f37e93706757/prompt.md) · 网站整页 VPN 深色 暗色 蓝色 灰色 · prompt
+- [Sentinel](sources/framesbase/items/ad42285c-ab93-4884-a40b-f46a231c09bd/prompt.md) · 网站整页 Cybersecurity 深色 暗色 黑色 灰色 · prompt
+- [Build Unit](sources/framesbase/items/ae3e3baa-1f44-4479-a5d0-320b9f0498dc/prompt.md) · 网站整页 Agency 工作室 深色 暗色 黑色 红色 · prompt
+- [Cinematic Landing Page](sources/framesbase/items/af51429c-9eb9-4cbe-82bd-758824901784/prompt.md) · 网站整页 Landing Page 混合明暗 灰色 黑色 橙色 蓝色 · prompt
+- [Taskora SaaS Hero](sources/framesbase/items/af806bcb-0a59-48c6-a44f-ef0c05b072cb/prompt.md) · 网站整页 SaaS 首屏 主视觉 软件服务 混合明暗 蓝色 · prompt
+- [Angel Shield](sources/framesbase/items/afa791e1-5649-4a43-8c0c-adf81d91dde8/prompt.md) · 网站整页 Security 安全 浅色 明亮 白色 灰色 · prompt
+- [Veloce Finance](sources/framesbase/items/b0af2960-2168-4c44-a031-ea6e65ceb2f1/prompt.md) · 网站整页 Landing Page 浅色 明亮 白色 · prompt
+- [Mythic Naturecore](sources/framesbase/items/b0d60757-c9d6-44e0-86c1-45acfa86d9ad/prompt.md) · 网站整页 Landing Page 深色 暗色 绿色 黑色 · prompt
+- [Bio-Age Dashboard](sources/framesbase/items/b1d9266f-e8d0-408d-aa23-130acb01b497/prompt.md) · 网站整页 Hero 首屏 主视觉 仪表盘 数据看板 深色 暗色 红色 黑色 橙色 · prompt
+- [Bloom](sources/framesbase/items/b1dd3d54-896f-4580-a4e6-073ca9fbb753/prompt.md) · 网站整页 Landing Page 深色 暗色 红色 黑色 灰色 · prompt
+- [Yoga Coach](sources/framesbase/items/b371f550-9988-4908-8013-9fc5b4ee1c17/prompt.md) · 网站整页 Landing Page 混合明暗 绿色 青色 灰色 白色 · prompt
+- [Grow AI Talent Platform](sources/framesbase/items/b3da480d-8366-4ede-8aca-359fcd5fb5a2/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 蓝色 · prompt
+- [CleanTech](sources/framesbase/items/b420ed46-a311-4fcf-9da3-c4f6ce350dff/prompt.md) · 网站整页 Sustainability 深色 暗色 黑色 橙色 黄色 · prompt
+- [Synthesis](sources/framesbase/items/b45fed17-bf32-4085-a1c0-94fc2f98a28d/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 · prompt
+- [Lending AI Agents](sources/framesbase/items/b4c610f0-2332-41ac-a84c-de52645bbca5/prompt.md) · 网站整页 SaaS Website 软件服务 浅色 明亮 白色 · prompt
+- [Golden Portal](sources/framesbase/items/b55f8354-2640-4343-ba97-707f20a6eb9d/prompt.md) · 网站整页 Landing Page 混合明暗 橙色 · prompt
+- [Slate](sources/framesbase/items/b5ad789a-9219-475a-9465-3a09304b59ef/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 蓝色 · prompt
+- [3D Collectible Hero](sources/framesbase/items/b5f7605d-8937-4060-80c6-03971b9012f3/prompt.md) · 网站整页 3D Website 首屏 主视觉 三维 立体 混合明暗 绿色 黄色 白色 · prompt
+- [Email Marketing](sources/framesbase/items/b68ca730-81b8-4407-85c5-a79dc1dc2949/prompt.md) · 网站整页 Email Marketing 深色 暗色 青色 蓝色 黑色 · prompt
+- [Orbit Flora](sources/framesbase/items/b6b27a95-4247-4e38-ade0-9ef66084ae2b/prompt.md) · 网站整页 AI 深色 暗色 黑色 粉色 · prompt
+- [USD Halo](sources/framesbase/items/b7105b8c-1501-4269-a7eb-fd16f0bd9c02/prompt.md) · 网站整页 Landing Page 浅色 明亮 灰色 白色 蓝色 · prompt
+- [Learnly](sources/framesbase/items/b71d99d2-af9e-47f4-b365-f6bbe407f13e/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Mind-Body Healing](sources/framesbase/items/b77c95d7-a443-4c8f-b53e-9f8699d3d413/prompt.md) · 网站整页 Medicine 浅色 明亮 蓝色 白色 紫色 · prompt
+- [Custom Spaces](sources/framesbase/items/b7e26fe4-e086-4dfb-885f-f2d5e8389a1e/prompt.md) · 网站整页 Design 浅色 明亮 白色 橙色 灰色 · prompt
+- [AI Workflow Agents](sources/framesbase/items/b8c67ef1-42d8-4e4e-9b72-a1955913ffe1/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 粉色 · prompt
+- [Dot](sources/framesbase/items/b974d59a-6517-4cc5-b9b3-f20ff83185d8/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Duolingo Styleguide](sources/framesbase/items/bac2c974-f18a-4efd-ab88-a1da622a4122/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 绿色 · prompt
+- [DeepThink](sources/framesbase/items/bb6806e5-93f8-456f-99c7-c968594648b4/prompt.md) · 网站整页 AI Assistant 深色 暗色 黑色 绿色 · prompt
+- [Fastshot](sources/framesbase/items/bb9cee0c-c3c6-49d8-b5ad-fefe4190a1f2/prompt.md) · 网站整页 AI 深色 暗色 灰色 橙色 黑色 蓝色 · prompt
+- [AI Designer Portfolio](sources/framesbase/items/bc090770-5ea2-4fb2-972b-71917db2133e/prompt.md) · 网站整页 Landing Page 个人作品集 浅色 明亮 白色 蓝色 · prompt
+- [Immersive Ocean](sources/framesbase/items/bcdefd54-da34-4571-860e-ed6ab6888269/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 青色 · prompt
+- [Breathstone](sources/framesbase/items/bd5d283b-01a7-42e4-a782-c89703890ba2/prompt.md) · 网站整页 Wellness 身心健康 浅色 明亮 白色 黄色 橙色 灰色 · prompt
+- [Naturecore SaaS](sources/framesbase/items/bdd48d4b-142a-4742-8e98-9f6d7e3257ba/prompt.md) · 网站整页 Hero 首屏 主视觉 软件服务 浅色 明亮 白色 绿色 灰色 · prompt
+- [3D Story](sources/framesbase/items/be027362-7f71-4e35-b11a-9ae8bac997f4/prompt.md) · 网站整页 Landing Page 三维 立体 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Nexora Automation](sources/framesbase/items/be66f2cf-26ae-4a52-ba65-b9f235529479/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [AI Runtime](sources/framesbase/items/c02f682a-c2e4-4945-94d1-86269919c41f/prompt.md) · 网站整页 AI 混合明暗 白色 黑色 红色 粉色 · prompt
+- [Deep Neural Interface](sources/framesbase/items/c03fa2d8-a856-4994-98c7-c4dac8ce3ca6/prompt.md) · 网站整页 Artificial Intelligence 深色 暗色 蓝色 黑色 · prompt
+- [EVR Ventures](sources/framesbase/items/c1a28e23-4473-4bc4-b201-20359862f5a2/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 青色 · prompt
+- [Innovation Lab](sources/framesbase/items/c285cfa5-173f-4bf1-8fa6-afa966cc2019/prompt.md) · 网站整页 Technology 科技 深色 暗色 紫色 黑色 灰色 · prompt
+- [Prioritize](sources/framesbase/items/c334b760-7100-4912-8e36-9c6d26c0bbc4/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 · prompt
+- [Apex SaaS](sources/framesbase/items/c3f5b0da-9a54-465e-926c-7d8bd9fb1655/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 蓝色 黑色 · prompt
+- [Stellar Launch](sources/framesbase/items/c480ad28-0836-4f62-a79e-5c1760a2531b/prompt.md) · 网站整页 Landing Page 混合明暗 蓝色 灰色 青色 白色 · prompt
+- [EcoVolta V2](sources/framesbase/items/c49d7249-952b-4a5e-94b4-d976b63a6105/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 绿色 白色 · prompt
+- [Asme](sources/framesbase/items/c5078d23-4d3b-4fd6-8754-14085e15b163/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 灰色 · prompt
+- [Bio-Digital](sources/framesbase/items/c6247e69-2677-4a4c-9386-a775b183bacf/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Luxury Ecommerce Design](sources/framesbase/items/c644c3ce-0172-4767-be08-92696f951fde/prompt.md) · 网站整页 Landing Page 电商 商城 混合明暗 橙色 红色 白色 灰色 · prompt
+- [Skytrace](sources/framesbase/items/c72b86d8-d01f-4ad6-8a52-20790dc55acd/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 蓝色 · prompt
+- [Neuralyn](sources/framesbase/items/c9b95dce-8e86-4c87-acf6-d393f2189d2d/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 灰色 · prompt
+- [TrustFlow](sources/framesbase/items/c9ddc911-c8ad-4cb2-a386-d541d1116c9a/prompt.md) · 网站整页 Finance 浅色 明亮 白色 灰色 · prompt
+- [Slam Dunk](sources/framesbase/items/ca7126e8-db04-4b4f-b72d-0cd2705529f5/reference.md) · 网站整页 Hero Section 首屏 主视觉 · source-link · 原站未提供预览
+- [Talent Collective](sources/framesbase/items/ca95f185-6df7-4bd0-bde3-c69582f33023/prompt.md) · 网站整页 Agency 工作室 混合明暗 灰色 · prompt
+- [RIVR](sources/framesbase/items/cc5e5574-d62e-4464-a232-b16f4e2725bc/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 灰色 白色 · prompt
+- [Obsidian](sources/framesbase/items/ccd32abe-cb7c-4802-a90c-c462821ea69f/prompt.md) · 网站整页 Interactive 浅色 明亮 灰色 橙色 白色 · prompt
+- [Pulse 3D](sources/framesbase/items/ce169659-7033-4e97-a4c7-429fd5e851a2/prompt.md) · 网站整页 3D Website 三维 立体 深色 暗色 粉色 · prompt
+- [Automotive AI](sources/framesbase/items/ce534c4e-5e6d-46af-92bf-27140ce5ab37/prompt.md) · 网站整页 Driving 深色 暗色 蓝色 黑色 灰色 · prompt
+- [New Era Bold Hero](sources/framesbase/items/cee492b4-da2c-46e7-a91c-654b4568c26e/prompt.md) · 网站整页 Agency 首屏 主视觉 工作室 混合明暗 蓝色 · prompt
+- [Adaptive Learning](sources/framesbase/items/cf4e46ee-393a-4026-86ed-bba50edf1787/prompt.md) · 网站整页 Education 教育 浅色 明亮 白色 灰色 · prompt
+- [Growth Marketing SaaS](sources/framesbase/items/cf7111be-de60-494b-b49b-befbdd556e0a/prompt.md) · 网站整页 Hero 首屏 主视觉 软件服务 深色 暗色 黑色 绿色 · prompt
+- [Cloud Kicks](sources/framesbase/items/d01b7030-2b17-42e3-87a0-69ae6d8275f1/prompt.md) · 网站整页 Fashion 时尚 浅色 明亮 粉色 蓝色 白色 灰色 · prompt
+- [Cardia 3D](sources/framesbase/items/d06d4d1b-a841-4f77-a883-c5252594a922/prompt.md) · 网站整页 Medical 三维 立体 深色 暗色 蓝色 · prompt
+- [Performance Eyewear](sources/framesbase/items/d3a1aac5-6a48-4957-ae8a-80777da6b935/prompt.md) · 网站整页 Ecommerce 电商 商城 混合明暗 白色 蓝色 灰色 黑色 · prompt
+- [New Era Automotive Hero](sources/framesbase/items/d4a50ec8-ab17-4170-9ed5-d17b774cd211/prompt.md) · 网站整页 Automotive 首屏 主视觉 深色 暗色 黑色 橙色 红色 · prompt
+- [Zenith Realty](sources/framesbase/items/d5064e77-ffc6-40e4-b54c-a2ff632b8b19/prompt.md) · 网站整页 Landing Page 浅色 明亮 灰色 白色 · prompt
+- [Railroad.ai](sources/framesbase/items/d5755bbb-9872-4f27-a833-83aa4005a66f/prompt.md) · 网站整页 Hero Section 首屏 主视觉 混合明暗 灰色 蓝色 白色 · prompt
+- [WISA Space](sources/framesbase/items/d5a1c111-5acf-4c7f-afce-d6561e73d4ae/reference.md) · 网站整页 Hero Section 首屏 主视觉 · source-link · 原站未提供预览
+- [Relocation Card](sources/framesbase/items/d5b4d70e-a78f-4a92-9fa0-29ec38f17ae9/prompt.md) · 网站整页 Finance 卡片 混合明暗 黑色 橙色 青色 · prompt
+- [AI Future Studio](sources/framesbase/items/d5c77552-d47a-4d88-90e8-bcd610da5ff6/prompt.md) · 网站整页 Creative 创意 深色 暗色 青色 灰色 黑色 · prompt
+- [Cybersecurity Hero v2](sources/framesbase/items/d6fdd0b0-2825-42d1-aedc-a7eff06a8a4b/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 黑色 粉色 紫色 · prompt
+- [Crypto Wealth](sources/framesbase/items/d9c6b9d3-7289-45c5-aa18-fd95290196d6/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 绿色 灰色 · prompt
+- [NeoVision](sources/framesbase/items/da149ab1-5c86-46da-93f1-0af8dc13f662/prompt.md) · 网站整页 Landing Page 混合明暗 白色 黑色 灰色 · prompt
+- [Prosthetics Hero](sources/framesbase/items/dbf496e5-bf65-42c9-a64f-c8d5b6845ca6/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Mountain Retreat](sources/framesbase/items/dc2bff12-092e-488c-8e55-3ea965d2bd18/prompt.md) · 网站整页 Travel 旅行 深色 暗色 橙色 黑色 灰色 · prompt
+- [Datacore Booking](sources/framesbase/items/dc63cc04-ff4c-4b2c-bdb5-0766387e8468/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 紫色 蓝色 · prompt
+- [Financial Suite](sources/framesbase/items/de7f455a-69f9-4620-8d0a-69607ec70084/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 蓝色 · prompt
+- [Aesthetic Dental Clinic](sources/framesbase/items/e0d64a48-858a-488c-a753-1fe68f2ce7d9/prompt.md) · 网站整页 Healthcare 医疗 混合明暗 红色 橙色 灰色 · prompt
+- [Cargo Group](sources/framesbase/items/e290e4f4-b171-4bed-83c6-be91b333ee57/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 黑色 橙色 灰色 黄色 · prompt
+- [Digital Epoch](sources/framesbase/items/e3914165-8dc8-4a66-81e1-4394c6dbd3a4/prompt.md) · 网站整页 Hero Section 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Glass Orb](sources/framesbase/items/e399ab56-5fd5-4af6-a247-c4c3d5e7118e/reference.md) · 网站整页 Threejs 浅色 明亮 白色 灰色 · source-link
+- [Planet Orbit](sources/framesbase/items/e4e1feae-e074-4ce4-ba9c-69a4ef54936e/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 黑色 蓝色 青色 · prompt
+- [Outdoor Apparel](sources/framesbase/items/e5608f6e-32c7-46e0-984c-b44ed2296b0b/prompt.md) · 网站整页 Fashion 时尚 混合明暗 白色 橙色 灰色 · prompt
+- [NexaCore](sources/framesbase/items/e7078def-f612-45c4-be23-fd06692b6666/prompt.md) · 网站整页 Landing Page 深色 暗色 黑色 蓝色 紫色 灰色 · prompt
+- [Real-Time Alerts](sources/framesbase/items/e73d4b7e-ad1f-4412-b00c-5bc9085f0fae/prompt.md) · 网站整页 Sign in 登录 表单 浅色 明亮 灰色 白色 · prompt
+- [Luminex](sources/framesbase/items/e7433dcb-6008-423c-991d-a69cc99c609d/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Modern Agency](sources/framesbase/items/e760094c-978e-4f3e-9e3a-11f6d0e83f5a/prompt.md) · 网站整页 Agency 工作室 浅色 明亮 白色 红色 · prompt
+- [Augmented Sight](sources/framesbase/items/e80151c8-1e62-482a-b463-441d363cf76d/prompt.md) · 网站整页 Technology 科技 混合明暗 白色 蓝色 黑色 · prompt
+- [Retro-Futurist](sources/framesbase/items/e82e527e-8739-4341-ad66-6fc642094dd6/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 灰色 · prompt
+- [AI Image Generator UI](sources/framesbase/items/e82fbae7-0c67-4d7a-8ad7-57ab16a97ca7/prompt.md) · 网站整页 AI 浅色 明亮 白色 · prompt
+- [Sky Cookie](sources/framesbase/items/e8e4b3e8-fe8d-46c6-be04-864b3e682100/prompt.md) · 网站整页 Food 食品 混合明暗 青色 灰色 · prompt
+- [Shipping Infrastructure](sources/framesbase/items/e939171b-1d5c-4e45-a28e-827658a6b706/prompt.md) · 网站整页 Developer 开发者 浅色 明亮 灰色 粉色 白色 · prompt
+- [Viktor Portfolio](sources/framesbase/items/e9cdbaed-d836-4a8b-93ca-24af8614be66/prompt.md) · 网站整页 Portfolio 个人作品集 深色 暗色 橙色 黑色 · prompt
+- [Subscription Agency](sources/framesbase/items/eb359734-20eb-4cd2-90f7-c3fa43a04473/prompt.md) · 网站整页 Hero 首屏 主视觉 工作室 浅色 明亮 白色 灰色 · prompt
+- [Creator Guild](sources/framesbase/items/ec0d3c18-1e4e-4772-9a36-e2d4b987fcd2/prompt.md) · 网站整页 Community 混合明暗 白色 蓝色 粉色 · prompt
+- [VEX Ventures](sources/framesbase/items/ee1ff68b-fec0-41a1-927b-5255350ab1e7/prompt.md) · 网站整页 Hero Section 首屏 主视觉 深色 暗色 青色 黑色 灰色 绿色 · prompt
+- [Impact Ventures](sources/framesbase/items/ee296445-e2d7-4bf9-b9d0-3b637ad11707/prompt.md) · 网站整页 Hero 首屏 主视觉 混合明暗 蓝色 · prompt
+- [Modern Dental Clinic](sources/framesbase/items/ee7d148b-d17d-40a7-bcdc-e41e57bd241d/prompt.md) · 网站整页 Healthcare 医疗 混合明暗 蓝色 白色 · prompt
+- [AI Meeting Notes](sources/framesbase/items/ef420235-f4cb-446e-b9b6-726cc0c1b4f8/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Terra Geo Map](sources/framesbase/items/eff3fa86-6796-400f-a752-a631ff5b6829/prompt.md) · 网站整页 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Peakline Redshift](sources/framesbase/items/f2b83e6a-88a5-4ac5-bd5f-3100feb26292/prompt.md) · 网站整页 SaaS 软件服务 深色 暗色 橙色 红色 · prompt
+- [AI Companions](sources/framesbase/items/f3a338e5-595a-4d0f-ade9-8d27da626914/prompt.md) · 网站整页 AI 深色 暗色 黑色 橙色 · prompt
+- [PROMPT](sources/framesbase/items/f3bd46c2-eb66-40f5-ac4c-5b77dc86b259/prompt.md) · 网站整页 Landing Page 浅色 明亮 白色 黑色 灰色 · prompt
+- [Interactive Portfolio](sources/framesbase/items/f410a716-3e14-42a5-9f44-cb7beae24866/prompt.md) · 网站整页 Hero 首屏 主视觉 个人作品集 混合明暗 灰色 · prompt
+- [Audio Showcase](sources/framesbase/items/f4ded56d-d79f-4724-96cb-513f96b6e1b8/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 蓝色 · prompt
+- [Worldwide Hubs](sources/framesbase/items/f698964b-75ec-44b8-9a2c-e0ecab7d1cb3/prompt.md) · 网站整页 Business 混合明暗 黑色 灰色 蓝色 白色 · prompt
+- [Intelligent Operations](sources/framesbase/items/f6ce6818-dc07-4cca-b9ab-61453644a2fd/prompt.md) · 网站整页 Agency 工作室 浅色 明亮 白色 灰色 · prompt
+- [Nexa Talent](sources/framesbase/items/f76dd7d0-10ed-46c8-926c-03924abef4b7/prompt.md) · 网站整页 Recruitment 浅色 明亮 白色 · prompt
+- [Glitch Pulse](sources/framesbase/items/f892efd4-0fd7-4f73-8528-d62956626b84/prompt.md) · 网站整页 Landing Page 深色 暗色 红色 · prompt
+- [Global gateway](sources/framesbase/items/f8e25246-daa3-42c6-9502-2e0895a676af/prompt.md) · 网站整页 Communication 深色 暗色 蓝色 粉色 红色 · prompt
+- [Wealth Video Hero](sources/framesbase/items/f9b223e9-e805-4471-b22b-f63eedf1428a/prompt.md) · 网站整页 Fintech 首屏 主视觉 金融科技 深色 暗色 黑色 粉色 · prompt
+- [SaaS Value](sources/framesbase/items/facb373d-65f3-4987-8674-fd1ec3b6f305/prompt.md) · 网站整页 SaaS 软件服务 混合明暗 白色 黑色 灰色 · prompt
+- [Vitara](sources/framesbase/items/fb4a9eeb-b713-4827-b7eb-ab0e9c2c97c9/prompt.md) · 网站整页 Landing Page 混合明暗 白色 青色 灰色 · prompt
+- [Immersive Studio](sources/framesbase/items/fb4f62d5-26d1-43d5-a640-76e073e09c3f/prompt.md) · 网站整页 Agency 工作室 深色 暗色 黑色 蓝色 灰色 · prompt
+- [Tech-Forward](sources/framesbase/items/fc025f19-16ff-4675-8d9f-cdec747abcb2/prompt.md) · 网站整页 Hero 首屏 主视觉 浅色 明亮 白色 灰色 · prompt
+- [Luminara](sources/framesbase/items/feadd465-1fa9-4bab-b4f5-133d23631a56/prompt.md) · 网站整页 Hero 首屏 主视觉 深色 暗色 蓝色 · prompt
+
+## 应用界面（43）
+
+- [Finance Assistant](sources/framesbase/items/0f8cffb7-98f8-4074-8df8-1737c42cc14d/prompt.md) · 应用界面 Fintech 金融科技 深色 暗色 黑色 灰色 绿色 · prompt
+- [AI Calorie Tracker](sources/framesbase/items/12389bdf-1135-432d-b8bb-b22f86f221cc/prompt.md) · 应用界面 Health 健康 浅色 明亮 灰色 橙色 白色 · prompt
+- [Coffee Rewards](sources/framesbase/items/19ba3b5b-4b03-4865-8308-690a10a8afdb/prompt.md) · 应用界面 Loyalty App 深色 暗色 黑色 橙色 · prompt
+- [AI Assistant App](sources/framesbase/items/1ac3b441-9d9e-461f-83d3-c8e6ec309c2f/prompt.md) · 应用界面 AI App 浅色 明亮 白色 灰色 · prompt
+- [F1 Racing Hub](sources/framesbase/items/20ae424d-b644-496b-942f-5495699ec947/prompt.md) · 应用界面 Statistics App 深色 暗色 黑色 红色 橙色 · prompt
+- [Reading Library](sources/framesbase/items/226a0cf0-7336-4461-8496-ecd58088e1f4/prompt.md) · 应用界面 Books 深色 暗色 黑色 灰色 · prompt
+- [Robot Battle Arena](sources/framesbase/items/28f0ede6-4ef5-4224-8413-083968f60b18/prompt.md) · 应用界面 Game UI 混合明暗 黑色 灰色 白色 · prompt
+- [Church Community](sources/framesbase/items/2aeefa36-09e6-45f0-a6f1-e0e6ed30bc9b/prompt.md) · 应用界面 Church 深色 暗色 橙色 黑色 白色 · prompt
+- [Modern HR Dashboard](sources/framesbase/items/3bed1678-8ec8-4177-bca6-18fcdfe29ef5/prompt.md) · 应用界面 HR Management 仪表盘 数据看板 浅色 明亮 白色 灰色 · prompt
+- [Forecast Center](sources/framesbase/items/3dc22911-f055-4773-b754-497b02af0407/prompt.md) · 应用界面 Utility 深色 暗色 青色 黑色 绿色 灰色 · prompt
+- [Footballer Portfolio](sources/framesbase/items/43e9e2d1-32e0-4a70-a9a9-a331d9549955/prompt.md) · 应用界面 Sports 个人作品集 运动 混合明暗 灰色 红色 白色 · prompt
+- [ADHD Planner](sources/framesbase/items/4cc14b2b-12b8-4d9b-b94a-a8cd79834d06/prompt.md) · 应用界面 App 混合明暗 橙色 白色 · prompt
+- [Album App](sources/framesbase/items/4e5c7519-fa46-4b8e-b2cd-a11c050a0c85/prompt.md) · 应用界面 Music 深色 暗色 粉色 · prompt
+- [Dental Implant Clinic](sources/framesbase/items/50270bf4-a940-4e6d-a89a-3fc065bf3555/prompt.md) · 应用界面 Healthcare 医疗 浅色 明亮 蓝色 白色 灰色 · prompt
+- [Live Language Classes](sources/framesbase/items/5a360021-3646-45fd-bfab-119ad064141c/prompt.md) · 应用界面 Learning SaaS 软件服务 浅色 明亮 白色 灰色 红色 · prompt
+- [Luxury Escapes](sources/framesbase/items/608b29bc-96f3-47e5-9caf-3f41220456a1/prompt.md) · 应用界面 Travel App 旅行 混合明暗 白色 蓝色 灰色 粉色 · prompt
+- [Fitness Dashboard](sources/framesbase/items/69f0c062-7a17-4737-91f1-56c18f595195/prompt.md) · 应用界面 Wellness 仪表盘 数据看板 身心健康 浅色 明亮 蓝色 白色 · prompt
+- [Movie Premiere](sources/framesbase/items/6f71de05-2838-4d33-b562-a2908a105305/prompt.md) · 应用界面 Entertainment 深色 暗色 黑色 灰色 · prompt
+- [Places Organizer](sources/framesbase/items/73cb5df5-b9e4-4024-8811-1bb174c324a5/prompt.md) · 应用界面 Travel 旅行 混合明暗 黑色 白色 灰色 · prompt
+- [3D Property](sources/framesbase/items/791ff0e0-b2b2-4fe2-98b4-4630dcd85f0f/prompt.md) · 应用界面 Real Estate 三维 立体 混合明暗 蓝色 灰色 · prompt
+- [Cross-Border](sources/framesbase/items/7ab5fd2a-7535-4ce4-9bf0-42f55d70f0c2/prompt.md) · 应用界面 Transportation 运输 混合明暗 橙色 黄色 · prompt
+- [Dental Care App](sources/framesbase/items/83ca9018-95d9-40d5-a2d5-80f998df91a2/prompt.md) · 应用界面 Health App 健康 浅色 明亮 白色 红色 橙色 · prompt
+- [Fine Jewelry Shop](sources/framesbase/items/8521e3b9-cf62-436b-92d8-99d657c246eb/prompt.md) · 应用界面 Ecommerce 电商 商城 浅色 明亮 灰色 橙色 白色 · prompt
+- [Travel Explorer](sources/framesbase/items/87fa1b62-4ce6-4d32-940b-3605df144bfa/prompt.md) · 应用界面 Travel 旅行 混合明暗 灰色 蓝色 白色 · prompt
+- [Place Saver](sources/framesbase/items/88164436-53da-4069-8795-d6bc420539eb/prompt.md) · 应用界面 Travel 旅行 混合明暗 白色 黑色 灰色 · prompt
+- [Mood Tracker](sources/framesbase/items/8e9afed0-bb2f-46e2-9036-35661eeef59e/prompt.md) · 应用界面 Wellness 身心健康 混合明暗 灰色 · prompt
+- [Innovation Summit](sources/framesbase/items/907fc85e-ba83-4e66-ac1e-d632af12e053/prompt.md) · 应用界面 Mobile App 深色 暗色 蓝色 黑色 · prompt
+- [Freight Command](sources/framesbase/items/97638f78-ee79-4f4b-be0a-2533f1cb841a/prompt.md) · 应用界面 Logistics 深色 暗色 黑色 · prompt
+- [Gear Shop](sources/framesbase/items/a559f7a3-51b7-4d5a-801d-abd4de191040/prompt.md) · 应用界面 Ecommerce App 电商 商城 浅色 明亮 白色 红色 · prompt
+- [Remit Race](sources/framesbase/items/afebd1d2-3132-4d41-9678-f4e0729c2b7f/prompt.md) · 应用界面 Fintech 金融科技 深色 暗色 黑色 紫色 · prompt
+- [Travel Journal](sources/framesbase/items/b92abcca-3dad-493c-bb27-932bd8dd6c3b/prompt.md) · 应用界面 Travel 旅行 深色 暗色 黑色 橙色 灰色 · prompt
+- [Bite-Sized Courses](sources/framesbase/items/ba990167-1d41-4796-b5dc-bf98944bef6c/prompt.md) · 应用界面 Learning 浅色 明亮 白色 · prompt
+- [Lodge Booking App](sources/framesbase/items/bc727fce-9a9c-421f-9f9b-7a2743c93aaf/prompt.md) · 应用界面 Booking 深色 暗色 青色 灰色 · prompt
+- [Sweet Question](sources/framesbase/items/c4d07181-47a9-4fc5-b9be-43af6edd4aeb/prompt.md) · 应用界面 Events 浅色 明亮 红色 白色 · prompt
+- [LearnHub](sources/framesbase/items/ca338aa1-5128-4bd8-9287-ec8174af665b/prompt.md) · 应用界面 Education 教育 深色 暗色 黑色 紫色 灰色 · prompt
+- [Supplement Shop](sources/framesbase/items/d18a6adb-bd1a-44d2-b09d-2988c1bf43ec/prompt.md) · 应用界面 Health 健康 混合明暗 绿色 白色 黄色 · prompt
+- [Website Builder](sources/framesbase/items/d9888639-5064-4654-be6d-ebfa3d19b23f/prompt.md) · 应用界面 SaaS 软件服务 深色 暗色 黑色 · prompt
+- [Wellness Companion](sources/framesbase/items/dda701fc-95df-47ed-aaa7-32f7e6422d92/prompt.md) · 应用界面 Wellness 身心健康 混合明暗 蓝色 青色 灰色 · prompt
+- [Aurora Onboard](sources/framesbase/items/de8e6895-65ee-4472-8da0-88cbf73e5d4c/prompt.md) · 应用界面 Sign Up 注册 表单 深色 暗色 黑色 紫色 · prompt
+- [Social Hangouts](sources/framesbase/items/e41d4175-33d0-4aac-8986-f6fa35411eb3/prompt.md) · 应用界面 Community App 混合明暗 橙色 白色 · prompt
+- [CARGOX Mobile](sources/framesbase/items/e921ded4-27ae-4449-90b7-e1fccaf274e9/prompt.md) · 应用界面 Transportation 运输 混合明暗 橙色 黑色 · prompt
+- [Pet Products](sources/framesbase/items/eb13e7e9-22df-4a30-8bc7-bdd80525a805/prompt.md) · 应用界面 Ecommerce App 电商 商城 混合明暗 绿色 白色 黄色 · prompt
+- [Nexar](sources/framesbase/items/fc46e2cd-c997-4319-b575-3074317c69ba/prompt.md) · 应用界面 Productivity 浅色 明亮 白色 灰色 · prompt
+
+## 页面模块（91）
+
+- [Radial Diagram](sources/framesbase/items/00c5dd3b-a42e-4769-ae44-62a5f876c338/prompt.md) · 页面模块 Testimonials 客户评价 深色 暗色 黑色 灰色 · prompt
+- [Lumina](sources/framesbase/items/0157c334-0f99-43f9-a616-0049308d6026/prompt.md) · 页面模块 Footer Section 页脚 深色 暗色 蓝色 灰色 · prompt
+- [Keep Ahead Features](sources/framesbase/items/016185bf-1cad-4c7c-9e58-48c929e6178c/prompt.md) · 页面模块 Features Section 功能介绍 深色 暗色 黑色 灰色 · prompt
+- [Kova Testimonial](sources/framesbase/items/02b4d453-c3bb-48d1-92f2-a99d529d4447/prompt.md) · 页面模块 Testimonial 客户评价 浅色 明亮 白色 · prompt
+- [Arceage Stats](sources/framesbase/items/07e2f299-7371-488f-b361-993c6062c1cb/prompt.md) · 页面模块 Stats 深色 暗色 黑色 绿色 · prompt
+- [Price Calculator](sources/framesbase/items/0b7f8771-8157-4ae0-94b4-860d110a7967/prompt.md) · 页面模块 SaaS 软件服务 深色 暗色 黑色 红色 · prompt
+- [Bento Grid Stats](sources/framesbase/items/0c961259-db56-4e96-b40f-675f1f15cf94/prompt.md) · 页面模块 Bento 便当格 网格 卡片 混合明暗 黑色 白色 灰色 · prompt
+- [Mistveil](sources/framesbase/items/0de20a2a-5bfc-4897-b2c4-a70db52efe2d/prompt.md) · 页面模块 Footer 页脚 浅色 明亮 白色 灰色 · prompt
+- [Rocket Pricing](sources/framesbase/items/106e888a-697e-43e9-a71d-0d7a68045daa/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 深色 暗色 黑色 灰色 · prompt
+- [Max Reed Portfolio](sources/framesbase/items/117278d9-b2e0-4cbf-8be4-032e0a0b7246/prompt.md) · 页面模块 Features 功能介绍 个人作品集 深色 暗色 绿色 黑色 青色 灰色 · prompt
+- [Nietzsche sustainibilty](sources/framesbase/items/1246a299-6aef-4e0a-806b-b4776bcab59f/prompt.md) · 页面模块 Footer 页脚 混合明暗 橙色 灰色 白色 · prompt
+- [NexaCore Process](sources/framesbase/items/1246dfa7-68ac-465c-8320-137a826e55c1/prompt.md) · 页面模块 Process 深色 暗色 黑色 紫色 白色 · prompt
+- [404 Planet](sources/framesbase/items/13b6f518-e697-4667-8179-ea595413950e/prompt.md) · 页面模块 404 深色 暗色 黑色 蓝色 · prompt
+- [Vize Footer](sources/framesbase/items/195daa7c-91e4-40fd-ae77-3470f51f07c5/prompt.md) · 页面模块 Footer Section 页脚 浅色 明亮 白色 · prompt
+- [Nimbus Ops](sources/framesbase/items/21c22482-7d12-477a-9413-f4ea767d2de2/prompt.md) · 页面模块 CTA 行动按钮 转化区 深色 暗色 黑色 灰色 · prompt
+- [Task Engine](sources/framesbase/items/222d0f76-41e4-4755-86c8-2aab8b293a76/prompt.md) · 页面模块 SaaS 软件服务 浅色 明亮 白色 灰色 · prompt
+- [Daisy Sweet](sources/framesbase/items/22ab490d-62ff-4cf1-9794-baa8d593fd03/prompt.md) · 页面模块 Product 混合明暗 青色 灰色 红色 · prompt
+- [Nexora Features](sources/framesbase/items/277c3d81-21a8-4ea1-a16d-f22d863618eb/prompt.md) · 页面模块 Features Section 功能介绍 深色 暗色 黑色 紫色 蓝色 粉色 红色 · prompt
+- [FlowMate Carousal](sources/framesbase/items/27f74be1-b12f-468d-a1ec-27d227d5423b/prompt.md) · 页面模块 Carousal 轮播 混合明暗 灰色 蓝色 白色 · prompt
+- [Growth Analytics](sources/framesbase/items/29b20047-a7c1-4d3b-b994-1d373f468a16/prompt.md) · 页面模块 SaaS 软件服务 浅色 明亮 白色 蓝色 灰色 · prompt
+- [Media Card Carousel](sources/framesbase/items/2b6c461d-b784-4dc2-914c-104a70a3103b/prompt.md) · 页面模块 Slider 卡片 滑块 轮播 轮播 浅色 明亮 白色 灰色 蓝色 · prompt
+- [Blog Showcase](sources/framesbase/items/2b73a953-37be-4603-8326-908358c4456f/prompt.md) · 页面模块 Blog 博客 混合明暗 黑色 蓝色 白色 · prompt
+- [Halo Use Case](sources/framesbase/items/2b8016d1-f422-4dd7-9a13-7925cd2f5c95/prompt.md) · 页面模块 Use Case 浅色 明亮 白色 灰色 · prompt
+- [Global CTA Footer](sources/framesbase/items/31198968-94ab-4c75-8db0-45f922971eb9/prompt.md) · 页面模块 CTA 页脚 行动按钮 转化区 深色 暗色 黑色 灰色 · prompt
+- [Daisy Wild](sources/framesbase/items/33f78e48-9c2a-45ea-975e-f192330f1c70/prompt.md) · 页面模块 Product 混合明暗 绿色 橙色 · prompt
+- [Portfolio About](sources/framesbase/items/37eb995b-0223-4e14-b049-0ff78e9a7895/prompt.md) · 页面模块 About 关于我们 个人作品集 深色 暗色 黑色 灰色 · prompt
+- [Social Media Posts](sources/framesbase/items/3a971795-411b-48d2-9c19-0e8cedebcca3/prompt.md) · 页面模块 Social Media 深色 暗色 黑色 灰色 白色 · prompt
+- [Zenith Footer](sources/framesbase/items/3aa2483a-377c-4adb-a2e7-16ea0c1f8f0c/prompt.md) · 页面模块 Footer Section 页脚 浅色 明亮 白色 蓝色 灰色 · prompt
+- [Spectrum Grid](sources/framesbase/items/3af446c3-3be2-477b-93cf-65dfd25f0621/prompt.md) · 页面模块 Technology 科技 深色 暗色 黑色 青色 紫色 粉色 · prompt
+- [Mouse Trail CTA](sources/framesbase/items/3c41e07a-415b-4874-941d-a4973e36dfd8/prompt.md) · 页面模块 CTA 行动按钮 转化区 浅色 明亮 白色 灰色 · prompt
+- [Beauty Categories](sources/framesbase/items/3de06de5-499c-4a15-8880-e01e51f637fd/prompt.md) · 页面模块 Categories 混合明暗 白色 橙色 灰色 · prompt
+- [Rocket FAQ](sources/framesbase/items/42e1d2fc-ebb2-435e-9bee-26f372edfa2d/prompt.md) · 页面模块 FAQ 常见问题 深色 暗色 黑色 灰色 · prompt
+- [Guardnet Benefits](sources/framesbase/items/43c4e908-130a-44d2-b0f2-feccf68d0f36/prompt.md) · 页面模块 Benefits 深色 暗色 黑色 · prompt
+- [Velorah Focus](sources/framesbase/items/494d237a-9ad3-4042-aeb8-c1d3ce1328f8/prompt.md) · 页面模块 Social Media 深色 暗色 黑色 灰色 · prompt
+- [NimBus Pricing](sources/framesbase/items/4a7d1f9d-91f0-4187-ac26-25fb6308dd25/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 深色 暗色 黑色 灰色 · prompt
+- [Gridcore](sources/framesbase/items/52599ccc-ada4-4a5a-9225-fcba04259fd8/prompt.md) · 页面模块 Features 功能介绍 浅色 明亮 白色 灰色 · prompt
+- [SaaS Pricing Flow](sources/framesbase/items/52c61350-0426-4bd4-8b67-cbe57659c962/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 软件服务 深色 暗色 黑色 蓝色 · prompt
+- [Capabilities Overview](sources/framesbase/items/58852313-cee6-4349-ae39-fd22c634d6c6/prompt.md) · 页面模块 Features 功能介绍 浅色 明亮 灰色 白色 · prompt
+- [Liquid Glass Features](sources/framesbase/items/5f22fc26-ad52-4f07-942a-9adac31a3176/prompt.md) · 页面模块 Features 功能介绍 深色 暗色 黑色 蓝色 · prompt
+- [Arceage Testimonial](sources/framesbase/items/602466a7-fd9c-45bb-b720-0d03b9c2e9aa/prompt.md) · 页面模块 Testimonials 客户评价 混合明暗 白色 黑色 灰色 · prompt
+- [Orbis Hello](sources/framesbase/items/63d6a802-45d5-4889-bdd4-1c28fb528d69/prompt.md) · 页面模块 About 关于我们 深色 暗色 蓝色 紫色 灰色 · prompt
+- [Guardnet Demo](sources/framesbase/items/6e37b4d6-da13-449a-9c19-17fec3bca234/prompt.md) · 页面模块 Info 深色 暗色 黑色 灰色 · prompt
+- [Apex Program Accordion](sources/framesbase/items/6f3f8c5b-a17f-43b8-8bce-c765fa65af63/prompt.md) · 页面模块 Accordion 折叠面板 深色 暗色 黑色 · prompt
+- [Axion About](sources/framesbase/items/6f53478d-a7dc-46d8-a839-48406a2e2686/prompt.md) · 页面模块 About 关于我们 浅色 明亮 白色 灰色 · prompt
+- [FAQ CTA](sources/framesbase/items/735be6cf-ef6c-4e18-b85c-c353968b4d75/prompt.md) · 页面模块 CTA 常见问题 行动按钮 转化区 浅色 明亮 白色 橙色 · prompt
+- [Technical Specifications](sources/framesbase/items/76cc56ac-4363-4612-ac27-80aa854721b2/prompt.md) · 页面模块 Tabs 标签切换 深色 暗色 黑色 蓝色 · prompt
+- [Veloce Cards](sources/framesbase/items/7716284d-aa03-469a-bca4-801fad90d502/prompt.md) · 页面模块 Cards 卡片 浅色 明亮 白色 · prompt
+- [Liquid Glass CTA](sources/framesbase/items/774e72b9-e536-4ee6-b8f8-88b07e33f056/prompt.md) · 页面模块 CTA 行动按钮 转化区 深色 暗色 黑色 紫色 · prompt
+- [Autonomous Ops](sources/framesbase/items/7e49b512-41b7-4d2e-89a5-e676286d8b94/prompt.md) · 页面模块 SaaS 软件服务 浅色 明亮 白色 · prompt
+- [Nimbus Security](sources/framesbase/items/8046bd16-0669-4ef8-8ed4-e55002c29c18/prompt.md) · 页面模块 Cards 卡片 安全 深色 暗色 黑色 橙色 · prompt
+- [LaunchEx Submissions](sources/framesbase/items/8ed108d3-543a-43fc-acd0-fbbe1cf40446/prompt.md) · 页面模块 Features 功能介绍 浅色 明亮 白色 灰色 · prompt
+- [Arceage Services](sources/framesbase/items/977ae2e9-4614-4cb9-bbd0-4b4c4c9dd769/prompt.md) · 页面模块 Services 深色 暗色 灰色 绿色 · prompt
+- [Community CTA](sources/framesbase/items/98a66586-dc8b-430f-b097-e5ee0a797eab/prompt.md) · 页面模块 CTA Section 行动按钮 转化区 浅色 明亮 蓝色 白色 · prompt
+- [Scroll Marquee](sources/framesbase/items/995a3390-bfbd-4b7d-b16a-82ea7539c1dd/prompt.md) · 页面模块 Marquee 跑马灯 深色 暗色 黑色 灰色 · prompt
+- [Tech-Noir About](sources/framesbase/items/9a77658b-10af-4705-8ea7-a10ba3e35e59/prompt.md) · 页面模块 About 关于我们 深色 暗色 红色 · prompt
+- [Nimbus Sticky Cards](sources/framesbase/items/9d6d1da1-fdbc-4b0b-a90d-253ead8c5f7b/prompt.md) · 页面模块 Cards 卡片 深色 暗色 黑色 黄色 · prompt
+- [Kresna Footer](sources/framesbase/items/9d7b8402-0653-474e-b9cd-c744112e4f03/prompt.md) · 页面模块 Footer Section 页脚 浅色 明亮 白色 蓝色 · prompt
+- [Agency Services](sources/framesbase/items/9e7f6391-f06c-46ee-b73d-90acc3569ccf/prompt.md) · 页面模块 Services 工作室 浅色 明亮 白色 灰色 · prompt
+- [What Package Fits You](sources/framesbase/items/9ecf60fd-1bb7-4c97-bb14-66a026d1cca4/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 浅色 明亮 白色 灰色 · prompt
+- [Nimbus Demo](sources/framesbase/items/a1c95b10-02f2-4823-8f6a-31b658f83799/prompt.md) · 页面模块 Dashboard Demo 仪表盘 数据看板 深色 暗色 黑色 · prompt
+- [3D Studio Pricing](sources/framesbase/items/a3e8b3dc-f8ef-42f4-983e-3e86a3c8e8ef/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 三维 立体 深色 暗色 黑色 橙色 · prompt
+- [HAUL!](sources/framesbase/items/a68702dd-a4e1-4fdc-b011-1540872534a9/prompt.md) · 页面模块 Footer Section 页脚 浅色 明亮 橙色 白色 · prompt
+- [Editorial Collection CTA](sources/framesbase/items/a81a6b93-59bb-452b-b42e-0647a8058598/prompt.md) · 页面模块 CTA 行动按钮 转化区 编辑 杂志 浅色 明亮 白色 橙色 · prompt
+- [NexaCore Results](sources/framesbase/items/a96f98d7-fd16-4ec3-ba06-c2c566775df2/prompt.md) · 页面模块 Features 功能介绍 浅色 明亮 白色 · prompt
+- [Orbis CTA](sources/framesbase/items/b1e86846-a615-4a8c-9b3d-90da301480af/prompt.md) · 页面模块 CTA 行动按钮 转化区 深色 暗色 蓝色 紫色 · prompt
+- [Stark Minimal Footer](sources/framesbase/items/b277d919-4672-4b55-8652-10f7495ff9ed/prompt.md) · 页面模块 Footer 页脚 深色 暗色 黑色 灰色 · prompt
+- [Digital Reality](sources/framesbase/items/b3e64519-d48e-437e-948d-964ff02e161a/prompt.md) · 页面模块 Social Media 混合明暗 青色 黑色 灰色 橙色 · prompt
+- [Dashboard UI](sources/framesbase/items/b4e90f5d-f10b-4017-97d8-402468586570/prompt.md) · 页面模块 Dashboard 仪表盘 数据看板 浅色 明亮 黄色 蓝色 白色 绿色 · prompt
+- [Glow Features](sources/framesbase/items/b6df95b8-fbf7-4de9-99c9-509551e9663e/prompt.md) · 页面模块 Features Section 功能介绍 深色 暗色 黑色 灰色 · prompt
+- [Pixel Grid Hover](sources/framesbase/items/b9553c71-a6e4-420c-a103-00f5554d3f19/prompt.md) · 页面模块 Case Studies 浅色 明亮 白色 灰色 · prompt
+- [Projects Catalog](sources/framesbase/items/bb53dde7-07e7-4395-a06d-c4e65661a57f/prompt.md) · 页面模块 Projects 深色 暗色 黑色 黄色 灰色 · prompt
+- [Feedback Slider](sources/framesbase/items/c025e92d-a0de-4e61-a5ea-eda32c8bdd28/prompt.md) · 页面模块 Slider 滑块 轮播 浅色 明亮 白色 · prompt
+- [Cognitra Feature](sources/framesbase/items/c035947f-17bb-4eb0-ba52-d8ee935b42c8/prompt.md) · 页面模块 Feature 功能介绍 混合明暗 灰色 · prompt
+- [Benefits Features](sources/framesbase/items/c4ea3019-1a4e-4414-9a7e-f486c49511ef/prompt.md) · 页面模块 Features Section 功能介绍 浅色 明亮 白色 橙色 · prompt
+- [NexaCore Control](sources/framesbase/items/c98422e9-5aac-413a-8257-8e839099bf5a/prompt.md) · 页面模块 Features 功能介绍 浅色 明亮 白色 · prompt
+- [Glassmorphic Feature Tabs](sources/framesbase/items/cd8d1a77-c851-4a76-828b-aa1e08872cfa/prompt.md) · 页面模块 Tabs 功能介绍 标签切换 深色 暗色 黑色 灰色 紫色 · prompt
+- [Pet Diagnostics](sources/framesbase/items/ce7ce046-2502-4c44-9f82-9088fa3d108b/prompt.md) · 页面模块 Healthcare 医疗 混合明暗 橙色 灰色 · prompt
+- [Animated Cards](sources/framesbase/items/cfaba27b-46ec-44f6-907c-07ef200e6fe1/prompt.md) · 页面模块 Component 卡片 深色 暗色 黑色 灰色 · prompt
+- [Rocket CTA](sources/framesbase/items/d034c9e2-9c68-4504-a1b3-662fea085572/prompt.md) · 页面模块 CTA 行动按钮 转化区 深色 暗色 黑色 灰色 青色 绿色 · prompt
+- [Nex Max Upgrade](sources/framesbase/items/d4b03034-a31a-4d9c-9820-7fe4ddb7484d/prompt.md) · 页面模块 Pricing 价格区 定价 套餐 深色 暗色 蓝色 黑色 · prompt
+- [Orbis Cards](sources/framesbase/items/d71ec79f-15fc-44e4-9761-58131adb3197/prompt.md) · 页面模块 Cards 卡片 深色 暗色 蓝色 · prompt
+- [Kova Features](sources/framesbase/items/d9ff3c79-a41c-4230-966b-15341db1fc98/prompt.md) · 页面模块 Benefits 功能介绍 浅色 明亮 白色 灰色 · prompt
+- [Cognitra Offer](sources/framesbase/items/e299a6a2-6e8e-4b24-a2db-e9be3e2ee136/prompt.md) · 页面模块 Cards 卡片 浅色 明亮 灰色 · prompt
+- [Arceage Contact Us](sources/framesbase/items/eee5efff-f54d-4647-ba4d-60c85e885787/prompt.md) · 页面模块 Form 表单 浅色 明亮 白色 · prompt
+- [Halo Benefits](sources/framesbase/items/efa3d4e3-51be-4b98-8a30-623359adadca/prompt.md) · 页面模块 Why Us 浅色 明亮 白色 灰色 · prompt
+- [LaunchEx About](sources/framesbase/items/efe0513f-6b73-4c70-84a4-9915cae6053c/prompt.md) · 页面模块 About 关于我们 浅色 明亮 白色 灰色 · prompt
+- [Interior Features](sources/framesbase/items/f1884c37-7042-47bd-99df-91a6252ff777/prompt.md) · 页面模块 Features 功能介绍 深色 暗色 黑色 灰色 橙色 · prompt
+- [Nike Hover](sources/framesbase/items/f780106c-91b1-4c07-a6ef-4c70ca27ebba/prompt.md) · 页面模块 Features 功能介绍 深色 暗色 黑色 灰色 · prompt
+- [Beauty Products](sources/framesbase/items/fbb5c4fb-fead-4d73-b4a9-fa1513e9a0e2/prompt.md) · 页面模块 Products 浅色 明亮 白色 · prompt
+- [Botanical Shadow About](sources/framesbase/items/fe6e3645-5acc-43f8-a166-c007ef8f302d/prompt.md) · 页面模块 About 关于我们 浅色 明亮 白色 灰色 · prompt
+- [Solace sign-in](sources/framesbase/items/ff5e517f-2199-4a6c-b1cc-c1fa3d9d1e12/prompt.md) · 页面模块 Sign In Form 登录 表单 表单 深色 暗色 蓝色 · prompt
+
+## 动态背景（218）
+
+- [阳光草地中的人物背影](sources/framesbase/items/bg-00ec9b5941dc4353e244/reference.md) · 阳光草地中的人物背影 · 动态背景 混合明暗 绿色 蓝色 青色 白色 · background-link
+- [紫粉镜面波浪](sources/framesbase/items/bg-035d2a386a87296b7d17/reference.md) · 紫粉镜面波浪 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [蓝天下的野花山坡](sources/framesbase/items/bg-04771790200510ff6409/reference.md) · 蓝天下的野花山坡 · 动态背景 深色 暗色 青色 黑色 橙色 绿色 灰色 · background-link
+- [白色放射状能量光束](sources/framesbase/items/bg-04accee095b4897bf81f/reference.md) · 白色放射状能量光束 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [紫粉双色绒毛球体](sources/framesbase/items/bg-04d84402197fababd1d5/reference.md) · 紫粉双色绒毛球体 · 动态背景 混合明暗 蓝色 紫色 白色 粉色 · background-link
+- [蓝色行星弧面与星空](sources/framesbase/items/bg-06236fd5087c1c733698/reference.md) · 蓝色行星弧面与星空 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [金绿色山谷与蜿蜒小溪](sources/framesbase/items/bg-07745cccc6b2cb5101a1/reference.md) · 金绿色山谷与蜿蜒小溪 · 动态背景 混合明暗 绿色 黄色 · background-link
+- [梦幻花坡与彩虹光晕](sources/framesbase/items/bg-0a079cccc1505904847c/reference.md) · 梦幻花坡与彩虹光晕 · 动态背景 混合明暗 灰色 橙色 · background-link
+- [蓝色光芒中的电脑人物剪影](sources/framesbase/items/bg-0aa3da1cfbe0f92fd6ea/reference.md) · 蓝色光芒中的电脑人物剪影 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [彩色太空星球与卡通宇航员](sources/framesbase/items/bg-0aac25928644960436d1/reference.md) · 彩色太空星球与卡通宇航员 · 动态背景 深色 暗色 蓝色 紫色 · background-link
+- [白底风力发电与太阳能微缩岛屿](sources/framesbase/items/bg-0b30da4f88ccc2d93873/reference.md) · 白底风力发电与太阳能微缩岛屿 · 动态背景 浅色 明亮 白色 绿色 · background-link
+- [俯视绿色水面与飞鸟](sources/framesbase/items/bg-0c33fef576ef4405bb40/reference.md) · 俯视绿色水面与飞鸟 · 动态背景 混合明暗 绿色 黄色 · background-link
+- [星空旋涡与紫色花海人物](sources/framesbase/items/bg-0cfc5f76b37aec354905/reference.md) · 星空旋涡与紫色花海人物 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [紫粉晚霞与平原](sources/framesbase/items/bg-0dddf9fdc91ab8d09fc2/reference.md) · 紫粉晚霞与平原 · 动态背景 深色 暗色 蓝色 紫色 粉色 · background-link
+- [深色蓝橙弧形渐变](sources/framesbase/items/bg-0e4bdcc43e9db8cb9169/reference.md) · 深色蓝橙弧形渐变 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [绿色山谷与蜿蜒溪流](sources/framesbase/items/bg-0ec0e0ae7696a6c51239/reference.md) · 绿色山谷与蜿蜒溪流 · 动态背景 混合明暗 绿色 白色 · background-link
+- [花卉边框中的蓝天](sources/framesbase/items/bg-0ee74241c4fbd8d635e9/reference.md) · 花卉边框中的蓝天 · 动态背景 混合明暗 蓝色 灰色 红色 · background-link
+- [浅色悬崖缝隙与花草](sources/framesbase/items/bg-0fdec79dfb2bb34e23e7/reference.md) · 浅色悬崖缝隙与花草 · 动态背景 混合明暗 灰色 · background-link
+- [白色天空下的金色草甸](sources/framesbase/items/bg-11aec9b0f278828f7cd2/reference.md) · 白色天空下的金色草甸 · 动态背景 浅色 明亮 白色 黄色 橙色 · background-link
+- [黑色垂直金属条纹](sources/framesbase/items/bg-11cf6d38ee58abcfa72f/reference.md) · 黑色垂直金属条纹 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [绿色行星与星云](sources/framesbase/items/bg-13c3508c327b547df8e5/reference.md) · 绿色行星与星云 · 动态背景 深色 暗色 黑色 绿色 · background-link
+- [黑底透明粒子花朵](sources/framesbase/items/bg-13e514082000023b986e/reference.md) · 黑底透明粒子花朵 · 动态背景 深色 暗色 黑色 · background-link
+- [雾气中的自行车骑手](sources/framesbase/items/bg-150f82d7468262ca0665/reference.md) · 雾气中的自行车骑手 · 动态背景 混合明暗 蓝色 灰色 白色 · background-link
+- [黑底透明星球与环绕轨道](sources/framesbase/items/bg-15564ed3a5cc4167f823/reference.md) · 黑底透明星球与环绕轨道 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [紫蓝液态金属曲面](sources/framesbase/items/bg-1592e197d788336e0d1e/reference.md) · 紫蓝液态金属曲面 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [米色天空与红色沙丘](sources/framesbase/items/bg-184aee4e421d905c549c/reference.md) · 米色天空与红色沙丘 · 动态背景 浅色 明亮 灰色 红色 橙色 · background-link
+- [白底绿色苔藓圆丘](sources/framesbase/items/bg-1a938f1b38761ef42f2a/reference.md) · 白底绿色苔藓圆丘 · 动态背景 浅色 明亮 白色 黄色 灰色 · background-link
+- [灰底蓝色未来头盔](sources/framesbase/items/bg-1aa9ce4cb58e53ad0e25/reference.md) · 灰底蓝色未来头盔 · 动态背景 混合明暗 蓝色 灰色 · background-link
+- [云端悬崖与山顶小屋](sources/framesbase/items/bg-1e6fa52040209841f9a5/reference.md) · 云端悬崖与山顶小屋 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [灰底彩色条纹抽象物体](sources/framesbase/items/bg-22bc125da600a66060f2/reference.md) · 灰底彩色条纹抽象物体 · 动态背景 混合明暗 灰色 · background-link
+- [黑底蓝橙对称发光图形](sources/framesbase/items/bg-22d1c6404b5e8d853aeb/reference.md) · 黑底蓝橙对称发光图形 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑色透视网格空间](sources/framesbase/items/bg-2345751b52a80372c7fe/reference.md) · 黑色透视网格空间 · 动态背景 深色 暗色 黑色 · background-link
+- [白底 DNA 双螺旋](sources/framesbase/items/bg-250e9745401d35c5f834/reference.md) · 白底 DNA 双螺旋 · 动态背景 浅色 明亮 白色 灰色 · background-link
+- [白底下沿彩色花海](sources/framesbase/items/bg-25aefde75817ec28ecc1/reference.md) · 白底下沿彩色花海 · 动态背景 浅色 明亮 白色 灰色 · background-link
+- [蓝色夜空下的复古电视](sources/framesbase/items/bg-267cc540528ad78aafbd/reference.md) · 蓝色夜空下的复古电视 · 动态背景 混合明暗 青色 黑色 灰色 蓝色 · background-link
+- [白底悬浮森林岛屿](sources/framesbase/items/bg-285acf1f8c221cdd7167/reference.md) · 白底悬浮森林岛屿 · 动态背景 浅色 明亮 白色 绿色 · background-link
+- [白底卡通滑板角色](sources/framesbase/items/bg-2b2c8543293b6eed3ab4/reference.md) · 白底卡通滑板角色 · 动态背景 浅色 明亮 白色 红色 灰色 · background-link
+- [卡通秋日森林与山溪](sources/framesbase/items/bg-2b807e419327d7cd8791/reference.md) · 卡通秋日森林与山溪 · 动态背景 混合明暗 灰色 橙色 红色 · background-link
+- [城市天际线与公园湖面](sources/framesbase/items/bg-2c7f9061c7f0a1de75b8/reference.md) · 城市天际线与公园湖面 · 动态背景 深色 暗色 黑色 青色 蓝色 灰色 · background-link
+- [深蓝抽象起伏山脊](sources/framesbase/items/bg-2d322af407d21069e1a8/reference.md) · 深蓝抽象起伏山脊 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底银河星空](sources/framesbase/items/bg-2e42b6208627ae921a96/reference.md) · 黑底银河星空 · 动态背景 深色 暗色 黑色 · background-link
+- [阳光草地中的白衣人物](sources/framesbase/items/bg-2e609f7810e67bdb7039/reference.md) · 阳光草地中的白衣人物 · 动态背景 混合明暗 绿色 蓝色 青色 白色 · background-link
+- [黑底彩色光带与人物](sources/framesbase/items/bg-2f2c1d848d6973f62a29/reference.md) · 黑底彩色光带与人物 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [紫色薰衣草田与晚霞](sources/framesbase/items/bg-2f9e3432617ed8dc3ac8/reference.md) · 紫色薰衣草田与晚霞 · 动态背景 深色 暗色 蓝色 紫色 · background-link
+- [巨大行星边缘与绿色地面](sources/framesbase/items/bg-305a1fb725358ae2d651/reference.md) · 巨大行星边缘与绿色地面 · 动态背景 深色 暗色 黑色 青色 · background-link
+- [向日葵田与远山湖泊](sources/framesbase/items/bg-325d08a08d6ee224dc7a/reference.md) · 向日葵田与远山湖泊 · 动态背景 混合明暗 青色 绿色 灰色 · background-link
+- [蓝红火焰能量圆环](sources/framesbase/items/bg-3290daa2fbaa77a5f0a8/reference.md) · 蓝红火焰能量圆环 · 动态背景 深色 暗色 黑色 蓝色 紫色 · background-link
+- [紫色发光地球](sources/framesbase/items/bg-332ed27a457e9a2e9ccf/reference.md) · 紫色发光地球 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [卡通橙色沙漠与悬浮白云](sources/framesbase/items/bg-34a0b90a6fd74340fde4/reference.md) · 卡通橙色沙漠与悬浮白云 · 动态背景 混合明暗 青色 橙色 · background-link
+- [阳光绿色丘陵](sources/framesbase/items/bg-3688c932becaa2d4ce73/reference.md) · 阳光绿色丘陵 · 动态背景 混合明暗 黄色 绿色 灰色 白色 · background-link
+- [深色颗粒彩虹渐变](sources/framesbase/items/bg-36ae87ee9d0c5a13f793/reference.md) · 深色颗粒彩虹渐变 · 动态背景 深色 暗色 灰色 黑色 紫色 · background-link
+- [浅色糖果渐变方块](sources/framesbase/items/bg-3997498d17bbe7620860/reference.md) · 浅色糖果渐变方块 · 动态背景 浅色 明亮 白色 紫色 · background-link
+- [碧蓝海岸与粉色花卉](sources/framesbase/items/bg-39f3947f100fec0a19f4/reference.md) · 碧蓝海岸与粉色花卉 · 动态背景 混合明暗 红色 青色 蓝色 白色 灰色 · background-link
+- [紫色透明能量球](sources/framesbase/items/bg-3b78efc5fcfa1d02e897/reference.md) · 紫色透明能量球 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [粉绿色颗粒山丘](sources/framesbase/items/bg-3b9e055011ad9bc96018/reference.md) · 粉绿色颗粒山丘 · 动态背景 混合明暗 粉色 蓝色 灰色 · background-link
+- [深蓝流体漩涡](sources/framesbase/items/bg-4010be6c0c531af46ab0/reference.md) · 深蓝流体漩涡 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [白底蓝绿色植物波浪](sources/framesbase/items/bg-44648b5b25383635108d/reference.md) · 白底蓝绿色植物波浪 · 动态背景 浅色 明亮 白色 绿色 灰色 · background-link
+- [深色红蓝交汇光束](sources/framesbase/items/bg-4688951053cfe3a3578f/reference.md) · 深色红蓝交汇光束 · 动态背景 深色 暗色 灰色 黑色 · background-link
+- [橙色地平线光晕](sources/framesbase/items/bg-46b00fcab387e43fbc42/reference.md) · 橙色地平线光晕 · 动态背景 深色 暗色 黑色 粉色 · background-link
+- [黑底银白粒子人像](sources/framesbase/items/bg-48114925c1039f7a0795/reference.md) · 黑底银白粒子人像 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [深海玻璃柱与鱼群](sources/framesbase/items/bg-481c662b602dfa444918/reference.md) · 深海玻璃柱与鱼群 · 动态背景 深色 暗色 黑色 青色 · background-link
+- [黑底紫色模糊流光](sources/framesbase/items/bg-487e7043596090f2838a/reference.md) · 黑底紫色模糊流光 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [蓝色黑洞与星空旋涡](sources/framesbase/items/bg-48c9042ce0c75f5563c0/reference.md) · 蓝色黑洞与星空旋涡 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [浅绿镜面抽象曲面](sources/framesbase/items/bg-49c7851a470487a0c9fb/reference.md) · 浅绿镜面抽象曲面 · 动态背景 混合明暗 黑色 绿色 白色 · background-link
+- [黑底白色粒子波浪](sources/framesbase/items/bg-4ca054b48795e6857344/reference.md) · 黑底白色粒子波浪 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [彩色花海丘陵](sources/framesbase/items/bg-4dc1358d3277042ea482/reference.md) · 彩色花海丘陵 · 动态背景 混合明暗 绿色 白色 灰色 · background-link
+- [桃红背景中的黑色卡通兔子](sources/framesbase/items/bg-5059a20cd8e400e00f18/reference.md) · 桃红背景中的黑色卡通兔子 · 动态背景 深色 暗色 粉色 · background-link
+- [黑暗空间中的橙色门与人物](sources/framesbase/items/bg-50f1782668059bc9afde/reference.md) · 黑暗空间中的橙色门与人物 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [暗色室内废墟与植物](sources/framesbase/items/bg-510fae866049dd5ac968/reference.md) · 暗色室内废墟与植物 · 动态背景 深色 暗色 黑色 黄色 橙色 · background-link
+- [浅色镜面金属新月](sources/framesbase/items/bg-528c4b29a80a5c39a461/reference.md) · 浅色镜面金属新月 · 动态背景 浅色 明亮 白色 灰色 · background-link
+- [深蓝背景中的 DNA 双螺旋](sources/framesbase/items/bg-52917505a82982388638/reference.md) · 深蓝背景中的 DNA 双螺旋 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [白底苔藓树枝与蝴蝶](sources/framesbase/items/bg-53c904a9f88524c47e72/reference.md) · 白底苔藓树枝与蝴蝶 · 动态背景 浅色 明亮 白色 黄色 · background-link
+- [黑底绿色金属丝带](sources/framesbase/items/bg-5429fc39eb4baa093305/reference.md) · 黑底绿色金属丝带 · 动态背景 深色 暗色 黑色 绿色 · background-link
+- [奇幻山谷与水边草地](sources/framesbase/items/bg-543222fd1939418f66dc/reference.md) · 奇幻山谷与水边草地 · 动态背景 混合明暗 灰色 绿色 橙色 黄色 · background-link
+- [浅灰背景中的悬浮岩石](sources/framesbase/items/bg-54a502f516845ecfb957/reference.md) · 浅灰背景中的悬浮岩石 · 动态背景 浅色 明亮 灰色 白色 · background-link
+- [黑底彩色金属丝带](sources/framesbase/items/bg-555aee9a0d8507433a6f/reference.md) · 黑底彩色金属丝带 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [黑底悬浮花卉岩石岛](sources/framesbase/items/bg-555cc23c9e65dff8b785/reference.md) · 黑底悬浮花卉岩石岛 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [黑底发光金属数字圆环](sources/framesbase/items/bg-5627e9874aa303843b2e/reference.md) · 黑底发光金属数字圆环 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [蓝天下的花丛与邮箱](sources/framesbase/items/bg-574830a024233a9137bd/reference.md) · 蓝天下的花丛与邮箱 · 动态背景 混合明暗 青色 · background-link
+- [黑色折面与细绿色线条](sources/framesbase/items/bg-577d4278b47bae4fa617/reference.md) · 黑色折面与细绿色线条 · 动态背景 深色 暗色 黑色 · background-link
+- [彩色天空中的长方形传送门](sources/framesbase/items/bg-59283bf18cbb5fe2aec5/reference.md) · 彩色天空中的长方形传送门 · 动态背景 混合明暗 蓝色 白色 · background-link
+- [黑暗空间中的白色发光门](sources/framesbase/items/bg-59635b67b1534a725089/reference.md) · 黑暗空间中的白色发光门 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [橙红背景中的面罩人物](sources/framesbase/items/bg-5c86be95cd67960d2c5f/reference.md) · 橙红背景中的面罩人物 · 动态背景 深色 暗色 红色 · background-link
+- [草地蓝天下的白色门](sources/framesbase/items/bg-5d52395b2a802db03cdc/reference.md) · 草地蓝天下的白色门 · 动态背景 混合明暗 蓝色 灰色 绿色 青色 · background-link
+- [森林水面上的白色几何灯阵](sources/framesbase/items/bg-5dfa98ab00bf35a72dea/reference.md) · 森林水面上的白色几何灯阵 · 动态背景 深色 暗色 灰色 黑色 · background-link
+- [春日樱花与湖泊](sources/framesbase/items/bg-5e904f324cb6fc125a5e/reference.md) · 春日樱花与湖泊 · 动态背景 混合明暗 橙色 灰色 · background-link
+- [白底蓝紫反光未来人物](sources/framesbase/items/bg-628333c6c5a106bd4f9d/reference.md) · 白底蓝紫反光未来人物 · 动态背景 浅色 明亮 白色 黑色 灰色 · background-link
+- [蓝天下的缆车与空中灯串](sources/framesbase/items/bg-6284926e3043c6815dd6/reference.md) · 蓝天下的缆车与空中灯串 · 动态背景 混合明暗 蓝色 · background-link
+- [黑底蓝色弯曲光带](sources/framesbase/items/bg-64a49201ac40c891e373/reference.md) · 黑底蓝色弯曲光带 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底红金颗粒球体](sources/framesbase/items/bg-64dfbd5995e6b034ce02/reference.md) · 黑底红金颗粒球体 · 动态背景 深色 暗色 黑色 红色 橙色 · background-link
+- [粉紫柔焦渐变](sources/framesbase/items/bg-653c7ce56c8d0e98c327/reference.md) · 粉紫柔焦渐变 · 动态背景 浅色 明亮 紫色 白色 粉色 · background-link
+- [紫色层叠圆角拱形渐变](sources/framesbase/items/bg-6648cd2c79cbb32ae737/reference.md) · 紫色层叠圆角拱形渐变 · 动态背景 深色 暗色 黑色 蓝色 紫色 · background-link
+- [蓝紫粉垂直玻璃光栅](sources/framesbase/items/bg-68e21ac29e3da0210b56/reference.md) · 蓝紫粉垂直玻璃光栅 · 动态背景 浅色 明亮 蓝色 灰色 白色 · background-link
+- [浅蓝奶油色柔焦光环](sources/framesbase/items/bg-69bcaab85dafbd1cd157/reference.md) · 浅蓝奶油色柔焦光环 · 动态背景 混合明暗 蓝色 灰色 · background-link
+- [紫橙线框流体与卡通人物](sources/framesbase/items/bg-69cb4dda2cf3f249fb0d/reference.md) · 紫橙线框流体与卡通人物 · 动态背景 深色 暗色 紫色 黑色 · background-link
+- [日落海岸古典建筑](sources/framesbase/items/bg-6a1355fa9f874d42b337/reference.md) · 日落海岸古典建筑 · 动态背景 混合明暗 灰色 红色 橙色 · background-link
+- [蓝天白云与绿色丘陵](sources/framesbase/items/bg-6a8f0ea72afaf7d5020c/reference.md) · 蓝天白云与绿色丘陵 · 动态背景 浅色 明亮 蓝色 白色 绿色 · background-link
+- [聚光灯下的花丛人物](sources/framesbase/items/bg-6b6549b72b328a120e4d/reference.md) · 聚光灯下的花丛人物 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [蓝粉星云](sources/framesbase/items/bg-6b94b33fe38ddd837c3d/reference.md) · 蓝粉星云 · 动态背景 混合明暗 蓝色 粉色 · background-link
+- [阳光绿色叶片与水珠](sources/framesbase/items/bg-6c8598310889fa3da827/reference.md) · 阳光绿色叶片与水珠 · 动态背景 浅色 明亮 绿色 灰色 白色 · background-link
+- [黑底蓝紫橙色放射光晕](sources/framesbase/items/bg-6d56af1b7c84e7414666/reference.md) · 黑底蓝紫橙色放射光晕 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [黑底蓝白光环阵列](sources/framesbase/items/bg-6dc1af70969d2ef025e5/reference.md) · 黑底蓝白光环阵列 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底白色波浪光带](sources/framesbase/items/bg-6dedd91dc640cdf6a131/reference.md) · 黑底白色波浪光带 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [蓝天下爬满植物的古典遗迹](sources/framesbase/items/bg-6fb049e38e9593f9699c/reference.md) · 蓝天下爬满植物的古典遗迹 · 动态背景 深色 暗色 蓝色 黑色 青色 · background-link
+- [深色抽象山体与彩色高光](sources/framesbase/items/bg-72d1a495483a5af13ffb/reference.md) · 深色抽象山体与彩色高光 · 动态背景 深色 暗色 灰色 黑色 · background-link
+- [蓝紫橙色星云](sources/framesbase/items/bg-7699465ddf240d3d320d/reference.md) · 蓝紫橙色星云 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [蓝天下绿色山坡长椅](sources/framesbase/items/bg-76c87974b3fce1aa01bd/reference.md) · 蓝天下绿色山坡长椅 · 动态背景 混合明暗 蓝色 白色 青色 灰色 · background-link
+- [森林与远山雪峰](sources/framesbase/items/bg-77165ed1d10a0551af69/reference.md) · 森林与远山雪峰 · 动态背景 浅色 明亮 白色 青色 灰色 · background-link
+- [阳光花海与绿色小丘](sources/framesbase/items/bg-780c2759a9c213f38109/reference.md) · 阳光花海与绿色小丘 · 动态背景 混合明暗 绿色 白色 · background-link
+- [复古花卉静物与书本](sources/framesbase/items/bg-7811628ff546256fdbb2/reference.md) · 复古花卉静物与书本 · 动态背景 深色 暗色 橙色 黑色 · background-link
+- [白底飞机机身与舷窗](sources/framesbase/items/bg-7819c63ab94bc07a087a/reference.md) · 白底飞机机身与舷窗 · 动态背景 浅色 明亮 白色 橙色 · background-link
+- [白底蓝色玻璃按钮](sources/framesbase/items/bg-79df348170dd489ff7a2/reference.md) · 白底蓝色玻璃按钮 · 动态背景 浅色 明亮 灰色 白色 蓝色 · background-link
+- [黑底发光微型植物景观](sources/framesbase/items/bg-7a7bbedfae2a510e2246/reference.md) · 黑底发光微型植物景观 · 动态背景 深色 暗色 黑色 绿色 · background-link
+- [黑底橙色云团](sources/framesbase/items/bg-7ab4ba72b01fcd777617/reference.md) · 黑底橙色云团 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [星空下的深色沙丘](sources/framesbase/items/bg-7be01540b59b75971a7d/reference.md) · 星空下的深色沙丘 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [红云森林中的巨大石柱](sources/framesbase/items/bg-7db00f5124418d1e2794/reference.md) · 红云森林中的巨大石柱 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [蓝天白云与绿色田野](sources/framesbase/items/bg-7f344f8f07cac1ef47fe/reference.md) · 蓝天白云与绿色田野 · 动态背景 混合明暗 青色 绿色 白色 黄色 · background-link
+- [蓝紫奇幻森林与螺旋图腾](sources/framesbase/items/bg-7fbe7124399ed5ee4ed0/reference.md) · 蓝紫奇幻森林与螺旋图腾 · 动态背景 深色 暗色 蓝色 · background-link
+- [红色山坡与远处雪山](sources/framesbase/items/bg-817b3c1e9695ccec59cf/reference.md) · 红色山坡与远处雪山 · 动态背景 深色 暗色 红色 蓝色 黑色 灰色 粉色 · background-link
+- [黑底红色矩形光栅](sources/framesbase/items/bg-818c295365b50a509c2e/reference.md) · 黑底红色矩形光栅 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [金色积云与绿色山林](sources/framesbase/items/bg-83a4ed47bad35cf0a4ca/reference.md) · 金色积云与绿色山林 · 动态背景 混合明暗 灰色 黄色 橙色 · background-link
+- [日落花坡上的石拱门](sources/framesbase/items/bg-84a71273ee2daf8c5706/reference.md) · 日落花坡上的石拱门 · 动态背景 混合明暗 橙色 · background-link
+- [太空人和星形几何物体](sources/framesbase/items/bg-86add4352fc227463f6b/reference.md) · 太空人和星形几何物体 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [深色低亮度紫色流体](sources/framesbase/items/bg-86af8d5e5ff05380f1fa/reference.md) · 深色低亮度紫色流体 · 动态背景 深色 暗色 黑色 · background-link
+- [阳光草原与巨大岩石](sources/framesbase/items/bg-8756782932b1afd7636c/reference.md) · 阳光草原与巨大岩石 · 动态背景 混合明暗 灰色 黑色 橙色 · background-link
+- [白底金属手与蝴蝶](sources/framesbase/items/bg-88b79a574fc7526fd73b/reference.md) · 白底金属手与蝴蝶 · 动态背景 浅色 明亮 白色 红色 · background-link
+- [蓝色玻璃抽象丝带](sources/framesbase/items/bg-8a4d62946a2d2795f04e/reference.md) · 蓝色玻璃抽象丝带 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [蓝橙极光与行星地平线](sources/framesbase/items/bg-8c19c6305f153235ac24/reference.md) · 蓝橙极光与行星地平线 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [浅色未来人物与窗光](sources/framesbase/items/bg-8c7d4afcd18cb04d5ceb/reference.md) · 浅色未来人物与窗光 · 动态背景 浅色 明亮 白色 灰色 · background-link
+- [日落云层与辽阔山谷](sources/framesbase/items/bg-8c809e87821692aca57c/reference.md) · 日落云层与辽阔山谷 · 动态背景 深色 暗色 黑色 蓝色 橙色 灰色 · background-link
+- [夜间山坡上的复古电视](sources/framesbase/items/bg-8ce8168de194bd937b99/reference.md) · 夜间山坡上的复古电视 · 动态背景 深色 暗色 蓝色 黑色 灰色 · background-link
+- [熔岩地面上的透明方块](sources/framesbase/items/bg-8d5c26fcabfdf9fb3314/reference.md) · 熔岩地面上的透明方块 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [灰底人物与花卉耳机](sources/framesbase/items/bg-8d76401e34729fe23a2a/reference.md) · 灰底人物与花卉耳机 · 动态背景 混合明暗 黑色 灰色 白色 · background-link
+- [蓝天下漂浮的雏菊](sources/framesbase/items/bg-8daf2b52f93f2d58d285/reference.md) · 蓝天下漂浮的雏菊 · 动态背景 混合明暗 绿色 青色 蓝色 灰色 · background-link
+- [夜间山湖与营火](sources/framesbase/items/bg-8e9a1ccff9ab3168306f/reference.md) · 夜间山湖与营火 · 动态背景 深色 暗色 黑色 蓝色 紫色 · background-link
+- [阳光草地与漂浮蝴蝶](sources/framesbase/items/bg-91cf12f8bf4dc65e423d/reference.md) · 阳光草地与漂浮蝴蝶 · 动态背景 浅色 明亮 蓝色 青色 绿色 白色 · background-link
+- [山水晨光与自然石拱桥](sources/framesbase/items/bg-921b0d5364ec1b025143/reference.md) · 山水晨光与自然石拱桥 · 动态背景 混合明暗 绿色 白色 · background-link
+- [黑底花卉装饰的人物雕像](sources/framesbase/items/bg-922709f7ad17b7ea4902/reference.md) · 黑底花卉装饰的人物雕像 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [黑底紫色能量球与轨道](sources/framesbase/items/bg-9352b010e989e5b523c5/reference.md) · 黑底紫色能量球与轨道 · 动态背景 深色 暗色 黑色 · background-link
+- [暗色画廊中的人物](sources/framesbase/items/bg-93cef7194acf0211cc5d/reference.md) · 暗色画廊中的人物 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [夜空下的电脑桌人物](sources/framesbase/items/bg-94d9b3db9d75cc9ba2bf/reference.md) · 夜空下的电脑桌人物 · 动态背景 深色 暗色 蓝色 黑色 青色 黄色 · background-link
+- [米黄色花坡上的人物](sources/framesbase/items/bg-95f5f3613a53a7c0f670/reference.md) · 米黄色花坡上的人物 · 动态背景 浅色 明亮 橙色 黄色 · background-link
+- [粉紫花丛与蓝天白云](sources/framesbase/items/bg-99ed6503729fb9b6226c/reference.md) · 粉紫花丛与蓝天白云 · 动态背景 浅色 明亮 蓝色 白色 · background-link
+- [亮蓝色透明玻璃波浪](sources/framesbase/items/bg-9a0dc1d5f504261bf3f1/reference.md) · 亮蓝色透明玻璃波浪 · 动态背景 混合明暗 蓝色 · background-link
+- [黑底低亮度金属曲面](sources/framesbase/items/bg-9c1ef4ca4797b8da8582/reference.md) · 黑底低亮度金属曲面 · 动态背景 深色 暗色 黑色 · background-link
+- [深绿光束中的金币](sources/framesbase/items/bg-9d6b4f6bb724aa81c8f0/reference.md) · 深绿光束中的金币 · 动态背景 深色 暗色 黑色 白色 绿色 · background-link
+- [浅色抽象蓝橙沙丘](sources/framesbase/items/bg-9e7dc86e135cf2473a04/reference.md) · 浅色抽象蓝橙沙丘 · 动态背景 混合明暗 蓝色 白色 灰色 · background-link
+- [橙红暖色流体渐变](sources/framesbase/items/bg-a06d9e965fe0306714fb/reference.md) · 橙红暖色流体渐变 · 动态背景 混合明暗 红色 粉色 橙色 · background-link
+- [鲜花草甸与雪山](sources/framesbase/items/bg-a0757bc7d027182b9290/reference.md) · 鲜花草甸与雪山 · 动态背景 混合明暗 橙色 蓝色 灰色 青色 · background-link
+- [现代住宅建筑与草坪](sources/framesbase/items/bg-a0b29e5febb0f6c71d9f/reference.md) · 现代住宅建筑与草坪 · 动态背景 混合明暗 白色 黑色 灰色 · background-link
+- [黑底圆形花园与粒子](sources/framesbase/items/bg-a25dd7087523ec733f0c/reference.md) · 黑底圆形花园与粒子 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [金色山谷日出](sources/framesbase/items/bg-a40eee96746e20491670/reference.md) · 金色山谷日出 · 动态背景 混合明暗 红色 紫色 橙色 · background-link
+- [像素风彩色峡谷溪流](sources/framesbase/items/bg-a531364c987f434dacb3/reference.md) · 像素风彩色峡谷溪流 · 动态背景 混合明暗 青色 橙色 红色 粉色 绿色 · background-link
+- [青绿色金属波浪丝带](sources/framesbase/items/bg-a74356487a65c1385e78/reference.md) · 青绿色金属波浪丝带 · 动态背景 深色 暗色 黑色 青色 · background-link
+- [黑底宇宙纹理人物](sources/framesbase/items/bg-a75103790e2c5bb28297/reference.md) · 黑底宇宙纹理人物 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [黑底书桌人物与发光轨道](sources/framesbase/items/bg-a7861d91c631f32250d3/reference.md) · 黑底书桌人物与发光轨道 · 动态背景 深色 暗色 黑色 绿色 灰色 · background-link
+- [黑底白色烟雾丝带](sources/framesbase/items/bg-a9100311a209441ed852/reference.md) · 黑底白色烟雾丝带 · 动态背景 混合明暗 黑色 白色 蓝色 · background-link
+- [黑底发光粉色莲花](sources/framesbase/items/bg-ab500eb0223ef98c409c/reference.md) · 黑底发光粉色莲花 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [红色复古室内与人物](sources/framesbase/items/bg-aff2459158462434d2a4/reference.md) · 红色复古室内与人物 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [黑底金色透明液滴](sources/framesbase/items/bg-b211550d82acbd09e46a/reference.md) · 黑底金色透明液滴 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [蓝紫玻璃曲面](sources/framesbase/items/bg-b2718227c0690f32b14c/reference.md) · 蓝紫玻璃曲面 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底微缩森林与鹿](sources/framesbase/items/bg-b3fb3e77583a3428c930/reference.md) · 黑底微缩森林与鹿 · 动态背景 深色 暗色 黑色 绿色 · background-link
+- [蓝天下绿植中的复古钟表](sources/framesbase/items/bg-b53db3e07ec26963dddd/reference.md) · 蓝天下绿植中的复古钟表 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [深蓝垂直条纹光栅](sources/framesbase/items/bg-b572dd9ef2b0bfff0f00/reference.md) · 深蓝垂直条纹光栅 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [白底精细线缆与金属接头](sources/framesbase/items/bg-b58c7622727caed05c6e/reference.md) · 白底精细线缆与金属接头 · 动态背景 浅色 明亮 灰色 白色 · background-link
+- [蓝底佩戴红色眼镜的人物](sources/framesbase/items/bg-b6a10d26b21b02ce724a/reference.md) · 蓝底佩戴红色眼镜的人物 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [浅色透明玻璃器皿](sources/framesbase/items/bg-b74c25f5ab43e89bc06e/reference.md) · 浅色透明玻璃器皿 · 动态背景 浅色 明亮 灰色 白色 · background-link
+- [星空山谷中的人物剪影](sources/framesbase/items/bg-b8efa1f32f9ece1ec7eb/reference.md) · 星空山谷中的人物剪影 · 动态背景 深色 暗色 黑色 橙色 灰色 · background-link
+- [黑底蓝色地球地平线](sources/framesbase/items/bg-bf47f5417ff24ba1d8c4/reference.md) · 黑底蓝色地球地平线 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [月面与巨大暗色行星](sources/framesbase/items/bg-bf7f18088bab9eb26b00/reference.md) · 月面与巨大暗色行星 · 动态背景 深色 暗色 黑色 青色 · background-link
+- [日出云海与绿色悬崖](sources/framesbase/items/bg-c0ac4705d3e7a9a7b737/reference.md) · 日出云海与绿色悬崖 · 动态背景 混合明暗 蓝色 灰色 黄色 橙色 · background-link
+- [夜间花丛中的太空人](sources/framesbase/items/bg-c28c4160f0a81954ac91/reference.md) · 夜间花丛中的太空人 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [米色禅意山石与盆景](sources/framesbase/items/bg-c3640dd91571ba0a7121/reference.md) · 米色禅意山石与盆景 · 动态背景 浅色 明亮 白色 橙色 灰色 · background-link
+- [黑底悬浮花卉弯月](sources/framesbase/items/bg-c3680cdf1ae005c0b0dd/reference.md) · 黑底悬浮花卉弯月 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [蓝天下的白色卡通怪兽](sources/framesbase/items/bg-c3ff4d5cde5e6283dbcf/reference.md) · 蓝天下的白色卡通怪兽 · 动态背景 混合明暗 蓝色 灰色 白色 · background-link
+- [黑底彩虹垂直条纹](sources/framesbase/items/bg-c7bde7fc47f271e3b3d6/reference.md) · 黑底彩虹垂直条纹 · 动态背景 深色 暗色 黑色 橙色 青色 粉色 · background-link
+- [黑底彩色玻璃圆环](sources/framesbase/items/bg-c811204c53183b3a9321/reference.md) · 黑底彩色玻璃圆环 · 动态背景 深色 暗色 黑色 红色 · background-link
+- [灰绿色山峦与薄雾](sources/framesbase/items/bg-c84a7f3ae2a44a584930/reference.md) · 灰绿色山峦与薄雾 · 动态背景 混合明暗 绿色 灰色 · background-link
+- [白底浅蓝透明丝带](sources/framesbase/items/bg-c9e44bccc1baf3674117/reference.md) · 白底浅蓝透明丝带 · 动态背景 浅色 明亮 白色 蓝色 · background-link
+- [云海悬崖与日出](sources/framesbase/items/bg-cac142669c22581f84e9/reference.md) · 云海悬崖与日出 · 动态背景 混合明暗 蓝色 灰色 黄色 橙色 · background-link
+- [黑底粉色霓虹眼镜羊驼](sources/framesbase/items/bg-cad09116e81c9ed003ef/reference.md) · 黑底粉色霓虹眼镜羊驼 · 动态背景 深色 暗色 黑色 粉色 · background-link
+- [米色水墨山林](sources/framesbase/items/bg-caea343d3c2be6c1c9d1/reference.md) · 米色水墨山林 · 动态背景 混合明暗 黄色 橙色 · background-link
+- [黑底斜向金属弧线](sources/framesbase/items/bg-cbed0cc6703fa51cc52b/reference.md) · 黑底斜向金属弧线 · 动态背景 深色 暗色 黑色 蓝色 粉色 · background-link
+- [未来城市高塔与太空人](sources/framesbase/items/bg-cee895619ca64bb94a08/reference.md) · 未来城市高塔与太空人 · 动态背景 深色 暗色 青色 蓝色 · background-link
+- [紫色绸缎褶皱](sources/framesbase/items/bg-cf678f75a9c0188f70ec/reference.md) · 紫色绸缎褶皱 · 动态背景 深色 暗色 紫色 蓝色 · background-link
+- [绿植花卉包围的蓝天](sources/framesbase/items/bg-cf8c6a45ad4690b686c5/reference.md) · 绿植花卉包围的蓝天 · 动态背景 深色 暗色 灰色 黑色 绿色 · background-link
+- [黑底红橙光带](sources/framesbase/items/bg-d05eb2dc90796279f713/reference.md) · 黑底红橙光带 · 动态背景 深色 暗色 黑色 红色 橙色 · background-link
+- [红底游戏人物群像](sources/framesbase/items/bg-d0f113a11b750eefc696/reference.md) · 红底游戏人物群像 · 动态背景 深色 暗色 红色 · background-link
+- [黑底绿色数据光条](sources/framesbase/items/bg-d25cf49c052653efe022/reference.md) · 黑底绿色数据光条 · 动态背景 深色 暗色 黑色 绿色 · background-link
+- [浅色悬浮支付卡片](sources/framesbase/items/bg-d291bee4fe2ef9025fba/reference.md) · 浅色悬浮支付卡片 · 动态背景 浅色 明亮 白色 · background-link
+- [黑底蓝紫扇形光束](sources/framesbase/items/bg-d34c249a5248bcca0205/reference.md) · 黑底蓝紫扇形光束 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底紫色发光花朵](sources/framesbase/items/bg-d46109a78a8c9646970f/reference.md) · 黑底紫色发光花朵 · 动态背景 深色 暗色 黑色 紫色 · background-link
+- [浅粉紫半透明几何弧面](sources/framesbase/items/bg-d4a48eceabbf1c3d0844/reference.md) · 浅粉紫半透明几何弧面 · 动态背景 浅色 明亮 白色 粉色 · background-link
+- [蓝橙赛博几何空间](sources/framesbase/items/bg-d6825911ca55d6107b7b/reference.md) · 蓝橙赛博几何空间 · 动态背景 深色 暗色 蓝色 紫色 · background-link
+- [卡通山村与绿色田野](sources/framesbase/items/bg-d9082128bf1737c1a6c4/reference.md) · 卡通山村与绿色田野 · 动态背景 混合明暗 黄色 白色 绿色 灰色 · background-link
+- [黑底粉色花卉山丘](sources/framesbase/items/bg-dad395440e1f21b1fefe/reference.md) · 黑底粉色花卉山丘 · 动态背景 深色 暗色 黑色 粉色 · background-link
+- [白底彩色柔焦光晕](sources/framesbase/items/bg-dd1b0d3caa08866b1a00/reference.md) · 白底彩色柔焦光晕 · 动态背景 浅色 明亮 白色 橙色 · background-link
+- [白底橙色卡通机器人](sources/framesbase/items/bg-ddbdf3bc7e6b6dbee2ca/reference.md) · 白底橙色卡通机器人 · 动态背景 浅色 明亮 白色 红色 橙色 · background-link
+- [白底极简绿色沙丘](sources/framesbase/items/bg-ddee4ae8ba41d12adea3/reference.md) · 白底极简绿色沙丘 · 动态背景 浅色 明亮 白色 黄色 · background-link
+- [红色云层中的巨型石柱](sources/framesbase/items/bg-de7f03353eeccb103dbb/reference.md) · 红色云层中的巨型石柱 · 动态背景 深色 暗色 黑色 灰色 红色 · background-link
+- [复古胶片色山脉](sources/framesbase/items/bg-e0b73b71ae77f66d5e52/reference.md) · 复古胶片色山脉 · 动态背景 混合明暗 橙色 黄色 · background-link
+- [深色柔焦灰白光斑](sources/framesbase/items/bg-e1f2818622089e0076d6/reference.md) · 深色柔焦灰白光斑 · 动态背景 深色 暗色 黑色 灰色 · background-link
+- [夜间山谷与巨大月亮](sources/framesbase/items/bg-e2fcca58832e8d93b95f/reference.md) · 夜间山谷与巨大月亮 · 动态背景 深色 暗色 蓝色 黑色 · background-link
+- [蓝色斜向光带](sources/framesbase/items/bg-e41cce5293c7981ed2a0/reference.md) · 蓝色斜向光带 · 动态背景 深色 暗色 黑色 蓝色 · background-link
+- [黑底透明棱镜与彩虹折射](sources/framesbase/items/bg-e52797d67a6306b880f5/reference.md) · 黑底透明棱镜与彩虹折射 · 动态背景 深色 暗色 黑色 青色 · background-link
+- [日光花坡上的石拱门](sources/framesbase/items/bg-e66261542afe4118e6ed/reference.md) · 日光花坡上的石拱门 · 动态背景 混合明暗 灰色 橙色 · background-link
+- [紫色发光轨道圆环](sources/framesbase/items/bg-e7862cb79590010d168b/reference.md) · 紫色发光轨道圆环 · 动态背景 深色 暗色 紫色 黑色 · background-link
+- [湖畔阳光与聚会人群](sources/framesbase/items/bg-e9fe5ad122678c5a3140/reference.md) · 湖畔阳光与聚会人群 · 动态背景 混合明暗 黄色 灰色 白色 · background-link
+- [黑底悬浮粉色花岛](sources/framesbase/items/bg-f0938284efe4ab9d9953/reference.md) · 黑底悬浮粉色花岛 · 动态背景 深色 暗色 黑色 橙色 · background-link
+- [黑底橙紫条纹渐变](sources/framesbase/items/bg-f0cc08788b3544aef074/reference.md) · 黑底橙紫条纹渐变 · 动态背景 深色 暗色 黑色 红色 橙色 粉色 · background-link
+- [滨水城市天际线](sources/framesbase/items/bg-f17b61ef13f2726f3bed/reference.md) · 滨水城市天际线 · 动态背景 混合明暗 灰色 蓝色 · background-link
+- [黑底颗粒粉色波浪](sources/framesbase/items/bg-f1862a9c64d125907d30/reference.md) · 黑底颗粒粉色波浪 · 动态背景 深色 暗色 黑色 粉色 灰色 白色 · background-link
+- [黑底枯树小岛与白衣人物](sources/framesbase/items/bg-f1c717c3f0c1abcc63e2/reference.md) · 黑底枯树小岛与白衣人物 · 动态背景 深色 暗色 黑色 黄色 · background-link
+- [云层中的商务飞机](sources/framesbase/items/bg-f30c095ef003d8889166/reference.md) · 云层中的商务飞机 · 动态背景 浅色 明亮 白色 灰色 · background-link
+- [绿色天空月牙与太空人](sources/framesbase/items/bg-f39978a87a5672d47aa3/reference.md) · 绿色天空月牙与太空人 · 动态背景 混合明暗 绿色 橙色 黄色 · background-link
+- [白底写实地球](sources/framesbase/items/bg-f78f39a4a47730607bf6/reference.md) · 白底写实地球 · 动态背景 浅色 明亮 灰色 蓝色 白色 · background-link
+- [云海日落中的人物剪影](sources/framesbase/items/bg-fcb9d51e36010f5917af/reference.md) · 云海日落中的人物剪影 · 动态背景 混合明暗 蓝色 紫色 粉色 · background-link
+- [柔和复古山谷与花田](sources/framesbase/items/bg-fd81a914d909135bba22/reference.md) · 柔和复古山谷与花田 · 动态背景 浅色 明亮 白色 黄色 橙色 · background-link

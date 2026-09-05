@@ -1,0 +1,43 @@
+{
+  "id": "73cb5df5-b9e4-4024-8811-1bb174c324a5",
+  "title": "Places Organizer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Travel",
+    "item_id": "73cb5df5-b9e4-4024-8811-1bb174c324a5",
+    "page_at_capture": 1,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/apps/places-organizer/poster/first-frame-v1/b18d5ad9647d2fb656eaea04b7d3ebf12c31e32f71d958ff3c240fff211f6053"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:36.314589+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f4fb1010bddb0156c31eb4de390c8338b518acb843e067a0eceff9de90e9e0e1",
+  "displayed_prompt_chars": 8223,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b18d5ad9647d2fb656eaea04b7d3ebf12c31e32f71d958ff3c240fff211f6053",
+    "original_bytes": 46814,
+    "original_dimensions": [
+      1280,
+      970
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      728
+    ],
+    "bytes": 32328
+  },
+  "preview_sha256": "577d2bda368657678838247bf71e574b19f0b73b1b2ff10035c040253b6e57c5"
+}

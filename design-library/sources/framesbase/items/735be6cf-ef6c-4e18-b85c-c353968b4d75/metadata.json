@@ -1,0 +1,43 @@
+{
+  "id": "735be6cf-ef6c-4e18-b85c-c353968b4d75",
+  "title": "FAQ CTA",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "CTA",
+    "item_id": "735be6cf-ef6c-4e18-b85c-c353968b4d75",
+    "page_at_capture": 2,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sections/faq-cta/preview/media-pipeline-v1/0de17bbcc4a210feb99005c2ad070c9f9bb4ba82dcd008dc7e5617b3c7036eac"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:12.870014+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5c0f50baacebc127d97e61587944389558caeb0a8865b2cbf6ad361932278f5a",
+  "displayed_prompt_chars": 9456,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b36faec1c0f217d60fa287a2229d0417b3de08425e319a1fac4d2ad505d988e5",
+    "original_bytes": 544620,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 74,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 14700
+  },
+  "preview_sha256": "80ca15d2281acd0f12c4fe69b742220baec9567d5591dd0d93ab2635a69db8c4"
+}

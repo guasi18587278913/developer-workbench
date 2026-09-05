@@ -1,0 +1,43 @@
+{
+  "id": "58c49076-610b-4596-ac08-c4f4f954e7c6",
+  "title": "AI Cyber Defense",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Security",
+    "item_id": "58c49076-610b-4596-ac08-c4f4f954e7c6",
+    "page_at_capture": 2,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/ai-cyber-defense/poster/media-pipeline-v1/01ec180556ee89840bddd4ea9edf0f0303920d0e99e5c6f70711a0a34ba4b633"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:59.413035+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "a7b6d00751b01d9fa9ab67b4320b977aa807f34c23badeefa39aaf98ff6ee4c1",
+  "displayed_prompt_chars": 10422,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cadc8210e11dbb345f9d30b23d1f51881c9fb45db354c8c4a8881a26504010be",
+    "original_bytes": 92202,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 38386
+  },
+  "preview_sha256": "49a4b2f74e58b21460ebbed57f82ea63d2ac048e8982ef7dd254d40050f72690"
+}

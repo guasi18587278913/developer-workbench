@@ -1,0 +1,43 @@
+{
+  "id": "efe0513f-6b73-4c70-84a4-9915cae6053c",
+  "title": "LaunchEx About",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "efe0513f-6b73-4c70-84a4-9915cae6053c",
+    "page_at_capture": 3,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sections/launchex-about/preview/media-pipeline-v1/704c97695ea9dbc56c7144d3e09b5f7ffe0917a30a72631e14e25a0d8fb10514"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:45.140186+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4621b8cf06cb39a12e0c2cf9825a8267f15a187542aea204551cc9cffdaa189c",
+  "displayed_prompt_chars": 6908,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5b3d2f54658b5ae59259bad92f22dc33d1083386aacc7a4388b82151f0379124",
+    "original_bytes": 172626,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 47,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 16082
+  },
+  "preview_sha256": "03bb11ab2c5e0f83249e7768bb3ef1f1a55de3ad540b1cecf31296d1bd5cf6b7"
+}

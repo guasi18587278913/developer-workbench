@@ -1,0 +1,106 @@
+{
+  "repository_url": "https://github.com/vikod3/heart-health-dashboard",
+  "commit": "fb09a6544362a82925bd22cfe021486438904f56",
+  "status": "complete",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 14,
+      "sha256": "6fe16e5e5dad9408c6a9082604c816d8067641ae1b5e59aceb90eb51c1088c63"
+    },
+    {
+      "path": "assets/backgrounds/enchanted-forest.webp",
+      "bytes": 368170,
+      "sha256": "d39df335aa03ce542d51bfe49435c7425abd6dcf847ccfcc332b63b9cd5dba8a"
+    },
+    {
+      "path": "assets/fonts/archivo.woff2",
+      "bytes": 34928,
+      "sha256": "8f704806dbedeaaeca334b11ec348bc3ac3a439d6431544b3afb54f534ee4967"
+    },
+    {
+      "path": "assets/illustrations/anatomical-heart.webp",
+      "bytes": 149918,
+      "sha256": "2447a8156fa88bdec1a009c3c46dc24174b9fc8215b783a0110cb15612fc200b"
+    },
+    {
+      "path": "assets/illustrations/sleep-thumb.webp",
+      "bytes": 20878,
+      "sha256": "d59574767736d76955fe45e52dcffd51e4fcf429de2050c6c0eb29840cf020bd"
+    },
+    {
+      "path": "assets/masks/tip-glass-mask.png",
+      "bytes": 1344,
+      "sha256": "cac69b9ffa2a5318fa6adc00bb9ad4ed96a2997ecbe2e7ab6bb589ed58403491"
+    },
+    {
+      "path": "assets/textures/card-texture.webp",
+      "bytes": 12656,
+      "sha256": "d6e4f7f27cde58808b9b75b137c9de5dbbb03d6e6788523520c424172f74f8c9"
+    },
+    {
+      "path": "assets/textures/panel-texture-fluid.webp",
+      "bytes": 13886,
+      "sha256": "42563680d1d29ac9e79c37a7c9c4ff3d29c0f3eef56c7208fa55137977234520"
+    },
+    {
+      "path": "assets/textures/panel-texture-portrait.webp",
+      "bytes": 14966,
+      "sha256": "837f31345f8514f8480a2a4135c572b04d3b4adbb3120d15abd4e63dddb0ba1f"
+    },
+    {
+      "path": "assets/textures/panel-texture.webp",
+      "bytes": 23960,
+      "sha256": "05bb75fe6d854c7ab0add5a9b63fa89dc4f040f5edabc43eed2c6009cb80d752"
+    },
+    {
+      "path": "assets/textures/tip-glass-texture.webp",
+      "bytes": 11830,
+      "sha256": "48fbdbcf00aeb31bfa65a515852bb5e89ec66cf7858c4b7e7ec5b3d449ad3dde"
+    },
+    {
+      "path": "assets/vendor/BufferGeometryUtils.js",
+      "bytes": 35554,
+      "sha256": "fcdbefee37e0ca2c26b7c1da5d9362560983871458198c6d3e1ccf56f84aadc4"
+    },
+    {
+      "path": "assets/vendor/GLTFLoader.js",
+      "bytes": 114658,
+      "sha256": "6b0d1e699dd2762a069c4eb1f60cbb843a6ff05fc5fb5a055f5509326a3efd48"
+    },
+    {
+      "path": "assets/vendor/RoomEnvironment.js",
+      "bytes": 4915,
+      "sha256": "3abf1ce79bb64c3ebd457be5e5f587ac5b29ef84436cba0d49c7720d020a5905"
+    },
+    {
+      "path": "assets/vendor/meshopt_decoder.module.js",
+      "bytes": 24848,
+      "sha256": "784315b6959c85459eab77f51776158cc381d7e7d77b919ff7c4935f088a7c5c"
+    },
+    {
+      "path": "assets/vendor/three.core.min.js",
+      "bytes": 380374,
+      "sha256": "79f2b4f58d3e99a9948a4d3b7f6d5c2daf705bdefe9fb82ebec715623966551c"
+    },
+    {
+      "path": "assets/vendor/three.module.min.js",
+      "bytes": 338836,
+      "sha256": "06552c54e4071fbc7305117aafe6765d92c5d2a2a83507d4f05b9bf4f3d4d463"
+    },
+    {
+      "path": "index.html",
+      "bytes": 70427,
+      "sha256": "7061911e119875dd1295b5a537313b273df7bf1b7f47525512f0247b2703bc56"
+    },
+    {
+      "path": "assets/models/heart.glb",
+      "bytes": 21793256,
+      "sha256": "2ee0410c2fc1a41befedfb7a578205e82f758fc1386c154a9ffcea5dab616292"
+    }
+  ],
+  "omitted": [],
+  "execution": "not-executed",
+  "license_files": [],
+  "excluded_non_source": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "87b66c91-59d2-4d92-a49c-ec8bd1efc877",
+  "title": "AI Driving Assistant",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI SaaS Website",
+    "item_id": "87b66c91-59d2-4d92-a49c-ec8bd1efc877",
+    "page_at_capture": 12,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/ai-driving-assistant/poster/media-pipeline-v1/eb1db89ac66fbd8490997a22e6a32b63ea459ceb6bd744b842f4468d752b6c82"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:14.197602+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "beeefc70acf3f29e7c666d619c447012a9d145de4177e197787019a7dfb54d72",
+  "displayed_prompt_chars": 25475,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "adf4e1fd1a16f98be196241d8a1f7b9468e3b143d445c9075e4443d780fe4193",
+    "original_bytes": 32410,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 18308
+  },
+  "preview_sha256": "ef7ee335ee0e9b1267e4b3746f8c803cb2d5e3a798fbfe59b977b8bdf4873156"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "20f8dc59-34e8-4c42-b7ee-7351585f3353",
+  "title": "Model Infrastructure",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Developer Platform",
+    "item_id": "20f8dc59-34e8-4c42-b7ee-7351585f3353",
+    "page_at_capture": 13,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/model-infrastructure/poster/media-pipeline-v1/44f4c5297e824552ea1b1e629030438c93f51f1ea98896481b1c2475ddf4e1ae"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:01.597927+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d8bf5b3963560a43b9fe10cd4525a5ddab9b0956f575e729bffbeb6657775795",
+  "displayed_prompt_chars": 14220,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e53328788bedd83dcc58e8783f884197fba16b4f5dc69459301e4ecca58234ee",
+    "original_bytes": 56000,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 29370
+  },
+  "preview_sha256": "3f3eb4a26f7200ebd0bbc015b88bae123d7ba47bd04f0033b108afc7eb63adc7"
+}

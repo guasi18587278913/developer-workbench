@@ -1,0 +1,43 @@
+{
+  "id": "1322193f-9344-4844-a511-e488e071e33c",
+  "title": "Creative Matter",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "1322193f-9344-4844-a511-e488e071e33c",
+    "page_at_capture": 2,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/creative-matter/poster/media-pipeline-v1/2118cc0f58a2144dad56d13bcf0fdeb09e945b1fb2ba4e4af465019498e41158"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:48.980706+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "349ba92bf73f5f68eedaafdfe3b487a4124ff05e8bd273d99d5c8e63b7b35ade",
+  "displayed_prompt_chars": 11226,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "56f426128b40bb3502eb30c9e85a40df24fc0395528ffbec146d4043534a649a",
+    "original_bytes": 275432,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 67562
+  },
+  "preview_sha256": "18529e8f44e4f905c22da53e3b68a19564d84d40eaedc791a7075589df5e2e30"
+}

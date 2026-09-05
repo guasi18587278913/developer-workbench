@@ -1,0 +1,43 @@
+{
+  "id": "784f18cf-4090-4a99-9bd3-78fc115e6da5",
+  "title": "Sparkform",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "784f18cf-4090-4a99-9bd3-78fc115e6da5",
+    "page_at_capture": 12,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/sparkform/poster/media-pipeline-v1/374356f9f85f126f4fa5fa281da4e7ff6d047bd1b8a94183d8ab95f0cf8e2753"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:47.377921+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e73ad25c5ad5ab9dffefd6e744c2c075036f5592ad0020e055a8406f7160cf90",
+  "displayed_prompt_chars": 6724,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e8d4b360e8c196d8ab546caeb34e9ab7d35b50f6f7f2032068e2b2a5da619d52",
+    "original_bytes": 77212,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 42038
+  },
+  "preview_sha256": "da5e4bcf825a4e888b99a12b7b0e7c0361155106d19956850d79c082071bdc87"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "697977ed-47ea-4b07-baef-d26211655ba4",
+  "title": "Innovation Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "697977ed-47ea-4b07-baef-d26211655ba4",
+    "page_at_capture": 11,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/innovation-studio/poster/first-frame-v1/171e864ced3c1176693ac6ef1819492e87c631945196c3fa34097e4892e67d0e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:45.618741+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "27e61e130a42bec7f23722a1e3890d1525367f0a02a8eebc0465a751bc79f14d",
+  "displayed_prompt_chars": 6906,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "171e864ced3c1176693ac6ef1819492e87c631945196c3fa34097e4892e67d0e",
+    "original_bytes": 74458,
+    "original_dimensions": [
+      1280,
+      946
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      710
+    ],
+    "bytes": 51950
+  },
+  "preview_sha256": "958a5116f01a23b596fa3f5767931db9edc96b175d98362a631e2c3ea85ef12b"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "86c2a591-7c9a-4bfb-9990-e910a7a059f0",
+  "title": "Visual Hero",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "86c2a591-7c9a-4bfb-9990-e910a7a059f0",
+    "page_at_capture": 8,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/visual-hero/poster/media-pipeline-v1/717a8c870397975d383a97160ddbd0c03a45a1514822a57429285a44d9db7dc8"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:29.920458+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "772b97713db0f210823dfbfc4d3f17f879c89887eac3c7f21117064d8478beaa",
+  "displayed_prompt_chars": 8275,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "99cb745229f366abc806d784aa4a5971f461c03bbd345688674e253ea7e2c5b3",
+    "original_bytes": 111078,
+    "original_dimensions": [
+      1200,
+      867
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      694
+    ],
+    "bytes": 70290
+  },
+  "preview_sha256": "06dedb0a269cddd145f0adaa020570248d2f4d9e2a400d1659d8347a22a27853"
+}

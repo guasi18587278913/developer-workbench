@@ -1,0 +1,43 @@
+{
+  "id": "7287fe2a-aa13-4a65-97bd-3ae3b25bfe4b",
+  "title": "Securify Data Security",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "7287fe2a-aa13-4a65-97bd-3ae3b25bfe4b",
+    "page_at_capture": 7,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/securify-hero/poster/media-pipeline-v1/ec2dcda8e47bffd3d3df5dbbf3caea0c8ffc8dcd4c7c0169d4a8b4bb406fdad2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:15.375276+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9bc9f2f0d7bb0a9c759714a3814e38a3012362afe02fcf3d7fb79823950e0452",
+  "displayed_prompt_chars": 3822,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a9ccf203cd8ef087d1f2ea85a87fd0aa0f1e7f3cf66bee0327f1b60b67282c04",
+    "original_bytes": 1727991,
+    "original_dimensions": [
+      1920,
+      1337
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      669
+    ],
+    "bytes": 53780
+  },
+  "preview_sha256": "6128c08ce16fc9f86489a072d52babb298304d20aef9826fb59265e9d2e8d871"
+}

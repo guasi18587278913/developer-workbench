@@ -1,0 +1,43 @@
+{
+  "id": "8c953938-990d-4dee-bb23-0afd88dbfbd7",
+  "title": "Wellness Devicex",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Health",
+    "item_id": "8c953938-990d-4dee-bb23-0afd88dbfbd7",
+    "page_at_capture": 12,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/wellness-device/poster/media-pipeline-v1/2c118cfca05c2695eed62d2acd0b92312dd028a02972b57dd5914555c64a2f71"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:11.457991+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "28d94fd3b3e2c3dacfb37998420c7a81b9abe1721d5c2b4830528a6fdf3024fa",
+  "displayed_prompt_chars": 6903,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "23694398ae911e7a21e78106887ed29f94fc962d957c793ec20981a21d627e0c",
+    "original_bytes": 141178,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 75026
+  },
+  "preview_sha256": "d6fb8bbbcea0a0dad6c4b3dbf11375ac68ee8d8e352c0515ad377f969d21cb25"
+}

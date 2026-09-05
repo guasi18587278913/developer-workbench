@@ -1,0 +1,43 @@
+{
+  "id": "3c8f451f-9163-4426-a00b-c670a8dfc6d2",
+  "title": "Acreage Farming",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "3c8f451f-9163-4426-a00b-c670a8dfc6d2",
+    "page_at_capture": 5,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/acreage-farming-hero/preview/media-pipeline-v1/9fdb55ac239d2654feb06a068ffa4e8b2335ed538a5d822fb5e95d2182de4763"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:46.029867+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "42ad1d9fcba4695c3ed4d1d67f27fa4187177239fe75c8d36b2dfaf4793a3e9c",
+  "displayed_prompt_chars": 124,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7e168edc59b16ea3087180cf3e8fc2ea3aac68a9883654a1afc4e7ed11c82c8d",
+    "original_bytes": 4977490,
+    "original_dimensions": [
+      459,
+      800
+    ],
+    "original_frames": 105,
+    "dimensions": [
+      459,
+      800
+    ],
+    "bytes": 36312
+  },
+  "preview_sha256": "c1f14402c95821020b6559f2c515341d1fe235ebfd4b2f949f649727229d965c"
+}

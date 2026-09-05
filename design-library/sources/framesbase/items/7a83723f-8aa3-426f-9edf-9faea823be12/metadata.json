@@ -1,0 +1,43 @@
+{
+  "id": "7a83723f-8aa3-426f-9edf-9faea823be12",
+  "title": "Daisy Shop",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "7a83723f-8aa3-426f-9edf-9faea823be12",
+    "page_at_capture": 9,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/shop/poster/media-pipeline-v1/00871bb679a0668a004e9a1d46f48fed2eda86d318247b003b9a1fe46a289f84"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:00.049351+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dba18a2cdb52a5f97103d1373abb9e816f29953fae7fc7c294f57e316652a807",
+  "displayed_prompt_chars": 14382,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "80fd07c210b53b0e1396b40ce2a94c93503b53e1fb5eba15579415cfef4704bc",
+    "original_bytes": 66122,
+    "original_dimensions": [
+      1200,
+      878
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      702
+    ],
+    "bytes": 42856
+  },
+  "preview_sha256": "36c011a8631f56ba27abf82f26cad4cb5b0c8b2e3bec39fa725402b841154cfc"
+}

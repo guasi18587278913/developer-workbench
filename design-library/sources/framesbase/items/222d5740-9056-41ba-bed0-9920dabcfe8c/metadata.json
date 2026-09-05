@@ -1,0 +1,43 @@
+{
+  "id": "222d5740-9056-41ba-bed0-9920dabcfe8c",
+  "title": "Integration SaaS",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "222d5740-9056-41ba-bed0-9920dabcfe8c",
+    "page_at_capture": 9,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/integration-saas/poster/first-frame-v1/302d45d4a2e16535b6812a3e46fd7a9a0de568d2c77973ac3e731e7ec6d0d511"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:27.054653+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "87020af910a3f2d97f19469a050037b2581bf10e6cda799aa47193f091ddc41c",
+  "displayed_prompt_chars": 4754,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "302d45d4a2e16535b6812a3e46fd7a9a0de568d2c77973ac3e731e7ec6d0d511",
+    "original_bytes": 40206,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 26968
+  },
+  "preview_sha256": "762008704ba989da3b65b3219b89ea3e24f859ee371f3b48f5ab876b0287c803"
+}

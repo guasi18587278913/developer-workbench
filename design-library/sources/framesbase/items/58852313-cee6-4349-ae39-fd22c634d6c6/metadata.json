@@ -1,0 +1,43 @@
+{
+  "id": "58852313-cee6-4349-ae39-fd22c634d6c6",
+  "title": "Capabilities Overview",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "58852313-cee6-4349-ae39-fd22c634d6c6",
+    "page_at_capture": 2,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sections/features/preview/media-pipeline-v1/6c7cef9055bfc444c8704b662a009a3416ebf76a84cde542685e333570806440"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:28.609164+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "cf0a2aa4178c49d598347d1be5501c7bbbcc58960dd1415ef9f32a586319c950",
+  "displayed_prompt_chars": 9546,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "0941c88fdbd78d30bc57484cd919e8e604e130e216ac0a57f7e05e30d694d921",
+    "original_bytes": 2096446,
+    "original_dimensions": [
+      640,
+      476
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      476
+    ],
+    "bytes": 35752
+  },
+  "preview_sha256": "72f3e4de3be9168a46cbc6b1971b6e551d276de233d703db3c961dd8222ef9ee"
+}

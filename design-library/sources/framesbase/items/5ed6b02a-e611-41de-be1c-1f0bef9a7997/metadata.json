@@ -1,0 +1,43 @@
+{
+  "id": "5ed6b02a-e611-41de-be1c-1f0bef9a7997",
+  "title": "Avant Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Creative",
+    "item_id": "5ed6b02a-e611-41de-be1c-1f0bef9a7997",
+    "page_at_capture": 13,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/avant-studio/poster/media-pipeline-v1/8d39c96077565e538b5414cb49d4bfb95800f25d38f5f80a56531cad74f4fc8b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:06.740796+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "73c4f56d3f3f60abf7343bebf9d2e4f0d1bbd6bbae11c86bbab5cbfd03de4f37",
+  "displayed_prompt_chars": 10669,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f6f1eaf45e05a597f75de6886899a0014f17b8e1581666bb2fd134bdf7ac6df4",
+    "original_bytes": 71096,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 41684
+  },
+  "preview_sha256": "87018405532b7448fde1cef2e63d3774d3578a4808e56367887f8099e287d56f"
+}

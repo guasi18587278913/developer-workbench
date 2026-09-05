@@ -1,0 +1,43 @@
+{
+  "id": "a72cfcac-ef50-46fb-9d31-1a03694f3d53",
+  "title": "Cursor Follow",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "a72cfcac-ef50-46fb-9d31-1a03694f3d53",
+    "page_at_capture": 7,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/cursor-follow/preview/media-pipeline-v1/82ad096ac7f82d638effe751d24b02b5d2a40f68810e5614aca78781eee4a691"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:54.830729+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "21cdedf5e3909f1f2375b5bbd8b01ec60ce1971ed419818432500da0359b666c",
+  "displayed_prompt_chars": 6373,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8312272ea850f78b9f5fd15db28144797fd2a9737f1c4471cc8f8152b5f74b0d",
+    "original_bytes": 1323594,
+    "original_dimensions": [
+      640,
+      464
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      464
+    ],
+    "bytes": 26864
+  },
+  "preview_sha256": "7b766252c78566b621bd39b4a1769e46b6b4dc76230f26ed66cef84a0a87269a"
+}

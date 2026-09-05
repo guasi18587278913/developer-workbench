@@ -1,0 +1,43 @@
+{
+  "id": "222d0f76-41e4-4755-86c8-2aab8b293a76",
+  "title": "Task Engine",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "SaaS",
+    "item_id": "222d0f76-41e4-4755-86c8-2aab8b293a76",
+    "page_at_capture": 4,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sections/task-engine/poster/media-pipeline-v1/2b164179ec9a44d4d6f57156dea03e6f2ceed06c6af760fedafe7080ea66f130"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:27.822404+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "39ec8020f3ae8ef6aae53d0e5d52f770596f1e5dde7402af30393de7c9aa407b",
+  "displayed_prompt_chars": 14503,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "34dea256e2d7f5a45edc60490e5c08bcfe64e6d3d558bb6d73a965e35f125dad",
+    "original_bytes": 68364,
+    "original_dimensions": [
+      1920,
+      960
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      480
+    ],
+    "bytes": 24152
+  },
+  "preview_sha256": "87f7032d646c9431e3bdc9efdd55c40eddaffeac413e8193ed6bd5e236ec0c36"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e5608f6e-32c7-46e0-984c-b44ed2296b0b",
+  "title": "Outdoor Apparel",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fashion",
+    "item_id": "e5608f6e-32c7-46e0-984c-b44ed2296b0b",
+    "page_at_capture": 11,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/outdoor-apparel/poster/media-pipeline-v1/2f2206fdccf8c57a0c33d888c17e686d9bc3a583dfac978fd8ddecd75f04d6c3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:01.295695+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "332dd414c4aa9a7a837a52cd2d2d1311ec526a38db38ab4649bd2201ee57ba00",
+  "displayed_prompt_chars": 14780,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "20e816ff2d14c602aff3b5167eb2efe81ef4855b047c7bd9fe5885c739fc3034",
+    "original_bytes": 144144,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 76332
+  },
+  "preview_sha256": "1a552b8cf797f2d6e5a354900e6755127354eb1fa0ae28068917dfa4095e643c"
+}

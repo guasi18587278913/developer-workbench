@@ -1,0 +1,43 @@
+{
+  "id": "6ed918c2-32cc-461a-b199-d82cdf81c66c",
+  "title": "FinFlow",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fintech",
+    "item_id": "6ed918c2-32cc-461a-b199-d82cdf81c66c",
+    "page_at_capture": 9,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/finflow/preview/media-pipeline-v1/f6c5e8ed974789f207d8a3d49810419e8753ab0f23ee4f2cedc151047fbefe9c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:17.062060+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "958533f744742ceefbc3cb1ff4c3405d8fcdfaa16421744d45319a6851c4f90f",
+  "displayed_prompt_chars": 5269,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5c660641edfda37f77f0f03635c0103c648b80bc537381e11f81e66aef063aee",
+    "original_bytes": 822670,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 72,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 19910
+  },
+  "preview_sha256": "a3333e9b821fdd5482fc79c579c7bc472d57a9f8dc443068ee8cd3d38ce66445"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "d4b03034-a31a-4d9c-9820-7fe4ddb7484d",
+  "title": "Nex Max Upgrade",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Pricing",
+    "item_id": "d4b03034-a31a-4d9c-9820-7fe4ddb7484d",
+    "page_at_capture": 2,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sections/nex-max-upgrade/preview/media-pipeline-v1/ed716a432c17a72e96407622163a7e8d388bef233cdcdf50a1a8ee9affffac5a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:10.831330+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7302e6532a880fb9a30017d504efd836ac50097f13a4cde2a7dd70e70778d55c",
+  "displayed_prompt_chars": 6647,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d0b76d2d3399c29a44c616e85d7ef565cd1f01687c991b5c524845bb3cd0c544",
+    "original_bytes": 649762,
+    "original_dimensions": [
+      640,
+      486
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      486
+    ],
+    "bytes": 8812
+  },
+  "preview_sha256": "c3f6aff60b80ae0a9ddbc5f31d77c86c5b30c4b0b318607c329357468124e183"
+}

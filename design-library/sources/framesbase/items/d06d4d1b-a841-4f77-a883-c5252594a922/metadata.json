@@ -1,0 +1,43 @@
+{
+  "id": "d06d4d1b-a841-4f77-a883-c5252594a922",
+  "title": "Cardia 3D",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Medical",
+    "item_id": "d06d4d1b-a841-4f77-a883-c5252594a922",
+    "page_at_capture": 13,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/cardia-3d/poster/media-pipeline-v1/2ff5092b42caaf6b10640c98cc4e7e01f2b53a4a5a54e243325a650da81f65bf"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:56.791898+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "148d99958ad6c99abe1f2808bfa029e749bce176633eb382b0f5cd488b759ebd",
+  "displayed_prompt_chars": 11231,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8a5e040aad6d2e088e911b660a5a8e24d534d7fb80f97a5e3af693b141708bba",
+    "original_bytes": 64074,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 38304
+  },
+  "preview_sha256": "5b41951430764512f383cdbde616e1c345dfed5ea1da56835c2c8e25ad77af26"
+}

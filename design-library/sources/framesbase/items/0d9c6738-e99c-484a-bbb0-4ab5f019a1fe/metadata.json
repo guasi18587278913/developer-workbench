@@ -1,0 +1,43 @@
+{
+  "id": "0d9c6738-e99c-484a-bbb0-4ab5f019a1fe",
+  "title": "Performance Run",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Fitness",
+    "item_id": "0d9c6738-e99c-484a-bbb0-4ab5f019a1fe",
+    "page_at_capture": 13,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/performance-run/poster/media-pipeline-v1/c1d621a0c9ab534ee75675e3b2cf3cb29b8a090a9a3f7398878413530afb13fe"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:17.829086+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ebe5dd66af0742d0840c9b4d18c4ce2a2a4aa9ec29f33a833cc38d66f645f414",
+  "displayed_prompt_chars": 6474,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b34cf91b7be209b3de7e6646915bb68647ee9283d884a6c6e0b6e15ba38bbec7",
+    "original_bytes": 90956,
+    "original_dimensions": [
+      1280,
+      759
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      569
+    ],
+    "bytes": 49252
+  },
+  "preview_sha256": "f4a47651d05292ff28778ea122f5d42fea76754ca23d35076b6c172f88029987"
+}

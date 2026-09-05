@@ -1,0 +1,43 @@
+{
+  "id": "c480ad28-0836-4f62-a79e-5c1760a2531b",
+  "title": "Stellar Launch",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "c480ad28-0836-4f62-a79e-5c1760a2531b",
+    "page_at_capture": 8,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/stellar-launch/preview/media-pipeline-v1/bef4dd4c1622477da10e9b0e2118fc0df43faf90035ac21f97e09535ec528399"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:03.438552+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dc4ab8f97b54eeb2994f794d7625deec5f587d6ebb977387ed71538dda1b45e9",
+  "displayed_prompt_chars": 10792,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "20cae93dfbd860206d68b9acb195489c8e463dc2d2cea03d01a08343722f4fcc",
+    "original_bytes": 1715616,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 28276
+  },
+  "preview_sha256": "79f608a42b347f1dca612d153118396217349267955d91fcc462b15c8e297474"
+}

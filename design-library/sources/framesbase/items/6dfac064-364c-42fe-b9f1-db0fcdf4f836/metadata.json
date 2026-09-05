@@ -1,0 +1,43 @@
+{
+  "id": "6dfac064-364c-42fe-b9f1-db0fcdf4f836",
+  "title": "Portal",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "6dfac064-364c-42fe-b9f1-db0fcdf4f836",
+    "page_at_capture": 15,
+    "position_at_capture": 11,
+    "preview_media_key": "media/motionsites/sites/portal-hero/poster/media-pipeline-v1/08399174113a1ef9eb039cfe9347b07c0ad6995391a29cbc5585408375f8017b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:14.555023+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "177583fa25c2aa3e8b4ab12ca26c88a60e7d09dc7d98cd0e9557d90fe640f278",
+  "displayed_prompt_chars": 6663,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a5ce089335f0532becf6c8536c37b86e51c81e95995d7d2f82861b272fb72d69",
+    "original_bytes": 1400545,
+    "original_dimensions": [
+      1920,
+      1461
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      731
+    ],
+    "bytes": 28774
+  },
+  "preview_sha256": "07223f69172b8046d1743d6091fac688d92f49bfb34f6e13c3e40fac4139ea42"
+}

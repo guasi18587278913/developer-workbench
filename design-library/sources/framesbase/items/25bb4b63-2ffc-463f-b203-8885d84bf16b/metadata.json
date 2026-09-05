@@ -1,0 +1,43 @@
+{
+  "id": "25bb4b63-2ffc-463f-b203-8885d84bf16b",
+  "title": "Digitwist AI Builder",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "25bb4b63-2ffc-463f-b203-8885d84bf16b",
+    "page_at_capture": 3,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/digitwist-hero/poster/media-pipeline-v1/65ffcd3d1aca038a82178ecb1997493f151051bb4a51a63f95a785784c1810a7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:23.655336+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "22db40a74f053015edad3376029e3c7233ebd8d714909980d3fcb867fefc4a26",
+  "displayed_prompt_chars": 6001,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e015fc96008a642561e27ff6a2b7dc75c7d06e872f2d14f0f419f1c8cd787df7",
+    "original_bytes": 904287,
+    "original_dimensions": [
+      1768,
+      1202
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      653
+    ],
+    "bytes": 26164
+  },
+  "preview_sha256": "f6d437c82b2bf122a505dbb6f80864dc4e3722b8a6ef1d8c4c606e1eebad0d11"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+  "title": "WISA Space",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "d5a1c111-5acf-4c7f-afce-d6561e73d4ae",
+    "page_at_capture": 4,
+    "position_at_capture": 21,
+    "preview_media_key": null
+  },
+  "delivery_type": "source-link",
+  "original_url": "https://aistudio.google.com/u/1/apps/857d4bc5-1fa0-482d-9bdd-64327801c864?showPreview=true&showAssistant=true",
+  "captured_at": "2026-09-05T05:57:45.537851+00:00",
+  "capture_status": "complete",
+  "preview_status": "not-provided-by-source",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": null
+  },
+  "content_sha256": "5d4de49572d1a6c721e5b064a38e6a7c454fbab845ad30a41534cd5b27c2acca",
+  "preview_sha256": null,
+  "displayed_prompt_chars": null,
+  "content_quality": "unreviewed-reference"
+}

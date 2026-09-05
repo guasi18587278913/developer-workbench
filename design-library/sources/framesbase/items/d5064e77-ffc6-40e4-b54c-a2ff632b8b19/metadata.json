@@ -1,0 +1,43 @@
+{
+  "id": "d5064e77-ffc6-40e4-b54c-a2ff632b8b19",
+  "title": "Zenith Realty",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "d5064e77-ffc6-40e4-b54c-a2ff632b8b19",
+    "page_at_capture": 4,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/zenith-realty-landing/poster/media-pipeline-v1/437336a1fc8a545010580e76f0ef25ed8fa3ac1d08cf45568c93a871b01d10e5"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:07.359286+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "325e0952202db169714fc327c0eecb57516965185c31cfd10011ce0d16306197",
+  "displayed_prompt_chars": 7094,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "de6167d1fb5a33a936316925db31116e0035409a0b960409249a4ce07bd35e31",
+    "original_bytes": 332476,
+    "original_dimensions": [
+      912,
+      1600
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      547,
+      960
+    ],
+    "bytes": 55628
+  },
+  "preview_sha256": "49f57a23c80b4dc5701c1b69fbefa30be4f246607bd88c25a1162d4e8cff7cf4"
+}

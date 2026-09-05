@@ -1,0 +1,43 @@
+{
+  "id": "4cc914ea-5034-4777-b532-fce9e779f87a",
+  "title": "Growth Decisions",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "4cc914ea-5034-4777-b532-fce9e779f87a",
+    "page_at_capture": 2,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sites/growth-decisions/poster/media-pipeline-v1/3354ec985c2fc2955990b0b4586f917fcf5240ccd537c25ea9e2879a68a310bb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:16.613424+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "3fdf5f8a9b8a56d8a23dc390b229bb2c5ee5a82979f7d040fb59ffb10f4a2bf1",
+  "displayed_prompt_chars": 11164,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bab89f841e7a118a89cde34a84b096d1c813bcc39caa2fb910bce4b7c25709ac",
+    "original_bytes": 92308,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 43986
+  },
+  "preview_sha256": "c0b3c1a4f69def1a453b29fa9b875c3c55507f2bd4b97fcff7e8f8222038f5ce"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e0d64a48-858a-488c-a753-1fe68f2ce7d9",
+  "title": "Aesthetic Dental Clinic",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Healthcare",
+    "item_id": "e0d64a48-858a-488c-a753-1fe68f2ce7d9",
+    "page_at_capture": 14,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/sites/aesthetic-dental-clinic/poster/first-frame-v1/d6c4651eabce1dc8e28736d932ca50dd9b2990bb66ef98df7d387abc07d36c76"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:52.101504+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "47de65175c597e80578cdb172df367d750183d9a420335b4cce81c229bdf6e2a",
+  "displayed_prompt_chars": 6378,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d6c4651eabce1dc8e28736d932ca50dd9b2990bb66ef98df7d387abc07d36c76",
+    "original_bytes": 95888,
+    "original_dimensions": [
+      1280,
+      940
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 62116
+  },
+  "preview_sha256": "97d9ede9fc159fbe0ba5c7c7c9c6ee79ac1969512c17f4021a1ad52bfa06a051"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "06039526-78c5-43fc-b62a-e0a8736456bc",
+  "title": "Futuristic Eyewear",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Ecommerce",
+    "item_id": "06039526-78c5-43fc-b62a-e0a8736456bc",
+    "page_at_capture": 14,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/futuristic-eyewear/poster/media-pipeline-v1/405e03bf2433edbabf0861f4cbb8a0f212657fafd81036e39ebaf4a3d0edd3c9"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:22.701944+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "fd51e10cae30a828cb4bfff70e7ffd2d7bd69078e772a8d50bba301da7c67f62",
+  "displayed_prompt_chars": 24288,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "86326cb3d61b7fae7c0a34c5223aa1ca798de14316bc38ecd3e262d0ec2ac57c",
+    "original_bytes": 70768,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 40416
+  },
+  "preview_sha256": "e4f2bc842bb7b0342a9452e5881b75a5e95978a31d622772b575e6891e84d587"
+}

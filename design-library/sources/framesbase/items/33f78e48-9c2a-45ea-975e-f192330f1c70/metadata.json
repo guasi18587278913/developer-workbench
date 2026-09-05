@@ -1,0 +1,43 @@
+{
+  "id": "33f78e48-9c2a-45ea-975e-f192330f1c70",
+  "title": "Daisy Wild",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Product",
+    "item_id": "33f78e48-9c2a-45ea-975e-f192330f1c70",
+    "page_at_capture": 3,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sections/daisy-wild/preview/media-pipeline-v1/1a83f6d71c3926b8cd9dbf931c5aa87ffacbda780af261ef9f2717d974e15c3d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:47.399545+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e59966f9774a2061170e936f478d2351b6ea36a57a3efc647b0a8329cb7ec12d",
+  "displayed_prompt_chars": 10292,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8fff6f426b2ed37d07b513ebc5cc8b23c4bae35bca8dc27c93c8c9c977d17c48",
+    "original_bytes": 1596968,
+    "original_dimensions": [
+      640,
+      476
+    ],
+    "original_frames": 72,
+    "dimensions": [
+      640,
+      476
+    ],
+    "bytes": 22272
+  },
+  "preview_sha256": "9e7286e5d7b7f2b2279c8ca2f9bc5fe9ec3d715cb4c26eefd06c890832f25b56"
+}

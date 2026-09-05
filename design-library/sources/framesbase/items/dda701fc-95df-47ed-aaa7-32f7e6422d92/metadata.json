@@ -1,0 +1,43 @@
+{
+  "id": "dda701fc-95df-47ed-aaa7-32f7e6422d92",
+  "title": "Wellness Companion",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Wellness",
+    "item_id": "dda701fc-95df-47ed-aaa7-32f7e6422d92",
+    "page_at_capture": 1,
+    "position_at_capture": 21,
+    "preview_media_key": "media/motionsites/apps/wellness-companion/poster/first-frame-v1/cb767d2548acbe910873e9578ae20864c140c0820df897251e1714dcbaa2b25e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:48.321323+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9f1ff2f86e0f36eea841fac041fbb1f942f84e16084e713ef84c3197f1062ff0",
+  "displayed_prompt_chars": 4095,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cb767d2548acbe910873e9578ae20864c140c0820df897251e1714dcbaa2b25e",
+    "original_bytes": 30154,
+    "original_dimensions": [
+      1280,
+      960
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 21090
+  },
+  "preview_sha256": "6c351de821356bb32c679903306e81f8f13c2fbb6ec58bb0f1c10c0dfc971c84"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "9d7b8402-0653-474e-b9cd-c744112e4f03",
+  "title": "Kresna Footer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Footer Section",
+    "item_id": "9d7b8402-0653-474e-b9cd-c744112e4f03",
+    "page_at_capture": 1,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sections/kresna-footer/poster/media-pipeline-v1/f5bf6d14c2d1346ba301c5dfe24cdea7b8050804c13afb6c265e9075bc05cb6c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:54.624083+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "4104ca9bfced3612a974801f7c96614dd8121d2f264744568f3109af3e7ad2a2",
+  "displayed_prompt_chars": 9163,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "07da15f0a58a32ebb764d1176fabf088739803638a8e0094302e4488162fc24c",
+    "original_bytes": 368370,
+    "original_dimensions": [
+      1920,
+      1406
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      703
+    ],
+    "bytes": 20542
+  },
+  "preview_sha256": "d95de2c78ab8ed4b948fa6c9baa71c9e4d6e7d006a0b181fc29d3625cf2c42bc"
+}

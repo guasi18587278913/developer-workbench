@@ -1,0 +1,43 @@
+{
+  "id": "0d647e69-06a1-4653-bcb9-a5a400aad8b9",
+  "title": "Nimbus Grid",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "0d647e69-06a1-4653-bcb9-a5a400aad8b9",
+    "page_at_capture": 8,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/nimbus-grid/preview/media-pipeline-v1/a7dfb2397200237fff19d8ff93fd0563f9a8d856f91eeb56ed4f64a0ee9374b4"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:32.227023+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "85d8d47ba572ec4a7c76e511fc4abdb36fd6599c63078a098bca177adb980513",
+  "displayed_prompt_chars": 16697,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "bdd02b16c718ba6b41ddddc549ac008804b93bd5e3a9de6f14e66b4f912b3713",
+    "original_bytes": 1258628,
+    "original_dimensions": [
+      640,
+      466
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      466
+    ],
+    "bytes": 24602
+  },
+  "preview_sha256": "25f5fdb1ec8c6d6e9e77d607c9e1757e6f7aa250703886ae116cf24c13542897"
+}

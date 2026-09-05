@@ -1,0 +1,43 @@
+{
+  "id": "84bd9153-ffa5-4b42-a128-a85ec5ab07e9",
+  "title": "Aetheris Voyage",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "84bd9153-ffa5-4b42-a128-a85ec5ab07e9",
+    "page_at_capture": 5,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/aetheris-voyage-hero/poster/media-pipeline-v1/373502fc4124fff3cb97df4797637eaf4ff1b389394eba6ca120ea8b23551212"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:29.175348+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "aa5f58f6ac4d3806dcbc1d54c34773bfaa8d8e37d80579513ccaad8135239694",
+  "displayed_prompt_chars": 10190,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c836d34ab9237d84fb8bb93d7edb9d8fcea009f47abd3e28fcf9c1ce9f0ce534",
+    "original_bytes": 36100,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 20882
+  },
+  "preview_sha256": "0895078ca5edfbc5c4df037896c7fdddf85bd39640a5b16d3b1a7c31b5bb60a1"
+}

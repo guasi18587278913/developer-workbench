@@ -1,0 +1,43 @@
+{
+  "id": "d9c6b9d3-7289-45c5-aa18-fd95290196d6",
+  "title": "Crypto Wealth",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "d9c6b9d3-7289-45c5-aa18-fd95290196d6",
+    "page_at_capture": 5,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/crypto-wealth-hero/poster/media-pipeline-v1/ab555a82e4e915a479c60a263e238a24a43213ec2d9f65ce1c9a1d70e7032d4f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:48.560510+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9dcf4b49315fd3f49146beddb201bdd9722ffc867c5e75b1a56178c88c23d775",
+  "displayed_prompt_chars": 11283,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1b5d972f5b425c18578ee58d8fabc3a44d96719a2f1e940bff744ea166d60e0e",
+    "original_bytes": 620583,
+    "original_dimensions": [
+      1852,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      743
+    ],
+    "bytes": 72826
+  },
+  "preview_sha256": "c2a6c88b3ef9b9380ff31e9f534e9fa86d446180995d4539204e8c0cc22006eb"
+}

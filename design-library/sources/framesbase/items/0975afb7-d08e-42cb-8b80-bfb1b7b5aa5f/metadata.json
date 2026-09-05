@@ -1,0 +1,43 @@
+{
+  "id": "0975afb7-d08e-42cb-8b80-bfb1b7b5aa5f",
+  "title": "Mostar Guide",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Travel",
+    "item_id": "0975afb7-d08e-42cb-8b80-bfb1b7b5aa5f",
+    "page_at_capture": 12,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/mostar-guide/poster/media-pipeline-v1/6015d44bb13a3fa201c637f18bd0c732b9fefe17846e0ec9102c1b438e8a320e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:23.377077+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5ab223fc8ed2ded8f78de1fc5a2cda5acc630af0778723f7e6dd8917b3c04ab3",
+  "displayed_prompt_chars": 27876,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "61cc2fe9379daa5dd3fdce688799a59f605e36afdfc0749334ae060d537dd2b9",
+    "original_bytes": 200762,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 92870
+  },
+  "preview_sha256": "a492942a31a8b7c4a531f8ca287d67f41a6db86fceb8caf3ae629c364dea6c31"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+  "title": "Slam Dunk",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "ca7126e8-db04-4b4f-b72d-0cd2705529f5",
+    "page_at_capture": 8,
+    "position_at_capture": 22,
+    "preview_media_key": null
+  },
+  "delivery_type": "source-link",
+  "original_url": "https://ai.studio/apps/8ee73ec4-4850-4bb7-95b1-c7d4dd3eef19",
+  "captured_at": "2026-09-05T05:57:46.052696+00:00",
+  "capture_status": "complete",
+  "preview_status": "not-provided-by-source",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": null
+  },
+  "content_sha256": "9b800642b0428b567863c5d36d078f0390d54d912e33be14dcdb0c3f85f72ffd",
+  "preview_sha256": null,
+  "displayed_prompt_chars": null,
+  "content_quality": "unreviewed-reference"
+}

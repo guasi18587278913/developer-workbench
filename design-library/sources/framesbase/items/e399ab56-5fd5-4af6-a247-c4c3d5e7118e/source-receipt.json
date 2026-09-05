@@ -1,0 +1,46 @@
+{
+  "repository_url": "https://github.com/vikod3/Planetary-Pulsewebgpu",
+  "commit": "ba749761ab46ce9db9eabce512bbec892256bd4a",
+  "status": "complete",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 66,
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+    },
+    {
+      "path": "glass-card.js",
+      "bytes": 2575,
+      "sha256": "e398d939b45e6154f321ec8cba89a9049cd3b9c72fe122880483a1e9b0f8cb7b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10278,
+      "sha256": "e113157ecdbc8b940d72b1f720dbfddc342e102d494e4634c0cdf5d0e8c212e8"
+    },
+    {
+      "path": "serve.mjs",
+      "bytes": 1153,
+      "sha256": "5ed7797b4deb8e7d94fff61d8ea494fb62318b50ebaa0ec71dfd3e4273e28efa"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 11654,
+      "sha256": "dfb2e3ebb0df0f4a1517d2f34ceca66d3ce6cb32b4d79de11316e6e31b1c4bf9"
+    },
+    {
+      "path": "ui.js",
+      "bytes": 886,
+      "sha256": "41296e50a0ffb8c449bdddeab9cabd552c235fe5bf7d4806dcc0589d47d06556"
+    }
+  ],
+  "omitted": [],
+  "execution": "not-executed",
+  "license_files": [],
+  "excluded_non_source": [
+    {
+      "path": ".DS_Store",
+      "reason": "operating-system-metadata"
+    }
+  ]
+}

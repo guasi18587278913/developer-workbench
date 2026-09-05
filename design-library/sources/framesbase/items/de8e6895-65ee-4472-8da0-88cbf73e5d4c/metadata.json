@@ -1,0 +1,43 @@
+{
+  "id": "de8e6895-65ee-4472-8da0-88cbf73e5d4c",
+  "title": "Aurora Onboard",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Sign Up",
+    "item_id": "de8e6895-65ee-4472-8da0-88cbf73e5d4c",
+    "page_at_capture": 1,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/apps/aurora-onboard/poster/media-pipeline-v1/768f725480f9a9f689c4030b50dca47943e44700c7fa2bc965f04b88a65b70ce"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:33:11.050602+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "04bbd8d1a7479031fc455c2df4f01cf1d52e23ed0172e488f670fd8f217c3b0f",
+  "displayed_prompt_chars": 4770,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2f00c494a4586f539620482ba8d5df1ccd4eefff4cfc3db1b01feb33d72daf22",
+    "original_bytes": 2112753,
+    "original_dimensions": [
+      1850,
+      1352
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      702
+    ],
+    "bytes": 27612
+  },
+  "preview_sha256": "ac57794134006ab5eda2f6627ea4634a628ba59c4415c19ab79e4851ab27825c"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "de7f455a-69f9-4620-8d0a-69607ec70084",
+  "title": "Financial Suite",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "de7f455a-69f9-4620-8d0a-69607ec70084",
+    "page_at_capture": 10,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/financial-suite/poster/first-frame-v1/ffd0abbf52638efe29cb007109da247f117b6298c38c6626ef52bdcbb85aa112"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:17.600203+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e28dbe6b16a4c5c322208335ab3aeae10738dfc25b32405265e26fa2a632e152",
+  "displayed_prompt_chars": 15250,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ffd0abbf52638efe29cb007109da247f117b6298c38c6626ef52bdcbb85aa112",
+    "original_bytes": 44488,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 28506
+  },
+  "preview_sha256": "304e3649dad7b9657a8e93c45dbad7ec65c495bc3245cb1e5d8fc28399ea59d4"
+}

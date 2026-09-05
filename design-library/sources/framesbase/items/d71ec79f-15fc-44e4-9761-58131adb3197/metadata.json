@@ -1,0 +1,43 @@
+{
+  "id": "d71ec79f-15fc-44e4-9761-58131adb3197",
+  "title": "Orbis Cards",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Cards",
+    "item_id": "d71ec79f-15fc-44e4-9761-58131adb3197",
+    "page_at_capture": 3,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sections/orbis-cards/preview/media-pipeline-v1/37a86bd0e1b70709c0e2328395ed70bee047c6ced365bfbb7da2353709d85d89"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:26.233890+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "980db0fc3ca1cf1a0b35a221e7c5ceafe3cd6ef04ff14d1272f5133513d27c7a",
+  "displayed_prompt_chars": 5533,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "beeb9e5a34480141e09a2660e562b2f310df5f941f0c285ce4e43f6688d18ac9",
+    "original_bytes": 678850,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 68,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 15872
+  },
+  "preview_sha256": "279cb8b14f0fcd987c2f5f5f1a80e3c0b84304d115fcd26dfe8432474c85cbe5"
+}

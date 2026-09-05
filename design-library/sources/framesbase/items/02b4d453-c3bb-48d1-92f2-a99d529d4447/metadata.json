@@ -1,0 +1,43 @@
+{
+  "id": "02b4d453-c3bb-48d1-92f2-a99d529d4447",
+  "title": "Kova Testimonial",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Testimonial",
+    "item_id": "02b4d453-c3bb-48d1-92f2-a99d529d4447",
+    "page_at_capture": 3,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sections/kova-testimonial/preview/media-pipeline-v1/e54e0e4adb6ba0a3af9c5cc042cd31b409c64fddd4ab6fbd455995e9ccfe102c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:30.364543+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "28d3409b95448f7cc5e96c9047c602b3bcb2aa882905f7cd1580d56ba8bae27c",
+  "displayed_prompt_chars": 6063,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3c9a917c41abb25750d106d78bc23174a423405b734642eb3568eca2659f490b",
+    "original_bytes": 253608,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 10118
+  },
+  "preview_sha256": "9e8834df1a1a6dc4e336bb8a777becb1e16060863a2243ae8b4e323a73c3a44c"
+}

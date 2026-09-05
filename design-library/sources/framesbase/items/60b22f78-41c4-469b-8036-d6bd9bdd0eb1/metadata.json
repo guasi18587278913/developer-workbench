@@ -1,0 +1,43 @@
+{
+  "id": "60b22f78-41c4-469b-8036-d6bd9bdd0eb1",
+  "title": "Luxury Focus",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "E-commerce",
+    "item_id": "60b22f78-41c4-469b-8036-d6bd9bdd0eb1",
+    "page_at_capture": 10,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/luxury-focus/poster/media-pipeline-v1/77f47bec07d638b7a5da296d81c186c934dd11a6b680d1d7e054a463b21af615"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:15.804767+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "450a6abccb6baf3ffe156f25461140aad361c2d509a2bf50152c904f6b4cd1ff",
+  "displayed_prompt_chars": 9692,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "09faaa4d00ef3333045aeb56bd01d17331f755ead658aab7bae632d2325ce932",
+    "original_bytes": 23034,
+    "original_dimensions": [
+      1200,
+      880
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      704
+    ],
+    "bytes": 15554
+  },
+  "preview_sha256": "be9413785c7707a15932544d66c612c54e637887a556d341e2456e347fcc8e26"
+}

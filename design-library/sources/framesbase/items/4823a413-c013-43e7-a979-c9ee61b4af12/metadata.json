@@ -1,0 +1,43 @@
+{
+  "id": "4823a413-c013-43e7-a979-c9ee61b4af12",
+  "title": "Bloom AI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero Section",
+    "item_id": "4823a413-c013-43e7-a979-c9ee61b4af12",
+    "page_at_capture": 3,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/bloom-ai-hero/poster/media-pipeline-v1/e135c9a7593d77878c35727dcaf784b686f436a44eba58c9ff48ff2313dd2589"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:39.428130+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d821c5196a8f4039bd0de4235c2e94de55bb4867b6fe37088430720ea9aa19d5",
+  "displayed_prompt_chars": 3900,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7a55a078f591a6c604093ac55272b9d943107cda5cd9a1789309fd71762fdde2",
+    "original_bytes": 1258064,
+    "original_dimensions": [
+      1920,
+      1378
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      689
+    ],
+    "bytes": 51282
+  },
+  "preview_sha256": "dab834f598bec137abd53cb274c741c86d60c993cf3508d12d97c125d09e7552"
+}

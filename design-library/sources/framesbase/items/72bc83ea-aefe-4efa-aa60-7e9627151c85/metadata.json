@@ -1,0 +1,43 @@
+{
+  "id": "72bc83ea-aefe-4efa-aa60-7e9627151c85",
+  "title": "NOVA Space Systems",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "72bc83ea-aefe-4efa-aa60-7e9627151c85",
+    "page_at_capture": 4,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/sites/nova-space-landing/poster/media-pipeline-v1/bb4ea41dce33418c9a1c2449e9977d27e060a4e1d758889de3061633693788f1"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:50.132487+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0080a1ec2b68c0584ee65f375adbf30ada1c3f5f87a4261b218dd5d0a7bc3041",
+  "displayed_prompt_chars": 5106,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8e8b4488ed6c37dc62cdb46857456a1a76d0babf0a846aa484c88d6a8915dbad",
+    "original_bytes": 1068218,
+    "original_dimensions": [
+      846,
+      1728
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      470,
+      960
+    ],
+    "bytes": 39064
+  },
+  "preview_sha256": "715b03e9aa87878e081f13208aecd195e6de6d9f5b5bb55155a962717fa30fde"
+}

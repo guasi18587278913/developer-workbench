@@ -1,0 +1,43 @@
+{
+  "id": "9e7f6391-f06c-46ee-b73d-90acc3569ccf",
+  "title": "Agency Services",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Services",
+    "item_id": "9e7f6391-f06c-46ee-b73d-90acc3569ccf",
+    "page_at_capture": 3,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sections/agency-services/preview/media-pipeline-v1/c1a597d14de8d5a08dc2fefbdce7f61aebef95d26a15c8e46eb180c48a6f486c"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:38.921672+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "1dae1e9523a42e812594e67298f95f56ef6a3c031f8e15081a5893851d08aa24",
+  "displayed_prompt_chars": 3336,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a480e2a6e2142ac48f836fc3da065f4193c1859f482e9a87059e6e042c9926d0",
+    "original_bytes": 313502,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 54,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 12104
+  },
+  "preview_sha256": "1705f5875d39d267800a9c535c5f8ee3525b8565796719688b00d4a2232431b3"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "87fa1b62-4ce6-4d32-940b-3605df144bfa",
+  "title": "Travel Explorer",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Travel",
+    "item_id": "87fa1b62-4ce6-4d32-940b-3605df144bfa",
+    "page_at_capture": 1,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/apps/travel-explorer/poster/first-frame-v1/8b2559438fc23755e436967e84070690830e8a35b0434ff6cadaf33b991b29d3"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:46.967260+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "693340c6a1b9c078d44a2d83a1b4cd7abccb2b5cf1f56e81e5924b821d5b3eb2",
+  "displayed_prompt_chars": 7116,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "8b2559438fc23755e436967e84070690830e8a35b0434ff6cadaf33b991b29d3",
+    "original_bytes": 25506,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 17564
+  },
+  "preview_sha256": "5d9324a0ef31ef2fa760ec52545b9594184b438cc440999005ac7dbddb11d76a"
+}

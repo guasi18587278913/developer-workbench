@@ -1,0 +1,43 @@
+{
+  "id": "6f53478d-a7dc-46d8-a839-48406a2e2686",
+  "title": "Axion About",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "6f53478d-a7dc-46d8-a839-48406a2e2686",
+    "page_at_capture": 3,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sections/axion-about/preview/media-pipeline-v1/1b493a15849d10d370d7f135f9862abb0ecec4cb45ef3fc0d99d891f42604bff"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:17.463298+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "faa8f755249b12391353f9068276f56df47a3768022d594a3a8e5351682a8556",
+  "displayed_prompt_chars": 4393,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6e04f1dc136a9cab87d97d6b3325bc99f1d11b2a66a7151b309cf478441c691c",
+    "original_bytes": 248724,
+    "original_dimensions": [
+      640,
+      468
+    ],
+    "original_frames": 62,
+    "dimensions": [
+      640,
+      468
+    ],
+    "bytes": 17672
+  },
+  "preview_sha256": "a33d17c48ea73919193435ba11b2f674b4f14f07b4a0f95a8dcb558e122ba4da"
+}

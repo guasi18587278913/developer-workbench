@@ -1,0 +1,43 @@
+{
+  "id": "ab6409fb-68cc-4bff-9d0d-7c3c7484e6f8",
+  "title": "CoderCrest",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "ab6409fb-68cc-4bff-9d0d-7c3c7484e6f8",
+    "page_at_capture": 4,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sites/codercrest-hero/preview/media-pipeline-v1/9252369db9f3b10fc89a84da7820495fcf6dde957d890747458ad33a5f0f5f57"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:37:01.079649+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "531a05ca92e2156c86d8ce27185a80269882d2746a1dcdf2b8369465d3e52352",
+  "displayed_prompt_chars": 3818,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ddc1bec98437e75309a39dcc69cce12efbab1ace288a4c4e24d5fedeb31fadc9",
+    "original_bytes": 751391,
+    "original_dimensions": [
+      800,
+      593
+    ],
+    "original_frames": 107,
+    "dimensions": [
+      800,
+      593
+    ],
+    "bytes": 13746
+  },
+  "preview_sha256": "8f668aac820a9e258cadcbb28378db1bdb2e3828b71cadb729a0820c319d18f0"
+}

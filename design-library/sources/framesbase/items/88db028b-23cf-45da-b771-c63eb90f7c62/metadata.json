@@ -1,0 +1,43 @@
+{
+  "id": "88db028b-23cf-45da-b771-c63eb90f7c62",
+  "title": "Frontier",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Finance",
+    "item_id": "88db028b-23cf-45da-b771-c63eb90f7c62",
+    "page_at_capture": 13,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sites/frontier/poster/media-pipeline-v1/0abcb9e40d947f3d615fa3ea6f42d536b06b87d2723cb1bc8f6d47633460ec65"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:09.711609+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "f3d3dfcef4fb1def8185e1929acd9c93cbc288e84715ffb130f5b9926bb5b492",
+  "displayed_prompt_chars": 20284,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5041fdf3d350080f3ebbc3f12c8c87d00b4b10780dce6666073e2cb9442bd88c",
+    "original_bytes": 81378,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 45656
+  },
+  "preview_sha256": "b6b3fb2775d6b2146cd43243db5b3d3447be837108c981990a581686e24e4d4a"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "94442dc0-b9e6-4b84-90fc-d9c2b1bde990",
+  "title": "AeroCore",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "94442dc0-b9e6-4b84-90fc-d9c2b1bde990",
+    "page_at_capture": 8,
+    "position_at_capture": 12,
+    "preview_media_key": "media/motionsites/sites/aerocore/preview/media-pipeline-v1/860e4dac262a754498b52418562e817bfb10b444edae661c0ffe8f398e72dffc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:23.592415+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "036d8ae714805bda132d38079102528a268c19539406d84af9e8ca443b14b7fb",
+  "displayed_prompt_chars": 72631,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4ba0de274b3f8be4cd8b0475b3f18d89f5d49dd9f990d30ee2a02d8207b68008",
+    "original_bytes": 1619442,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 23670
+  },
+  "preview_sha256": "38366a1e46e536db76d20a9a8085ce40c85ce4e92bb22de9e6caa6f24751361f"
+}

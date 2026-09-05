@@ -1,0 +1,43 @@
+{
+  "id": "494d237a-9ad3-4042-aeb8-c1d3ce1328f8",
+  "title": "Velorah Focus",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Social Media",
+    "item_id": "494d237a-9ad3-4042-aeb8-c1d3ce1328f8",
+    "page_at_capture": 1,
+    "position_at_capture": 24,
+    "preview_media_key": "media/motionsites/sections/velorah-focus-hero/poster/media-pipeline-v1/4eccb1d365dfed9ad8f45951a0588e9cd5c46e709ad73adb476122e0b870ab68"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:08.390140+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0c3946350e16523a523feb5bdc2201d85aedf1362880f4cf153b4bdaf65430d2",
+  "displayed_prompt_chars": 12595,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "474d253bc9b9f650186b07a0c6c4bffaa27010e59d7571038ff7c7b080360836",
+    "original_bytes": 239951,
+    "original_dimensions": [
+      1536,
+      1118
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      699
+    ],
+    "bytes": 51968
+  },
+  "preview_sha256": "7ed70251c9b0c8cb01a53f1bb960409f42713f698b108e002448f3466997a6e5"
+}

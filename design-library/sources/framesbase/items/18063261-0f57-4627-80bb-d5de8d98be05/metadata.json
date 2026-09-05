@@ -1,0 +1,43 @@
+{
+  "id": "18063261-0f57-4627-80bb-d5de8d98be05",
+  "title": "Logoisum Video Agency",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Agency",
+    "item_id": "18063261-0f57-4627-80bb-d5de8d98be05",
+    "page_at_capture": 6,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/sites/14/poster/media-pipeline-v1/75d479b78f3c5c90ba2a105062addedd82645f80216c0cfe8fcacef8c410f992"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:26.879383+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "700bce956512e8c3cc00b02ff970f48f657ce6b4880664e2ba2188ebe9eee92a",
+  "displayed_prompt_chars": 1565,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b1facd221accc7aa5d1c3146b09a5238e8104bb9df73d13478b6880f30605c99",
+    "original_bytes": 1226913,
+    "original_dimensions": [
+      1482,
+      1053
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      682
+    ],
+    "bytes": 49114
+  },
+  "preview_sha256": "3971ea57b0019c9ece3236bafc6448f6c1d49f0235c4cfad2bbb49eebcd4a8d3"
+}

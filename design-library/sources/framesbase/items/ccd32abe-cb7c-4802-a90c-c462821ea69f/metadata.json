@@ -1,0 +1,43 @@
+{
+  "id": "ccd32abe-cb7c-4802-a90c-c462821ea69f",
+  "title": "Obsidian",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Interactive",
+    "item_id": "ccd32abe-cb7c-4802-a90c-c462821ea69f",
+    "page_at_capture": 1,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/obsidian/poster/media-pipeline-v1/f469589268a8af164f6546841c2e280e158131a82cb80c61d2bc83f2b3f70ec0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:33.427702+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "d7cb2437721932f323c072b8426f0fec10d8d50277f91591214986544aced32a",
+  "displayed_prompt_chars": 17243,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a68ba412a668a22dd697a9d95c38c6bc8c5ef88b388f57e5d7ba97937e3ecbb3",
+    "original_bytes": 189044,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 82904
+  },
+  "preview_sha256": "22444da0ddeba215e4400bc5dcee6490aa69dbbfe10d73039a3bbb518a2efc68"
+}

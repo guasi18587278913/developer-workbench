@@ -1,0 +1,43 @@
+{
+  "id": "3f621e4f-d94e-454d-a045-6f59cbaa6518",
+  "title": "Personal Showcase",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Portfolio",
+    "item_id": "3f621e4f-d94e-454d-a045-6f59cbaa6518",
+    "page_at_capture": 13,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/personal-showcase/poster/media-pipeline-v1/6fb48d8ef4c7678b1fdf056ebd1e58cd0fff3430a44a4170ed8e176b4e65e5e0"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:55.369589+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "82e04e9e92605d4b3938b956f63e78bb52cbf1fc2aa812566f5365b6f5448f18",
+  "displayed_prompt_chars": 6948,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "42a26c4458a690b7dac7ec815681d6a2b56ca2e78ddfc761fad68008279c2afa",
+    "original_bytes": 39818,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 19394
+  },
+  "preview_sha256": "dd85cfa149fc34c9746cfbc65ea4a37aa392d22fa4cd2a178fc3dc4e58e14c03"
+}

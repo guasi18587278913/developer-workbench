@@ -1,0 +1,43 @@
+{
+  "id": "ee296445-e2d7-4bf9-b9d0-3b637ad11707",
+  "title": "Impact Ventures",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "ee296445-e2d7-4bf9-b9d0-3b637ad11707",
+    "page_at_capture": 12,
+    "position_at_capture": 1,
+    "preview_media_key": "media/motionsites/sites/impact-ventures/preview/media-pipeline-v1/720b3f77c0457b66f9115e7bcbf9707c8051f21a8758c59de2f44eca8570e1cb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:09.675108+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "c19477fa46ff8da25abdc927ce7dd1af814ad62453a688423479123ffa64a96c",
+  "displayed_prompt_chars": 4400,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "63a19688a74fbfc7ab942477151548695a7eb4913aa26de1ac2f8646b9c40e42",
+    "original_bytes": 1575972,
+    "original_dimensions": [
+      640,
+      472
+    ],
+    "original_frames": 68,
+    "dimensions": [
+      640,
+      472
+    ],
+    "bytes": 29240
+  },
+  "preview_sha256": "81b5246939da7e088293e4b5228a07dbbeccd9cda00b39fd6d1ccd2b9fae6a8c"
+}

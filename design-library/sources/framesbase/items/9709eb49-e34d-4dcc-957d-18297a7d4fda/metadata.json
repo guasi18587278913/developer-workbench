@@ -1,0 +1,43 @@
+{
+  "id": "9709eb49-e34d-4dcc-957d-18297a7d4fda",
+  "title": "Bold Studio",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Hero",
+    "item_id": "9709eb49-e34d-4dcc-957d-18297a7d4fda",
+    "page_at_capture": 9,
+    "position_at_capture": 7,
+    "preview_media_key": "media/motionsites/sites/bold-studio/preview/media-pipeline-v1/04460416498eb4ace324c9fecb5a9791bf78ae3c246d60e70c78ff2e1af58158"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:01.891476+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "7a7a7632a6a6cf5a7b33662151552eac3d8c335d70c7da85cb0180dba4946ab1",
+  "displayed_prompt_chars": 6067,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "7f31efa5103ac47137023bfd3d1a219a9f31df45d8f21383b2392e76d48942ee",
+    "original_bytes": 1236098,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 45,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 31278
+  },
+  "preview_sha256": "34e8d234be45fed9e6bf25be66cb7bf36edcf18b458413b825668ddd01c8572c"
+}

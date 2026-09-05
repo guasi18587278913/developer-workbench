@@ -1,0 +1,43 @@
+{
+  "id": "bd5d283b-01a7-42e4-a782-c89703890ba2",
+  "title": "Breathstone",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Wellness",
+    "item_id": "bd5d283b-01a7-42e4-a782-c89703890ba2",
+    "page_at_capture": 14,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/sites/breathstone/poster/media-pipeline-v1/9018481d976e5b33a678e1c35ee39e0821fa3b82e2485171931a5cf7fb158bbd"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:44:25.946523+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "25e24e6f94c9b8924c8fdda3e2f9070a41daddb54dbc022381647cf84c7a7437",
+  "displayed_prompt_chars": 9888,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "a1f5ac0174b61d04da0e4cee2de13f33eb2929ad2e565e13daea4b1c3e47faa0",
+    "original_bytes": 125822,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 64978
+  },
+  "preview_sha256": "f4228caa8c192bf0f0075ba8b67a06c6424310d7993b49146deb0b5efc0a4a04"
+}

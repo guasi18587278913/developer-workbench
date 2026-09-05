@@ -1,0 +1,43 @@
+{
+  "id": "183981b4-0f68-4471-88f5-3d6bf03c4f2b",
+  "title": "Bionova Biotech",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "183981b4-0f68-4471-88f5-3d6bf03c4f2b",
+    "page_at_capture": 6,
+    "position_at_capture": 13,
+    "preview_media_key": "media/motionsites/sites/bionova-hero/poster/media-pipeline-v1/3ecf32e47bfaf41c625eb2b36a7108c12b674c27b8c4c42327c4539fde27bebb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:38:35.248407+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "eb292bb8f026c920c87c3eb6897a772a56fc4baf76ca7a715e3421e1a4b5fa83",
+  "displayed_prompt_chars": 3902,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "b34ba386d06ca0d186339984ca4f6787a11cf7650cd909139b111801aed70007",
+    "original_bytes": 545657,
+    "original_dimensions": [
+      1920,
+      1357
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      679
+    ],
+    "bytes": 41344
+  },
+  "preview_sha256": "12301fcccc296a4281fb8b370d6bc9981a7d9d2d4f3b124128e01c9cf07508cf"
+}

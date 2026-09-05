@@ -1,0 +1,43 @@
+{
+  "id": "63ea3545-3d0b-4f66-bf33-9ac43cb4ce69",
+  "title": "Loader Animation",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Component",
+    "item_id": "63ea3545-3d0b-4f66-bf33-9ac43cb4ce69",
+    "page_at_capture": 4,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/18/poster/media-pipeline-v1/8ea10001cc015af6e203f4accd8095410aa2c25119d7ce48c730cfd133271eac"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:36:26.443788+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "75ac5fcef3a63c47f54e2769044876e686a358044d692fdedd716211214816c8",
+  "displayed_prompt_chars": 3313,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "66a6cb09d1c55e2cb4652010b6f1c15c3bed98ee03ca4ddcea52a456ac446301",
+    "original_bytes": 201088,
+    "original_dimensions": [
+      800,
+      636
+    ],
+    "original_frames": 45,
+    "dimensions": [
+      800,
+      636
+    ],
+    "bytes": 4618
+  },
+  "preview_sha256": "17fb67745b071c1ee8b1cee35ca67c2e579f39f54a39c3928121c61963830bb5"
+}

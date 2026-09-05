@@ -1,0 +1,43 @@
+{
+  "id": "74c38d70-b12a-48e0-8a8e-193d30dca2bb",
+  "title": "No-Code Waitlist",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Waitlist",
+    "item_id": "74c38d70-b12a-48e0-8a8e-193d30dca2bb",
+    "page_at_capture": 8,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/no-code-waitlist/poster/media-pipeline-v1/babe495bcaae56acbf6e3fe63bf62cb2e75d47aec1af275474bf02249a8d6050"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:07.435395+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "601cc396470b69406eaa041848e3ec2eebf0bacb86394ff2f1261d7f7d038a63",
+  "displayed_prompt_chars": 6532,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "6d1ba254ffb9a8795f0bd3a82b987429fd30246a745811528cbde40191de3b14",
+    "original_bytes": 44996,
+    "original_dimensions": [
+      1200,
+      874
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      699
+    ],
+    "bytes": 29464
+  },
+  "preview_sha256": "2ff7210b4f8ce61b36e35e894301542461c463fbac1b1ca0a09c860c0c02dd6a"
+}

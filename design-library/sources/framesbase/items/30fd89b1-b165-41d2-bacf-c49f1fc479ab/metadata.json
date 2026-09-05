@@ -1,0 +1,43 @@
+{
+  "id": "30fd89b1-b165-41d2-bacf-c49f1fc479ab",
+  "title": "Agent Wave",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "30fd89b1-b165-41d2-bacf-c49f1fc479ab",
+    "page_at_capture": 2,
+    "position_at_capture": 14,
+    "preview_media_key": "media/motionsites/sites/agent-wave/poster/media-pipeline-v1/844396eb60b49a8e4ceb75cf20a08a33f1a7f7a525f35426eb0d65d8807118b7"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:35:02.355163+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "07f95967b661f98af6b59371255de466dba64c84f252e71bffada826b2b6b8f6",
+  "displayed_prompt_chars": 16675,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "19e5c9e121d4b072bad82c3662a76dc42dd0bb849ed1b8829f5d9a570a12ff74",
+    "original_bytes": 114396,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 54744
+  },
+  "preview_sha256": "6d2581d8fe2ab24053f0600caf5e4547539fc086a2a1c90b4a2d68191272c19a"
+}

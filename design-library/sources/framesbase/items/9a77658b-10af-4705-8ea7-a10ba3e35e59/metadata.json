@@ -1,0 +1,43 @@
+{
+  "id": "9a77658b-10af-4705-8ea7-a10ba3e35e59",
+  "title": "Tech-Noir About",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "9a77658b-10af-4705-8ea7-a10ba3e35e59",
+    "page_at_capture": 3,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sections/tech-noir-about/preview/media-pipeline-v1/d26db84060226b29ba8380372644f9e65a21f71a2a822561184443a1362de8eb"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:34.729451+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "56c969aa94b4646ebc62b348697c7055837c774eb71d49b91aaf6d96ee8d4368",
+  "displayed_prompt_chars": 3555,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "5aa80cd1e662098b74cded11da1086ed51fe7381832d49e88be3ca8834d337e2",
+    "original_bytes": 1226648,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 69,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 21992
+  },
+  "preview_sha256": "604f8eb727563fea852aa9ae90ccea23f5c89b8da5650297a191e182ef8f8d83"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5f22fc26-ad52-4f07-942a-9adac31a3176",
+  "title": "Liquid Glass Features",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Features",
+    "item_id": "5f22fc26-ad52-4f07-942a-9adac31a3176",
+    "page_at_capture": 4,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sections/liquid-glass-features/preview/media-pipeline-v1/863351b1d2bf964ca158bd566eb00defa7b2c7ba43fc6db0df2636ad42225ea2"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:10.882159+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "6458d863388a4c6d7026112216f5b11eabea343684edd56ea9c72de2a634bd8d",
+  "displayed_prompt_chars": 9128,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f828f2bbe4d4915e74138cf0b73192e6cd930d15656a8a6219910e87da8b438e",
+    "original_bytes": 850794,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 16570
+  },
+  "preview_sha256": "a13bac3c9c49036414362b43397d72d22c1bfe5ac0fbd9df5ec97ae01aff03f2"
+}

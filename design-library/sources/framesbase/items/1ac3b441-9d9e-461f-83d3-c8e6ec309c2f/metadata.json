@@ -1,0 +1,43 @@
+{
+  "id": "1ac3b441-9d9e-461f-83d3-c8e6ec309c2f",
+  "title": "AI Assistant App",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "AI App",
+    "item_id": "1ac3b441-9d9e-461f-83d3-c8e6ec309c2f",
+    "page_at_capture": 2,
+    "position_at_capture": 15,
+    "preview_media_key": "media/motionsites/apps/ai-assistant-app/poster/first-frame-v1/c35beb1cf936d4c8e3f34bdddaf10c39ac47d5df130ddae5f65657751da0be15"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:46:16.542218+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b311bc10f15774eb9163e742ea61edfac0173f2aa968c18ee1cb526538a7a396",
+  "displayed_prompt_chars": 26558,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "c35beb1cf936d4c8e3f34bdddaf10c39ac47d5df130ddae5f65657751da0be15",
+    "original_bytes": 19720,
+    "original_dimensions": [
+      1280,
+      960
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      720
+    ],
+    "bytes": 14176
+  },
+  "preview_sha256": "2c29bb24a886e03747e6b5e3e738b7f6b7b9bde83b064834b645bc15f384fe35"
+}

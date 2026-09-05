@@ -1,0 +1,43 @@
+{
+  "id": "995a3390-bfbd-4b7d-b16a-82ea7539c1dd",
+  "title": "Scroll Marquee",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Marquee",
+    "item_id": "995a3390-bfbd-4b7d-b16a-82ea7539c1dd",
+    "page_at_capture": 3,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sections/scroll-marquee/preview/media-pipeline-v1/49b00368b16e23e2b67a31c5bc32e5df5551f12911ea5015bfcccc9654a0a6dd"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:48:06.799959+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "e3f46b7af5ed269b93dee242ba824b06d0b829fd473f20e087f9abbf164855ec",
+  "displayed_prompt_chars": 4119,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "342a54218e5e0b1d78a39eb6231c084af09d2cfa64ba5d9490bb6f04758b1308",
+    "original_bytes": 1501906,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 19674
+  },
+  "preview_sha256": "2d54450f3e5d7e4c3a77eda2f222f12e7bd8ef10b5cb9053a4a7dcaf98d6ca1f"
+}

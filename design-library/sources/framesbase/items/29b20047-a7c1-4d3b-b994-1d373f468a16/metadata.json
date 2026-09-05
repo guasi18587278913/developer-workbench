@@ -1,0 +1,43 @@
+{
+  "id": "29b20047-a7c1-4d3b-b994-1d373f468a16",
+  "title": "Growth Analytics",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "SaaS",
+    "item_id": "29b20047-a7c1-4d3b-b994-1d373f468a16",
+    "page_at_capture": 4,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sections/growth-analytics/poster/media-pipeline-v1/0117c3b4fcc379c5f84602709d82ec25698974dd48a2a4f3fce0d0b47cc3b432"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:26.800931+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "07005eb65bcf998755c6b09b46672267649f9b7b5c8aa71729d1aff77fccfc49",
+  "displayed_prompt_chars": 12140,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3af1869c0774d49b6230878a23b80202cddd84d092e248a558f5841ab4c90506",
+    "original_bytes": 26996,
+    "original_dimensions": [
+      1280,
+      543
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      407
+    ],
+    "bytes": 15122
+  },
+  "preview_sha256": "6dd07242afa3e0af250ef192f844032297a24810913efccbd4d73dfab38f6db5"
+}

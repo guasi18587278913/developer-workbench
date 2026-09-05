@@ -1,0 +1,43 @@
+{
+  "id": "6206c264-649d-4354-acf7-1a79a869eca4",
+  "title": "Dreamcore Landing",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "6206c264-649d-4354-acf7-1a79a869eca4",
+    "page_at_capture": 9,
+    "position_at_capture": 8,
+    "preview_media_key": "media/motionsites/sites/dreamcore-landing/poster/media-pipeline-v1/701c2fddfb62d07cfe154f1517121d2cb231d699aef1d66ab274effd8124d31e"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:41:03.517215+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "77a8a3089d13913172a3321f12ea1a653dcd897ef8e81667c9d2642c04bd89f4",
+  "displayed_prompt_chars": 16211,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d34c090d7790d16d89b011de5190e5f503be3413a79932a4c5fcdc0e932bc011",
+    "original_bytes": 212726,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 106030
+  },
+  "preview_sha256": "349f1fc9004f31ed0f5f9b2fa48aac77fced2144af06e055a23bcb0635330b15"
+}

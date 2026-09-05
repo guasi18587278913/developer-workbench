@@ -1,0 +1,43 @@
+{
+  "id": "efa3d4e3-51be-4b98-8a30-623359adadca",
+  "title": "Halo Benefits",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Why Us",
+    "item_id": "efa3d4e3-51be-4b98-8a30-623359adadca",
+    "page_at_capture": 2,
+    "position_at_capture": 17,
+    "preview_media_key": "media/motionsites/sections/halo-benefits/preview/media-pipeline-v1/dfec260de94e29584784482efc87477c69e7b2a2a6d56e0c797db332b80b4bfe"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:45.688247+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "aa50703759b5487d5407a5d6072a3f5c88f49d25ce1aa6b18003bb9bf0cf4764",
+  "displayed_prompt_chars": 15664,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "2ed68200b4063796e3c1896954ae93810163820eb224f4a6b03c0996c0205602",
+    "original_bytes": 210902,
+    "original_dimensions": [
+      640,
+      474
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      474
+    ],
+    "bytes": 13482
+  },
+  "preview_sha256": "3460a397523fe42ddbc46b2ad8c5f6be37c1f4446a062d86a65d299d125095fe"
+}

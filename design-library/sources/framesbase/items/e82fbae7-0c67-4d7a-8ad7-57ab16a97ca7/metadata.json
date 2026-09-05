@@ -1,0 +1,43 @@
+{
+  "id": "e82fbae7-0c67-4d7a-8ad7-57ab16a97ca7",
+  "title": "AI Image Generator UI",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "e82fbae7-0c67-4d7a-8ad7-57ab16a97ca7",
+    "page_at_capture": 7,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sites/ai-image-generator-ui/poster/media-pipeline-v1/435f82dada8a5a3609f60a3c9d676a20744ddb560cd2c6bffc9f24bde0fd249d"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:13.135233+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "671a598b15d237479ee87fa4321d48d1e0394bf618a0329e1bd7a1f99f0ecf29",
+  "displayed_prompt_chars": 4480,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "9696fa88eb2258665bdcc7038212ede30ab94b254075c61198ae9cb327eb2262",
+    "original_bytes": 128030,
+    "original_dimensions": [
+      2004,
+      1464
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      701
+    ],
+    "bytes": 22852
+  },
+  "preview_sha256": "faac25518348e1abeafba6d991867be4ee5cafad1a72264c67e6f50481baf09d"
+}

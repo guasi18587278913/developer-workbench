@@ -1,0 +1,43 @@
+{
+  "id": "d18a6adb-bd1a-44d2-b09d-2988c1bf43ec",
+  "title": "Supplement Shop",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Health",
+    "item_id": "d18a6adb-bd1a-44d2-b09d-2988c1bf43ec",
+    "page_at_capture": 1,
+    "position_at_capture": 9,
+    "preview_media_key": "media/motionsites/apps/supplement-shop/poster/first-frame-v1/ae23a6a9e6ed83bce44cb5e166c07770339ef112bea1717b12234dacb6418098"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:28.383874+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "43ba8052ab6b56c6a06590814b3c353d80ed27f7976863eda376344d81950c21",
+  "displayed_prompt_chars": 3964,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "ae23a6a9e6ed83bce44cb5e166c07770339ef112bea1717b12234dacb6418098",
+    "original_bytes": 23552,
+    "original_dimensions": [
+      1280,
+      940
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      705
+    ],
+    "bytes": 16824
+  },
+  "preview_sha256": "493e886daf2fe9e75c36875198e8897a8cb3b6b3618dee4ca70d478a9f90754a"
+}

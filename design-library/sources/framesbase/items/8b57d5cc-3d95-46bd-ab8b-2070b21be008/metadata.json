@@ -1,0 +1,43 @@
+{
+  "id": "8b57d5cc-3d95-46bd-ab8b-2070b21be008",
+  "title": "Global Talent",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "SaaS",
+    "item_id": "8b57d5cc-3d95-46bd-ab8b-2070b21be008",
+    "page_at_capture": 1,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/global-talent/poster/media-pipeline-v1/ff0da94262a00fda532edb63f87fcdbfd04c9839e988f1af09a22816ea39d7ad"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:19.076726+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "887bbc52688111737c9410e97fbe939f3d829b9ca5332f6b9e893401a0f3120e",
+  "displayed_prompt_chars": 66914,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "3fd2451e71abc9403613abf8d76ff485f74c3d27dfd29b5a8489e8aea55cd5a1",
+    "original_bytes": 70336,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 41690
+  },
+  "preview_sha256": "5a885a9bed8a00eee2cc72100c6e3651d3113005c7c19933fe36cafc57084831"
+}

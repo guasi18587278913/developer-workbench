@@ -1,0 +1,43 @@
+{
+  "id": "bg-dad395440e1f21b1fefe",
+  "title": "Background dad39544",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "backgrounds",
+    "category": null,
+    "item_id": null,
+    "page_at_capture": 5,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/backgrounds/f1ae063b-7344-414d-9970-c98142bd9683/poster/first-frame-v1/4bd08f68c34d313e9aa7fc7605f3685b6cfb07138713b4c847d99273d98cf6ac"
+  },
+  "delivery_type": "background-link",
+  "original_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260327_053348_d1b3e997-e822-44eb-9056-718270060d72.mp4",
+  "captured_at": "2026-09-05T05:50:58.344516+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp"
+  },
+  "content_sha256": "dad395440e1f21b1fefe559da31ad5cab8467fbf7cb43694df47e8721538b309",
+  "displayed_prompt_chars": null,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "4bd08f68c34d313e9aa7fc7605f3685b6cfb07138713b4c847d99273d98cf6ac",
+    "original_bytes": 40530,
+    "original_dimensions": [
+      720,
+      720
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      720,
+      720
+    ],
+    "bytes": 39292
+  },
+  "preview_sha256": "101d73169d076b45e768308e60c4c3c3298a223317da3d908b8afd7bd42db472"
+}

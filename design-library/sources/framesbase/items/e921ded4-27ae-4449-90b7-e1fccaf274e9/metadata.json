@@ -1,0 +1,43 @@
+{
+  "id": "e921ded4-27ae-4449-90b7-e1fccaf274e9",
+  "title": "CARGOX Mobile",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "apps",
+    "category": "Transportation",
+    "item_id": "e921ded4-27ae-4449-90b7-e1fccaf274e9",
+    "page_at_capture": 1,
+    "position_at_capture": 4,
+    "preview_media_key": "media/motionsites/apps/cargox-mobile/poster/first-frame-v1/757d41334cc0810727564da943e5c1f753ac2b3dc6ac908f4172a73ad4141d3f"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:45:20.126576+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "9b83d70617f079a65e332edbd3c9f90f5d27ed937c807d5271e5ecd59429971e",
+  "displayed_prompt_chars": 10210,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "757d41334cc0810727564da943e5c1f753ac2b3dc6ac908f4172a73ad4141d3f",
+    "original_bytes": 47488,
+    "original_dimensions": [
+      1280,
+      964
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      723
+    ],
+    "bytes": 33182
+  },
+  "preview_sha256": "09b1ac1bc89bff8a5e742fb33edbb2898255ebe28b00e0658b89adbfe9b1a1d8"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "3c6b1c10-2ed3-4f70-8696-17dc413136f4",
+  "title": "Mindora",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Wellness",
+    "item_id": "3c6b1c10-2ed3-4f70-8696-17dc413136f4",
+    "page_at_capture": 1,
+    "position_at_capture": 6,
+    "preview_media_key": "media/motionsites/sites/mindora/poster/media-pipeline-v1/026dec9f3638c88354d033d19a559b5276920f9b2ac689ddc51f66bc1f86d616"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:21.448792+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "5d616e5a2a00e4b90c62372388cb5cf5a8baa99e4b671b93cb31ef9db71601b4",
+  "displayed_prompt_chars": 23713,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "f0788dcfb5abf76a07d2e93a3291030a58f39c35f026ec81fe0b38384ce5dac5",
+    "original_bytes": 69638,
+    "original_dimensions": [
+      1920,
+      1434
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 25472
+  },
+  "preview_sha256": "a00f6a3f9a43c1537b5279a78fce4fcad62fe3447a836ec1ce9fc655d2a57cd7"
+}

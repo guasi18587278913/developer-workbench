@@ -1,0 +1,31 @@
+{
+  "repository_url": "https://github.com/vikod3/flowergardenthreejs",
+  "commit": "17f82c415e96f39d3454d39dcdd1002370cc3af4",
+  "status": "complete",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 66,
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12535,
+      "sha256": "7ac666363580e686ae75d7f4ea9c564d052361af3d874ad89ed2cb14582cfd80"
+    },
+    {
+      "path": "main.js",
+      "bytes": 38862,
+      "sha256": "569835e50d5b681c7254e1b1cda036bd0c244d3ed5dc0a02e7a7fe8294a474d8"
+    }
+  ],
+  "omitted": [],
+  "execution": "not-executed",
+  "license_files": [],
+  "excluded_non_source": [
+    {
+      "path": ".DS_Store",
+      "reason": "operating-system-metadata"
+    }
+  ]
+}

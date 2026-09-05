@@ -1,0 +1,43 @@
+{
+  "id": "88473704-8b70-469b-b6c2-eeb1d38aeee9",
+  "title": "Palomar Labs",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "AI",
+    "item_id": "88473704-8b70-469b-b6c2-eeb1d38aeee9",
+    "page_at_capture": 2,
+    "position_at_capture": 3,
+    "preview_media_key": "media/motionsites/sites/palomar-labs/poster/media-pipeline-v1/919f5968141c5c267084de450d3cf96b4cb83a629f9377f4e38fd26b0175dbbc"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:47.424968+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "bff567697b6765adc79d9cf197b6dd4cb7ebb6457eefdf3fc3bbb3e4103d7851",
+  "displayed_prompt_chars": 7574,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "59b73b5869d4aaf6599f43097411cf51a71b8e4c04ec9f9cd499764dfbf3f4fc",
+    "original_bytes": 324068,
+    "original_dimensions": [
+      1920,
+      1433
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 74448
+  },
+  "preview_sha256": "b330d2f71cfe9258684c58a8d0f13779f0f96d374106de362a65ce2a5e63a7bc"
+}

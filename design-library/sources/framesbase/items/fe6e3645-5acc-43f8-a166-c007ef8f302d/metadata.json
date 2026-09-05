@@ -1,0 +1,43 @@
+{
+  "id": "fe6e3645-5acc-43f8-a166-c007ef8f302d",
+  "title": "Botanical Shadow About",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "About",
+    "item_id": "fe6e3645-5acc-43f8-a166-c007ef8f302d",
+    "page_at_capture": 2,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sections/botanical-shadow-about/preview/media-pipeline-v1/1e14514c9341793082bbf69b05cd88293e031c6bd43a7675598a5777073d6138"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:19.599012+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "190c7e6300ec2127648f5276226af0f31081414c78cb247facf6f6f29d5e05e6",
+  "displayed_prompt_chars": 3499,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "69b07ea0d0faa7e9c1c8002ebd5e9e235f0a4278114e49ea0e6e4da7ea3d5266",
+    "original_bytes": 395434,
+    "original_dimensions": [
+      640,
+      478
+    ],
+    "original_frames": 68,
+    "dimensions": [
+      640,
+      478
+    ],
+    "bytes": 11216
+  },
+  "preview_sha256": "62f613b6a8e758d99434fc728f43371775ad072095d9ad6b25d0927bc10b68f9"
+}

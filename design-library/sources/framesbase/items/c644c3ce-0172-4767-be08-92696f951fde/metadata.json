@@ -1,0 +1,43 @@
+{
+  "id": "c644c3ce-0172-4767-be08-92696f951fde",
+  "title": "Luxury Ecommerce Design",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "c644c3ce-0172-4767-be08-92696f951fde",
+    "page_at_capture": 7,
+    "position_at_capture": 18,
+    "preview_media_key": "media/motionsites/sites/luxury-editorial-ecommerce-design/preview/media-pipeline-v1/6b011266812562c148a3e9dba6a425508290695177f6276ffb6e2a804e45e749"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:39:43.348673+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "b44061b7ef038af760aca5c56303c58ee24e3815c210fead293b221485404a28",
+  "displayed_prompt_chars": 10473,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "feedc47af731eb178d109aaa5116676371a946bb058901f6957fb60cb9920e73",
+    "original_bytes": 1698620,
+    "original_dimensions": [
+      366,
+      640
+    ],
+    "original_frames": 73,
+    "dimensions": [
+      366,
+      640
+    ],
+    "bytes": 27606
+  },
+  "preview_sha256": "ffa2b59e05502b77a999aa17650a50ef40e8ee3b6ad2a3a291aebee1b864f65a"
+}

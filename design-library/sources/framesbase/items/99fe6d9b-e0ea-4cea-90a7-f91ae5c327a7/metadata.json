@@ -1,0 +1,43 @@
+{
+  "id": "99fe6d9b-e0ea-4cea-90a7-f91ae5c327a7",
+  "title": "arc Summit",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Cyberpunk",
+    "item_id": "99fe6d9b-e0ea-4cea-90a7-f91ae5c327a7",
+    "page_at_capture": 1,
+    "position_at_capture": 23,
+    "preview_media_key": "media/motionsites/sites/arc-summit/poster/media-pipeline-v1/a4d275481618d2fe8e83be6705a901a0f620b0c7379fc4845e71e61feee8ab43"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:34:40.346497+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "74b948c32b25a5c187d2142f484afef910b7877700654dc091ff5c9967529db6",
+  "displayed_prompt_chars": 9851,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "e6acb0b777a0b42c5fb9735362a339b0a0a3469bb9e14d24ee271585a478cced",
+    "original_bytes": 201566,
+    "original_dimensions": [
+      1280,
+      956
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      717
+    ],
+    "bytes": 105344
+  },
+  "preview_sha256": "899e91f9bc68cecc32d73cea4ef24f2ba899d3cdf05b31d10f618b1d3e3ac278"
+}

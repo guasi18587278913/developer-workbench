@@ -1,0 +1,43 @@
+{
+  "id": "3de06de5-499c-4a15-8880-e01e51f637fd",
+  "title": "Beauty Categories",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Categories",
+    "item_id": "3de06de5-499c-4a15-8880-e01e51f637fd",
+    "page_at_capture": 4,
+    "position_at_capture": 5,
+    "preview_media_key": "media/motionsites/sections/beauty-categories/preview/media-pipeline-v1/8ea1ad325f5afb4449964b7b22c3c0a1a6f097112c5b9ddd531faa56ad79cb77"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:49:03.382116+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "ea0aa7392c3cc06c76091618d1a57735df022a3aa92c649fdaeeb88539eecd5d",
+  "displayed_prompt_chars": 4038,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "906b4a763ccdf90ab62e0ec6aa3024e5feca78bfe5eee60f6d1cd0046290a3d5",
+    "original_bytes": 1497670,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 19082
+  },
+  "preview_sha256": "782f895e6d6a47784d61f434e7b61b83601b4e846bfb36f06a3a3581481308d6"
+}

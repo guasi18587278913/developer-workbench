@@ -1,0 +1,43 @@
+{
+  "id": "2e0b73b0-7b5b-47ff-aa35-24423fc48f9f",
+  "title": "AI Interface",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "2e0b73b0-7b5b-47ff-aa35-24423fc48f9f",
+    "page_at_capture": 10,
+    "position_at_capture": 16,
+    "preview_media_key": "media/motionsites/sites/ai-interface/poster/first-frame-v1/1ddc531225113a71b4a6276d960ff8c4e993637db58df31c7a817fabb5dbd457"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:42:04.270181+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "616fe3857f9575acf1555df7a5fe6651146f03c39fb713765b22185e6124cce4",
+  "displayed_prompt_chars": 24277,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "1ddc531225113a71b4a6276d960ff8c4e993637db58df31c7a817fabb5dbd457",
+    "original_bytes": 60052,
+    "original_dimensions": [
+      1280,
+      942
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      707
+    ],
+    "bytes": 42008
+  },
+  "preview_sha256": "ed922f8a4150580b85ffc3ef6adba8672b8202c8401e1069f16f4ef5bde8eef2"
+}

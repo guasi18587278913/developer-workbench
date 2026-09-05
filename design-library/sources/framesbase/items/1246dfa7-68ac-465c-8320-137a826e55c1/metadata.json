@@ -1,0 +1,43 @@
+{
+  "id": "1246dfa7-68ac-465c-8320-137a826e55c1",
+  "title": "NexaCore Process",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sections",
+    "category": "Process",
+    "item_id": "1246dfa7-68ac-465c-8320-137a826e55c1",
+    "page_at_capture": 2,
+    "position_at_capture": 20,
+    "preview_media_key": "media/motionsites/sections/nexacore-process/preview/media-pipeline-v1/3f6f7116518dfebfd9a32e29f715c3ff0eaafdb866975b9e3e87e1dbf381a0ea"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:47:51.851848+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "67cdbaa5546e701b08e4a2adff75b82223d99b53719097a75ec38bf4292ef9aa",
+  "displayed_prompt_chars": 10615,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "52a8f952be2167fabd654f0370e083ea79f6161ce4a9ec2478146106f879577c",
+    "original_bytes": 526590,
+    "original_dimensions": [
+      640,
+      476
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      476
+    ],
+    "bytes": 20748
+  },
+  "preview_sha256": "806215a1ea35d6836356a84eaf5dcfada09ee8b127d4060eb157824d0f0d0198"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bg-04d84402197fababd1d5",
+  "title": "Background 04d84402",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "backgrounds",
+    "category": null,
+    "item_id": null,
+    "page_at_capture": 9,
+    "position_at_capture": 19,
+    "preview_media_key": "media/motionsites/backgrounds/8716d47f-f2ce-4669-a870-06cb1a17d061/poster/first-frame-v1/cb4a0d72c713c251e97101d6c1948ba312e7851776433073c062e218086c973c"
+  },
+  "delivery_type": "background-link",
+  "original_url": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260730_214302_820066a8-f3de-43f3-ab1d-96bd8b2716e6.mp4",
+  "captured_at": "2026-09-05T05:52:50.297234+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": null,
+    "reference": "reference.md",
+    "preview": "preview.webp"
+  },
+  "content_sha256": "04d84402197fababd1d58e5ea4c6945a4ffc38d5f9d0d2bf9e877b2cf5a2219a",
+  "displayed_prompt_chars": null,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "cb4a0d72c713c251e97101d6c1948ba312e7851776433073c062e218086c973c",
+    "original_bytes": 59606,
+    "original_dimensions": [
+      1280,
+      720
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      540
+    ],
+    "bytes": 30518
+  },
+  "preview_sha256": "ab3dbb2ff99200369e180f72a9258452f9bef0d7081860e0617cfff263fd6a94"
+}

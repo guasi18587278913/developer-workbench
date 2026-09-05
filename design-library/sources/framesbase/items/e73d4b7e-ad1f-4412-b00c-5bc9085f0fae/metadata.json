@@ -1,0 +1,43 @@
+{
+  "id": "e73d4b7e-ad1f-4412-b00c-5bc9085f0fae",
+  "title": "Real-Time Alerts",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Sign in",
+    "item_id": "e73d4b7e-ad1f-4412-b00c-5bc9085f0fae",
+    "page_at_capture": 12,
+    "position_at_capture": 22,
+    "preview_media_key": "media/motionsites/sites/real-time-alerts/poster/media-pipeline-v1/cf96264534b48abb999c9df6ee972aeb197fdbc63b8e90598be242e5f691ec0a"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:43:45.521367+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "0ad50c60fb0a9f95236fbe1fe10bdcdab03986bed23f93aa27db0880fd9b7950",
+  "displayed_prompt_chars": 21771,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "d74b4e09f3895e2820b6b2322905290495098842def40218cbab19ba24ff10f7",
+    "original_bytes": 76474,
+    "original_dimensions": [
+      1280,
+      794
+    ],
+    "original_frames": 1,
+    "dimensions": [
+      960,
+      596
+    ],
+    "bytes": 46238
+  },
+  "preview_sha256": "389e848892814e56cf4558b1d539e59feda1416cd6a8bf9deb439faccd886952"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "50a1f0a2-ad46-40b2-9f63-1dee3f63d3d1",
+  "title": "Luxury Botanical",
+  "source": {
+    "provider": "framesbase",
+    "url": "https://app.framesbase.app/",
+    "section": "sites",
+    "category": "Landing Page",
+    "item_id": "50a1f0a2-ad46-40b2-9f63-1dee3f63d3d1",
+    "page_at_capture": 8,
+    "position_at_capture": 2,
+    "preview_media_key": "media/motionsites/sites/luxury-botanical/preview/media-pipeline-v1/2ebd8be4ac369d2f2ecdee7445ee3c52e3925d3e2d97da44e80deac9933f8e0b"
+  },
+  "delivery_type": "prompt",
+  "original_url": null,
+  "captured_at": "2026-09-05T05:40:00.967189+00:00",
+  "capture_status": "complete",
+  "preview_status": "downloaded",
+  "implementation_status": "unverified",
+  "files": {
+    "prompt": "prompt.md",
+    "reference": null,
+    "preview": "preview.webp"
+  },
+  "content_sha256": "854e34647ee0b791972b5353d8418b75d47bc264327a435a5b9755b4e38b2522",
+  "displayed_prompt_chars": 35871,
+  "preview_processing": {
+    "method": "static-webp-max960-q82",
+    "original_sha256": "73b4b1cc59551f268e765a588bad9c76c505e10f99b1dcf88fb2de0d9c73235d",
+    "original_bytes": 1108298,
+    "original_dimensions": [
+      640,
+      470
+    ],
+    "original_frames": 75,
+    "dimensions": [
+      640,
+      470
+    ],
+    "bytes": 23406
+  },
+  "preview_sha256": "96178bce014821409ba9871bd811e9845f862c871150a3f262b012f2c4084be0"
+}

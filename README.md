@@ -46,13 +46,12 @@
 
 ### AI 开发 Skill 与模板
 
-- [项目规则与 Skill](skills/project-harness/SKILL.md)：整理任务范围、上下文入口、工具选择和验证约定。
 - [规格与验收模板](skills/spec-to-acceptance/SKILL.md)：把需求串成规格、计划、任务与验收，适配已有 Spec Kit。
 - [测试样例与评测材料](skills/behavior-and-evals/SKILL.md)：检查代码行为和 AI 输出，保留有效失败与真实验证证据。
 - [知识与能力接入方式](skills/knowledge-capability-adapter/SKILL.md)：复用已有检索与业务服务，明确数据和执行边界。
 - [开发、发布与故障记录](skills/delivery-handoff/SKILL.md)：生成可接续的交接单和有证据的故障复盘。
 
-每个目录包含 `SKILL.md` 和 `assets/` 模板。将整个目录提供给支持 Agent Skills 的工具，或让 AI 读取入口文件并按当前任务使用；保留目录结构以便读取模板。它们是从实践提炼的新整理版本，目标项目的适配效果仍需按实际任务验证。
+每个目录包含 `SKILL.md` 和 `assets/` 模板。将整个目录提供给支持 Agent Skills 的工具，或让 AI 读取入口文件并按当前任务使用；保留目录结构以便读取模板。这些文件目前主要是通用流程说明和模板，尚未附上具体项目案例与验证结果。
 
 按“名称、作用、链接”查看或分享：[AI 开发可复用资源清单](docs/ai-development-resources.md)。
 

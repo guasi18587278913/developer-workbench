@@ -1,5 +1,7 @@
 # Framesbase 个人设计素材库方案
 
+> 历史建设记录。2026-10-13 起，后续收录以 [README 当前约定](../../README.md)为准；本页原有收录与扩展说明不构成自动新增内容的授权。
+
 状态：方案已确认并实施。详细完成结果与校验见 design-library/sources/framesbase/manifest.json。
 
 ## 要解决的问题

@@ -53,6 +53,13 @@
 
 [使用说明](tools/framesbase/README.md)：已有的素材采集、预览与源码处理、索引检索和校验脚本。
 
+### 微信本地消息读取方案
+
+- **内容**：[收录说明](tools/wechat-local-messages/README.md) · [完整原文](tools/wechat-local-messages/original.txt)。
+- **用途**：参考在自己的 Mac 上读取微信本地数据、解码查询，并封装为 MCP 工具接入 Hermes 的方案。
+- **收录依据**：用户于 2026-10-13 明确要求完整保存，并提供正文。
+- **状态**：按用户粘贴内容原样保存，包含 MCP、Hermes 续篇；本次仅收录，未执行或独立验证方案。
+
 ### 2026-09-30｜X 工具线索（名称待补充）
 
 - **原帖**：https://x.com/fhwofjow51260/status/2104904784637739452

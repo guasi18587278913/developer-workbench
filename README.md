@@ -12,7 +12,7 @@
 | --- | --- |
 | 产品方案 | [陌生架构师审查提示词](scaffold/product-planning/solution-stress-test.md) |
 | UI 前端 | [设计素材库](scaffold/design-library/README.md)、[个人网站与作品集参考](scaffold/README.md#ui-前端)、[动效设计提示词](scaffold/README.md#apple-风格动效设计提示词) |
-| 开发工具 | [素材管理脚本](scaffold/tools/framesbase/README.md)、[工具收藏](scaffold/README.md#开发工具) |
+| 开发工具 | [素材管理脚本](scaffold/tools/framesbase/README.md)、[微信本地消息读取方案](scaffold/tools/wechat-local-messages/README.md)、[工具收藏](scaffold/README.md#开发工具) |
 
 ## 2. 瓜斯的产品开发实践
 

@@ -1,0 +1,242 @@
+一次真实跑通的完整复盘，供 AI 学习参考。
+目标：在自己的 Mac 上，把微信加密的本地数据库解成可随意查询的明文 SQLite，进而能用代码/AI 访问自己的聊天、朋友圈、收藏、联系人。
+
+---
+〇、先明确边界（重要）
+- 仅限自己的设备 + 自己登录的微信 + 自己的数据。本质是"个人数据自主访问与备份"，类似把自己的聊天记录导出来。
+- 全程本地操作、只读、不外传。不涉及他人数据。
+- 同类成熟开源工具：chatlog、PyWxDump、WeFlow、Thearas/wechat-db-decrypt-macos。本文方法主要参考最后一个。
+
+---
+一、整体思路：为什么走"直接解密"
+微信 4.x 把本地数据用 SQLCipher（加密版 SQLite）锁在本地，每个数据库一把独立密钥。
+一开始想用现成 GUI 工具（如 WeFlow），但在较新的 macOS 上走不通，根因两条：
+1. 反调试：新版 macOS 的 Mach port guard 会杀掉 ad-hoc 签名 + 调试器权限的辅助进程。
+2. 密钥架构：GUI 工具期待一把"账号级主密钥"，但从内存里只能直接拿到已派生后的每库密钥，反推不出主密钥。
+结论 → 放弃 GUI 工具，自己动手三件事：
+① 从微信进程内存里提取密钥
+② 自己编译一个 sqlcipher 命令行工具
+③ 用密钥把加密库解密成明文副本，然后随便查
+
+---
+二、环境前提（macOS 安全配置）
+提取密钥需要用 lldb 附加到正在运行的微信进程、读它的内存，所以要先放开两道系统防护：
+# 1) 关闭 SIP（系统完整性保护）
+#    必须在「恢复模式」里做：关机 → 长按电源 → 选项 → 实用工具 → 终端
+csrutil disable
+#    验证（正常系统里跑）：应显示 disabled
+csrutil status
+
+# 2) AMFI bypass（允许调试器附加）
+sudo nvram boot-args="amfi_get_out_of_my_way=0x1"
+#    设完要重启一次让内核读取
+#    验证：
+nvram boot-args   # 应包含 amfi_get_out_of_my_way=0x1
+⚠️ 这两项会降低系统安全等级，仅在需要时开启。介意的话，做完解密可以再恢复。
+
+---
+三、核心三步
+步骤 1：提取密钥（lldb 内存扫描）
+微信运行时，密钥在进程内存里。用 lldb 附加上去扫描内存特征即可拿到。
+# 前提：微信已登录、正在运行
+pgrep -x WeChat   # 确认在跑
+
+# 用开源工具的内存扫描脚本（来自 Thearas/wechat-db-decrypt-macos）
+PYTHONPATH=$(lldb -P) python3 find_key_memscan.py
+# → 输出 wechat_keys.json，含 17 个「数据库相对路径 → 密钥」的映射
+关键认知：
+- 密钥 = SQLCipher 的 PRAGMA key，每个 db 一把，共 17 把。
+- 微信每次重新登录会换密钥（PBKDF2 + 新 salt 派生），所以登录态变化后要重新提一次。
+- 密钥绑文件、不绑时间：只要不退出账号，同一把密钥可以一直用（实测 ≥ 数天稳定有效），微信收新消息不影响。
+步骤 2：自编译 sqlcipher（用 macOS 自带 CommonCrypto）
+不依赖 brew / OpenSSL，直接用 macOS 系统自带的 CommonCrypto 后端编译，干净无依赖。
+mkdir -p ~/local/src ~/local/sqlcipher && cd ~/local/src
+curl -L -o sqlcipher.tar.gz \
+  https://github.com/sqlcipher/sqlcipher/archive/refs/tags/v4.6.1.tar.gz
+tar xzf sqlcipher.tar.gz && cd sqlcipher-4.6.1
+
+./configure \
+  --prefix=$HOME/local/sqlcipher \
+  --with-crypto-lib=commoncrypto \
+  --enable-tempstore=yes \
+  CFLAGS="-DSQLITE_HAS_CODEC -DSQLITE_TEMP_STORE=2 -DSQLITE_THREADSAFE=1 \
+          -DSQLITE_ENABLE_FTS5 -DSQLITE_ENABLE_RTREE -DSQLITE_ENABLE_JSON1 \
+          -DSQLITE_ENABLE_LOAD_EXTENSION" \
+  LDFLAGS="-framework Security -framework Foundation -framework CoreFoundation"
+
+make -j8 install
+# → ~/local/sqlcipher/bin/sqlcipher 就绪
+关键坑：LDFLAGS 里 -framework CoreFoundation 必须给（否则链接时找不到 CFBundle 相关符号），-framework Foundation 也加上避免 NSString 类问题。
+步骤 3：解密成明文副本（⚠️ 两个大坑）
+基本解密逻辑：用密钥打开加密库，sqlcipher_export 导出成一个无密码的明文 SQLite。
+PRAGMA key = "x'<这一库的64位hex密钥>'";
+PRAGMA cipher_page_size = 4096;
+PRAGMA wal_checkpoint(TRUNCATE);       -- 坑①见下
+ATTACH DATABASE '明文输出.db' AS plaintext KEY '';
+SELECT sqlcipher_export('plaintext');
+DETACH DATABASE plaintext;
+坑 ① 必须先 WAL checkpoint
+微信最新的写入先落在 .db-wal 文件里、还没合并进主库。如果不先 wal_checkpoint，导出的明文会丢掉最近约 30% 的数据。
+坑 ②（血泪教训）checkpoint 必须在「副本」上做，绝不能碰微信正在用的 live 文件
+wal_checkpoint(TRUNCATE) 会清空 wal 文件。如果直接对微信正在使用的 live 数据库做这个操作，微信会检测到不一致、弹出「数据库需要修复」，若误点"今日不再提示"，会导致微信好几天收不到新消息。
+正确做法 → 先复制再操作：
+1. 把 源.db + 源.db-wal + 源.db-shm 三件套 复制到一个临时目录
+2. 对「副本」执行 wal_checkpoint + sqlcipher_export
+3. 微信的真实文件全程只读、绝不写入
+一句话铁律：永远不要对微信正在使用的数据库文件做任何写操作（包括 checkpoint / vacuum / 任何会写盘的 pragma）。一律先 copy 到临时目录再处理。
+解密完成后，得到 17 个普通的明文 .db，用任何 SQLite 工具（sqlite3 / Python sqlite3 / DB 浏览器）都能直接查。
+
+---
+四、解密之后：把"乱码"翻译成人能读的
+解密只是拿到了"结构"，里面很多字段还是编码过的。要真正用起来，还得处理这些编码层：
+现象
+真相
+处理方法
+长消息是乱码
+微信对 >256 字节的消息用 zstd 压缩
+检测магия字节 28 B5 2F FD，先解压再 UTF-8 解码
+找不到某人的聊天表
+每个会话一张表，表名是 Msg_<md5(wxid)>
+用 md5(对方wxid) 算表名
+群消息不知道谁发的
+real_sender_id 是个数字 ID，不是 wxid
+用同库的 Name2Id 表：ROWID == real_sender_id，反查出 wxid
+分享/文章/转账显示成 XML
+这类消息体是 <msg><appmsg> XML
+检测内容前缀含 <appmsg 就走 XML 解析（不要只靠 type=49 判断，AI 机器人回复等也用这个包封但 type 不同）
+朋友圈内容是一大段 XML
+SnsTimeLine.content 是 <TimelineObject> XML
+解析出作者/时间/正文/媒体/位置/点赞/评论
+联系人地区拿不到
+在 contact.extra_buffer 的 protobuf BLOB 里
+自己写个极简 varint 解析：field 5/6/7 = 国家/省/市
+心得：微信数据 = 加密层 + 压缩层 + 序列化层 三层套娃。解密只拆了第一层，后面两层（zstd / XML / protobuf）才是把数据变得"可用"的关键。
+
+---
+五、踩坑速查表
+问题
+解决
+GUI 工具自动获取密钥失败
+新版 macOS 反调试拦截，放弃 GUI，走 lldb 内存扫描
+自编译 sqlcipher 链接报错 CFBundleGetBundleWithIdentifier
+LDFLAGS 加 -framework Foundation -framework CoreFoundation
+解出来的数据少了最近一截
+导出前漏了 PRAGMA wal_checkpoint(TRUNCATE)
+微信弹「数据库需要修复」、收不到消息
+checkpoint 跑到了 live 库上 → 改为「先复制副本再操作」；live 文件永远只读
+误点了「今日不再提示」修复弹窗后修不了
+"今日"是按天的，第二天重开微信会再弹，点"开始修复"即可
+长消息 / 群发言人 / 分享卡片显示异常
+分别是 zstd 未解压 / 未走 Name2Id 反查 / 未走 appmsg XML 解析
+
+---
+六、给 AI 学习的几条心法
+1. 只读，永不写：对方（微信）的真实文件一律只读。任何写操作都先 copy 到临时目录。这是这套方案最重要的安全底线。
+2. 每步先验证再前进：提密钥→验证能解开一个库；编译→验证 sqlcipher --version；解密→验证表能查。不要一口气跑到底再debug。
+3. 实测 > 理论：很多"以为能拿到很多"的数据（如朋友圈）实际本地缓存很稀疏。按真实数字设计，别按理论上限。
+4. 死路要果断认：GUI 工具那条路实测走不通就别反复硬试，直接换"直接解密"这条更稳的路。
+5. 三层套娃要拆全：加密→压缩(zstd)→序列化(XML/protobuf)。只拆加密层是不够的。
+
+---
+参考资源
+- Thearas/wechat-db-decrypt-macos — 密钥提取 + 解密工具（本文方法主要来源）
+- SQLCipher — github.com/sqlcipher/sqlcipher（v4.6.1，CommonCrypto 后端自编译）
+- 同类（多数已停更或转私）：chatlog、PyWxDump、WeFlow
+
+---
+本文为个人数据访问的技术复盘，仅适用于自己设备上自己的数据。请遵守当地法律与平台条款。
+
+---
+续篇 — 解密只是拿到了数据。下面讲怎么把这堆数据变成 AI 随手可用的能力：先封装成 MCP 工具，再用 Hermes 接上，让微信机器人（clawbot）一句话调数据。
+七、把数据做成 MCP 工具（给数据装一个"统一插座"）
+为什么是 MCP
+解密之后你可以写一堆脚本去查，但每换一个 AI 客户端就要重写一遍。MCP（Model Context Protocol）是一个让 AI 调用外部能力的标准协议——把"查微信数据"封装成 MCP 工具后，任何支持 MCP 的 AI（Claude、Cursor、Hermes…）都能直接调，写一次到处用。
+类比：MCP 就是给微信数据装的一个统一插座，各种 AI 是不同电器，插上就能用。
+分层架构（职责清晰）
+MCP server（对外的一二十个工具）       ← fastmcp 包装，AI 直接调
+   ↑
+查询层（get_chat_history / search…）   ← 业务查询
+   ↑
+解码层（zstd / appmsg / Name2Id…）     ← 把"乱码"翻译成结构化数据
+   ↑
+数据访问层（打开 17 个明文 db）         ← sqlite3 连接 + 缓存
+外面的 AI 完全不用懂解密、不用懂 zstd、不用懂 protobuf——脏活全封在里面，它只管"问"。
+用 fastmcp 包装（Python）
+核心就是把每个查询函数用 @mcp.tool() 装饰一下，返回 JSON：
+from fastmcp import FastMCP
+mcp = FastMCP("wechat")
+
+@mcp.tool()
+def get_chat_history(chat: str, limit: int = 50) -> str:
+    """获取某人/某群的聊天记录（自动解压、反查发言人）"""
+    rows = query_messages(chat, limit)   # 内部走解码层
+    return json.dumps(rows, ensure_ascii=False)
+
+@mcp.tool()
+def search_messages(keyword: str, days: int = 7) -> str:
+    """跨所有聊天搜关键词"""
+    ...
+
+if __name__ == "__main__":
+    mcp.run()   # stdio 协议
+实际可以做出一二十个工具，覆盖：联系人、聊天、群活跃度分析、朋友圈、收藏、跨群话题挖掘等。
+两个工程要点
+1. 增量同步 + 节流：每次查询前自动检查微信源库有没有更新，有才重新解密；加个 60 秒节流避免频繁解密。⚠️ 重解密一定走前面说的"先复制副本"安全模式。
+2. 密钥失效自诊断：做一个 health 工具，能检测"密钥还能不能解开库"，失效时提示去重新提密钥。
+
+---
+八、用 Hermes 接上，让微信机器人（clawbot）调数据
+角色
+- Hermes：一个开源的 AI agent 框架（Nous Research 出品），能接 MCP 工具，也能接各种聊天平台当"入口/出口"。
+- clawbot：Hermes 接微信的一个机器人身份（走腾讯 iLink Bot 协议），你在微信里能直接跟它对话。
+分工（关键认知）：
+角色
+职责
+比喻
+你的 wechat MCP
+生产者（供数据）
+厨房
+Hermes
+消费者（大模型理解+思考+回复）
+厨师
+微信那边怎么折腾，只改 MCP 内部；Hermes 完全不用动。
+接上 MCP（只改一处配置）
+Hermes 读 ~/.hermes/config.yaml，在 mcp_servers 段加一条，指向你的 MCP server：
+mcp_servers:
+  wechat:
+    command: "/path/to/python"
+    args: ["-m", "wechat_mcp.server"]
+    env:
+      PYTHONPATH: "/path/to/your/project"
+重启 Hermes，这些工具就自动以 mcp_wechat_* 的名字出现在所有对话里。Hermes 上的任何 AI 人格（销售助理、选题官…）都能共享同一个微信数据底座。
+一个完整闭环：把微信当 AI 的输入口
+最实用的玩法——用"文件传输助手"给 AI 喂料：
+你在微信转发文章 + 发一句"总结一下"  →  文件传输助手
+        ↓ Hermes 定时（cron）调 MCP 工具取这组消息
+        ↓ 大模型按"总结一下"处理文章
+        ↓ 回复 deliver 到 clawbot
+你在微信收到 AI 写好的总结
+实现关键：
+- MCP 端做一个 get_filehelper_batches 工具，把"文章 + 紧跟的要求"按时间聚合成一批返回，并用消息 id 做游标增量，不丢不重。
+- Hermes 端配一个 cron 任务：每隔几分钟取一次新批次 → 喂 agent → 回复发到 clawbot。
+- 注意点：Hermes 主动给微信 push 消息需要一个"会话令牌（context_token）"，只要你近一天内跟 clawbot 互动过它就有效；过期会自动降级重试。
+为什么这套架构稳
+- 解耦：微信侧怎么变（换密钥、改数据格式），只改 MCP 内部，Hermes 不用动。
+- 复用：同一个数据底座，被 Hermes 上几十个 AI 人格共享。
+- 可迁移：明天换个 MCP 客户端（Claude Desktop / Cursor），同一个 server 直接挂上就能用。
+
+---
+全流程总览
+微信加密库
+   ↓ ① lldb 提密钥
+   ↓ ② 自编译 sqlcipher
+   ↓ ③ 解密成明文（先复制副本！）
+明文 SQLite × 17
+   ↓ ④ 解码层翻译（zstd / XML / protobuf）
+结构化数据
+   ↓ ⑤ fastmcp 封装成工具
+MCP server（统一插座）
+   ↓ ⑥ Hermes 接上
+AI 能力（在微信里一句话调数据）
+核心心法一句话：先把数据这口井打通、做成谁都能取水的公共设施（MCP），再让 AI（Hermes）接上来用——而不是急着拿水去做某一个具体产品。
+以上为个人数据自主访问的完整链路，仅适用于自己设备上自己的数据。

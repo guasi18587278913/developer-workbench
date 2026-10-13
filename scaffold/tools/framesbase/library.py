@@ -157,7 +157,7 @@ def search(args):
     output = []
     for _,score,e in matches[:args.limit]:
         output.append({'id':e['id'],'title':e['title'],'summary_zh':e['summary_zh'],'delivery_type':e['delivery_type'],'regions':e['derived']['regions'],'framework_mentions':e['derived']['framework_mentions'],'implementation_status':e['implementation_status'],'source_archive':e.get('source_archive'),'files':e['files'],'score':score})
-    print(json.dumps({'matches':len(matches),'shown':len(output),'paths_relative_to':'design-library/','items':output},ensure_ascii=False,indent=2))
+    print(json.dumps({'matches':len(matches),'shown':len(output),'paths_relative_to':'scaffold/design-library/','items':output},ensure_ascii=False,indent=2))
 
 
 def validate():

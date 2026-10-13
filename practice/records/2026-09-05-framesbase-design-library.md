@@ -2,7 +2,7 @@
 
 > 历史建设记录。2026-10-13 起，后续收录以 [README 当前约定](../../README.md)为准；本页原有收录与扩展说明不构成自动新增内容的授权。
 
-状态：方案已确认并实施。详细完成结果与校验见 design-library/sources/framesbase/manifest.json。
+状态：方案已确认并实施。详细完成结果与校验见 scaffold/design-library/sources/framesbase/manifest.json。
 
 ## 要解决的问题
 
@@ -37,7 +37,7 @@
 ## 推荐存放结构
 
 ```text
-design-library/
+scaffold/design-library/
   README.md                       人和 AI 的使用入口
   catalog.json                    轻量目录，只放摘要与筛选字段
   sources/framesbase/README.md     来源、采集时间、范围与使用说明
@@ -81,7 +81,7 @@ design-library/
 
 按四类逐页枚举，再逐条读取正常会员界面开放的交付物；先确认是否存在官方导出功能，有则优先使用。否则走正常分页、详情和复制入口，顺序读取，遇限流暂停。
 
-涉及：来源清单与各条目原始文件。若需要采集脚本，另在 tools/framesbase/ 内限定实现范围，不修改其他工具。
+涉及：来源清单与各条目原始文件。若需要采集脚本，另在 scaffold/tools/framesbase/ 内限定实现范围，不修改其他工具。
 
 使用原站稳定编号去重；背景类若没有编号，则以规范化来源和内容校验值建立身份。记录断点，失败项单独保留，支持继续采集。
 
@@ -89,7 +89,7 @@ design-library/
 
 ### 第三步：补齐 AI 检索和使用约定
 
-涉及：catalog.json、design-library/README.md、必要的仓库首页链接及目录级 AGENTS.md。
+涉及：catalog.json、scaffold/design-library/README.md、必要的仓库首页链接及目录级 AGENTS.md。
 
 AI 使用流程固定为：
 
@@ -117,7 +117,7 @@ AI 使用流程固定为：
 
 ## 未来调用示例
 
-> 读取我的 developer-workbench 中的 design-library。我要改当前页面的价格区。先检查本项目的技术方案和视觉规范，再找 3 个适合的 Sections 候选，查看预览并解释选择。读取选中条目的原始提示词或源码，只实现价格区；需要适配的地方明确说明，沿用当前页面字体与颜色。
+> 读取我的 developer-workbench 中的 scaffold/design-library。我要改当前页面的价格区。先检查本项目的技术方案和视觉规范，再找 3 个适合的 Sections 候选，查看预览并解释选择。读取选中条目的原始提示词或源码，只实现价格区；需要适配的地方明确说明，沿用当前页面字体与颜色。
 
 AI 运行环境需要有读取这个私有仓库的权限，也可以使用已经克隆到本地的仓库。第一次调用应检查目录入口，不要求 AI 预先记住全部风格。
 

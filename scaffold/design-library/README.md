@@ -18,7 +18,7 @@
 
 ## 用一句话调用
 
-> 读取 developer-workbench 的 design-library。先检查当前项目的技术方案与视觉规范，再找 3 个适合价格区的候选。查看预览并解释选择，读取对应提示词或源码，只替换价格区。沿用当前页面字体、颜色与业务交互，说明需要适配的部分。
+> 读取 developer-workbench 的 scaffold/design-library。先检查当前项目的技术方案与视觉规范，再找 3 个适合价格区的候选。查看预览并解释选择，读取对应提示词或源码，只替换价格区。沿用当前页面字体、颜色与业务交互，说明需要适配的部分。
 
 ## 精确筛选
 
@@ -26,19 +26,19 @@
 
 ```bash
 # 网站的浅色首屏
-python3 tools/framesbase/library.py search --section sites --region hero --theme light --query "SaaS" --limit 3
+python3 scaffold/tools/framesbase/library.py search --section sites --region hero --theme light --query "SaaS" --limit 3
 
 # 页面模块里的价格区
-python3 tools/framesbase/library.py search --section sections --query "定价 价格区" --limit 3
+python3 scaffold/tools/framesbase/library.py search --section sections --query "定价 价格区" --limit 3
 
 # 应用界面里的卡片，作为小程序的视觉参考
-python3 tools/framesbase/library.py search --section apps --query "卡片" --limit 3
+python3 scaffold/tools/framesbase/library.py search --section apps --query "卡片" --limit 3
 
 # 深色背景
-python3 tools/framesbase/library.py search --section backgrounds --theme dark --limit 5
+python3 scaffold/tools/framesbase/library.py search --section backgrounds --theme dark --limit 5
 ```
 
-检索结果中的文件路径相对于 `design-library/`。先看预览，再读少量候选的正文。关键词以空格分隔，匹配更多词的候选排在前面；严格限定请使用 `--section`、`--region`、`--theme`。
+检索结果中的文件路径相对于 `scaffold/design-library/`。先看预览，再读少量候选的正文。关键词以空格分隔，匹配更多词的候选排在前面；严格限定请使用 `--section`、`--region`、`--theme`。
 
 ## 交付类型
 
@@ -51,7 +51,7 @@ python3 tools/framesbase/library.py search --section backgrounds --theme dark --
 先从检索结果获得条目编号，再把原始背景下载到仓库外。默认单文件上限 100 MiB，最多等待 180 秒，失败会返回非零状态。
 
 ```bash
-python3 tools/framesbase/assets.py download \
+python3 scaffold/tools/framesbase/assets.py download \
   --id bg-6b6549b72b328a120e4d \
   --output /tmp/framesbase-background.mp4
 ```

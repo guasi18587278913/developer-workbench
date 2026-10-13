@@ -16,15 +16,15 @@
 ```bash
 agent-browser --session framesbase-archive --headed open https://app.framesbase.app/
 # 用户在独立窗口登录后再执行
-python3 tools/framesbase/collect.py --sample
-python3 tools/framesbase/collect.py
+python3 scaffold/tools/framesbase/collect.py --sample
+python3 scaffold/tools/framesbase/collect.py
 ```
 
 支持 `--section sites|apps|sections|backgrounds` 限定栏目。默认逐页重新枚举，但会核对本地正文校验值与预览路径后跳过已完成条目；`--refresh` 强制重读已保存内容。
 
-原始内容或预览有遗漏时，先正常刷新会员页面，再用 `python3 tools/framesbase/collect.py --retry-failures` 补采清单中的位置。它保留原失败记录，并更新当前整批清单；预览遗漏也会进入补采。
+原始内容或预览有遗漏时，先正常刷新会员页面，再用 `python3 scaffold/tools/framesbase/collect.py --retry-failures` 补采清单中的位置。它保留原失败记录，并更新当前整批清单；预览遗漏也会进入补采。
 
-如果背景链接重复，先保持采集失败状态，再运行 `python3 tools/framesbase/collect.py --audit-duplicates` 回到对应实体卡片逐一复制核对。只有不同位置确实给出同一交付链接、且能解释全部数量差额时，才保存 `duplicate-audit.json` 并接受去重结果。源站未提供预览和占位正文另作来源缺失记录，不伪造内容。
+如果背景链接重复，先保持采集失败状态，再运行 `python3 scaffold/tools/framesbase/collect.py --audit-duplicates` 回到对应实体卡片逐一复制核对。只有不同位置确实给出同一交付链接、且能解释全部数量差额时，才保存 `duplicate-audit.json` 并接受去重结果。源站未提供预览和占位正文另作来源缺失记录，不伪造内容。
 
 背景需先通过正常复制动作取得原始链接，才能确认身份。复制内容被当前页面会话中的临时变量接收，不读取系统剪贴板中的原有内容。运行期间不要在同一独立窗口手动切页；不要并发启动多个采集进程。
 
@@ -35,9 +35,9 @@ python3 tools/framesbase/collect.py
 ## 整理与验证
 
 ```bash
-python3 tools/framesbase/assets.py thumbnails
-python3 tools/framesbase/library.py build
-python3 tools/framesbase/library.py validate
+python3 scaffold/tools/framesbase/assets.py thumbnails
+python3 scaffold/tools/framesbase/library.py build
+python3 scaffold/tools/framesbase/library.py validate
 ```
 
 预览处理会先将原始文件保存至 `~/.cache/framesbase-original-previews/`，再写入静态缩略图。这个缓存不提交 Git，也不是登录状态缓存。
@@ -48,10 +48,10 @@ python3 tools/framesbase/library.py validate
 
 ```bash
 # 将一个源码仓库快照保存到对应条目中；不安装或运行它
-python3 tools/framesbase/assets.py source --id <条目编号>
+python3 scaffold/tools/framesbase/assets.py source --id <条目编号>
 
 # 将一个原始背景下载到仓库外，默认最大 100 MiB
-python3 tools/framesbase/assets.py download --id <背景编号> --output /tmp/background.mp4
+python3 scaffold/tools/framesbase/assets.py download --id <背景编号> --output /tmp/background.mp4
 ```
 
 源码归档排除系统生成的 .DS_Store、Thumbs.db 等非源码文件，并在收据中记录；不递归克隆子模块，跳过符号链接、真实环境配置文件和超过 90 MiB 的单文件；任何遗漏都记入清单，状态为 `partial`。不会覆盖已有源码目录。

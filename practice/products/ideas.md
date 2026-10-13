@@ -83,16 +83,7 @@
 
 ## 产品网址
 
-2026-09-22 收录用户提供的产品名称与网址，按原始对应关系保存；本次仅收录，未进行网站功能验收。
-
-| 产品名称 | 网址 |
-| --- | --- |
-| 调研助手 | [https://diaoyan.zmtgzt.com](https://diaoyan.zmtgzt.com) |
-| 选题种子 | [https://topic.zmtgzt.com/](https://topic.zmtgzt.com/) |
-| 找对标 | [https://duibiao.zmtgzt.com](https://duibiao.zmtgzt.com) |
-| 标题助手 | [https://biaoti.zmtgzt.com](https://biaoti.zmtgzt.com) |
-
-名称对应：选题种子对应原“选题种子库”，标题助手对应原“小红书标题生成器”。“调研助手”与“评论区调研”（原“30天信息抓取工具”）的网址对应关系尚未明确，暂按用户提供的名称保存网址，不另增产品计数。
+产品访问地址已集中整理到[产品链接](../links.md#产品网址)。
 
 ## 管理规则
 

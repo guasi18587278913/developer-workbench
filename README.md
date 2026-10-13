@@ -1,20 +1,30 @@
 # Developer Workbench
 
-我的产品想法与个人开发收藏。
+瓜斯的产品开发工作台。
 
 **只记录我明确要求保存的内容，不自行补充方法、工具或模板。**
 
-## 内容目录
+## 1. 瓜斯的产品开发脚手架
 
-| 内容 | 入口 |
+开发产品时可以查找和复用的东西。[进入脚手架](scaffold/README.md)
+
+| 分类 | 当前内容 |
 | --- | --- |
-| 小红书产品销售计划 | [销售清单](products/ideas.md) |
-| 产品访问网址 | [产品网址](products/ideas.md#产品网址) |
-| 其他产品想法与早期记录 | [产品归档](products/archive.md) |
-| 已删除的产品想法 | [垃圾箱](products/trash.md) |
-| 开发提示词 | [陌生架构师审查](prompts/solution-stress-test.md) |
-| 开发工具、提示词和网站收藏 | [个人开发资源收藏](docs/ai-development-resources.md) |
-| UI 设计参考 | [个人设计素材库](design-library/README.md) |
-| 设计素材的采集与检索脚本 | [Framesbase 工具](tools/framesbase/README.md) |
+| 产品方案 | [陌生架构师审查提示词](scaffold/product-planning/solution-stress-test.md) |
+| UI 前端 | [设计素材库](scaffold/design-library/README.md)、[个人网站与作品集参考](scaffold/README.md#ui-前端) |
+| 开发工具 | [素材管理脚本](scaffold/tools/framesbase/README.md)、[工具收藏](scaffold/README.md#开发工具) |
+| 其他提示词 | [指定收藏的提示词链接](scaffold/README.md#其他提示词) |
+
+## 2. 瓜斯的产品开发实践
+
+我想做、正在做，以及曾经做过的产品记录。[进入开发实践](practice/README.md)
+
+| 分类 | 当前内容 |
+| --- | --- |
+| 产品 idea | [销售计划](practice/products/ideas.md)、[其他想法与归档](practice/products/archive.md) |
+| 产品链接 | [产品网址与代码仓库](practice/links.md) |
+| 方案与调研 | [早期点子与对标研究](practice/products/ideas/README.md)、[数字人口播流程探索](practice/products/ideas/2026-09-24-avatar-video-workflow.md) |
+| 开发记录 | [工作台建设](practice/records/2026-08-28-developer-workbench-design.md)、[设计库建设](practice/records/2026-09-05-framesbase-design-library.md) |
+| 垃圾箱 | [已删除的产品想法](practice/products/trash.md) |
 
 AI 自媒体的账号定位、选题和制作方法保存在 [ai-coding-content-lab](https://github.com/guasi18587278913/ai-coding-content-lab)。

@@ -72,6 +72,22 @@
 - **提示词正文、用途与使用方式：**待读取原帖后补充。
 - **状态：**已保存原帖链接；本次原帖无法直接读取，未检索到可核对该帖子编号的正文。尚未保存完整提示词，也未实测效果。
 
+## 9. 个人网站与作品集视觉参考
+
+### 2026-10-13｜参考网站收藏
+
+**用途：**制作个人网站或作品集时，查找模板、案例与视觉设计灵感。
+
+| 网站 | 用户提供的说明 | 链接 |
+| --- | --- | --- |
+| Framer | 作品集模板 | [Framer 作品集模板](https://www.framer.com/marketplace/templates/category/portfolio/) |
+| Curated | 作品集灵感 | [Curated 作品集灵感](https://curated.design/inspiration/portfolio/) |
+| Landing Love | 作品集案例 | [Landing Love 作品集案例](https://www.landing.love/categories/portfolio/) |
+| Godly | 网页设计灵感 | [Godly 网页设计灵感](https://godly.website/) |
+
+**收录状态：**按用户提供的名称、链接与用途记录；具体模板和案例的实现效果尚未逐项验证。
+
+
 ---
 
 设计库的 701 份是混合参考资料，不是 701 份现成源码；具体交付类型与源码快照见设计库说明。五个 Skill 包含入口说明和配套模板，是从开发实践提炼的通用材料，不包含具体公司的生产配置或内部数据。

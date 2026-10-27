@@ -37,7 +37,7 @@
 
 ## 2026-10-22｜Personal Agent 个人助手（当前切入点：自媒体助手）
 
-项目文档：[开发资料入口](personal-agent/README.md) · [开发范围与方案](personal-agent/build-plan.md)。2026-10-27 归入本开发库；下方保留原始想法和当时状态，后续开发进展见文档入口的版本说明。
+独立项目：[Personal Agent 仓库](https://github.com/guasi18587278913/personal-agent) · [完整项目文档](https://github.com/guasi18587278913/personal-agent/tree/main/docs) · [需求汇总](https://github.com/guasi18587278913/personal-agent/blob/main/docs/product-requirements.md)。2026-10-27 按用户要求建立独立仓库；本开发工作台保留产品索引和下方原始想法，项目开发文档统一在独立仓库维护。
 
 ### 2026-10-26｜并入三个想法，列入自媒体第一批
 

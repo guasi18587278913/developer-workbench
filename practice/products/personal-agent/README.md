@@ -1,23 +1,11 @@
-# Personal Agent 个人助手
+# Personal Agent 独立项目入口
 
-长期陪伴用户学习、讨论和生活的个人助手。保留长期记忆、自主活动和主动交流，以自媒体创作为当前切入点；热点创作助手、选题收藏夹和收藏助理属于首批扩展方向，后续能力可以继续增加。
+Personal Agent 是独立项目，完整项目文档、配套源码与测试统一保存在独立的私有仓库。2026-10-27 按用户要求迁入独立仓库；本开发工作台保留产品索引和原始想法。
 
-2026-10-27 将项目开发方案归入本开发库，便于与原始产品想法一起查阅。
+- [独立项目仓库](https://github.com/guasi18587278913/personal-agent)
+- [完整项目文档目录](https://github.com/guasi18587278913/personal-agent/blob/main/docs/README.md)
+- [产品需求汇总](https://github.com/guasi18587278913/personal-agent/blob/main/docs/product-requirements.md)
+- [开发范围与方案](https://github.com/guasi18587278913/personal-agent/blob/main/docs/build-plan.md)
+- [本工作台中的原始产品记录](../archive.md)
 
-## 文档入口
-
-| 文档 | 内容 |
-| --- | --- |
-| [开发范围与方案](build-plan.md) | 已确认需求、首批实现顺序、待定事项、操作边界和完成标准 |
-| [原始产品记录](../archive.md) | 学习助手构想、自媒体切入点，以及热点创作、选题收藏夹和收藏助理的原始需求 |
-
-首批已确认的开发范围是：尽量按课程还原个人陪伴助手，再增加选题收藏夹，以及结合现有选题 Skill 持续发现好选题的能力。
-
-## 文档版本与项目位置
-
-- `build-plan.md` 保存自本机项目的 `docs/build-plan.md`，内容对应 2026-10-26 开始搭建时的方案；正文未改，仅清理文件末尾多余空行，本次归档没有新增需求。
-- 方案中的“聊天入口待选择”等表述属于当时阶段。后续 2026-10-26 的项目验收记录已记载 Discord 私聊接通并完成首轮真实收发；自动发现选题、定时调度和主动消息当时仍未开启。本次仅整理文档，没有重新验证运行状态。
-- 助手源码、个人数据和运行环境仍位于 `/Users/liyadong/projects/personal-agent`。最新实现说明与验收记录分别在该项目的 `README.md`、`docs/validation.md` 和 `docs/discord-validation.md`。
-- 本目录保存开发资料；源项目后续变更不会自动同步到这里。
-
-[返回产品归档](../archive.md) · [返回开发实践](../../README.md)
+原先放在此处的开发方案已收录到独立仓库，此目录保留为旧链接的跳转入口。

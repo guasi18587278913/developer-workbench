@@ -23,6 +23,7 @@
 
 | 产品或项目 | 仓库 |
 | --- | --- |
+| 谈判训练 APP（文档初始化） | [negotiation-trainer](https://github.com/guasi18587278913/negotiation-trainer) |
 | 找对标 | [zhao-duibiao](https://github.com/guasi18587278913/zhao-duibiao) |
 | X「为你推荐」监测工具（归档） | [x-foryou-daily](https://github.com/guasi18587278913/x-foryou-daily) |
 | AI 自媒体工作台（历史项目） | [sc-media-radar](https://github.com/guasi18587278913/sc-media-radar) |

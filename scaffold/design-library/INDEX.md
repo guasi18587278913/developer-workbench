@@ -714,3 +714,7 @@
 - [白底写实地球](sources/framesbase/items/bg-f78f39a4a47730607bf6/reference.md) · 白底写实地球 · 动态背景 浅色 明亮 灰色 蓝色 白色 · background-link
 - [云海日落中的人物剪影](sources/framesbase/items/bg-fcb9d51e36010f5917af/reference.md) · 云海日落中的人物剪影 · 动态背景 混合明暗 蓝色 紫色 粉色 · background-link
 - [柔和复古山谷与花田](sources/framesbase/items/bg-fd81a914d909135bba22/reference.md) · 柔和复古山谷与花田 · 动态背景 浅色 明亮 白色 黄色 橙色 · background-link
+
+## 动效（1）
+
+- [Motion Prompt](https://github.com/showheyohtaki/motion-prompt) · 开源动效名称库，168 个动画效果（文字动画、镜头运动、UI 交互、网页动效等），每个附在线预览、AI 提示词与实现参考，在线预览 https://showheyohtaki.github.io/motion-prompt/ · 动效 MIT · 来源 X @Morry4AI 2026-11-04 https://x.com/Morry4AI/status/2117798993782513899 · source-link

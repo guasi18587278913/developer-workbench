@@ -42,7 +42,22 @@ python3 scaffold/tools/framesbase/library.py validate
 
 预览处理会先将原始文件保存至 `~/.cache/framesbase-original-previews/`，再写入静态缩略图。这个缓存不提交 Git，也不是登录状态缓存。
 
-`build` 根据本地素材重建目录，依赖 Pillow；`search` 只需 Python 标准库。`validate` 核对当前本地文件、正文校验值、字符数、预览可读性与目录路径。
+`build` 根据本地素材重建目录，依赖 Pillow，并写出 `INDEX.md` 和 `by-section/`；只想重写这两处而不重算目录时用 `library.py index`。`search` 只需 Python 标准库。`validate` 核对当前本地文件、正文校验值、字符数、预览可读性与目录路径。
+
+## 组件标注
+
+页面类素材的组件标注由 AI 按 [component-review.md](component-review.md) 逐条看图读提示词完成，每批结果是一个 JSONL 文件。
+
+```bash
+# 只校验，不写入
+python3 scaffold/tools/framesbase/components.py check <结果文件>
+# 校验通过后并入 design-library/annotations/framesbase-components.json；同一条目以新结果为准
+python3 scaffold/tools/framesbase/components.py merge <结果文件> [更多结果文件]
+# 生成 design-library/components/，并重写 INDEX.md 和 by-section/
+python3 scaffold/tools/framesbase/components.py build
+```
+
+任一文件有错误时 `merge` 整批不写入。新增素材后，只需给新条目做标注再 merge、build。组件类型表在 `components.py` 的 `TYPES`，改动时同步规程。
 
 ## 可选资源
 

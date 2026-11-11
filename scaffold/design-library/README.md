@@ -6,7 +6,10 @@
 
 ## 从这里开始
 
-- [素材目录](INDEX.md)：按栏目浏览标题与简短说明。
+- [素材目录](INDEX.md)：总入口，按要做的事选去处。
+- [按组件找](components/README.md)：导航、首屏、价格区、页脚、手机底部导航等，每种组件一个文件，按推荐度排好，带画面描述、做法、预览图和提示词链接。
+- [按栏目浏览](by-section/)：网站整页、页面模块、应用界面、动态背景四个栏目的全部条目。
+- [库外参考](references.md)：带源码的 reactbits-preview 区块、开源动效库、灵感网站。
 - [机器目录](catalog.json)：结构化摘要，供工具筛选；不包含完整提示词。
 - [采集与校验清单](sources/framesbase/manifest.json)：数量、交付类型、缺失项与校验结果。
 - [来源说明](sources/framesbase/README.md)：来源、保存方式、使用边界。
@@ -18,7 +21,13 @@
 
 ## 用一句话调用
 
-> 读取 developer-workbench 的 scaffold/design-library。先检查当前项目的技术方案与视觉规范，再找 3 个适合价格区的候选。查看预览并解释选择，读取对应提示词或源码，只替换价格区。沿用当前页面字体、颜色与业务交互，说明需要适配的部分。
+审一个现有页面：
+
+> 读取 developer-workbench 的 scaffold/design-library，按 AGENTS.md 里“审现有页面”的步骤，看看我这个页面哪些区块可以做得更好。先给改进清单，我挑完再改。
+
+只替换某一块：
+
+> 读取 developer-workbench 的 scaffold/design-library。先检查当前项目的技术方案与视觉规范，再从 components/pricing.md 找 3 个适合价格区的候选。查看预览并解释选择，读取对应提示词或源码，只替换价格区。沿用当前页面字体、颜色与业务交互，说明需要适配的部分。
 
 ## 精确筛选
 
@@ -63,6 +72,8 @@ python3 scaffold/tools/framesbase/assets.py download \
 原始标题、栏目和分类来自 Framesbase。中文用途别名由分类映射产生；字体、动效与风格线索由提示词关键词提取；明暗和颜色由预览像素分析产生。它们属于 `derived`，即辅助筛选的派生说明，不能替代看图判断。
 
 218 个背景另有 AI 查看静态预览后写下的中文画面描述，保存在 `annotations/`。可据此检索“星空”“花海”“玻璃”“粒子”等画面；描述不推断静态图中看不到的运动速度或交互行为。
+
+网站整页、页面模块、应用界面另有 AI 看预览图、读提示词后写的组件标注，保存在 `annotations/framesbase-components.json`：每条素材包含哪些组件、每个组件长什么样、可借的做法和推荐度。标注规程见 [component-review.md](../tools/framesbase/component-review.md)，`components/` 由它生成。推荐度只用来排先后，选用前仍要看图。
 
 原站 Apps 分类包含 Web 实现的移动界面。小程序、原生 App 的适配默认未验证。静态缩略图用于挑选构图；动效判断仍需看原始素材或提示词。
 

@@ -5,21 +5,23 @@
 - 本人决定：接下来要做、逐一上线下面 11 个产品。1–10 号按本人列出的顺序；本人随后确认封面搭子也算在内，记为 11 号。编号不代表上线先后，先后顺序和上线日期未定。
 - 这次只做标记：没列入的想法都留在原处，没有移入垃圾箱。列入这 11 个不等于进入小红书销售清单，销售安排仍以下方「小红书发布销售清单」为准。
 
-| 编号 | 产品 | 记录位置 | 已知进展 |
-| --- | --- | --- | --- |
-| 1 | 标题助手 | 本文件「小红书标题生成器」 | 已上线：[biaoti.zmtgzt.com](https://biaoti.zmtgzt.com)；在小红书销售清单里 |
-| 2 | 热梗改写 | 本文件「文案热梗改写工具」 | 已上线：[gai.zmtgzt.com](https://gai.zmtgzt.com)；在小红书销售清单里 |
-| 3 | FDE 地图 | [归档](archive.md)「FDE 信息站」 | 已上线：[fde.zmtgzt.com](https://fde.zmtgzt.com) |
-| 4 | AI 词汇卡 | [归档](archive.md)「AI 词汇卡」 | 本机项目「看懂 AI」已完成网页和微信小程序源码，尚未真机测试和发布（2026-10-26 记录） |
-| 5 | 评论区调研 | 本文件「评论区调研」 | 尚未开发；线上调研助手仍是旧版“近 30 天话题调研”（2026-10-26 记录）；在小红书销售清单里 |
-| 6 | 选题收藏夹（APP） | [归档](archive.md)「Personal Agent 个人助手」里的「选题收藏夹 APP」 | 只有想法；2026-10-26 曾并入 Personal Agent，这次单独列入；和已上线的选题种子功能重叠（原记录） |
-| 7 | 谈判训练 APP | [归档](archive.md)「谈判训练 APP」 | 已建独立私有仓库，完成文档初始化，尚未开始代码开发（原记录） |
-| 8 | 国外播客切片（纯享版） | [归档](archive.md)「国外优质视频播客切片整理」 | 只有想法，尚未开发（2026-10-26 记录） |
-| 9 | 视频转公众号文章 | [归档](archive.md)「抖音视频转公众号文章工具」 | 只有想法；2026-11-14 补充：也支持小红书链接，改成公众号写法，自动存草稿箱 |
-| 10 | 关键词下的小号爆款整理 | [归档](archive.md)「某个关键词下的小号爆款内容整理」 | 只有想法 |
-| 11 | 封面搭子 | [归档](archive.md)「小红书封面图生成」 | 本人说快做好了（2026-11-14） |
+| 编号 | 产品 | 记录位置 | 已知进展 | 代码仓库 |
+| --- | --- | --- | --- | --- |
+| 1 | 标题助手 | 本文件「小红书标题生成器」 | 已上线：[biaoti.zmtgzt.com](https://biaoti.zmtgzt.com)；在小红书销售清单里 | [title-helper](https://github.com/guasi18587278913/title-helper) |
+| 2 | 热梗改写 | 本文件「文案热梗改写工具」 | 已上线：[gai.zmtgzt.com](https://gai.zmtgzt.com)；在小红书销售清单里 | [renggeng-rewrite](https://github.com/guasi18587278913/renggeng-rewrite)（本机文件夹「热梗改写」） |
+| 3 | FDE 地图 | [归档](archive.md)「FDE 信息站」 | 已上线：[fde.zmtgzt.com](https://fde.zmtgzt.com) | [fde-info](https://github.com/guasi18587278913/fde-info) |
+| 4 | AI 词汇卡 | [归档](archive.md)「AI 词汇卡」 | 本机项目「看懂 AI」已完成网页和微信小程序源码，尚未真机测试和发布（2026-10-26 记录） | [kandong-ai](https://github.com/guasi18587278913/kandong-ai)（本机文件夹「背Agent单词」） |
+| 5 | 评论区调研 | 本文件「评论区调研」 | 尚未开发；线上调研助手仍是旧版“近 30 天话题调研”（2026-10-26 记录）；在小红书销售清单里 | [comment-insights](https://github.com/guasi18587278913/comment-insights)（本机文件夹「评论洞察」） |
+| 6 | 选题收藏夹（APP） | [归档](archive.md)「Personal Agent 个人助手」里的「选题收藏夹 APP」 | 只有想法；2026-10-26 曾并入 Personal Agent，这次单独列入；和已上线的选题种子功能重叠（原记录） | [topic-collector-app](https://github.com/guasi18587278913/topic-collector-app) |
+| 7 | 谈判训练 APP | [归档](archive.md)「谈判训练 APP」 | 已建独立私有仓库，完成文档初始化，尚未开始代码开发（原记录） | [negotiation-trainer](https://github.com/guasi18587278913/negotiation-trainer) |
+| 8 | 国外播客切片（纯享版） | [归档](archive.md)「国外优质视频播客切片整理」 | 产品尚未开发（2026-10-26 记录）；2026-10-29 做了只在本机用的推荐台，用来看推荐片段、标记留下或不要 | [podcast-clips-review](https://github.com/guasi18587278913/podcast-clips-review)（本机推荐台） |
+| 9 | 视频转公众号文章 | [归档](archive.md)「抖音视频转公众号文章工具」 | 只有想法；2026-11-14 补充：也支持小红书链接，改成公众号写法，自动存草稿箱 | [video-to-article](https://github.com/guasi18587278913/video-to-article) |
+| 10 | 关键词下的小号爆款整理 | [归档](archive.md)「某个关键词下的小号爆款内容整理」 | 已上线：[breakout.zmtgzt.com](https://breakout.zmtgzt.com)，页面名称「小号爆款」；就是 2026-10-11 做的小号爆款（本人 2026-11-16 确认） | [douyin-breakout-finder](https://github.com/guasi18587278913/douyin-breakout-finder)（公开仓库） |
+| 11 | 封面搭子 | [归档](archive.md)「小红书封面图生成」 | 已上线：[fm.zmtgzt.com](https://fm.zmtgzt.com)；本人 2026-11-14 说快做好了 | [xhs-cover-tool](https://github.com/guasi18587278913/xhs-cover-tool) |
 
 - 2026-11-14 核对：标题助手、热梗改写、FDE 地图的网址都能打开（未做功能验收）。
+- 2026-11-16 核对：小号爆款、封面搭子的网址都能打开（未做功能验收）。
+- 2026-11-16 补上「代码仓库」一列：11 个都有独立仓库，除小号爆款外都是私有。本机文件夹都在 `~/projects/GitHub/` 下，和仓库同名；不同名的，括号里写了本机文件夹叫什么。
 
 ## 小红书发布销售清单
 
